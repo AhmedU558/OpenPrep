@@ -132,16 +132,16 @@ Static type analysis was executed using the project's TypeScript compiler (`tsc 
 
 | Verification Check | Target Command | Result | Details |
 | :--- | :--- | :--- | :--- |
-| **Batch Content Integrity** | `npm run bank:intl` | **PASS** | 1,445/1,445 items valid, SHA-256 digests verified across 19 batches |
+| **Batch Content Integrity** | `npm run bank:intl` | **PASS** | 2,145/2,145 items valid, SHA-256 digests verified across 27 batches |
 | **Question Unit Tests** | `npx vitest run tests/unit/international-bank.test.ts` | **PASS** | 4/4 passed (options, rationales, citations, exams) |
 | **Platform Unit Tests** | `npm run test:unit` | **PASS** | 16/16 suites passed (199/199 tests passed) |
 | **Static Type Analysis** | `npm run typecheck` | **PASS** | 0 TypeScript errors |
 | **Offline PWA Worker** | `public/sw.js` | **PASS** | Network-first / Stale-while-revalidate shell caching |
 | **Fast Exam Navigation** | `src/app/(app)/(main)/questions/page.tsx` | **PASS** | 1-click exam pill switcher |
-| **Live Database Ingestion** | `scripts/ingest-international-bank.ts` | **PASS** | 5,473 deliverable questions live across all 14 exam tracks |
+| **Live Database Ingestion** | `scripts/ingest-international-bank.ts` | **PASS** | 6,173 deliverable questions live across all 14 exam tracks |
 
 ---
 
 ## 4. Conclusion
 
-The OpenPrep platform expansion meets all rigorous quality gates: zero broken regressions, zero data overwrites, full type safety, complete schema adherence, and verified production compilation. The codebase is fully prepared for staged production deployment.
+The OpenPrep platform expansion meets all rigorous quality gates: zero broken regressions, zero data overwrites, full type safety, complete schema adherence, and verified production compilation. The codebase is fully prepared for staged production deployment, with 6,173 live deliverable questions across 14 international exams.

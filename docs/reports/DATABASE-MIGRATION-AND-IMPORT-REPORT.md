@@ -114,32 +114,32 @@ npx dotenv run -f .env.production.local -- tsx scripts/ingest-international-bank
 
 ### 5.2 Verification Audit & Database Breakdown
 
-| Metric / Audit Parameter | Baseline DB | Expansion 1 (intl-01..19) | Expansion 2 (intl-20..23) | Live Total | Verification Status |
-|---|---|---|---|---|---|
-| **Total Questions in Database** | 4,028 | +1,445 (5,473) | +350 | **5,823** | ✅ Verified (`db.question.count()`) |
-| **Deliverable Published Questions** | 4,028 | +1,445 (5,473) | +350 | **5,823** | ✅ `status='PUBLISHED'`, `rightsAllowDelivery=true` |
-| **Total Question Options** | 20,140 | +7,225 (27,365) | +1,750 | **29,115** | ✅ Verified (5 options per question) |
-| **Existing Question Overwrites** | 0 | 0 | 0 | **0** | ✅ Zero data loss guarantee satisfied |
-| **Check Constraint Validation** | `question_rights_verified_evidence` | Satisfied | Satisfied | **0 violations** | ✅ 100% compliance with stage 4 rights schema |
+| Metric / Audit Parameter | Baseline DB | Expansion 1 (intl-01..19) | Expansion 2 (intl-20..23) | Expansion 3 (intl-24..27) | Live Total | Verification Status |
+|---|---|---|---|---|---|---|
+| **Total Questions in Database** | 4,028 | +1,445 (5,473) | +350 (5,823) | +350 | **6,173** | ✅ Verified (`db.question.count()`) |
+| **Deliverable Published Questions** | 4,028 | +1,445 (5,473) | +350 (5,823) | +350 | **6,173** | ✅ `status='PUBLISHED'`, `rightsAllowDelivery=true` |
+| **Total Question Options** | 20,140 | +7,225 (27,365) | +1,750 (29,115) | +1,750 | **30,865** | ✅ Verified (5 options per question) |
+| **Existing Question Overwrites** | 0 | 0 | 0 | 0 | **0** | ✅ Zero data loss guarantee satisfied |
+| **Check Constraint Validation** | `question_rights_verified_evidence` | Satisfied | Satisfied | Satisfied | **0 violations** | ✅ 100% compliance with stage 4 rights schema |
 
 ### 5.3 Examination Breakdown Post-Ingestion
 
-| Position | Exam Name | Exam Slug | Prior Total | Ingested (Batches 20-23) | Post-Ingestion Total |
+| Position | Exam Name | Exam Slug | Prior Total | Ingested (Batches 24-27) | Post-Ingestion Total |
 |---|---|---|---|---|---|
-| 1 | USMLE Step 1 | `step-1` | 1,651 | +25 | **1,676** |
-| 2 | USMLE Step 2 CK | `step-2-ck` | 1,576 | +25 | **1,601** |
-| 3 | USMLE Step 3 | `step-3` | 1,110 | +25 | **1,135** |
-| 4 | PLAB / UKMLA | `plab-ukmla` | 105 | +25 | **130** |
-| 5 | AMC | `amc` | 104 | +25 | **129** |
-| 6 | MCCQE | `mccqe` | 104 | +25 | **129** |
-| 7 | FCPS | `fcps` | 103 | +25 | **128** |
-| 8 | NLE | `nle` | 103 | +25 | **128** |
-| 9 | NEET PG | `neet-pg` | 104 | +25 | **129** |
-| 10 | MRCP | `mrcp` | 103 | +25 | **128** |
-| 11 | MRCEM | `mrcem` | 103 | +25 | **128** |
-| 12 | SMLE | `smle` | 103 | +25 | **128** |
-| 13 | HAAD / DHA | `haad-dha` | 102 | +25 | **127** |
-| 14 | UHS MBBS | `uhs-mbbs` | 102 | +25 | **127** |
-| **Total** | **All 14 Examinations** | — | **5,473** | **+350** | **5,823** |
+| 1 | USMLE Step 1 | `step-1` | 1,676 | +25 | **1,701** |
+| 2 | USMLE Step 2 CK | `step-2-ck` | 1,601 | +25 | **1,626** |
+| 3 | USMLE Step 3 | `step-3` | 1,135 | +25 | **1,160** |
+| 4 | PLAB / UKMLA | `plab-ukmla` | 130 | +25 | **155** |
+| 5 | AMC | `amc` | 129 | +25 | **154** |
+| 6 | MCCQE | `mccqe` | 129 | +25 | **154** |
+| 7 | FCPS | `fcps` | 128 | +25 | **153** |
+| 8 | NLE | `nle` | 128 | +25 | **153** |
+| 9 | NEET PG | `neet-pg` | 129 | +25 | **154** |
+| 10 | MRCP | `mrcp` | 128 | +25 | **153** |
+| 11 | MRCEM | `mrcem` | 128 | +25 | **153** |
+| 12 | SMLE | `smle` | 128 | +25 | **153** |
+| 13 | HAAD / DHA | `haad-dha` | 127 | +25 | **152** |
+| 14 | UHS MBBS | `uhs-mbbs` | 127 | +25 | **152** |
+| **Total** | **All 14 Examinations** | — | **5,823** | **+350** | **6,173** |
 
-Every single one of the 14 international examination tracks is now populated with $> 100$ verified, deliverable clinical scenarios directly playable in tutor and timed practice modes on OpenPrep.
+Every single one of the 14 international examination tracks is now populated with $> 150$ verified, deliverable clinical scenarios directly playable in tutor and timed practice modes on OpenPrep, surpassing the 6,000 question milestone.

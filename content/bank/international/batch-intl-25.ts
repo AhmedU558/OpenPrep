@@ -1,0 +1,4594 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-1886",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Temporary Abdominal Closure (TAC) techniques: Negative Pressure Wound Therapy...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old female with acute clinical decompensation is transferred by regional emergency medical transport to the intensive care service for specialized evaluation of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Bedside physical findings reveal tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 142/82 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Application of commercial or constructed negative pressure temporary abdominal closure (vacuum-pack / Barker technique) to maintain fascial traction and evacuate inflammatory peritoneal fluid.",
+        "explanation": "Negative pressure wound therapy controls peritoneal fluid losses, prevents lateral fascial retraction, preserves the domain of the abdominal wall, and facilitates delayed primary fascial closure within 7-10 days.",
+        "correct": true
+      }
+    ],
+    "explanation": "Negative pressure wound therapy controls peritoneal fluid losses, prevents lateral fascial retraction, preserves the domain of the abdominal wall, and facilitates delayed primary fascial closure within 7-10 days. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Temporary Abdominal Closure (TAC) techniques: Negative Pressure Wound Therapy....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Temporary Abdominal Closure (TAC) techniques: Negative Pressure Wound Therapy...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1887",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Intra-abdominal hypertension grading (World Society of Abdominal Compartment ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 54-year-old male is evaluated in the acute surgical and procedural diagnostic suite with clinical findings characteristic of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Physical examination reveals tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 143/83 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Normal IAP is 0-5 mm Hg; Grade I (12-15 mm Hg), Grade II (16-20 mm Hg), Grade III (21-25 mm Hg), and Grade IV (> 25 mm Hg), with ACS defined as IAP > 20 mm Hg with new organ dysfunction.",
+        "explanation": "Grade I and II hypertension are managed conservatively with gastric decompression, prokinetics, judicious fluid restriction, and paracentesis; Grade III and IV with organ failure mandate surgical decompression.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Grade I and II hypertension are managed conservatively with gastric decompression, prokinetics, judicious fluid restriction, and paracentesis; Grade III and IV with organ failure mandate surgical decompression. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Intra-abdominal hypertension grading (World Society of Abdominal Compartment ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Intra-abdominal hypertension grading (World Society of Abdominal Compartment ...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1888",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Enterocutaneous fistula classification and nutritional management: the Sepsis...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 72-year-old female who presents to the academic tertiary hospital assessment unit due to suspected Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Bedside assessment demonstrates tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 112/84 mm Hg, pulse 100/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Controlling local skin breakdown, stabilizing sepsis, ensuring high-protein enteral or total parenteral nutrition, and delaying definitive surgical fistula repair for at least 3 to 6 months.",
+        "explanation": "Immediate re-operation in acute enterocutaneous fistula leads to dense adhesions, bowel enterotomies, and fistula recurrence; delayed surgery allows peritoneal adhesions to mature and nutritional status to recover.",
+        "correct": true
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Immediate re-operation in acute enterocutaneous fistula leads to dense adhesions, bowel enterotomies, and fistula recurrence; delayed surgery allows peritoneal adhesions to mature and nutritional status to recover. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Enterocutaneous fistula classification and nutritional management: the Sepsis....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Enterocutaneous fistula classification and nutritional management: the Sepsis...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1889",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Lactate clearance and central venous oxygen saturation (ScvO2) as resuscitati...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male presenting with progressive functional deterioration attends the university hospital tertiary referral clinic requiring urgent clarification of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Clinical examination confirms tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 113/85 mm Hg, pulse 101/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Targeting a decrease in blood lactate by >= 20% every 2 hours during initial resuscitation, and maintaining ScvO2 >= 70% as evidence of adequate systemic tissue oxygen delivery.",
+        "explanation": "Elevated blood lactate reflects anaerobic glycolysis and impaired clearance; progressive normalization (lactate clearance) correlates strongly with restored microvascular perfusion and hospital survival.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Elevated blood lactate reflects anaerobic glycolysis and impaired clearance; progressive normalization (lactate clearance) correlates strongly with restored microvascular perfusion and hospital survival. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Lactate clearance and central venous oxygen saturation (ScvO2) as resuscitati....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Lactate clearance and central venous oxygen saturation (ScvO2) as resuscitati...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1890",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Open pneumothorax ('sucking chest wound') emergency management: three-sided o...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 43-year-old female who presents to the emergency resuscitation and trauma center with prominent manifestations of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Bedside evaluation highlights tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 114/86 mm Hg, pulse 72/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 94%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Application of a sterile occlusive dressing taped on three sides, functioning as a flutter-valve that allows air to escape on expiration while preventing air entry during inspiration.",
+        "explanation": "Taping all four sides converts an open communicating pneumothorax into a life-threatening tension pneumothorax; the three-sided flutter-valve prevents tension accumulation before formal chest tube placement.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Taping all four sides converts an open communicating pneumothorax into a life-threatening tension pneumothorax; the three-sided flutter-valve prevents tension accumulation before formal chest tube placement. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Open pneumothorax ('sucking chest wound') emergency management: three-sided o....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Open pneumothorax ('sucking chest wound') emergency management: three-sided o...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1891",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Stress ulcer prophylaxis in surgical intensive care: H2RA vs PPI indications",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male with acute clinical decompensation is transferred by regional emergency medical transport to the intensive care service for specialized evaluation of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Bedside physical findings reveal tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 115/87 mm Hg, pulse 73/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating enteral or parenteral proton pump inhibitors or H2-receptor antagonists for patients with mechanical ventilation > 48 hours or coagulopathy (platelets < 50,000, INR > 1.5).",
+        "explanation": "Critically ill ventilated or coagulopathic patients have high rates of clinically significant upper gastrointestinal stress ulcer bleeding; routine prophylaxis is discontinued upon extubation and oral intake.",
+        "correct": true
+      }
+    ],
+    "explanation": "Critically ill ventilated or coagulopathic patients have high rates of clinically significant upper gastrointestinal stress ulcer bleeding; routine prophylaxis is discontinued upon extubation and oral intake. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Stress ulcer prophylaxis in surgical intensive care: H2RA vs PPI indications.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Stress ulcer prophylaxis in surgical intensive care: H2RA vs PPI indications."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1892",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Ventilator-Associated Pneumonia (VAP) prevention bundle in the surgical ICU",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old female is evaluated in the acute surgical and procedural diagnostic suite with clinical findings characteristic of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Physical examination reveals tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 116/88 mm Hg, pulse 74/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Head-of-bed elevation to 30-45 degrees, daily sedative interruption and spontaneous breathing trials, subglottic secretion drainage, and oral chlorhexidine decontamination.",
+        "explanation": "Adherence to evidence-based VAP care bundles significantly decreases microaspiration of contaminated oropharyngeal secretions, reducing ventilator days, ICU length of stay, and mortality.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Adherence to evidence-based VAP care bundles significantly decreases microaspiration of contaminated oropharyngeal secretions, reducing ventilator days, ICU length of stay, and mortality. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Ventilator-Associated Pneumonia (VAP) prevention bundle in the surgical ICU.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Ventilator-Associated Pneumonia (VAP) prevention bundle in the surgical ICU."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1893",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Anatomy of the anterolateral abdominal wall layers incised in midline vs para...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 32-year-old male who presents to the academic tertiary hospital assessment unit due to suspected Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation. Bedside assessment demonstrates tense distended abdomen, intra-abdominal pressure > 20 mm Hg with new organ dysfunction, refractory metabolic acidosis, hypothermia, coagulopathy (lethal triad), or persistent vasopressor-dependent septic shock. Vital parameters demonstrate blood pressure 117/89 mm Hg, pulse 75/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Midline laparotomy: Skin, subcutaneous fat (Camper and Scarpa fasciae), Linea alba, Fascia transversalis, Extrahepatic preperitoneal fat, and Parietal peritoneum.",
+        "explanation": "The Linea alba is an avascular fibrous raphe formed by the interweaving aponeuroses of the external oblique, internal oblique, and transversus abdominis; midline incision provides rapid bloodless access.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Linea alba is an avascular fibrous raphe formed by the interweaving aponeuroses of the external oblique, internal oblique, and transversus abdominis; midline incision provides rapid bloodless access. In the systematic management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Anatomy of the anterolateral abdominal wall layers incised in midline vs para....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Abdominal compartment syndrome, damage control surgery, and septic shock resuscitation regarding Anatomy of the anterolateral abdominal wall layers incised in midline vs para...."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+        "url": "https://www.sccm.org/Clinical-Resources/Guidelines/Guidelines/Surviving-Sepsis-Guidelines-2021"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1894",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Esophageal cancer histological subtype epidemiology and molecular oncogenesis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside assessment demonstrates progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 118/90 mm Hg, pulse 76/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Adenocarcinoma arising from Barrett metaplasia in the distal esophagus linked to GERD and obesity, versus squamous cell carcinoma in proximal/mid-esophagus linked to alcohol and tobacco.",
+        "explanation": "Intestinal metaplasia with goblet cells replaces stratified squamous epithelium under acid reflux; diffuse gastric carcinoma involves CDH1 mutations causing loss of cell-cell adhesion molecule E-cadherin.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intestinal metaplasia with goblet cells replaces stratified squamous epithelium under acid reflux; diffuse gastric carcinoma involves CDH1 mutations causing loss of cell-cell adhesion molecule E-cadherin. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Esophageal cancer histological subtype epidemiology and molecular oncogenesis.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Esophageal cancer histological subtype epidemiology and molecular oncogenesis."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1895",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Staging and neoadjuvant chemoradiation (CROSS trial) before esophagectomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Clinical examination confirms progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 119/91 mm Hg, pulse 77/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Neoadjuvant chemoradiation therapy (carboplatin and paclitaxel with concurrent radiotherapy) followed by planned transthoracic (Ivor Lewis) esophagectomy for locally advanced esophageal cancer.",
+        "explanation": "Multimodal CROSS trial protocol significantly improves complete microscopic resection (R0) rates and pathological complete response, conferring a definitive overall survival advantage over surgery alone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Multimodal CROSS trial protocol significantly improves complete microscopic resection (R0) rates and pathological complete response, conferring a definitive overall survival advantage over surgery alone. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Staging and neoadjuvant chemoradiation (CROSS trial) before esophagectomy.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Staging and neoadjuvant chemoradiation (CROSS trial) before esophagectomy."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1896",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Management of early vs late dumping syndrome following gastric resection",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 58-year-old female who attends the university hospital tertiary referral clinic with prominent manifestations of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside evaluation highlights progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 120/68 mm Hg, pulse 78/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 94%. What is the optimal long-term maintenance therapy or surveillance protocol for this patient?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Dietary modification with small frequent meals, low simple carbohydrates, high protein, and separation of solids and liquids, supplemented by acarbose or octreotide for refractory symptoms.",
+        "explanation": "Early dumping results from rapid hyperosmolar chyme entry into the jejunum causing fluid shifts and vasomotor collapse; late dumping involves rapid glucose absorption triggering rebound hyperinsulinemic hypoglycemia.",
+        "correct": true
+      }
+    ],
+    "explanation": "Early dumping results from rapid hyperosmolar chyme entry into the jejunum causing fluid shifts and vasomotor collapse; late dumping involves rapid glucose absorption triggering rebound hyperinsulinemic hypoglycemia. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Management of early vs late dumping syndrome following gastric resection.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Management of early vs late dumping syndrome following gastric resection."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1897",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NICE urgent suspected cancer referral criteria for persistent upper GI symptoms",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old male with acute clinical decompensation presents to the emergency resuscitation and trauma center for specialized evaluation of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside physical findings reveal progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 121/69 mm Hg, pulse 79/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Urgent direct-access upper gastrointestinal endoscopy within 2 weeks for any patient presenting with dysphagia or age >= 55 years with persistent dyspepsia and weight loss.",
+        "explanation": "NICE NG12 guidelines mandate 2-week-wait endoscopy referral for dysphagia of any age, ensuring early detection of resectable luminal esophageal or gastric malignancies.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE NG12 guidelines mandate 2-week-wait endoscopy referral for dysphagia of any age, ensuring early detection of resectable luminal esophageal or gastric malignancies. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding NICE urgent suspected cancer referral criteria for persistent upper GI symptoms.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding NICE urgent suspected cancer referral criteria for persistent upper GI symptoms."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1898",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Preoperative staging laparoscopy for locally advanced gastric cancer",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female is transferred by regional emergency medical transport to the intensive care service with clinical findings characteristic of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Physical examination reveals progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 122/70 mm Hg, pulse 80/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Staging laparoscopy with peritoneal washings prior to neoadjuvant therapy or definitive resection to exclude radiologically occult peritoneal micrometastases.",
+        "explanation": "Computed tomography has low sensitivity for subtle peritoneal carcinomatosis (< 5 mm); detecting occult peritoneal disease spares patients futile morbid laparotomies and directs care toward systemic therapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Computed tomography has low sensitivity for subtle peritoneal carcinomatosis (< 5 mm); detecting occult peritoneal disease spares patients futile morbid laparotomies and directs care toward systemic therapy. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Preoperative staging laparoscopy for locally advanced gastric cancer.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Preoperative staging laparoscopy for locally advanced gastric cancer."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1899",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Post-esophagectomy anastomotic leak: clinical signs and diagnostic confirmation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 47-year-old male who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside assessment demonstrates progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 123/71 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Unexplained persistent tachycardia, new atrial fibrillation, pleural effusion with dark drain output, and mediastinal widening confirmed on CT esophagogram with water-soluble contrast.",
+        "explanation": "Tachycardia (> 100-120 bpm) is the earliest and most sensitive sign of intrathoracic anastomotic dehiscence; prompt CT with oral Gastrografin identifies extravasation and guides urgent intervention.",
+        "correct": true
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tachycardia (> 100-120 bpm) is the earliest and most sensitive sign of intrathoracic anastomotic dehiscence; prompt CT with oral Gastrografin identifies extravasation and guides urgent intervention. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Post-esophagectomy anastomotic leak: clinical signs and diagnostic confirmation.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Post-esophagectomy anastomotic leak: clinical signs and diagnostic confirmation."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1900",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "D2 lymphadenectomy in radical gastrectomy for gastric adenocarcinoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Clinical examination confirms progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 124/72 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which advanced intervention is indicated for definitive disease control in this presentation?",
+    "options": [
+      {
+        "text": "En bloc resection of perigastric lymph nodes (stations 1 to 6) and celiac artery branch nodal basins (stations 7 to 12) without routine splenectomy or pancreatectomy.",
+        "explanation": "CPSP and international surgical oncological consensus confirm D2 lymph node dissection yields superior locoregional disease control and accurate pathological staging when performed in high-volume specialized units.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "CPSP and international surgical oncological consensus confirm D2 lymph node dissection yields superior locoregional disease control and accurate pathological staging when performed in high-volume specialized units. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding D2 lymphadenectomy in radical gastrectomy for gastric adenocarcinoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding D2 lymphadenectomy in radical gastrectomy for gastric adenocarcinoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1901",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Endoscopic biopsy protocol for suspicious gastric mucosal ulcerations",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 18-year-old male who attends the university hospital tertiary referral clinic with prominent manifestations of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside evaluation highlights progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 125/73 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. According to national licensing examination standards, what is the fundamental diagnostic criterion or primary emergency therapy?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining multiple mucosal biopsies (at least 6 to 8 biopsies) from the ulcer margin and base to exclude malignancy in every non-healing gastric ulcer.",
+        "explanation": "Gastric ulcers carry a 4-7% risk of underlying adenocarcinoma; visual endoscopic inspection alone cannot reliably distinguish benign peptic ulcer disease from malignant ulcerated carcinoma.",
+        "correct": true
+      }
+    ],
+    "explanation": "Gastric ulcers carry a 4-7% risk of underlying adenocarcinoma; visual endoscopic inspection alone cannot reliably distinguish benign peptic ulcer disease from malignant ulcerated carcinoma. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Endoscopic biopsy protocol for suspicious gastric mucosal ulcerations.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Endoscopic biopsy protocol for suspicious gastric mucosal ulcerations."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1902",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Signet ring cell gastric adenocarcinoma pathology and diffuse linitis plastica",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old female with acute clinical decompensation presents to the emergency resuscitation and trauma center for specialized evaluation of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside physical findings reveal progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 126/74 mm Hg, pulse 84/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 94%. Which pathognomonic diagnostic sign, radiological feature, or molecular alteration establishes this condition?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Loss of E-cadherin expression (CDH1 mutation) leading to diffusely infiltrative signet ring cells containing abundant intracellular mucin displacing the nucleus to the cell periphery.",
+        "explanation": "Diffuse-type gastric cancer causes fibrous thickening and rigidity of the entire stomach wall ('leather bottle' stomach or linitis plastica); it is not associated with H. pylori or antecedent gastritis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Diffuse-type gastric cancer causes fibrous thickening and rigidity of the entire stomach wall ('leather bottle' stomach or linitis plastica); it is not associated with H. pylori or antecedent gastritis. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Signet ring cell gastric adenocarcinoma pathology and diffuse linitis plastica.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Signet ring cell gastric adenocarcinoma pathology and diffuse linitis plastica."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1903",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Gastrointestinal stromal tumor (GIST) immunohistochemistry and tyrosine kinas...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is transferred by regional emergency medical transport to the intensive care service with clinical findings characteristic of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Physical examination reveals progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 127/75 mm Hg, pulse 85/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 95%. Which evidence-based management strategy represents the standard of care for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Immunohistochemical positivity for KIT (CD117) and DOG1 driven by activating mutations in c-KIT or PDGFRA, treated with the selective tyrosine kinase inhibitor imatinib.",
+        "explanation": "GISTs arise from interstitial cells of Cajal in the muscularis propria; adjuvant or neoadjuvant imatinib dramatically improves progression-free survival in high-risk or unresectable tumors.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "GISTs arise from interstitial cells of Cajal in the muscularis propria; adjuvant or neoadjuvant imatinib dramatically improves progression-free survival in high-risk or unresectable tumors. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Gastrointestinal stromal tumor (GIST) immunohistochemistry and tyrosine kinas....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Gastrointestinal stromal tumor (GIST) immunohistochemistry and tyrosine kinas...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1904",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Boerhaave syndrome (spontaneous esophageal perforation) emergency identification",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 72-year-old female who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside assessment demonstrates progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 128/76 mm Hg, pulse 86/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 96%. In the emergency department resuscitation bay, what is the immediate priority intervention or acute diagnostic step?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Mackler triad (repeated forceful vomiting, severe lower retrosternal chest pain, and subcutaneous emphysema) accompanied by left hydropneumothorax, confirmed with water-soluble contrast esophagogram.",
+        "explanation": "Barogenic full-thickness tear typically occurs in the left posterolateral distal esophagus; early surgical repair within 24 hours is paramount to avert lethal mediastinitis and septic shock.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Barogenic full-thickness tear typically occurs in the left posterolateral distal esophagus; early surgical repair within 24 hours is paramount to avert lethal mediastinitis and septic shock. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Boerhaave syndrome (spontaneous esophageal perforation) emergency identification.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Boerhaave syndrome (spontaneous esophageal perforation) emergency identification."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1905",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Perioperative nutritional prehabilitation and enteral feeding in oncologic su...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 25-year-old male presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Clinical examination confirms progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 129/77 mm Hg, pulse 87/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 97%. What is the priority diagnostic investigation or clinical management step for this patient?",
+    "options": [
+      {
+        "text": "Implementing preoperative oral nutritional supplementation with immunonutrition (arginine, omega-3, nucleotides) for 7 days before major upper GI oncologic resection.",
+        "explanation": "Preoperative nutritional optimization significantly reduces postoperative infectious complications, wound dehiscence, and anastomotic failure in malnourished cancer patients.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Preoperative nutritional optimization significantly reduces postoperative infectious complications, wound dehiscence, and anastomotic failure in malnourished cancer patients. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Perioperative nutritional prehabilitation and enteral feeding in oncologic su....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Perioperative nutritional prehabilitation and enteral feeding in oncologic su...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1906",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Helicobacter pylori eradication as definitive therapy for gastric MALT lymphoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 43-year-old female who attends the university hospital tertiary referral clinic with prominent manifestations of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside evaluation highlights progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 130/78 mm Hg, pulse 88/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 98%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Triple or quadruple anti-Helicobacter pylori antimicrobial eradication therapy as first-line curative treatment for stage IE low-grade gastric MALT lymphoma.",
+        "explanation": "Gastric MALT lymphoma is an antigen-driven B-cell proliferation dependent on chronic H. pylori stimulation; complete histological tumor regression occurs in > 75% of localized cases following bacterial eradication.",
+        "correct": true
+      }
+    ],
+    "explanation": "Gastric MALT lymphoma is an antigen-driven B-cell proliferation dependent on chronic H. pylori stimulation; complete histological tumor regression occurs in > 75% of localized cases following bacterial eradication. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Helicobacter pylori eradication as definitive therapy for gastric MALT lymphoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Helicobacter pylori eradication as definitive therapy for gastric MALT lymphoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1907",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Clinical distinction between mechanical obstruction and motility disorder in ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male with acute clinical decompensation presents to the emergency resuscitation and trauma center for specialized evaluation of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection. Bedside physical findings reveal progressive dysphagia first to solids then liquids, unintended weight loss, early satiety, Virchow node, or postprandial epigastric pain. Vital parameters demonstrate blood pressure 131/79 mm Hg, pulse 89/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 99%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Progressive dysphagia initially limited to solid foods progressing to liquids indicates mechanical obstruction (carcinoma, stricture), whereas simultaneous solid and liquid dysphagia indicates motility disorder (achalasia).",
+        "explanation": "Luminal structural narrowing impairs solid bolus transit while fluids pass freely until severe stenosis occurs; neuromuscular incoordination impairs liquid and solid bolus transport simultaneously.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Luminal structural narrowing impairs solid bolus transit while fluids pass freely until severe stenosis occurs; neuromuscular incoordination impairs liquid and solid bolus transport simultaneously. In the systematic management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Clinical distinction between mechanical obstruction and motility disorder in ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Esophageal carcinoma, gastric adenocarcinoma, and surgical resection regarding Clinical distinction between mechanical obstruction and motility disorder in ...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gastric and Esophageal Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1908",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Molecular genetics of pancreatic ductal adenocarcinoma: KRAS and SMAD4",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 51-year-old female with acute clinical decompensation attends the university hospital tertiary referral clinic for specialized evaluation of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside physical findings reveal painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 132/80 mm Hg, pulse 90/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 94%. What is the underlying biochemical pathway, genetic mutation, or cellular pathophysiology responsible for these clinical findings?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Activating point mutations in codon 12 of the KRAS oncogene combined with inactivating mutations in CDKN2A, TP53, and SMAD4 (DPC4) tumor suppressor genes.",
+        "explanation": "Over 90% of pancreatic carcinomas harbor constitutive KRAS GTPase activation driving downstream MAPK/ERK signaling; loss of SMAD4 correlates with widespread metastatic dissemination.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Over 90% of pancreatic carcinomas harbor constitutive KRAS GTPase activation driving downstream MAPK/ERK signaling; loss of SMAD4 correlates with widespread metastatic dissemination. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Molecular genetics of pancreatic ductal adenocarcinoma: KRAS and SMAD4.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Molecular genetics of pancreatic ductal adenocarcinoma: KRAS and SMAD4."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1909",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Diagnostic triphasic CT imaging and double-duct sign in pancreatic cancer",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male presents to the emergency resuscitation and trauma center with clinical findings characteristic of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Physical examination reveals painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 133/81 mm Hg, pulse 91/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the immediate next step in patient management?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Multidetector triphasic pancreas-protocol CT demonstrating an ill-defined hypoattenuating mass in the pancreatic head with simultaneous dilation of the common bile duct and main pancreatic duct.",
+        "explanation": "The double-duct sign on cross-sectional imaging strongly suggests a pancreatic head or periampullary neoplasm compressing both the biliary tree and the duct of Wirsung, requiring surgical oncology consultation.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "The double-duct sign on cross-sectional imaging strongly suggests a pancreatic head or periampullary neoplasm compressing both the biliary tree and the duct of Wirsung, requiring surgical oncology consultation. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Diagnostic triphasic CT imaging and double-duct sign in pancreatic cancer.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Diagnostic triphasic CT imaging and double-duct sign in pancreatic cancer."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1910",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Pancreatic exocrine insufficiency and enzyme replacement post-Whipple procedure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who is transferred by regional emergency medical transport to the intensive care service due to suspected Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside assessment demonstrates painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 134/82 mm Hg, pulse 92/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Prescribing enteric-coated pancreatic enzyme replacement therapy (lipase, protease, amylase) taken during meals, combined with proton pump inhibitor therapy to optimize duodenal pH.",
+        "explanation": "Pancreaticoduodenectomy reduces functional parenchyma and disrupts gastrin-cholecystokinin feedback loops; inadequate enzyme dosing leads to profound malabsorption, steatorrhea, and weight loss.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pancreaticoduodenectomy reduces functional parenchyma and disrupts gastrin-cholecystokinin feedback loops; inadequate enzyme dosing leads to profound malabsorption, steatorrhea, and weight loss. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Pancreatic exocrine insufficiency and enzyme replacement post-Whipple procedure.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Pancreatic exocrine insufficiency and enzyme replacement post-Whipple procedure."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1911",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Postoperative pancreatic fistula (POPF) diagnostic criteria by ISGPS definition",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration is evaluated in the acute surgical and procedural diagnostic suite requiring urgent clarification of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Clinical examination confirms painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 135/83 mm Hg, pulse 93/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Measuring drain fluid amylase concentration > 3 times the upper normal institutional serum amylase limit on or after postoperative day 3.",
+        "explanation": "International Study Group of Pancreatic Surgery (ISGPS) consensus defines biochemical leak vs clinically relevant POPF (Grade B/C) causing sepsis, prolonged drain placement, or re-exploration.",
+        "correct": true
+      }
+    ],
+    "explanation": "International Study Group of Pancreatic Surgery (ISGPS) consensus defines biochemical leak vs clinically relevant POPF (Grade B/C) causing sepsis, prolonged drain placement, or re-exploration. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Postoperative pancreatic fistula (POPF) diagnostic criteria by ISGPS definition.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Postoperative pancreatic fistula (POPF) diagnostic criteria by ISGPS definition."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1912",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Vascular resectability criteria for pancreatic head adenocarcinoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 58-year-old female who presents to the academic tertiary hospital assessment unit with prominent manifestations of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside evaluation highlights painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 136/84 mm Hg, pulse 94/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Classifying tumors as resectable when there is absence of distant metastases, no celiac axis or SMA contact, and <= 180-degree abutment of the superior mesenteric vein or portal vein without contour deformity.",
+        "explanation": "Arterial encasement (> 180 degrees) of the SMA or celiac axis denotes locally advanced unresectable disease; venous involvement alone may undergo en bloc resection with vascular reconstruction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Arterial encasement (> 180 degrees) of the SMA or celiac axis denotes locally advanced unresectable disease; venous involvement alone may undergo en bloc resection with vascular reconstruction. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Vascular resectability criteria for pancreatic head adenocarcinoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Vascular resectability criteria for pancreatic head adenocarcinoma."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1913",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute cholangitis in malignant biliary obstruction: Charcot triad and Reynold...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old male with acute clinical decompensation attends the university hospital tertiary referral clinic for specialized evaluation of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside physical findings reveal painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 137/85 mm Hg, pulse 95/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Emergency resuscitation with intravenous broad-spectrum antibiotics and urgent endoscopic retrograde cholangiopancreatography (ERCP) for biliary decompression and stenting.",
+        "explanation": "Reynolds pentad (fever, jaundice, RUQ pain, hypotension, and altered mental status) indicates suppurative ascending cholangitis requiring emergent decompression within 12-24 hours to prevent fatal septic shock.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Reynolds pentad (fever, jaundice, RUQ pain, hypotension, and altered mental status) indicates suppurative ascending cholangitis requiring emergent decompression within 12-24 hours to prevent fatal septic shock. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Acute cholangitis in malignant biliary obstruction: Charcot triad and Reynold....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Acute cholangitis in malignant biliary obstruction: Charcot triad and Reynold...."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1914",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Whipple procedure (pancreaticoduodenectomy) reconstruction sequence",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 29-year-old female presents to the emergency resuscitation and trauma center with clinical findings characteristic of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Physical examination reveals painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 138/86 mm Hg, pulse 96/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. What is the primary diagnostic confirmation or surgical management strategy according to specialist consensus?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Performing en bloc resection of pancreatic head, duodenum, proximal jejunum, and gallbladder, followed by pancreaticojejunostomy, hepaticojejunostomy, and gastrojejunostomy/duodenojejunostomy.",
+        "explanation": "The pancreatic anastomosis is the critical Achilles' heel of the procedure; end-to-side duct-to-mucosa pancreaticojejunostomy minimizes leak rates and preserves enteral reconstruction integrity.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "The pancreatic anastomosis is the critical Achilles' heel of the procedure; end-to-side duct-to-mucosa pancreaticojejunostomy minimizes leak rates and preserves enteral reconstruction integrity. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Whipple procedure (pancreaticoduodenectomy) reconstruction sequence.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Whipple procedure (pancreaticoduodenectomy) reconstruction sequence."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1915",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Courvoisier law and clinical distinction in obstructive jaundice",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 47-year-old male who is transferred by regional emergency medical transport to the intensive care service due to suspected Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside assessment demonstrates painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 139/87 mm Hg, pulse 97/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which primary healthcare intervention is most critical for this condition?",
+    "options": [
+      {
+        "text": "A palpable, enlarged, non-tender gallbladder in the presence of painless jaundice indicates malignant obstruction of the biliary tree rather than gallstone disease.",
+        "explanation": "Chronic gallstone inflammation causes gallbladder wall fibrotic contracture, preventing significant dilation; gradual distal malignant obstruction causes high biliary backpressure and painless gallbladder distension.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic gallstone inflammation causes gallbladder wall fibrotic contracture, preventing significant dilation; gradual distal malignant obstruction causes high biliary backpressure and painless gallbladder distension. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Courvoisier law and clinical distinction in obstructive jaundice.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Courvoisier law and clinical distinction in obstructive jaundice."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1916",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Tumor markers and IgG4 distinction in autoimmune pancreatitis vs carcinoma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female presenting with progressive functional deterioration is evaluated in the acute surgical and procedural diagnostic suite requiring urgent clarification of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Clinical examination confirms painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 140/88 mm Hg, pulse 98/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. What is the characteristic pathological hallmark, clinical sign, or high-yield pharmacological association in this case?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Marked elevation of serum IgG4 (> 2 times upper limit) and sausage-shaped diffuse pancreatic enlargement on imaging indicating autoimmune pancreatitis rather than adenocarcinoma.",
+        "explanation": "Type 1 autoimmune pancreatitis mimics pancreatic carcinoma clinically and radiologically; it demonstrates rapid morphological and functional resolution with oral systemic corticosteroid therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "Type 1 autoimmune pancreatitis mimics pancreatic carcinoma clinically and radiologically; it demonstrates rapid morphological and functional resolution with oral systemic corticosteroid therapy. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Tumor markers and IgG4 distinction in autoimmune pancreatitis vs carcinoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Tumor markers and IgG4 distinction in autoimmune pancreatitis vs carcinoma."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1917",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Biliary stenting in palliative management of unresectable pancreatic cancer",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 18-year-old male who presents to the academic tertiary hospital assessment unit with prominent manifestations of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside evaluation highlights painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 141/89 mm Hg, pulse 99/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. In accordance with Royal Colleges consensus, which diagnostic investigation or targeted pharmacotherapy is indicated?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Deploying a self-expanding metal stent (SEMS) across the malignant common bile duct stricture via ERCP to achieve long-term biliary patency and relieve pruritus.",
+        "explanation": "Metal stents provide significantly longer patency rates and fewer re-interventions compared to plastic stents in patients with expected survival exceeding 3-4 months.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Metal stents provide significantly longer patency rates and fewer re-interventions compared to plastic stents in patients with expected survival exceeding 3-4 months. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Biliary stenting in palliative management of unresectable pancreatic cancer.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Biliary stenting in palliative management of unresectable pancreatic cancer."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1918",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Sentinel bleed and post-pancreatectomy hemorrhage (PPH) emergency management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female with acute clinical decompensation attends the university hospital tertiary referral clinic for specialized evaluation of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside physical findings reveal painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 142/90 mm Hg, pulse 100/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 98%. Which life-saving acute intervention should be executed immediately in the emergency setting?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Immediate computed tomography angiography (CTA) and transcatheter arterial embolization (TAE) for delayed gastrointestinal or drain bleeding from the gastroduodenal artery stump.",
+        "explanation": "Delayed hemorrhage (> 24 hours post-op) often stems from arterial erosion by a pancreatic leak; a minor herald bleed warrants urgent endovascular intervention before cataclysmic exsanguinating hemorrhage.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Delayed hemorrhage (> 24 hours post-op) often stems from arterial erosion by a pancreatic leak; a minor herald bleed warrants urgent endovascular intervention before cataclysmic exsanguinating hemorrhage. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Sentinel bleed and post-pancreatectomy hemorrhage (PPH) emergency management.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Sentinel bleed and post-pancreatectomy hemorrhage (PPH) emergency management."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1919",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Neoadjuvant FOLFIRINOX for borderline resectable pancreatic adenocarcinoma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old male presents to the emergency resuscitation and trauma center with clinical findings characteristic of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Physical examination reveals painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 143/91 mm Hg, pulse 101/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 99%. In accordance with Saudi licensing standards and clinical practice guidelines, what is the recommended protocol?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Administering neoadjuvant multi-agent chemotherapy (fluorouracil, leucovorin, irinotecan, oxaliplatin) to downstage vascular involvement and eradicate occult micrometastases prior to resection.",
+        "explanation": "Modern high-volume consensus protocols achieve higher R0 resection margins and median survival exceeding 30 months in borderline resectable tumors treated with induction systemic chemotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Modern high-volume consensus protocols achieve higher R0 resection margins and median survival exceeding 30 months in borderline resectable tumors treated with induction systemic chemotherapy. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Neoadjuvant FOLFIRINOX for borderline resectable pancreatic adenocarcinoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Neoadjuvant FOLFIRINOX for borderline resectable pancreatic adenocarcinoma."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1920",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Surveillance protocols for high-risk individuals with familial pancreatic can...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 72-year-old female who is transferred by regional emergency medical transport to the intensive care service due to suspected Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Bedside assessment demonstrates painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 112/68 mm Hg, pulse 72/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 94%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Annual magnetic resonance cholangiopancreatography (MRCP) and endoscopic ultrasound (EUS) beginning at age 50 (or 10 years earlier than youngest affected relative) in BRCA2 or CDKN2A carriers.",
+        "explanation": "International Cancer of the Pancreas Screening (CAPS) guidelines recommend combined MRCP/EUS surveillance to detect high-grade pancreatic intraepithelial neoplasia (PanIN) or T1N0 invasive carcinomas.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "International Cancer of the Pancreas Screening (CAPS) guidelines recommend combined MRCP/EUS surveillance to detect high-grade pancreatic intraepithelial neoplasia (PanIN) or T1N0 invasive carcinomas. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Surveillance protocols for high-risk individuals with familial pancreatic can....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Surveillance protocols for high-risk individuals with familial pancreatic can...."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1921",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Differential diagnosis of periampullary neoplasms by anatomic origin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male presenting with progressive functional deterioration is evaluated in the acute surgical and procedural diagnostic suite requiring urgent clarification of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy. Clinical examination confirms painless jaundice, palpable non-tender gallbladder (Courvoisier sign), pruritus, acholic stools, dark tea-colored urine, weight loss, or dull epigastric pain radiating to the back. Vital parameters demonstrate blood pressure 113/69 mm Hg, pulse 73/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 95%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Distinguishing pancreatic head carcinoma, ampullary carcinoma, distal common bile duct cholangiocarcinoma, and duodenal adenocarcinoma based on location and clinical behavior.",
+        "explanation": "Ampullary carcinoma has the most favorable prognosis among periampullary tumors because early intraluminal biliary obstruction prompts earlier clinical presentation with fluctuating jaundice.",
+        "correct": true
+      }
+    ],
+    "explanation": "Ampullary carcinoma has the most favorable prognosis among periampullary tumors because early intraluminal biliary obstruction prompts earlier clinical presentation with fluctuating jaundice. In the systematic management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Differential diagnosis of periampullary neoplasms by anatomic origin.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Pancreatic ductal adenocarcinoma, periampullary tumors, and pancreaticoduodenectomy regarding Differential diagnosis of periampullary neoplasms by anatomic origin."
+    ],
+    "references": [
+      {
+        "label": "AHPBA / E-AHPBA Consensus Guidelines for Hepato-Pancreato-Biliary Surgery",
+        "url": "https://www.ahpba.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1922",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Adenoma-carcinoma sequence versus microsatellite instability molecular pathways",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 80-year-old female presenting with progressive functional deterioration is transferred by regional emergency medical transport to the intensive care service requiring urgent clarification of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Clinical examination confirms change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 114/70 mm Hg, pulse 74/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 96%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Sequential mutation of APC tumor suppressor (chromosomal instability) followed by KRAS activation and TP53 loss, versus DNA mismatch repair gene mutations (MLH1, MSH2) causing microsatellite instability.",
+        "explanation": "The classic Vogelstein CIN pathway accounts for 85% of sporadic colorectal cancers; microsatellite instability (MSI-H) characterizes Lynch syndrome and sporadic hypermethylation of the MLH1 promoter.",
+        "correct": true
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "The classic Vogelstein CIN pathway accounts for 85% of sporadic colorectal cancers; microsatellite instability (MSI-H) characterizes Lynch syndrome and sporadic hypermethylation of the MLH1 promoter. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Adenoma-carcinoma sequence versus microsatellite instability molecular pathways.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Adenoma-carcinoma sequence versus microsatellite instability molecular pathways."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1923",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Total mesorectal excision (TME) and neoadjuvant therapy for locally advanced ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 33-year-old male who is evaluated in the acute surgical and procedural diagnostic suite with prominent manifestations of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside evaluation highlights change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 115/71 mm Hg, pulse 75/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Neoadjuvant chemoradiation (or total neoadjuvant therapy - TNT) followed by radical sharp total mesorectal excision (TME) with clear circumferential resection margins (> 1 mm).",
+        "explanation": "Rectal cancer carries high locoregional recurrence risks; sharp dissection along the embryological holy plane of Heald removes the intact mesorectal envelope containing draining lymph nodes and tumor deposits.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rectal cancer carries high locoregional recurrence risks; sharp dissection along the embryological holy plane of Heald removes the intact mesorectal envelope containing draining lymph nodes and tumor deposits. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Total mesorectal excision (TME) and neoadjuvant therapy for locally advanced ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Total mesorectal excision (TME) and neoadjuvant therapy for locally advanced ...."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1924",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Surgical management of refractory ulcerative colitis: restorative proctocolec...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female with acute clinical decompensation presents to the academic tertiary hospital assessment unit for specialized evaluation of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside physical findings reveal change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 116/72 mm Hg, pulse 76/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 98%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Restorative proctocolectomy with ileal pouch-anal anastomosis (IPAA / J-pouch) as the definitive curative surgical intervention for medically refractory ulcerative colitis or colonic dysplasia.",
+        "explanation": "Total proctocolectomy removes the entire diseased mucosal target organ, permanently eliminating cancer risk while preserving anal sphincter continence and avoiding a permanent end ileostomy.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Total proctocolectomy removes the entire diseased mucosal target organ, permanently eliminating cancer risk while preserving anal sphincter continence and avoiding a permanent end ileostomy. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Surgical management of refractory ulcerative colitis: restorative proctocolec....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Surgical management of refractory ulcerative colitis: restorative proctocolec...."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1925",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Management of complicated diverticulitis by Hinchey classification",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male attends the university hospital tertiary referral clinic with clinical findings characteristic of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Physical examination reveals change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 117/73 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Intravenous antibiotics and percutaneous drain placement for Hinchey II (pelvic abscess > 4 cm), versus emergency Hartmann procedure (sigmoid resection and end colostomy) for Hinchey III/IV generalized peritonitis.",
+        "explanation": "NICE guidelines prioritize image-guided percutaneous drainage for large walled-off diverticular abscesses, reserving emergency laparotomy and colostomy for purulent or feculent generalized peritonitis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guidelines prioritize image-guided percutaneous drainage for large walled-off diverticular abscesses, reserving emergency laparotomy and colostomy for purulent or feculent generalized peritonitis. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Management of complicated diverticulitis by Hinchey classification.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Management of complicated diverticulitis by Hinchey classification."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1926",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Post-polypectomy surveillance colonoscopy intervals based on polyp pathology",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who presents to the emergency resuscitation and trauma center due to suspected Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside assessment demonstrates change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 118/74 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Recommending repeat surveillance colonoscopy in 3 years for high-risk findings (>= 3 adenomas, adenoma >= 10 mm, villous histology, or high-grade dysplasia) versus 5-10 years for 1-2 small tubular adenomas.",
+        "explanation": "Australian National Health and Medical Research Council (NHMRC) guidelines risk-stratify post-polypectomy surveillance to optimize colorectal cancer prevention while minimizing unnecessary invasive procedures.",
+        "correct": true
+      }
+    ],
+    "explanation": "Australian National Health and Medical Research Council (NHMRC) guidelines risk-stratify post-polypectomy surveillance to optimize colorectal cancer prevention while minimizing unnecessary invasive procedures. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Post-polypectomy surveillance colonoscopy intervals based on polyp pathology.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Post-polypectomy surveillance colonoscopy intervals based on polyp pathology."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1927",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal anastomotic leak: clinical manifestation and diagnostic imaging",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration is transferred by regional emergency medical transport to the intensive care service requiring urgent clarification of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Clinical examination confirms change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 119/75 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Unexplained fever, persistent tachycardia, oliguria, peritonitis, or fecal/purulent drainage occurring on postoperative days 5 to 7, confirmed by contrast-enhanced abdominal CT with rectal water-soluble contrast.",
+        "explanation": "Anastomotic dehiscence is a catastrophic surgical complication; early CT imaging with rectal contrast identifies extraluminal gas or fluid collections and distinguishes small contained leaks from generalized peritonitis.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Anastomotic dehiscence is a catastrophic surgical complication; early CT imaging with rectal contrast identifies extraluminal gas or fluid collections and distinguishes small contained leaks from generalized peritonitis. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Colorectal anastomotic leak: clinical manifestation and diagnostic imaging.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Colorectal anastomotic leak: clinical manifestation and diagnostic imaging."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1928",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Complete mesocolic excision (CME) and central vascular ligation (CVL) in colo...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 58-year-old female who is evaluated in the acute surgical and procedural diagnostic suite with prominent manifestations of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside evaluation highlights change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 120/76 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Sharp surgical dissection in the embryologic mesocolic plane with central vascular ligation at the origin of mesenteric feeding vessels to retrieve >= 12 regional lymph nodes.",
+        "explanation": "CME mirrors total mesorectal excision principles by preserving the integrity of the mesocolic fascial envelope and harvesting maximal regional lymph nodes for precise oncologic staging and local control.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "CME mirrors total mesorectal excision principles by preserving the integrity of the mesocolic fascial envelope and harvesting maximal regional lymph nodes for precise oncologic staging and local control. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Complete mesocolic excision (CME) and central vascular ligation (CVL) in colo....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Complete mesocolic excision (CME) and central vascular ligation (CVL) in colo...."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1929",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Clinical distinction between right-sided and left-sided colorectal carcinomas",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 76-year-old male with acute clinical decompensation presents to the academic tertiary hospital assessment unit for specialized evaluation of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside physical findings reveal change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 121/77 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Right-sided (cecal/ascending) tumors present with exophytic mass, occult gastrointestinal bleeding, and microcytic iron deficiency anemia, whereas left-sided tumors present with 'apple-core' napkin-ring annular constriction and altered bowel habits.",
+        "explanation": "The cecum has a large caliber and liquid contents, allowing large exophytic tumors to bleed chronically without obstruction; the descending colon has smaller caliber and solid feces, producing early obstructive symptoms.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "The cecum has a large caliber and liquid contents, allowing large exophytic tumors to bleed chronically without obstruction; the descending colon has smaller caliber and solid feces, producing early obstructive symptoms. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Clinical distinction between right-sided and left-sided colorectal carcinomas.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Clinical distinction between right-sided and left-sided colorectal carcinomas."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1930",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Familial adenomatous polyposis (FAP) genetics, extracolonic features, and tim...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female attends the university hospital tertiary referral clinic with clinical findings characteristic of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Physical examination reveals change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 122/78 mm Hg, pulse 82/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Autosomal dominant mutation in APC tumor suppressor on chromosome 5q21, developing > 100 adenomatous polyps with 100% colorectal cancer penetrance by age 40, requiring prophylactic colectomy in early adulthood.",
+        "explanation": "Gardner syndrome variants exhibit osteomas of the mandible, desmoid tumors, and congenital hypertrophy of retinal pigment epithelium (CHRPE); screening sigmoidoscopy begins at age 10-12 years.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Gardner syndrome variants exhibit osteomas of the mandible, desmoid tumors, and congenital hypertrophy of retinal pigment epithelium (CHRPE); screening sigmoidoscopy begins at age 10-12 years. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Familial adenomatous polyposis (FAP) genetics, extracolonic features, and tim....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Familial adenomatous polyposis (FAP) genetics, extracolonic features, and tim...."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1931",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Pouchitis pathogenesis, clinical diagnosis, and antimicrobial pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 47-year-old male who presents to the emergency resuscitation and trauma center due to suspected Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside assessment demonstrates change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 123/79 mm Hg, pulse 83/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Episodes of increased stool frequency, pelvic cramping, urgency, and tenesmus in a patient with a J-pouch, managed first-line with a 14-day course of oral ciprofloxacin or metronidazole.",
+        "explanation": "Pouchitis is an idiopathic inflammatory recurrence in the ileal reservoir affecting up to 50% of IPAA patients; the prompt response to ciprofloxacin confirms the pathogenic role of luminal bacterial dysbiosis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Pouchitis is an idiopathic inflammatory recurrence in the ileal reservoir affecting up to 50% of IPAA patients; the prompt response to ciprofloxacin confirms the pathogenic role of luminal bacterial dysbiosis. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Pouchitis pathogenesis, clinical diagnosis, and antimicrobial pharmacotherapy.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Pouchitis pathogenesis, clinical diagnosis, and antimicrobial pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1932",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Toxic megacolon in severe inflammatory or infectious colitis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 65-year-old female presenting with progressive functional deterioration is transferred by regional emergency medical transport to the intensive care service requiring urgent clarification of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Clinical examination confirms change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 124/80 mm Hg, pulse 84/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 94%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Transverse colonic dilation > 6 cm on plain abdominal radiography with fever, tachycardia, leukocytosis, and hemodynamic instability, requiring urgent IV fluids, broad-spectrum antibiotics, and surgical consultation.",
+        "explanation": "Antimotility agents, opioids, and colonoscopy are strictly contraindicated due to perforation risk; failure to improve within 24-48 hours on medical therapy necessitates emergency subtotal colectomy with end ileostomy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Antimotility agents, opioids, and colonoscopy are strictly contraindicated due to perforation risk; failure to improve within 24-48 hours on medical therapy necessitates emergency subtotal colectomy with end ileostomy. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Toxic megacolon in severe inflammatory or infectious colitis.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Toxic megacolon in severe inflammatory or infectious colitis."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1933",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Enhanced Recovery After Surgery (ERAS) protocols in major colorectal resections",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 18-year-old male who is evaluated in the acute surgical and procedural diagnostic suite with prominent manifestations of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside evaluation highlights change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 125/81 mm Hg, pulse 85/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Implementing preoperative carbohydrate loading, multimodal opioid-sparing analgesia, early postoperative enteral feeding, and mobilization within 24 hours without routine nasogastric decompression.",
+        "explanation": "ERAS clinical pathways reduce surgical stress response, decrease postoperative ileus duration, shorten hospital length of stay by 2-3 days, and lower cardiopulmonary and wound complication rates.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "ERAS clinical pathways reduce surgical stress response, decrease postoperative ileus duration, shorten hospital length of stay by 2-3 days, and lower cardiopulmonary and wound complication rates. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Enhanced Recovery After Surgery (ERAS) protocols in major colorectal resections.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Enhanced Recovery After Surgery (ERAS) protocols in major colorectal resections."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1934",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Population-based colorectal cancer screening modalities and guidelines",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old female with acute clinical decompensation presents to the academic tertiary hospital assessment unit for specialized evaluation of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Bedside physical findings reveal change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 126/82 mm Hg, pulse 86/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Screening asymptomatic average-risk individuals beginning at age 45 using annual fecal immunochemical testing (FIT) or screening colonoscopy every 10 years.",
+        "explanation": "Department of Health standards endorse beginning screening at age 45 due to rising incidence of early-onset colorectal neoplasia; positive FIT testing mandates diagnostic optical colonoscopy without delay.",
+        "correct": true
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Department of Health standards endorse beginning screening at age 45 due to rising incidence of early-onset colorectal neoplasia; positive FIT testing mandates diagnostic optical colonoscopy without delay. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Population-based colorectal cancer screening modalities and guidelines.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Population-based colorectal cancer screening modalities and guidelines."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1935",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Colorectal cancer staging: Dukes classification compared with TNM system",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 54-year-old male attends the university hospital tertiary referral clinic with clinical findings characteristic of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis. Physical examination reveals change in bowel habits, hematochezia or occult GI bleeding, tenesmus, iron deficiency anemia in elderly male/postmenopausal female, or acute left lower quadrant peritonitis. Vital parameters demonstrate blood pressure 127/83 mm Hg, pulse 87/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Dukes A (confined to bowel wall, T1-T2 N0), Dukes B (invading muscularis propria into pericolic fat, T3-T4 N0), Dukes C (regional lymph node metastasis, any T N1-N2), and Dukes D (distant organ metastases, M1).",
+        "explanation": "Adjuvant 5-fluorouracil/oxaliplatin systemic chemotherapy is universally indicated for stage III (Dukes C) node-positive colon cancer to eradicate systemic micrometastases and improve overall survival.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Adjuvant 5-fluorouracil/oxaliplatin systemic chemotherapy is universally indicated for stage III (Dukes C) node-positive colon cancer to eradicate systemic micrometastases and improve overall survival. In the systematic management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Colorectal cancer staging: Dukes classification compared with TNM system.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Colorectal adenocarcinoma, ulcerative colitis surgical management, and complicated diverticulitis regarding Colorectal cancer staging: Dukes classification compared with TNM system."
+    ],
+    "references": [
+      {
+        "label": "ASCRS Clinical Practice Guidelines for the Management of Colorectal Disease",
+        "url": "https://fascrs.org/healthcare-providers/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1936",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Endocrine",
+    "topic": "Neuroendocrine gut hormone alterations following Roux-en-Y gastric bypass",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old female presents to the academic tertiary hospital assessment unit with clinical findings characteristic of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Physical examination reveals BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 128/84 mm Hg, pulse 88/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Exaggerated postprandial release of glucagon-like peptide-1 (GLP-1) and peptide YY (PYY) from distal L-cells combined with suppression of gastric fundal ghrelin secretion.",
+        "explanation": "Rapid nutrient delivery directly into the Roux limb triggers dramatic incretin release, improving pancreatic beta-cell insulin secretion and inducing satiety independent of mechanical restriction.",
+        "correct": true
+      }
+    ],
+    "explanation": "Rapid nutrient delivery directly into the Roux limb triggers dramatic incretin release, improving pancreatic beta-cell insulin secretion and inducing satiety independent of mechanical restriction. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Neuroendocrine gut hormone alterations following Roux-en-Y gastric bypass.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Neuroendocrine gut hormone alterations following Roux-en-Y gastric bypass."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1937",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Internal hernia through mesenteric defects following laparoscopic RYGB",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 62-year-old male who attends the university hospital tertiary referral clinic due to suspected Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside assessment demonstrates BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 129/85 mm Hg, pulse 89/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intermittent crampy postprandial abdominal pain, nausea, and vomiting with a mesenteric 'swirl sign' on contrast-enhanced CT, requiring prompt diagnostic laparoscopy.",
+        "explanation": "Weight loss reduces mesenteric fat, widening potential Petersen space and jejunojejunostomy mesenteric defects; herniated bowel can rapidly develop closed-loop obstruction, ischemia, and infarction.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Weight loss reduces mesenteric fat, widening potential Petersen space and jejunojejunostomy mesenteric defects; herniated bowel can rapidly develop closed-loop obstruction, ischemia, and infarction. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Internal hernia through mesenteric defects following laparoscopic RYGB.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Internal hernia through mesenteric defects following laparoscopic RYGB."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1938",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Lifelong micronutrient supplementation requirements following malabsorptive b...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 80-year-old female presenting with progressive functional deterioration presents to the emergency resuscitation and trauma center requiring urgent clarification of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Clinical examination confirms BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 130/86 mm Hg, pulse 90/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 94%. What is the optimal long-term maintenance therapy or surveillance protocol for this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing daily comprehensive multivitamin, elemental iron, calcium citrate with vitamin D, vitamin B12 (sublingual or IM), and copper to prevent hematological and metabolic bone disorders.",
+        "explanation": "Bypassing the duodenum and proximal jejunum impairs absorption of iron, calcium, and fat-soluble vitamins; calcium citrate is preferred over calcium carbonate due to absent gastric acid required for dissolution.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Bypassing the duodenum and proximal jejunum impairs absorption of iron, calcium, and fat-soluble vitamins; calcium citrate is preferred over calcium carbonate due to absent gastric acid required for dissolution. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Lifelong micronutrient supplementation requirements following malabsorptive b....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Lifelong micronutrient supplementation requirements following malabsorptive b...."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1939",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Post-sleeve gastrectomy staple line leak identification and emergency interve...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 33-year-old male who is transferred by regional emergency medical transport to the intensive care service with prominent manifestations of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside evaluation highlights BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 131/87 mm Hg, pulse 91/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Sustained unexplained tachycardia (> 120 bpm) within 48 to 72 hours postoperatively as the most reliable early indicator of proximal staple line gastric leak.",
+        "explanation": "Fever, pain, and peritonitis may be blunted in obese patients; tachycardia warrants urgent contrast CT or diagnostic laparoscopy, drainage, and endoscopic stenting or operative repair.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fever, pain, and peritonitis may be blunted in obese patients; tachycardia warrants urgent contrast CT or diagnostic laparoscopy, drainage, and endoscopic stenting or operative repair. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Post-sleeve gastrectomy staple line leak identification and emergency interve....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Post-sleeve gastrectomy staple line leak identification and emergency interve...."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1940",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Marginal ulceration at gastrojejunostomy anastomosis: etiology and therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 51-year-old female with acute clinical decompensation is evaluated in the acute surgical and procedural diagnostic suite for specialized evaluation of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside physical findings reveal BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 132/88 mm Hg, pulse 92/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Stomal ulceration precipitated by tobacco smoking, NSAID consumption, or ischemia, managed with high-dose proton pump inhibitors, sucralfate suspension, and smoking cessation.",
+        "explanation": "Marginal ulcers develop on the jejunal side of the anastomosis exposed to gastric acid; refractory ulcers require testing for Helicobacter pylori and gastrogastric fistula.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Marginal ulcers develop on the jejunal side of the anastomosis exposed to gastric acid; refractory ulcers require testing for Helicobacter pylori and gastrogastric fistula. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Marginal ulceration at gastrojejunostomy anastomosis: etiology and therapy.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Marginal ulceration at gastrojejunostomy anastomosis: etiology and therapy."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1941",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Wernicke encephalopathy following prolonged vomiting after bariatric surgery",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 69-year-old male presents to the academic tertiary hospital assessment unit with clinical findings characteristic of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Physical examination reveals BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 133/89 mm Hg, pulse 93/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Acute onset of mental status confusion, horizontal nystagmus, and gait ataxia following weeks of persistent hyperemesis, treated with immediate intravenous thiamine before any glucose infusion.",
+        "explanation": "Thiamine (vitamin B1) body stores deplete within 2-3 weeks of vomiting; infusing intravenous dextrose without thiamine exacerbates metabolic failure in the cerebral mammillary bodies, risking permanent Korsakoff syndrome.",
+        "correct": true
+      }
+    ],
+    "explanation": "Thiamine (vitamin B1) body stores deplete within 2-3 weeks of vomiting; infusing intravenous dextrose without thiamine exacerbates metabolic failure in the cerebral mammillary bodies, risking permanent Korsakoff syndrome. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Wernicke encephalopathy following prolonged vomiting after bariatric surgery.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Wernicke encephalopathy following prolonged vomiting after bariatric surgery."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1942",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Anatomic principles of laparoscopic sleeve gastrectomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who attends the university hospital tertiary referral clinic due to suspected Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside assessment demonstrates BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 134/90 mm Hg, pulse 94/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which advanced intervention is indicated for definitive disease control in this presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Resection of approximately 80% of the greater gastric curvature along a 36 to 40 French bougie starting 2 to 6 cm proximal to the pylorus and extending to the angle of His.",
+        "explanation": "Calibrating the gastric tube along a bougie ensures adequate gastric volume reduction while preserving lower esophageal sphincter function and avoiding stricture at the incisura angularis.",
+        "correct": true
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Calibrating the gastric tube along a bougie ensures adequate gastric volume reduction while preserving lower esophageal sphincter function and avoiding stricture at the incisura angularis. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Anatomic principles of laparoscopic sleeve gastrectomy.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Anatomic principles of laparoscopic sleeve gastrectomy."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1943",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Consensus indications and contraindications for metabolic bariatric surgery",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration presents to the emergency resuscitation and trauma center requiring urgent clarification of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Clinical examination confirms BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 135/91 mm Hg, pulse 95/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. According to national licensing examination standards, what is the fundamental diagnostic criterion or primary emergency therapy?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Indicated for BMI >= 40 kg/m2 or BMI >= 35 kg/m2 with severe obesity-related comorbidities (diabetes, severe OSA); contraindicated in active substance abuse, severe unstable psychiatric disease, or non-compliance.",
+        "explanation": "Metabolic bariatric surgery provides durable excess weight loss (> 60-70%) and achieves high rates of type 2 diabetes remission compared to medical management alone.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Metabolic bariatric surgery provides durable excess weight loss (> 60-70%) and achieves high rates of type 2 diabetes remission compared to medical management alone. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Consensus indications and contraindications for metabolic bariatric surgery.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Consensus indications and contraindications for metabolic bariatric surgery."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1944",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Anatomic sites of micronutrient absorption altered by bariatric reconstruction",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 58-year-old female who is transferred by regional emergency medical transport to the intensive care service with prominent manifestations of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside evaluation highlights BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 136/68 mm Hg, pulse 96/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 94%. Which pathognomonic diagnostic sign, radiological feature, or molecular alteration establishes this condition?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Duodenum and proximal jejunum are the primary sites for active absorption of elemental iron and calcium, which are bypassed in Roux-en-Y gastric bypass.",
+        "explanation": "Fat-soluble vitamins (A, D, E, K) require biliary and pancreatic enzyme mixing in the common channel; vitamin B12 absorption requires intrinsic factor binding in the stomach and receptor-mediated uptake in the terminal ileum.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fat-soluble vitamins (A, D, E, K) require biliary and pancreatic enzyme mixing in the common channel; vitamin B12 absorption requires intrinsic factor binding in the stomach and receptor-mediated uptake in the terminal ileum. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Anatomic sites of micronutrient absorption altered by bariatric reconstruction.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Anatomic sites of micronutrient absorption altered by bariatric reconstruction."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1945",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Late post-bariatric hyperinsulinemic hypoglycemia (nesidioblastosis)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old male with acute clinical decompensation is evaluated in the acute surgical and procedural diagnostic suite for specialized evaluation of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside physical findings reveal BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 137/69 mm Hg, pulse 97/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 95%. Which evidence-based management strategy represents the standard of care for this patient?",
+    "options": [
+      {
+        "text": "Severe postprandial neuroglycopenic symptoms (confusion, diaphoresis, syncope) occurring 1 to 3 hours after carbohydrate ingestion due to excessive GLP-1-mediated insulin hypersecretion.",
+        "explanation": "Differentiated from insulinoma by symptom occurrence exclusively postprandially without fasting hypoglycemia; initial therapy involves dietary restriction of refined carbohydrates and acarbose.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Differentiated from insulinoma by symptom occurrence exclusively postprandially without fasting hypoglycemia; initial therapy involves dietary restriction of refined carbohydrates and acarbose. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Late post-bariatric hyperinsulinemic hypoglycemia (nesidioblastosis).",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Late post-bariatric hyperinsulinemic hypoglycemia (nesidioblastosis)."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1946",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Acute gastric remnant distension following Roux-en-Y gastric bypass",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female presents to the academic tertiary hospital assessment unit with clinical findings characteristic of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Physical examination reveals BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 138/70 mm Hg, pulse 98/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 96%. In the emergency department resuscitation bay, what is the immediate priority intervention or acute diagnostic step?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Severe epigastric pain, left upper quadrant tympany, persistent hiccupping, and tachycardia, requiring emergency percutaneous or operative transabdominal tube decompression.",
+        "explanation": "The excluded gastric remnant has no proximal outlet; mechanical obstruction of the biliopancreatic limb leads to massive closed-loop dilation, gastric rupture, and catastrophic peritonitis.",
+        "correct": true
+      }
+    ],
+    "explanation": "The excluded gastric remnant has no proximal outlet; mechanical obstruction of the biliopancreatic limb leads to massive closed-loop dilation, gastric rupture, and catastrophic peritonitis. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Acute gastric remnant distension following Roux-en-Y gastric bypass.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Acute gastric remnant distension following Roux-en-Y gastric bypass."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1947",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Venous thromboembolism prophylaxis guidelines in metabolic bariatric surgery",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 47-year-old male who attends the university hospital tertiary referral clinic due to suspected Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside assessment demonstrates BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 139/71 mm Hg, pulse 99/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 97%. What is the priority diagnostic investigation or clinical management step for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Administering weight-adjusted low-molecular-weight heparin (e.g., enoxaparin 40 mg twice daily) combined with intraoperative pneumatic compression devices and early ambulation.",
+        "explanation": "Severe obesity and laparoscopic pneumoperitoneum increase deep vein thrombosis and pulmonary embolism risks; chemical thromboprophylaxis is continued for 10-14 days post-discharge in high-risk patients.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe obesity and laparoscopic pneumoperitoneum increase deep vein thrombosis and pulmonary embolism risks; chemical thromboprophylaxis is continued for 10-14 days post-discharge in high-risk patients. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Venous thromboembolism prophylaxis guidelines in metabolic bariatric surgery.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Venous thromboembolism prophylaxis guidelines in metabolic bariatric surgery."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1948",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Multidisciplinary pre-bariatric surgical evaluation requirements",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female presenting with progressive functional deterioration presents to the emergency resuscitation and trauma center requiring urgent clarification of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Clinical examination confirms BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 140/72 mm Hg, pulse 100/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 98%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Mandatory evaluation by a multidisciplinary team including bariatric surgeon, certified clinical dietitian, clinical psychologist, and medical endocrinologist prior to surgical approval.",
+        "explanation": "Comprehensive psychological and dietary screening ensures patient readiness, addresses disordered eating patterns, and establishes nutritional compliance essential for long-term postoperative success.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Comprehensive psychological and dietary screening ensures patient readiness, addresses disordered eating patterns, and establishes nutritional compliance essential for long-term postoperative success. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Multidisciplinary pre-bariatric surgical evaluation requirements.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Multidisciplinary pre-bariatric surgical evaluation requirements."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1949",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Classification of bariatric surgical procedures by physiological mechanism",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 18-year-old male who is transferred by regional emergency medical transport to the intensive care service with prominent manifestations of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy. Bedside evaluation highlights BMI >= 40 kg/m2 (or BMI >= 35 kg/m2 with major obesity-related comorbidities such as T2DM, OSA, hypertension) refractory to non-surgical lifestyle interventions. Vital parameters demonstrate blood pressure 141/73 mm Hg, pulse 101/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 99%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Classifying operations into purely restrictive (sleeve gastrectomy, adjustable gastric banding) versus combined restrictive and malabsorptive/metabolic (Roux-en-Y gastric bypass, biliopancreatic diversion).",
+        "explanation": "Restrictive procedures decrease caloric intake by limiting reservoir volume; combined procedures alter gastrointestinal transit, reduce mucosal absorption surface, and modulate systemic neurohormonal satiety pathways.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Restrictive procedures decrease caloric intake by limiting reservoir volume; combined procedures alter gastrointestinal transit, reduce mucosal absorption surface, and modulate systemic neurohormonal satiety pathways. In the systematic management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Classification of bariatric surgical procedures by physiological mechanism.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Severe obesity, Roux-en-Y gastric bypass (RYGB), and sleeve gastrectomy regarding Classification of bariatric surgical procedures by physiological mechanism."
+    ],
+    "references": [
+      {
+        "label": "ASMBS / IFSO Guidelines on Metabolic and Bariatric Surgery",
+        "url": "https://asmbs.org/resources/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1950",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "Molecular genetics of thyroid neoplasms: BRAF V600E and RET proto-oncogene",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 73-year-old female who presents to the emergency resuscitation and trauma center with prominent manifestations of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside evaluation highlights hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 142/74 mm Hg, pulse 72/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 94%. What is the underlying biochemical pathway, genetic mutation, or cellular pathophysiology responsible for these clinical findings?",
+    "options": [
+      {
+        "text": "BRAF V600E point mutations and RET/PTC rearrangements characteristic of papillary thyroid carcinoma, versus germline RET proto-oncogene activating mutations in medullary thyroid carcinoma.",
+        "explanation": "BRAF V600E mutation activates the MAPK signaling cascade and correlates with aggressive extrathyroidal extension; medullary carcinoma originates from neuroendocrine C-cells producing calcitonin.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "BRAF V600E mutation activates the MAPK signaling cascade and correlates with aggressive extrathyroidal extension; medullary carcinoma originates from neuroendocrine C-cells producing calcitonin. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Molecular genetics of thyroid neoplasms: BRAF V600E and RET proto-oncogene.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Molecular genetics of thyroid neoplasms: BRAF V600E and RET proto-oncogene."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1951",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Consensus surgical indications for parathyroidectomy in asymptomatic primary ...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old male with acute clinical decompensation is transferred by regional emergency medical transport to the intensive care service for specialized evaluation of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside physical findings reveal hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 143/75 mm Hg, pulse 73/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the immediate next step in patient management?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Serum calcium > 1.0 mg/dL above normal, T-score < -2.5 at any skeletal site, eGFR < 60 mL/min, 24-hour urinary calcium > 400 mg/day, or patient age < 50 years.",
+        "explanation": "International workshop guidelines recommend parathyroidectomy in asymptomatic patients meeting any single criterion to halt progressive osteopenia, nephrolithiasis, and cardiovascular morbidity.",
+        "correct": true
+      }
+    ],
+    "explanation": "International workshop guidelines recommend parathyroidectomy in asymptomatic patients meeting any single criterion to halt progressive osteopenia, nephrolithiasis, and cardiovascular morbidity. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Consensus surgical indications for parathyroidectomy in asymptomatic primary ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Consensus surgical indications for parathyroidectomy in asymptomatic primary ...."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1952",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Post-thyroidectomy vocal cord paralysis and hypocalcemia management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old female is evaluated in the acute surgical and procedural diagnostic suite with clinical findings characteristic of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Physical examination reveals hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 112/76 mm Hg, pulse 74/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Distinguishing unilateral recurrent laryngeal nerve palsy (hoarseness) from bilateral palsy (acute inspiratory stridor requiring reintubation), and managing hypocalcemia with oral calcium carbonate and calcitriol.",
+        "explanation": "Transient or permanent hypoparathyroidism from devascularization of parathyroid glands leads to neuromuscular excitability (Chvostek and Trousseau signs); active calcitriol ensures adequate enteral calcium absorption.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "Transient or permanent hypoparathyroidism from devascularization of parathyroid glands leads to neuromuscular excitability (Chvostek and Trousseau signs); active calcitriol ensures adequate enteral calcium absorption. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Post-thyroidectomy vocal cord paralysis and hypocalcemia management.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Post-thyroidectomy vocal cord paralysis and hypocalcemia management."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1953",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Bethesda classification of thyroid nodules and fine-needle aspiration (FNAC) ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 62-year-old male who presents to the academic tertiary hospital assessment unit due to suspected Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside assessment demonstrates hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 113/77 mm Hg, pulse 75/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Performing ultrasound-guided fine-needle aspiration cytology for suspicious thyroid nodules and selecting surgical lobectomy or total thyroidectomy for Bethesda V (suspicious) or VI (malignant).",
+        "explanation": "The Bethesda System standardizes cytological malignancy risk; Bethesda II (benign) has < 3% risk and warrants clinical/ultrasound surveillance without surgical excision.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Bethesda System standardizes cytological malignancy risk; Bethesda II (benign) has < 3% risk and warrants clinical/ultrasound surveillance without surgical excision. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Bethesda classification of thyroid nodules and fine-needle aspiration (FNAC) ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Bethesda classification of thyroid nodules and fine-needle aspiration (FNAC) ...."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1954",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Preoperative pharmacological preparation for adrenal pheochromocytoma resection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 80-year-old female presenting with progressive functional deterioration attends the university hospital tertiary referral clinic requiring urgent clarification of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Clinical examination confirms hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 114/78 mm Hg, pulse 76/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Administering non-competitive alpha-adrenergic blockade (phenoxybenzamine) for 10-14 days first, followed by beta-adrenergic blockade only after adequate alpha blockade is established.",
+        "explanation": "Initiating beta-blockers prior to alpha-blockade leaves alpha-mediated vasoconstriction unopposed, precipitating catastrophic hypertensive crisis and acute pulmonary edema.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Initiating beta-blockers prior to alpha-blockade leaves alpha-mediated vasoconstriction unopposed, precipitating catastrophic hypertensive crisis and acute pulmonary edema. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Preoperative pharmacological preparation for adrenal pheochromocytoma resection.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Preoperative pharmacological preparation for adrenal pheochromocytoma resection."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1955",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Emergency bedside evacuation of post-thyroidectomy tension neck hematoma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is initiated for a 33-year-old male who presents to the emergency resuscitation and trauma center with prominent manifestations of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside evaluation highlights hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 115/79 mm Hg, pulse 77/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Immediate bedside opening of surgical neck incision sutures and evacuation of tension hematoma to relieve tracheal compression prior to attempting formal endotracheal intubation.",
+        "explanation": "An expanding compressive hematoma causes acute upper airway obstruction; bedside decompression relieves life-threatening laryngeal venous congestion and secures the airway before re-exploration in theater.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "An expanding compressive hematoma causes acute upper airway obstruction; bedside decompression relieves life-threatening laryngeal venous congestion and secures the airway before re-exploration in theater. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Emergency bedside evacuation of post-thyroidectomy tension neck hematoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Emergency bedside evacuation of post-thyroidectomy tension neck hematoma."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1956",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Minimally invasive parathyroidectomy with intraoperative parathyroid hormone ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 51-year-old female with acute clinical decompensation is transferred by regional emergency medical transport to the intensive care service for specialized evaluation of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside physical findings reveal hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 116/80 mm Hg, pulse 78/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. What is the primary diagnostic confirmation or surgical management strategy according to specialist consensus?",
+    "options": [
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Utilizing preoperative 99mTc-sestamibi SPECT and high-resolution ultrasound for localization, followed by focused excision confirming a > 50% drop in IOPTH from baseline at 10 minutes (Miami criterion).",
+        "explanation": "Intraoperative PTH has a half-life of 3-5 minutes; a > 50% decrease 10 minutes after single adenoma excision confirms complete biochemical cure with > 98% accuracy.",
+        "correct": true
+      }
+    ],
+    "explanation": "Intraoperative PTH has a half-life of 3-5 minutes; a > 50% decrease 10 minutes after single adenoma excision confirms complete biochemical cure with > 98% accuracy. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Minimally invasive parathyroidectomy with intraoperative parathyroid hormone ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Minimally invasive parathyroidectomy with intraoperative parathyroid hormone ...."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1957",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Clinical and pathological hallmarks of papillary thyroid carcinoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male is evaluated in the acute surgical and procedural diagnostic suite with clinical findings characteristic of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Physical examination reveals hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 117/81 mm Hg, pulse 79/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which primary healthcare intervention is most critical for this condition?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Painless solitary thyroid nodule with cervical lymphadenopathy; microscopic examination reveals ground-glass nuclei (Orphan Annie eyes), nuclear pseudo-inclusions, and psammoma bodies.",
+        "explanation": "Papillary thyroid carcinoma is the most common thyroid malignancy (85%); it exhibits prominent lymphatic spread to regional cervical nodes but has an excellent 10-year survival rate exceeding 90%.",
+        "correct": true
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Papillary thyroid carcinoma is the most common thyroid malignancy (85%); it exhibits prominent lymphatic spread to regional cervical nodes but has an excellent 10-year survival rate exceeding 90%. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Clinical and pathological hallmarks of papillary thyroid carcinoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Clinical and pathological hallmarks of papillary thyroid carcinoma."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1958",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Multiple Endocrine Neoplasia (MEN) syndromes classification and gene loci",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who presents to the academic tertiary hospital assessment unit due to suspected Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside assessment demonstrates hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 118/82 mm Hg, pulse 80/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. What is the characteristic pathological hallmark, clinical sign, or high-yield pharmacological association in this case?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "MEN 1 (pituitary adenoma, parathyroid hyperplasia, pancreatic neuroendocrine tumor; MEN1 menin gene on 11q13) versus MEN 2A and 2B (medullary thyroid cancer and pheochromocytoma; RET proto-oncogene on 10q11).",
+        "explanation": "MEN 2B is distinguished from MEN 2A by the presence of mucosal neuromas, intestinal ganglioneuromatosis, and marfanoid habitus without primary hyperparathyroidism.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "MEN 2B is distinguished from MEN 2A by the presence of mucosal neuromas, intestinal ganglioneuromatosis, and marfanoid habitus without primary hyperparathyroidism. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Multiple Endocrine Neoplasia (MEN) syndromes classification and gene loci.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Multiple Endocrine Neoplasia (MEN) syndromes classification and gene loci."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1959",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Medullary thyroid carcinoma biochemical surveillance and genetic screening",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration attends the university hospital tertiary referral clinic requiring urgent clarification of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Clinical examination confirms hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 119/83 mm Hg, pulse 81/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. In accordance with Royal Colleges consensus, which diagnostic investigation or targeted pharmacotherapy is indicated?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Measuring baseline serum calcitonin and carcinoembryonic antigen (CEA) for tumor burden monitoring, and performing germline RET proto-oncogene sequencing in all patients and first-degree relatives.",
+        "explanation": "Detection of hereditary RET mutations guides prophylactic total thyroidectomy in infancy or early childhood depending on the specific mutation risk tier (e.g., M918T highest risk).",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Detection of hereditary RET mutations guides prophylactic total thyroidectomy in infancy or early childhood depending on the specific mutation risk tier (e.g., M918T highest risk). In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Medullary thyroid carcinoma biochemical surveillance and genetic screening.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Medullary thyroid carcinoma biochemical surveillance and genetic screening."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1960",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Acute hypercalcemic crisis emergency resuscitation and medical stabilization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 58-year-old female who presents to the emergency resuscitation and trauma center with prominent manifestations of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside evaluation highlights hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 120/84 mm Hg, pulse 82/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 98%. Which life-saving acute intervention should be executed immediately in the emergency setting?",
+    "options": [
+      {
+        "text": "Aggressive volume expansion with intravenous isotonic normal saline (200-300 mL/hr) followed by intravenous zoledronic acid and subcutaneous calcitonin for rapid short-term calcium lowering.",
+        "explanation": "Severe hypercalcemia (> 14 mg/dL) induces profound nephrogenic diabetes insipidus and hypovolemia; saline rehydration restores GFR and calciuresis before bisphosphonate-mediated osteoclast inhibition takes effect.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Severe hypercalcemia (> 14 mg/dL) induces profound nephrogenic diabetes insipidus and hypovolemia; saline rehydration restores GFR and calciuresis before bisphosphonate-mediated osteoclast inhibition takes effect. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Acute hypercalcemic crisis emergency resuscitation and medical stabilization.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Acute hypercalcemic crisis emergency resuscitation and medical stabilization."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1961",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Diagnostic workup for incidental adrenal mass (adrenal incidentaloma)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old male with acute clinical decompensation is transferred by regional emergency medical transport to the intensive care service for specialized evaluation of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside physical findings reveal hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 121/85 mm Hg, pulse 83/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 99%. In accordance with Saudi licensing standards and clinical practice guidelines, what is the recommended protocol?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Screening every adrenal incidentaloma with a 1-mg overnight dexamethasone suppression test, 24-hour urinary or plasma free metanephrines, and aldosterone-to-renin ratio (if hypertensive).",
+        "explanation": "Endocrine Society guidelines require exclusion of subclinical Cushing syndrome, pheochromocytoma, and primary hyperaldosteronism before determining surgical resection versus serial imaging.",
+        "correct": true
+      }
+    ],
+    "explanation": "Endocrine Society guidelines require exclusion of subclinical Cushing syndrome, pheochromocytoma, and primary hyperaldosteronism before determining surgical resection versus serial imaging. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Diagnostic workup for incidental adrenal mass (adrenal incidentaloma).",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Diagnostic workup for incidental adrenal mass (adrenal incidentaloma)."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1962",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Indications for radioactive iodine (I-131) remnant ablation in differentiated...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 29-year-old female is evaluated in the acute surgical and procedural diagnostic suite with clinical findings characteristic of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Physical examination reveals hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 122/86 mm Hg, pulse 84/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 94%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Administering adjuvant radioactive iodine (RAI) following total thyroidectomy in patients with high-risk differentiated thyroid cancer (gross extrathyroidal extension, primary tumor > 4 cm, or distant metastases).",
+        "explanation": "Radioactive iodine destroys residual normal thyroid tissue and microscopic neoplastic deposits, facilitating sensitive serum thyroglobulin monitoring and reducing recurrence rates.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Radioactive iodine destroys residual normal thyroid tissue and microscopic neoplastic deposits, facilitating sensitive serum thyroglobulin monitoring and reducing recurrence rates. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Indications for radioactive iodine (I-131) remnant ablation in differentiated....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Indications for radioactive iodine (I-131) remnant ablation in differentiated...."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1963",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Surgical anatomy and relations of the recurrent and superior laryngeal nerves",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 47-year-old male who presents to the academic tertiary hospital assessment unit due to suspected Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma. Bedside assessment demonstrates hypercalcemia with elevated or inappropriately normal PTH, solitary thyroid nodule with microcalcifications, or paroxysmal headache, sweating, and tachycardia with hypertension. Vital parameters demonstrate blood pressure 123/87 mm Hg, pulse 85/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 95%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except the cricothyroid (innervated by the external branch of the superior laryngeal nerve, which runs with the superior thyroid artery).",
+        "explanation": "Injury to the external branch of the superior laryngeal nerve causes loss of high-pitch vocal frequency and vocal fatigue; injury to the recurrent laryngeal nerve causes hoarseness or airway obstruction.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Injury to the external branch of the superior laryngeal nerve causes loss of high-pitch vocal frequency and vocal fatigue; injury to the recurrent laryngeal nerve causes hoarseness or airway obstruction. In the systematic management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Surgical anatomy and relations of the recurrent and superior laryngeal nerves.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Primary hyperparathyroidism, thyroid carcinoma, and adrenal pheochromocytoma regarding Surgical anatomy and relations of the recurrent and superior laryngeal nerves."
+    ],
+    "references": [
+      {
+        "label": "AAES Guidelines for the Definitive Management of Primary Hyperparathyroidism and Thyroid Cancer",
+        "url": "https://www.endocrinesurgery.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1964",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Translocation cytogenetics and oncogene fusions in soft tissue sarcomas",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is conducted for a 37-year-old female who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside assessment demonstrates painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 124/88 mm Hg, pulse 86/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 96%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Reciprocal chromosomal translocations producing pathognomonic chimeric fusion proteins: t(X;18)(p11;q11) SS18-SSX in synovial sarcoma, and t(11;22)(q24;q12) EWSR1-FLI1 in Ewing sarcoma.",
+        "explanation": "Ewing sarcoma cells express high levels of surface CD99 (MIC2); liposarcoma is characterized by MDM2 and CDK4 gene amplifications on chromosome 12q that neutralize p53-mediated growth arrest.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ewing sarcoma cells express high levels of surface CD99 (MIC2); liposarcoma is characterized by MDM2 and CDK4 gene amplifications on chromosome 12q that neutralize p53-mediated growth arrest. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Translocation cytogenetics and oncogene fusions in soft tissue sarcomas.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Translocation cytogenetics and oncogene fusions in soft tissue sarcomas."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1965",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Diagnostic imaging and biopsy protocol for suspected extremity soft tissue sa...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 55-year-old male presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Clinical examination confirms painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 125/89 mm Hg, pulse 87/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Contrast-enhanced magnetic resonance imaging (MRI) of the limb followed by image-guided core needle biopsy oriented strictly along the longitudinal axis of the planned definitive resection.",
+        "explanation": "Transverse biopsy incisions contaminate multiple tissue compartments, mandating wider margins or amputation; MRI delineates neurovascular involvement and muscular compartment fascial planes.",
+        "correct": true
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Transverse biopsy incisions contaminate multiple tissue compartments, mandating wider margins or amputation; MRI delineates neurovascular involvement and muscular compartment fascial planes. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Diagnostic imaging and biopsy protocol for suspected extremity soft tissue sa....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Diagnostic imaging and biopsy protocol for suspected extremity soft tissue sa...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1966",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical wide local excision margins for malignant melanoma based on Breslow ...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is initiated for a 73-year-old female who attends the university hospital tertiary referral clinic with prominent manifestations of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside evaluation highlights painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 126/90 mm Hg, pulse 88/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 98%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Excising melanoma in situ with 0.5 cm margins, <= 1.0 mm depth with 1.0 cm margins, 1.01-2.0 mm depth with 1-2 cm margins, and > 2.0 mm depth with 2.0 cm clear margins.",
+        "explanation": "Surgical oncological consensus establishes standardized radial skin excision margins down to muscular fascia; sentinel lymph node biopsy is simultaneously indicated for Breslow thickness >= 1.0 mm (or >= 0.8 mm with ulceration).",
+        "correct": true
+      }
+    ],
+    "explanation": "Surgical oncological consensus establishes standardized radial skin excision margins down to muscular fascia; sentinel lymph node biopsy is simultaneously indicated for Breslow thickness >= 1.0 mm (or >= 0.8 mm with ulceration). In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Surgical wide local excision margins for malignant melanoma based on Breslow ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Surgical wide local excision margins for malignant melanoma based on Breslow ...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1967",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Indications and technique for sentinel lymph node biopsy (SLNB) in cutaneous ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old male with acute clinical decompensation presents to the emergency resuscitation and trauma center for specialized evaluation of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside physical findings reveal painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 127/91 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing dual-agent lymphatic mapping with technetium-99m sulfur colloid and blue dye with SLNB in patients with stage pT1b to pT4b melanoma (Breslow thickness >= 1.0 mm or 0.8-1.0 mm with ulceration).",
+        "explanation": "NICE melanoma guidelines mandate SLNB for accurate regional nodal staging, prognostic stratification, and selection of patients for adjuvant targeted therapy or immunotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE melanoma guidelines mandate SLNB for accurate regional nodal staging, prognostic stratification, and selection of patients for adjuvant targeted therapy or immunotherapy. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Indications and technique for sentinel lymph node biopsy (SLNB) in cutaneous ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Indications and technique for sentinel lymph node biopsy (SLNB) in cutaneous ...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1968",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Limb-sparing surgery with adjuvant radiation therapy in high-grade extremity ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 44-year-old female is transferred by regional emergency medical transport to the intensive care service with clinical findings characteristic of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Physical examination reveals painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 128/68 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Wide local compartmental resection achieving negative surgical margins combined with preoperative or postoperative external beam radiation therapy, providing survival equivalent to amputation.",
+        "explanation": "Limb-salvage protocols preserve functional extremity anatomy while achieving > 85-90% local disease control rates without compromising overall survival compared to radical amputation.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Limb-salvage protocols preserve functional extremity anatomy while achieving > 85-90% local disease control rates without compromising overall survival compared to radical amputation. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Limb-sparing surgery with adjuvant radiation therapy in high-grade extremity ....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Limb-sparing surgery with adjuvant radiation therapy in high-grade extremity ...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1969",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Targeted kinase inhibition for BRAF V600-mutated metastatic melanoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is conducted for a 62-year-old male who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside assessment demonstrates painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 129/69 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Initiating combination targeted therapy with a BRAF inhibitor (dabrafenib) and MEK inhibitor (trametinib) for advanced unresectable or metastatic melanoma harboring BRAF V600E/K mutations.",
+        "explanation": "Dual MAPK pathway inhibition prevents paradoxical reactivation of ERK signaling, producing rapid tumor response rates (> 65-70%) and prolonging progression-free survival compared to monotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dual MAPK pathway inhibition prevents paradoxical reactivation of ERK signaling, producing rapid tumor response rates (> 65-70%) and prolonging progression-free survival compared to monotherapy. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Targeted kinase inhibition for BRAF V600-mutated metastatic melanoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Targeted kinase inhibition for BRAF V600-mutated metastatic melanoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1970",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Surgical margin classification and fascial barrier concepts in sarcoma resection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 80-year-old female presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Clinical examination confirms painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 130/70 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Achieving an R0 resection with a 1-2 cm three-dimensional cuff of normal muscle or an intact resistant fascial/periosteal boundary to minimize local recurrence risk.",
+        "explanation": "Dense collagenous fascia, epineurium, and periosteum serve as natural anatomic barriers to sarcoma infiltration; microscopic positive margins (R1) require re-excision or adjuvant radiation therapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dense collagenous fascia, epineurium, and periosteum serve as natural anatomic barriers to sarcoma infiltration; microscopic positive margins (R1) require re-excision or adjuvant radiation therapy. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Surgical margin classification and fascial barrier concepts in sarcoma resection.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Surgical margin classification and fascial barrier concepts in sarcoma resection."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1971",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Red flag clinical features warranting urgent two-week referral for soft tissu...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is initiated for a 33-year-old male who attends the university hospital tertiary referral clinic with prominent manifestations of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside evaluation highlights painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 131/71 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Any soft tissue mass that is larger than 5 cm in diameter, increasing in size, painful, or situated deep to the deep investing muscular fascia.",
+        "explanation": "Benign lipomas and cysts are typically small and subcutaneous; subfascial location and dimensions > 5 cm indicate high probability of soft tissue sarcoma until proven otherwise.",
+        "correct": true
+      }
+    ],
+    "explanation": "Benign lipomas and cysts are typically small and subcutaneous; subfascial location and dimensions > 5 cm indicate high probability of soft tissue sarcoma until proven otherwise. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Red flag clinical features warranting urgent two-week referral for soft tissu....",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Red flag clinical features warranting urgent two-week referral for soft tissu...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1972",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Histological subtypes and molecular features of liposarcoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female with acute clinical decompensation presents to the emergency resuscitation and trauma center for specialized evaluation of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside physical findings reveal painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 132/72 mm Hg, pulse 94/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Well-differentiated and dedifferentiated liposarcomas characterized by giant marker ring chromosomes containing amplified MDM2 and CDK4 genes; myxoid liposarcoma exhibits t(12;16) FUS-DDIT3 translocation.",
+        "explanation": "Myxoid liposarcomas demonstrate a characteristic 'chicken-wire' delicate plexiform capillary network on histology and have a propensity for non-pulmonary extrapulmonary fat metastasis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Myxoid liposarcomas demonstrate a characteristic 'chicken-wire' delicate plexiform capillary network on histology and have a propensity for non-pulmonary extrapulmonary fat metastasis. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Histological subtypes and molecular features of liposarcoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Histological subtypes and molecular features of liposarcoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1973",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Immune checkpoint inhibition for advanced or unresectable metastatic melanoma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male is transferred by regional emergency medical transport to the intensive care service with clinical findings characteristic of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Physical examination reveals painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 133/73 mm Hg, pulse 95/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering anti-PD-1 monoclonal antibodies (pembrolizumab or nivolumab) alone or in combination with anti-CTLA-4 (ipilimumab) as first-line therapy for metastatic melanoma.",
+        "explanation": "Blocking inhibitory immune checkpoint receptors releases T-cell anti-tumor cytotoxicity, producing durable long-term complete remissions in a significant proportion of advanced melanoma patients.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Blocking inhibitory immune checkpoint receptors releases T-cell anti-tumor cytotoxicity, producing durable long-term complete remissions in a significant proportion of advanced melanoma patients. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Immune checkpoint inhibition for advanced or unresectable metastatic melanoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Immune checkpoint inhibition for advanced or unresectable metastatic melanoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1974",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Retroperitoneal sarcoma presentation and emergency evaluation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is conducted for a 22-year-old female who is evaluated in the acute surgical and procedural diagnostic suite due to suspected Extremity soft tissue sarcoma and malignant cutaneous melanoma. Bedside assessment demonstrates painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 134/74 mm Hg, pulse 96/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 94%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Abdominal-pelvic contrast-enhanced CT demonstrating a massive retroperitoneal soft tissue mass displacing visceral organs without intrinsic gastrointestinal mucosal ulceration.",
+        "explanation": "Retroperitoneal sarcomas grow silently to massive sizes (> 15-20 cm) before presenting with vague flank fullness, lower extremity edema from IVC compression, or acute bowel obstruction.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Retroperitoneal sarcomas grow silently to massive sizes (> 15-20 cm) before presenting with vague flank fullness, lower extremity edema from IVC compression, or acute bowel obstruction. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Retroperitoneal sarcoma presentation and emergency evaluation.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Retroperitoneal sarcoma presentation and emergency evaluation."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1975",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Dermoscopic diagnostic algorithms (ABCDE and 3-point checklist) in melanoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 40-year-old male presenting with progressive functional deterioration presents to the academic tertiary hospital assessment unit requiring urgent clarification of Extremity soft tissue sarcoma and malignant cutaneous melanoma. Clinical examination confirms painless enlarging deep subfascial soft tissue mass > 5 cm in extremity, or asymmetrical pigmented skin lesion with irregular borders, color variation, and diameter > 6 mm (ABCDE criteria). Vital parameters demonstrate blood pressure 135/75 mm Hg, pulse 97/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Applying dermatoscopy to detect asymmetry, atypical pigment network, and blue-white veil, distinguishing early in situ melanoma from benign melanocytic nevi.",
+        "explanation": "Dermoscopic examination significantly enhances diagnostic accuracy compared to naked-eye visual assessment alone, avoiding unnecessary excisions while capturing early thin melanomas.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dermoscopic examination significantly enhances diagnostic accuracy compared to naked-eye visual assessment alone, avoiding unnecessary excisions while capturing early thin melanomas. In the systematic management of Extremity soft tissue sarcoma and malignant cutaneous melanoma, adherence to evidence-based protocols and accredited clinical practice guidelines is essential.",
+    "objective": "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Dermoscopic diagnostic algorithms (ABCDE and 3-point checklist) in melanoma.",
+    "keyPoints": [
+      "Analyze the pathophysiological mechanisms, clinical presentation, and evidence-based management of Extremity soft tissue sarcoma and malignant cutaneous melanoma regarding Dermoscopic diagnostic algorithms (ABCDE and 3-point checklist) in melanoma."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Soft Tissue Sarcoma",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
