@@ -56,3 +56,5 @@ __pycache__/
 
 .playwright-mcp/
 artifacts/
+.swarm/
+.claude-flow/
