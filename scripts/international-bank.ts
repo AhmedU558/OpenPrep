@@ -21,6 +21,10 @@ import { questions as bIntl16 } from '../content/bank/international/batch-intl-1
 import { questions as bIntl17 } from '../content/bank/international/batch-intl-17';
 import { questions as bIntl18 } from '../content/bank/international/batch-intl-18';
 import { questions as bIntl19 } from '../content/bank/international/batch-intl-19';
+import { questions as bIntl20 } from '../content/bank/international/batch-intl-20';
+import { questions as bIntl21 } from '../content/bank/international/batch-intl-21';
+import { questions as bIntl22 } from '../content/bank/international/batch-intl-22';
+import { questions as bIntl23 } from '../content/bank/international/batch-intl-23';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -29,7 +33,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7,
   ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11,
   ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15,
-  ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19
+  ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19,
+  ...bIntl20, ...bIntl21, ...bIntl22, ...bIntl23
 ];
 const dir = 'content/bank/international';
 
@@ -59,6 +64,10 @@ async function main() {
   const v17 = validateBank(bIntl17, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16]);
   const v18 = validateBank(bIntl18, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17]);
   const v19 = validateBank(bIntl19, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18]);
+  const v20 = validateBank(bIntl20, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19]);
+  const v21 = validateBank(bIntl21, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19, ...bIntl20]);
+  const v22 = validateBank(bIntl22, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19, ...bIntl20, ...bIntl21]);
+  const v23 = validateBank(bIntl23, [...b1, ...bIntl1, ...bIntl2, ...bIntl3, ...bIntl4, ...bIntl5, ...bIntl6, ...bIntl7, ...bIntl8, ...bIntl9, ...bIntl10, ...bIntl11, ...bIntl12, ...bIntl13, ...bIntl14, ...bIntl15, ...bIntl16, ...bIntl17, ...bIntl18, ...bIntl19, ...bIntl20, ...bIntl21, ...bIntl22]);
 
   const allErrors = [
     ...v1.errors.map(e => ({ batch: 'intl-01', ...e })),
@@ -80,6 +89,10 @@ async function main() {
     ...v17.errors.map(e => ({ batch: 'intl-17', ...e })),
     ...v18.errors.map(e => ({ batch: 'intl-18', ...e })),
     ...v19.errors.map(e => ({ batch: 'intl-19', ...e })),
+    ...v20.errors.map(e => ({ batch: 'intl-20', ...e })),
+    ...v21.errors.map(e => ({ batch: 'intl-21', ...e })),
+    ...v22.errors.map(e => ({ batch: 'intl-22', ...e })),
+    ...v23.errors.map(e => ({ batch: 'intl-23', ...e })),
   ];
 
   const batches = [
@@ -102,6 +115,10 @@ async function main() {
     { name: 'batch-intl-17', data: bIntl17, errs: v17.errors },
     { name: 'batch-intl-18', data: bIntl18, errs: v18.errors },
     { name: 'batch-intl-19', data: bIntl19, errs: v19.errors },
+    { name: 'batch-intl-20', data: bIntl20, errs: v20.errors },
+    { name: 'batch-intl-21', data: bIntl21, errs: v21.errors },
+    { name: 'batch-intl-22', data: bIntl22, errs: v22.errors },
+    { name: 'batch-intl-23', data: bIntl23, errs: v23.errors },
   ];
 
   const batchReports = [];

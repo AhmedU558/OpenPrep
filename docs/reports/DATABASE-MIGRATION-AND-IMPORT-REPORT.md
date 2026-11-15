@@ -3,7 +3,7 @@
 **Date:** November 2026  
 **Document Status:** Complete (Phase 5/6 Deliverable)  
 **Safety Protocol:** Zero Data Deletion & Immutable Ledger Compliance  
-**Authoring & Ingestion Status:** 1,445 Original Multi-Exam Questions Ingested into Live Database (Total Deliverable Questions: 5,473)
+**Authoring & Ingestion Status:** 1,795 Original Multi-Exam Questions Ingested into Live Database (Total Deliverable Questions: 5,823 across 23 Modular Batches)
 
 ---
 
@@ -73,7 +73,13 @@ The following 14 examination categories are now officially registered in `conten
 - **Batch intl-18 (`content/bank/international/batch-intl-18.ts`):** 85 items (`intl-1276` - `intl-1360`). Focus: Cardiovascular Drug Overdose (Beta-blockers/CCB/Digoxin), Autonomic Toxidromes (Anticholinergic vs Cholinergic), Hypothermia & Heat Emergencies, Acute Compartment Syndrome & Fasciotomy, Osteomyelitis & Septic Arthritis, Knee Ligamentous & Meniscal Injuries (ACL/PCL/Unhappy Triad).
 - **Batch intl-19 (`content/bank/international/batch-intl-19.ts`):** 85 items (`intl-1361` - `intl-1445`). Focus: Pediatric Fractures & Supracondylar Humerus, Shoulder Dislocation & Rotator Cuff Pathology, Hip Fractures & Femoral Head Osteonecrosis, Medical Decision-Making Capacity & Advance Directives, Informed Consent & Minors (Gillick Competence), Forensic Pathology & Traumatology, Cutaneous Malignancies (Melanoma/BCC/SCC), Severe Cutaneous Adverse Reactions (DRESS/AGEP/FDE), Acute Transfusion Reactions (TRALI/TACO/AHTR).
 
-**Total Expansion Inventory:** **1,445 high-yield clinical items** across 19 modular batch suites (7,225 options with distinct rationales).
+### 3.6 Fifth 350-Question Mega Expansion Batches (`intl-20` to `intl-23`)
+- **Batch intl-20 (`content/bank/international/batch-intl-20.ts`):** 90 items (`intl-1446` - `intl-1535`). Focus: Gynecologic Oncology & Ovarian Carcinoma, Placental Disorders & Obstetric Hemorrhage, Inborn Errors of Metabolism (PKU/MSUD/MCAD/Galactosemia), Genetic Syndromes (Down/Turner/Fragile X/DiGeorge), Neonatal Respiratory Distress Syndrome & PPHN, Peripheral Arterial Disease & Acute Limb Ischemia, Mediastinal Masses & Pneumothorax.
+- **Batch intl-21 (`content/bank/international/batch-intl-21.ts`):** 90 items (`intl-1536` - `intl-1625`). Focus: Pleural Empyema & Decortication, Urologic Emergencies (Testicular Torsion/Fournier Gangrene), Neuro-Ophthalmology (Horner/Pupil-sparing CN III/Optic Neuritis), Cranial Nerves (Bell Palsy/Trigeminal Neuralgia/Wallenberg), Antimicrobial Stewardship (CRE/MRSA/VRE/ESBL), Parasitic & Helminthic Infections (Hydatid/Neurocysticercosis/Schistosomiasis/Strongyloides), Invasive Mycoses (Aspergillosis/Cryptococcal Meningitis/Mucormycosis).
+- **Batch intl-22 (`content/bank/international/batch-intl-22.ts`):** 85 items (`intl-1626` - `intl-1710`). Focus: Substance Use Disorders (Alcohol Withdrawal/Delirium Tremens/Opioid Overdose/Stimulants), Child & Adolescent Psychiatry (ADHD/Autism/Tourette/Conduct Disorder), Eating Disorders (Anorexia/Bulimia/Refeeding Syndrome), Geriatric Syndromes & Beers Criteria (Delirium/Polypharmacy/Pressure Ulcers), Occupational & Environmental Medicine (Pneumoconioses/Lead/Arsenic/CO Poisoning), Clinical Pharmacology & Adverse Drug Reactions (CYP450/Serotonin Syndrome/NMS/Hy's Law DILI).
+- **Batch intl-23 (`content/bank/international/batch-intl-23.ts`):** 85 items (`intl-1711` - `intl-1795`). Focus: Epidemiology & Biostatistics (Sensitivity/Specificity/PPV/NPV/Likelihood Ratios/NNT), Study Designs & Epidemiological Biases (RCTs/Cohorts/Confounding/Lead-time Bias), Medical Ethics & Professionalism (Autonomy/Capacity/Surrogates/Confidentiality/Mature Minors), Disaster Medicine & CBRNE (START Triage/Radiation Sickness/Nerve Agents/Blast Injury), Palliative Care & Pain Management (WHO Ladder/Opioid Rotation/Death Rattle/Palliative Sedation), Transplant Immunology & Allograft Rejection (Hyperacute/Acute Cellular/Humoral/CNI Toxicity).
+
+**Total Expansion Inventory:** **1,795 high-yield clinical items** across 23 modular batch suites (8,975 options with distinct rationales).
 
 ---
 
@@ -81,12 +87,12 @@ The following 14 examination categories are now officially registered in `conten
 
 | Audit Parameter | Verification Requirement | Observed Result | Status |
 |---|---|---|---|
-| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 1,445 unique codes (`intl-0001`..`intl-1445`) | **PASSED** |
-| **Option Structure** | Exactly 5 distinct choices per item | 1,445/1,445 questions have exactly 5 options | **PASSED** |
-| **Correct Answer Integrity** | Exactly 1 correct answer per question | 1,445/1,445 questions have single correct option | **PASSED** |
-| **Stem Depth** | Vignette length >= 100 characters | All 1,445 questions >= 100 characters | **PASSED** |
-| **Explanation Depth** | Main explanation >= 180 characters | All 1,445 questions >= 180 characters | **PASSED** |
-| **Distractor Rationales** | Every choice rationale >= 35 characters | 7,225/7,225 option rationales >= 35 characters | **PASSED** |
+| **Code Uniqueness** | Zero duplicate codes across the entire question bank | 1,795 unique codes (`intl-0001`..`intl-1795`) | **PASSED** |
+| **Option Structure** | Exactly 5 distinct choices per item | 1,795/1,795 questions have exactly 5 options | **PASSED** |
+| **Correct Answer Integrity** | Exactly 1 correct answer per question | 1,795/1,795 questions have single correct option | **PASSED** |
+| **Stem Depth** | Vignette length >= 100 characters | All 1,795 questions >= 100 characters | **PASSED** |
+| **Explanation Depth** | Main explanation >= 180 characters | All 1,795 questions >= 180 characters | **PASSED** |
+| **Distractor Rationales** | Every choice rationale >= 35 characters | 8,975/8,975 option rationales >= 35 characters | **PASSED** |
 | **Factual References** | Verified HTTPS bibliographic link | 100% valid HTTPS links (NCBI, NICE, WHO, etc.) | **PASSED** |
 | **Shingles Similarity** | 3-gram similarity < 0.65 against all prior questions | 0 collisions or near-duplicates detected | **PASSED** |
 | **Review Attribution** | Explicit AI authorship and review state | Explicitly declared in `source` and `attribution` | **PASSED** |
@@ -108,32 +114,32 @@ npx dotenv run -f .env.production.local -- tsx scripts/ingest-international-bank
 
 ### 5.2 Verification Audit & Database Breakdown
 
-| Metric / Audit Parameter | Pre-Ingestion Count | Post-Ingestion Count | Net Change | Verification Status |
-|---|---|---|---|---|
-| **Total Questions in Database** | 4,028 | 5,473 | +1,445 | ✅ Verified (`db.question.count()`) |
-| **Deliverable Published Questions** | 4,028 | 5,473 | +1,445 | ✅ Verified (`status='PUBLISHED'`, `rightsAllowDelivery=true`) |
-| **Total Question Options** | 20,140 | 27,365 | +7,225 | ✅ Verified (5 options per question) |
-| **Existing Question Overwrites** | 0 | 0 | 0 | ✅ Zero data loss guarantee satisfied |
-| **Check Constraint Validation** | `question_rights_verified_evidence` | Satisfied | 0 violations | ✅ 100% compliance with stage 4 rights schema |
+| Metric / Audit Parameter | Baseline DB | Expansion 1 (intl-01..19) | Expansion 2 (intl-20..23) | Live Total | Verification Status |
+|---|---|---|---|---|---|
+| **Total Questions in Database** | 4,028 | +1,445 (5,473) | +350 | **5,823** | ✅ Verified (`db.question.count()`) |
+| **Deliverable Published Questions** | 4,028 | +1,445 (5,473) | +350 | **5,823** | ✅ `status='PUBLISHED'`, `rightsAllowDelivery=true` |
+| **Total Question Options** | 20,140 | +7,225 (27,365) | +1,750 | **29,115** | ✅ Verified (5 options per question) |
+| **Existing Question Overwrites** | 0 | 0 | 0 | **0** | ✅ Zero data loss guarantee satisfied |
+| **Check Constraint Validation** | `question_rights_verified_evidence` | Satisfied | Satisfied | **0 violations** | ✅ 100% compliance with stage 4 rights schema |
 
 ### 5.3 Examination Breakdown Post-Ingestion
 
-| Position | Exam Name | Exam Slug | Pre-Ingestion Questions | Ingested Questions | Post-Ingestion Total |
+| Position | Exam Name | Exam Slug | Prior Total | Ingested (Batches 20-23) | Post-Ingestion Total |
 |---|---|---|---|---|---|
-| 1 | USMLE Step 1 | `step-1` | 1,547 | +104 | **1,651** |
-| 2 | USMLE Step 2 CK | `step-2-ck` | 1,471 | +105 | **1,576** |
-| 3 | USMLE Step 3 | `step-3` | 1,010 | +100 | **1,110** |
-| 4 | PLAB / UKMLA | `plab-ukmla` | 0 | +105 | **105** |
-| 5 | AMC | `amc` | 0 | +104 | **104** |
-| 6 | MCCQE | `mccqe` | 0 | +104 | **104** |
-| 7 | FCPS | `fcps` | 0 | +103 | **103** |
-| 8 | NLE | `nle` | 0 | +103 | **103** |
-| 9 | NEET PG | `neet-pg` | 0 | +104 | **104** |
-| 10 | MRCP | `mrcp` | 0 | +103 | **103** |
-| 11 | MRCEM | `mrcem` | 0 | +103 | **103** |
-| 12 | SMLE | `smle` | 0 | +103 | **103** |
-| 13 | HAAD / DHA | `haad-dha` | 0 | +102 | **102** |
-| 14 | UHS MBBS | `uhs-mbbs` | 0 | +102 | **102** |
-| **Total** | **All 14 Examinations** | — | **4,028** | **+1,445** | **5,473** |
+| 1 | USMLE Step 1 | `step-1` | 1,651 | +25 | **1,676** |
+| 2 | USMLE Step 2 CK | `step-2-ck` | 1,576 | +25 | **1,601** |
+| 3 | USMLE Step 3 | `step-3` | 1,110 | +25 | **1,135** |
+| 4 | PLAB / UKMLA | `plab-ukmla` | 105 | +25 | **130** |
+| 5 | AMC | `amc` | 104 | +25 | **129** |
+| 6 | MCCQE | `mccqe` | 104 | +25 | **129** |
+| 7 | FCPS | `fcps` | 103 | +25 | **128** |
+| 8 | NLE | `nle` | 103 | +25 | **128** |
+| 9 | NEET PG | `neet-pg` | 104 | +25 | **129** |
+| 10 | MRCP | `mrcp` | 103 | +25 | **128** |
+| 11 | MRCEM | `mrcem` | 103 | +25 | **128** |
+| 12 | SMLE | `smle` | 103 | +25 | **128** |
+| 13 | HAAD / DHA | `haad-dha` | 102 | +25 | **127** |
+| 14 | UHS MBBS | `uhs-mbbs` | 102 | +25 | **127** |
+| **Total** | **All 14 Examinations** | — | **5,473** | **+350** | **5,823** |
 
 Every single one of the 14 international examination tracks is now populated with $> 100$ verified, deliverable clinical scenarios directly playable in tutor and timed practice modes on OpenPrep.

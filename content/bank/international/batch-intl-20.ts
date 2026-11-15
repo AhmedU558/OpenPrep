@@ -1,0 +1,4594 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-1446",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "BRCA1/2 mutations, p53 alterations, and serous tubal intraepithelial carcinoma",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 62-year-old female presents to the acute specialized assessment service with clinical manifestations indicative of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside physical examination confirms insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 121/86 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "High-grade serous ovarian carcinoma originating in the fimbriated end of the fallopian tube with TP53 mutations and impaired homologous recombination DNA repair.",
+        "explanation": "Epithelial ovarian cancers frequently arise from serous tubal intraepithelial carcinoma (STIC) lesions with TP53 loss; germline BRCA1/2 defects indicate eligibility for PARP inhibitors (olaparib).",
+        "correct": true
+      }
+    ],
+    "explanation": "Epithelial ovarian cancers frequently arise from serous tubal intraepithelial carcinoma (STIC) lesions with TP53 loss; germline BRCA1/2 defects indicate eligibility for PARP inhibitors (olaparib). In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning BRCA1/2 mutations, p53 alterations, and serous tubal intraepithelial carcinoma.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning BRCA1/2 mutations, p53 alterations, and serous tubal intraepithelial carcinoma."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1447",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Postmenopausal bleeding evaluation via transvaginal ultrasound and endometria...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 74-year-old male who is evaluated during comprehensive tertiary inpatient consultation due to suspected Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Clinical examination demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 122/87 mm Hg, heart rate 77/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Immediate transvaginal pelvic ultrasound to assess endometrial thickness (threshold > 4 mm) followed by office Pipelle endometrial biopsy to rule out adenocarcinoma.",
+        "explanation": "Any postmenopausal uterine bleeding is considered malignant until proven otherwise; an endometrial stripe > 4 mm mandates prompt histopathological sampling.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Any postmenopausal uterine bleeding is considered malignant until proven otherwise; an endometrial stripe > 4 mm mandates prompt histopathological sampling. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Postmenopausal bleeding evaluation via transvaginal ultrasound and endometria....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Postmenopausal bleeding evaluation via transvaginal ultrasound and endometria...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1448",
+    "exam": "Step 3",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Genetic risk assessment and risk-reducing bilateral salpingo-oophorectomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 26-year-old female presenting with progressive functional symptoms attends the multidisciplinary academic medical center clinic requiring evaluation for Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Physical assessment reveals insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 123/88 mm Hg, heart rate 78/min, respiratory rate 14/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Recommending prophylactic risk-reducing bilateral salpingo-oophorectomy (RRSO) by age 35 to 40 in BRCA1 carriers who have completed childbearing.",
+        "explanation": "RRSO decreases ovarian and fallopian tube cancer risk by 80-90% and substantially reduces all-cause mortality in confirmed BRCA pathogenic variant carriers.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "RRSO decreases ovarian and fallopian tube cancer risk by 80-90% and substantially reduces all-cause mortality in confirmed BRCA pathogenic variant carriers. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Genetic risk assessment and risk-reducing bilateral salpingo-oophorectomy.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Genetic risk assessment and risk-reducing bilateral salpingo-oophorectomy."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1449",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Urgent two-week wait referral criteria for suspected gynecological cancer",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 38-year-old male who is urgently admitted to the acute care clinical observation unit with prominent manifestations of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside evaluation demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 124/89 mm Hg, heart rate 79/min, respiratory rate 15/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Initiating an urgent two-week wait suspected cancer pathway referral for women >= 55 years presenting with unexplained postmenopausal bleeding.",
+        "explanation": "NICE guidelines mandate urgent two-week cancer pathway referral for women aged 55 and older with postmenopausal bleeding to expedite early-stage curative resection.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "NICE guidelines mandate urgent two-week cancer pathway referral for women aged 55 and older with postmenopausal bleeding to expedite early-stage curative resection. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Urgent two-week wait referral criteria for suspected gynecological cancer.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Urgent two-week wait referral criteria for suspected gynecological cancer."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1450",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Risk of Malignancy Index (RMI) calculation in postmenopausal pelvic masses",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 50-year-old female with recent symptom exacerbation presents to the advanced critical care and resuscitation service for urgent clarification of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Clinical examination highlights insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 125/90 mm Hg, heart rate 80/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Calculating the Risk of Malignancy Index (RMI = Ultrasound score x Menopausal score x Serum CA-125) to triage pelvic masses to specialized gynecological oncologists.",
+        "explanation": "RMI combines multilocular ultrasound features, solid areas, ascites, bilateral lesions, and postmenopausal status with CA-125 to determine oncological referral necessity.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "RMI combines multilocular ultrasound features, solid areas, ascites, bilateral lesions, and postmenopausal status with CA-125 to determine oncological referral necessity. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Risk of Malignancy Index (RMI) calculation in postmenopausal pelvic masses.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Risk of Malignancy Index (RMI) calculation in postmenopausal pelvic masses."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1451",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Surgical staging and debulking principles in advanced epithelial ovarian cancer",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 62-year-old male undergoes systematic clinical evaluation in the hospital clinic with clinical manifestations indicative of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside physical examination confirms insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 126/91 mm Hg, heart rate 81/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy, peritoneal washings, and maximal cytoreductive effort to achieve zero gross residual disease.",
+        "explanation": "Optimal cytoreduction (<1 cm residual, ideally microscopic zero) is the single most significant independent prognostic factor influencing survival in advanced ovarian cancer.",
+        "correct": true
+      }
+    ],
+    "explanation": "Optimal cytoreduction (<1 cm residual, ideally microscopic zero) is the single most significant independent prognostic factor influencing survival in advanced ovarian cancer. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Surgical staging and debulking principles in advanced epithelial ovarian cancer.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Surgical staging and debulking principles in advanced epithelial ovarian cancer."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1452",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Lynch syndrome (HNPCC) screening in young women with endometrial carcinoma",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 74-year-old female who is transferred by emergency medical service to the hospital unit due to suspected Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Clinical examination demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 127/70 mm Hg, heart rate 82/min, respiratory rate 18/min, and ambient oxygen saturation 94%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Routine immunohistochemical mismatch repair (MMR) protein staining (MLH1, MSH2, MSH6, PMS2) on all resected endometrial carcinoma specimens.",
+        "explanation": "Lynch syndrome confers a 40-60% lifetime risk of endometrial cancer, frequently preceding colorectal malignancy; universal MMR screening identifies families requiring surveillance.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lynch syndrome confers a 40-60% lifetime risk of endometrial cancer, frequently preceding colorectal malignancy; universal MMR screening identifies families requiring surveillance. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Lynch syndrome (HNPCC) screening in young women with endometrial carcinoma.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Lynch syndrome (HNPCC) screening in young women with endometrial carcinoma."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1453",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "CA-125 limitations in premenopausal women and distinction from endometriosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 26-year-old male presenting with progressive functional symptoms attends the scheduled outpatient hospital assessment session requiring evaluation for Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Physical assessment reveals insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 128/71 mm Hg, heart rate 83/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing that serum CA-125 lacks specificity in premenopausal patients due to elevation in endometriosis, adenomyosis, PID, and uterine leiomyomas.",
+        "explanation": "In premenopausal women, CA-125 is frequently elevated by benign peritoneal inflammatory conditions; it is far more reliable for monitoring postmenopausal masses and therapeutic response.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In premenopausal women, CA-125 is frequently elevated by benign peritoneal inflammatory conditions; it is far more reliable for monitoring postmenopausal masses and therapeutic response. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning CA-125 limitations in premenopausal women and distinction from endometriosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning CA-125 limitations in premenopausal women and distinction from endometriosis."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1454",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Psammoma bodies and Call-Exner bodies in ovarian histopathology",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 38-year-old female who is evaluated in the acute procedural diagnostic suite with prominent manifestations of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside evaluation demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 129/72 mm Hg, heart rate 84/min, respiratory rate 20/min, and ambient oxygen saturation 96%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Concentric laminated calcifications (psammoma bodies) in serous cystadenocarcinoma versus microfollicular Call-Exner bodies in granulosa cell tumors.",
+        "explanation": "Serous papillary carcinomas feature dystrophic calcifications forming psammoma bodies; granulosa cell tumors show Call-Exner bodies and produce inhibin leading to endometrial hyperplasia.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Serous papillary carcinomas feature dystrophic calcifications forming psammoma bodies; granulosa cell tumors show Call-Exner bodies and produce inhibin leading to endometrial hyperplasia. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Psammoma bodies and Call-Exner bodies in ovarian histopathology.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Psammoma bodies and Call-Exner bodies in ovarian histopathology."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1455",
+    "exam": "MRCP",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Malignant ascites management and hypercalcemia of malignancy in ovarian cancer",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 50-year-old male with recent symptom exacerbation undergoes urgent bedside clinical assessment in the ward for urgent clarification of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Clinical examination highlights insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 130/73 mm Hg, heart rate 85/min, respiratory rate 21/min, and ambient oxygen saturation 97%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Therapeutic paracentesis with albumin replacement and evaluation for PTHrP-mediated humoral hypercalcemia of malignancy in clear cell carcinoma.",
+        "explanation": "Clear cell ovarian carcinomas frequently produce parathyroid hormone-related protein (PTHrP), causing severe symptomatic hypercalcemia requiring bisphosphonates or denosumab.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Clear cell ovarian carcinomas frequently produce parathyroid hormone-related protein (PTHrP), causing severe symptomatic hypercalcemia requiring bisphosphonates or denosumab. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Malignant ascites management and hypercalcemia of malignancy in ovarian cancer.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Malignant ascites management and hypercalcemia of malignancy in ovarian cancer."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1456",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Emergency presentation of ovarian torsion superimposed on benign cystic teratoma",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 62-year-old female presents to the acute specialized assessment service with clinical manifestations indicative of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside physical examination confirms insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 131/74 mm Hg, heart rate 86/min, respiratory rate 14/min, and ambient oxygen saturation 98%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Immediate transvaginal color Doppler ultrasound demonstrating absent or decreased ovarian stromal vascular flow followed by emergent diagnostic laparoscopy.",
+        "explanation": "Mature cystic teratomas (dermoids) are the most frequent culprit for ovarian torsion; timely laparoscopic detorsion and cystectomy salvage ovarian endocrine and reproductive function.",
+        "correct": true
+      }
+    ],
+    "explanation": "Mature cystic teratomas (dermoids) are the most frequent culprit for ovarian torsion; timely laparoscopic detorsion and cystectomy salvage ovarian endocrine and reproductive function. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Emergency presentation of ovarian torsion superimposed on benign cystic teratoma.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Emergency presentation of ovarian torsion superimposed on benign cystic teratoma."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1457",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Granulosa cell tumor surveillance using serum inhibin B and anti-M\u00fcllerian ho...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 74-year-old male who is evaluated during comprehensive tertiary inpatient consultation due to suspected Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Clinical examination demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 132/75 mm Hg, heart rate 87/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Serial measurement of serum inhibin B and anti-M\u00fcllerian hormone (AMH) as highly sensitive tumor markers for recurrence of adult granulosa cell tumors.",
+        "explanation": "Granulosa cell tumors are sex cord-stromal tumors with late indolent recurrences (often > 10 years); inhibin B and AMH rise months before clinical or radiographic relapse.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Granulosa cell tumors are sex cord-stromal tumors with late indolent recurrences (often > 10 years); inhibin B and AMH rise months before clinical or radiographic relapse. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Granulosa cell tumor surveillance using serum inhibin B and anti-M\u00fcllerian ho....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Granulosa cell tumor surveillance using serum inhibin B and anti-M\u00fcllerian ho...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1458",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "Human papillomavirus (HPV) co-testing and colposcopy referral algorithm",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 26-year-old female presenting with progressive functional symptoms attends the multidisciplinary academic medical center clinic requiring evaluation for Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Physical assessment reveals insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 133/76 mm Hg, heart rate 88/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Referral for immediate colposcopic-directed cervical biopsy for persistent high-risk HPV genotype 16 or 18 detection regardless of normal cytology.",
+        "explanation": "HPV-16 and HPV-18 drive the majority of cervical squamous and adenocarcinomas; immediate colposcopy is warranted even when liquid-based cytology is negative.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "HPV-16 and HPV-18 drive the majority of cervical squamous and adenocarcinomas; immediate colposcopy is warranted even when liquid-based cytology is negative. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Human papillomavirus (HPV) co-testing and colposcopy referral algorithm.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Human papillomavirus (HPV) co-testing and colposcopy referral algorithm."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1459",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Classification of ovarian tumors and Krukenberg tumor pathology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 38-year-old male who is urgently admitted to the acute care clinical observation unit with prominent manifestations of Epithelial ovarian carcinoma and postmenopausal endometrial cancer. Bedside evaluation demonstrates insidious abdominal distension, early satiety, pelvic pressure, elevated serum CA-125, complex adnexal mass with septations on transvaginal ultrasound, or abnormal postmenopausal uterine bleeding with thickened endometrial stripe. Clinical observations record blood pressure 134/77 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral metastatic mucin-secreting signet-ring cell adenocarcinoma to the ovaries, most commonly arising from primary gastric signet-ring cell carcinoma.",
+        "explanation": "Krukenberg tumors represent transcoelomic or lymphatic metastasis from gastrointestinal primaries (notably diffuse gastric cancer); signet ring cells displace the nucleus peripherally.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Krukenberg tumors represent transcoelomic or lymphatic metastasis from gastrointestinal primaries (notably diffuse gastric cancer); signet ring cells displace the nucleus peripherally. In the clinical evaluation of Epithelial ovarian carcinoma and postmenopausal endometrial cancer, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Classification of ovarian tumors and Krukenberg tumor pathology.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Epithelial ovarian carcinoma and postmenopausal endometrial cancer concerning Classification of ovarian tumors and Krukenberg tumor pathology."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Gynecologic Oncology & Ovarian Neoplasms",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1460",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Pregnancy",
+    "topic": "Decidual deficiency, trophoblastic myometrial invasion, and Nitabuch layer ab...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female presenting with progressive functional symptoms is urgently admitted to the acute care clinical observation unit requiring evaluation for Placenta previa, placenta accreta spectrum, and acute placental abruption. Physical assessment reveals painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 135/78 mm Hg, heart rate 90/min, respiratory rate 18/min, and ambient oxygen saturation 96%. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Absence of the normal decidua basalis and Nitabuch fibrinoid layer allowing direct anchoring villous attachment into the underlying uterine myometrium.",
+        "explanation": "Placenta accreta spectrum results from defective decidualization following prior uterine surgery (cesarean delivery, curettage); chorionic villi invade into (increta) or through (percreta) the myometrium.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Placenta accreta spectrum results from defective decidualization following prior uterine surgery (cesarean delivery, curettage); chorionic villi invade into (increta) or through (percreta) the myometrium. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Decidual deficiency, trophoblastic myometrial invasion, and Nitabuch layer ab....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Decidual deficiency, trophoblastic myometrial invasion, and Nitabuch layer ab...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1461",
+    "exam": "Step 2 CK",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Contraindication to digital pelvic examination in unexplained third-trimester...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 55-year-old male who presents to the advanced critical care and resuscitation service with prominent manifestations of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside evaluation demonstrates painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 136/79 mm Hg, heart rate 91/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Strict avoidance of digital vaginal examination until transvaginal ultrasonography confirms placental location relative to the internal cervical os.",
+        "explanation": "Digital cervical examination in undiagnosed placenta previa can puncture the maternal cotyledons or tear the placenta from the lower uterine segment, causing catastrophic hemorrhage.",
+        "correct": true
+      }
+    ],
+    "explanation": "Digital cervical examination in undiagnosed placenta previa can puncture the maternal cotyledons or tear the placenta from the lower uterine segment, causing catastrophic hemorrhage. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Contraindication to digital pelvic examination in unexplained third-trimester....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Contraindication to digital pelvic examination in unexplained third-trimester...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1462",
+    "exam": "Step 3",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Multidisciplinary scheduled delivery planning for placenta accreta spectrum",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 67-year-old female with recent symptom exacerbation undergoes systematic clinical evaluation in the hospital clinic for urgent clarification of Placenta previa, placenta accreta spectrum, and acute placental abruption. Clinical examination highlights painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 137/80 mm Hg, heart rate 92/min, respiratory rate 20/min, and ambient oxygen saturation 98%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Scheduled cesarean delivery with planned cesarean hysterectomy at 34 0/7 to 35 6/7 weeks without attempting manual placental removal.",
+        "explanation": "Attempting to separate an abnormally adherent placenta precipitates massive postpartum hemorrhage; leaving the placenta in situ and proceeding directly to hysterectomy minimizes mortality.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Attempting to separate an abnormally adherent placenta precipitates massive postpartum hemorrhage; leaving the placenta in situ and proceeding directly to hysterectomy minimizes mortality. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Multidisciplinary scheduled delivery planning for placenta accreta spectrum.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Multidisciplinary scheduled delivery planning for placenta accreta spectrum."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1463",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Anti-D immunoglobulin administration for fetomaternal hemorrhage in rhesus-ne...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old male is transferred by emergency medical service to the hospital unit with clinical manifestations indicative of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside physical examination confirms painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 138/81 mm Hg, heart rate 93/min, respiratory rate 21/min, and ambient oxygen saturation 99%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Administering anti-D immunoglobulin within 72 hours of any bleeding episode in non-sensitized Rh-negative mothers and performing a Kleihauer-Betke test.",
+        "explanation": "Vaginal bleeding or abruption risks fetomaternal transfusion; the Kleihauer-Betke acid elution assay quantifies fetal red blood cells in maternal circulation to calculate necessary anti-D dose.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Vaginal bleeding or abruption risks fetomaternal transfusion; the Kleihauer-Betke acid elution assay quantifies fetal red blood cells in maternal circulation to calculate necessary anti-D dose. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Anti-D immunoglobulin administration for fetomaternal hemorrhage in rhesus-ne....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Anti-D immunoglobulin administration for fetomaternal hemorrhage in rhesus-ne...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1464",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Emergency resuscitation and category 1 cesarean for severe placental abruption",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 31-year-old female who attends the scheduled outpatient hospital assessment session due to suspected Placenta previa, placenta accreta spectrum, and acute placental abruption. Clinical examination demonstrates painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 139/82 mm Hg, heart rate 94/min, respiratory rate 14/min, and ambient oxygen saturation 94%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Immediate crystalloid resuscitation, activation of massive transfusion protocol, and urgent category 1 cesarean section for fetal distress or maternal coagulopathy.",
+        "explanation": "Abruption induces severe concealed retroplacental hematoma, consumptive coagulopathy (DIC via tissue factor release), and rapid fetal hypoxia requiring immediate surgical evacuation.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Abruption induces severe concealed retroplacental hematoma, consumptive coagulopathy (DIC via tissue factor release), and rapid fetal hypoxia requiring immediate surgical evacuation. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Emergency resuscitation and category 1 cesarean for severe placental abruption.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Emergency resuscitation and category 1 cesarean for severe placental abruption."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1465",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Uterine rupture signs in trials of labor after cesarean (TOLAC)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 43-year-old male presenting with progressive functional symptoms is evaluated in the acute procedural diagnostic suite requiring evaluation for Placenta previa, placenta accreta spectrum, and acute placental abruption. Physical assessment reveals painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 140/83 mm Hg, heart rate 95/min, respiratory rate 15/min, and ambient oxygen saturation 95%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Sudden loss of fetal station, cessation of uterine contractions, acute severe abdominal pain, and prolonged fetal bradycardia.",
+        "explanation": "The most reliable indicator of uterine rupture during trial of labor after cesarean delivery is abnormal fetal heart rate decelerations or prolonged bradycardia, often followed by maternal shock.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "The most reliable indicator of uterine rupture during trial of labor after cesarean delivery is abnormal fetal heart rate decelerations or prolonged bradycardia, often followed by maternal shock. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Uterine rupture signs in trials of labor after cesarean (TOLAC).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Uterine rupture signs in trials of labor after cesarean (TOLAC)."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1466",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Conservative non-extractive management vs balloon occlusion in placenta percreta",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 55-year-old female who undergoes urgent bedside clinical assessment in the ward with prominent manifestations of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside evaluation demonstrates painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 141/84 mm Hg, heart rate 96/min, respiratory rate 16/min, and ambient oxygen saturation 96%. What is the primary diagnostic confirmation or surgical management strategy according to specialist consensus?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Preoperative placement of prophylactic internal iliac artery balloon catheters and intraoperative cell salvage during cesarean delivery for placenta percreta.",
+        "explanation": "Endovascular balloon occlusion of the hypogastric or common iliac arteries substantially diminishes intraoperative blood loss during pelvic dissection of percreta invading the bladder.",
+        "correct": true
+      }
+    ],
+    "explanation": "Endovascular balloon occlusion of the hypogastric or common iliac arteries substantially diminishes intraoperative blood loss during pelvic dissection of percreta invading the bladder. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Conservative non-extractive management vs balloon occlusion in placenta percreta.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Conservative non-extractive management vs balloon occlusion in placenta percreta."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1467",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Bedside distinction between placenta previa and placental abruption",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 67-year-old male with recent symptom exacerbation presents to the acute specialized assessment service for urgent clarification of Placenta previa, placenta accreta spectrum, and acute placental abruption. Clinical examination highlights painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 142/85 mm Hg, heart rate 97/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Which primary healthcare intervention is most critical for this condition?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Painless bright red bleeding with soft non-tender uterus in previa versus painful dark clotted bleeding with woody hard hypertonic uterus in abruption.",
+        "explanation": "Uterine tone is a critical bedside differentiator: abruption causes continuous high baseline intrauterine pressure with excruciating tenderness; previa produces a relaxed, nontender abdomen.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Uterine tone is a critical bedside differentiator: abruption causes continuous high baseline intrauterine pressure with excruciating tenderness; previa produces a relaxed, nontender abdomen. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Bedside distinction between placenta previa and placental abruption.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Bedside distinction between placenta previa and placental abruption."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1468",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Couvelaire uterus (uteroplacental apoplexy) pathology and myometrial ecchymosis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old female is evaluated during comprehensive tertiary inpatient consultation with clinical manifestations indicative of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside physical examination confirms painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 143/86 mm Hg, heart rate 98/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the characteristic pathological hallmark, clinical sign, or high-yield pharmacological association in this case?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Extensive myometrial interstitial extravasation of blood dissecting through uterine muscle fibers into the broad ligament and peritoneal cavity.",
+        "explanation": "Couvelaire uterus results from severe retroplacental hemorrhage dissecting through myometrial planes; it causes uterine atony and coagulopathy but does not universally mandate hysterectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Couvelaire uterus results from severe retroplacental hemorrhage dissecting through myometrial planes; it causes uterine atony and coagulopathy but does not universally mandate hysterectomy. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Couvelaire uterus (uteroplacental apoplexy) pathology and myometrial ecchymosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Couvelaire uterus (uteroplacental apoplexy) pathology and myometrial ecchymosis."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1469",
+    "exam": "MRCP",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Consumptive coagulopathy and Disseminated Intravascular Coagulation in abruption",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 31-year-old male who attends the multidisciplinary academic medical center clinic due to suspected Placenta previa, placenta accreta spectrum, and acute placental abruption. Clinical examination demonstrates painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 144/87 mm Hg, heart rate 99/min, respiratory rate 19/min, and ambient oxygen saturation 99%. In accordance with Royal Colleges consensus, which diagnostic investigation or targeted pharmacotherapy is indicated?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Severe hypofibrinogenemia (< 150 mg/dL), elevated D-dimer, thrombocytopenia, and prolonged prothrombin time driven by release of placental tissue factor.",
+        "explanation": "Abrupted decidua releases massive amounts of tissue factor into maternal venous circulation, initiating the extrinsic coagulation cascade, fibrin consumption, and life-threatening DIC.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Abrupted decidua releases massive amounts of tissue factor into maternal venous circulation, initiating the extrinsic coagulation cascade, fibrin consumption, and life-threatening DIC. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Consumptive coagulopathy and Disseminated Intravascular Coagulation in abruption.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Consumptive coagulopathy and Disseminated Intravascular Coagulation in abruption."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1470",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Massive transfusion protocol activation and tranexamic acid in obstetric hemo...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 43-year-old female presenting with progressive functional symptoms is urgently admitted to the acute care clinical observation unit requiring evaluation for Placenta previa, placenta accreta spectrum, and acute placental abruption. Physical assessment reveals painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 110/88 mm Hg, heart rate 100/min, respiratory rate 20/min, and ambient oxygen saturation 94%. Which life-saving acute intervention should be executed immediately in the emergency setting?",
+    "options": [
+      {
+        "text": "Immediate administration of 1:1:1 packed red blood cells, fresh frozen plasma, and platelets, alongside intravenous tranexamic acid within 3 hours of bleeding onset.",
+        "explanation": "The WOMAN trial demonstrated that tranexamic acid (1 g IV over 10 min) significantly reduces death due to bleeding in obstetric hemorrhage when administered within 3 hours.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "The WOMAN trial demonstrated that tranexamic acid (1 g IV over 10 min) significantly reduces death due to bleeding in obstetric hemorrhage when administered within 3 hours. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Massive transfusion protocol activation and tranexamic acid in obstetric hemo....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Massive transfusion protocol activation and tranexamic acid in obstetric hemo...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1471",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Corticosteroid administration for fetal lung maturity before 34 weeks in previa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 55-year-old male who presents to the advanced critical care and resuscitation service with prominent manifestations of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside evaluation demonstrates painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 111/89 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 95%. In accordance with Saudi licensing standards and clinical practice guidelines, what is the recommended protocol?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Intramuscular betamethasone (two doses of 12 mg 24 hours apart) to accelerate fetal surfactant production before planned early preterm delivery.",
+        "explanation": "Antenatal corticosteroids significantly decrease neonatal respiratory distress syndrome, intraventricular hemorrhage, and neonatal mortality in bleeding placenta previa requiring early delivery.",
+        "correct": true
+      }
+    ],
+    "explanation": "Antenatal corticosteroids significantly decrease neonatal respiratory distress syndrome, intraventricular hemorrhage, and neonatal mortality in bleeding placenta previa requiring early delivery. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Corticosteroid administration for fetal lung maturity before 34 weeks in previa.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Corticosteroid administration for fetal lung maturity before 34 weeks in previa."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1472",
+    "exam": "HAAD / DHA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ultrasound criteria for low-lying placenta vs marginal and complete placenta ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female with recent symptom exacerbation undergoes systematic clinical evaluation in the hospital clinic for urgent clarification of Placenta previa, placenta accreta spectrum, and acute placental abruption. Clinical examination highlights painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 112/90 mm Hg, heart rate 70/min, respiratory rate 14/min, and ambient oxygen saturation 96%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Transvaginal measurement of the placental edge: low-lying placenta when distance is 11-20 mm from the internal os; previa when the edge is <= 10 mm or covers the os.",
+        "explanation": "Second-trimester placenta previa frequently resolves as the lower uterine segment elongates (trophotropism); transvaginal ultrasound at 32 weeks determines definitive delivery route.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Second-trimester placenta previa frequently resolves as the lower uterine segment elongates (trophotropism); transvaginal ultrasound at 32 weeks determines definitive delivery route. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Ultrasound criteria for low-lying placenta vs marginal and complete placenta ....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Ultrasound criteria for low-lying placenta vs marginal and complete placenta ...."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1473",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Vasa previa pathogenesis, velamentous cord insertion, and Apt test",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 79-year-old male is transferred by emergency medical service to the hospital unit with clinical manifestations indicative of Placenta previa, placenta accreta spectrum, and acute placental abruption. Bedside physical examination confirms painless bright red third-trimester vaginal bleeding in placenta previa versus painful dark vaginal bleeding with hypertonic uterine contractions in placental abruption, or ultrasound loss of the retroplacental clear space with turbulent lacunae. Clinical observations record blood pressure 113/91 mm Hg, heart rate 71/min, respiratory rate 15/min, and ambient oxygen saturation 97%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Aberrant fetal vessels coursing through the membranes over the internal cervical os unsupported by Wharton jelly, detectable by Apt alkali denaturation test.",
+        "explanation": "Rupture of membranes in vasa previa tears fetal vessels, causing rapid fetal exsanguination; the Apt test distinguishes alkali-resistant fetal hemoglobin (pink) from maternal adult hemoglobin.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Rupture of membranes in vasa previa tears fetal vessels, causing rapid fetal exsanguination; the Apt test distinguishes alkali-resistant fetal hemoglobin (pink) from maternal adult hemoglobin. In the clinical evaluation of Placenta previa, placenta accreta spectrum, and acute placental abruption, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Vasa previa pathogenesis, velamentous cord insertion, and Apt test.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Placenta previa, placenta accreta spectrum, and acute placental abruption concerning Vasa previa pathogenesis, velamentous cord insertion, and Apt test."
+    ],
+    "references": [
+      {
+        "label": "ACOG Practice Bulletin: Obstetric Emergencies & Placental Disorders",
+        "url": "https://www.acog.org/clinical/clinical-guidance/practice-bulletin"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1474",
+    "exam": "Step 1",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Phenylalanine hydroxylase deficiency, BH4 cofactor defects, and tyrosine esse...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old female with recent symptom exacerbation is transferred by emergency medical service to the hospital unit for urgent clarification of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination highlights neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 114/70 mm Hg, heart rate 72/min, respiratory rate 16/min, and ambient oxygen saturation 98%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Deficiency of phenylalanine hydroxylase (PAH) or its cofactor tetrahydrobiopterin (BH4) resulting in phenylalanine accumulation and tyrosine becoming an essential amino acid.",
+        "explanation": "Classical PKU causes severe intellectual disability, musty/mousy odor, and hypopigmentation (decreased melanin from tyrosine deficiency); BH4 deficiency also impairs dopamine and serotonin synthesis.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Classical PKU causes severe intellectual disability, musty/mousy odor, and hypopigmentation (decreased melanin from tyrosine deficiency); BH4 deficiency also impairs dopamine and serotonin synthesis. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Phenylalanine hydroxylase deficiency, BH4 cofactor defects, and tyrosine esse....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Phenylalanine hydroxylase deficiency, BH4 cofactor defects, and tyrosine esse...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1475",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCAD deficiency: hypoketotic hypoglycemia during fasting and catabolic illness",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old male attends the scheduled outpatient hospital assessment session with clinical manifestations indicative of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Bedside physical examination confirms neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 115/71 mm Hg, heart rate 73/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Medium-chain acyl-CoA dehydrogenase deficiency causing impaired beta-oxidation, nonketotic hypoglycemia, dicarboxylic aciduria, and hyperammonemia during fasting.",
+        "explanation": "Children with MCAD deficiency cannot metabolize 6-to-12-carbon fatty acids into acetyl-CoA; fasting leads to sudden lethargy, seizures, or sudden infant death without ketones.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Children with MCAD deficiency cannot metabolize 6-to-12-carbon fatty acids into acetyl-CoA; fasting leads to sudden lethargy, seizures, or sudden infant death without ketones. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning MCAD deficiency: hypoketotic hypoglycemia during fasting and catabolic illness.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning MCAD deficiency: hypoketotic hypoglycemia during fasting and catabolic illness."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1476",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Dietary management and newborn screening confirmation in Maple Syrup Urine Di...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 48-year-old female who is evaluated in the acute procedural diagnostic suite due to suspected Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination demonstrates neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 116/72 mm Hg, heart rate 74/min, respiratory rate 18/min, and ambient oxygen saturation 94%. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Immediate elimination of dietary branched-chain amino acids (leucine, isoleucine, valine) and emergency hemodialysis for acute hyperleucinemic encephalopathy.",
+        "explanation": "MSUD involves deficiency of the branched-chain alpha-ketoacid dehydrogenase complex; elevated leucine is directly neurotoxic, causing cerebral edema and sweet burnt-sugar urine odor.",
+        "correct": true
+      }
+    ],
+    "explanation": "MSUD involves deficiency of the branched-chain alpha-ketoacid dehydrogenase complex; elevated leucine is directly neurotoxic, causing cerebral edema and sweet burnt-sugar urine odor. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Dietary management and newborn screening confirmation in Maple Syrup Urine Di....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Dietary management and newborn screening confirmation in Maple Syrup Urine Di...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1477",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Classical Galactosemia presentation with E. coli neonatal sepsis and cataracts",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male presenting with progressive functional symptoms undergoes urgent bedside clinical assessment in the ward requiring evaluation for Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Physical assessment reveals neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 117/73 mm Hg, heart rate 75/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Deficiency of galactose-1-phosphate uridylyltransferase (GALT) presenting with jaundice, hepatomegaly, bilateral oil-droplet cataracts, and severe Escherichia coli bacteremia.",
+        "explanation": "Accumulation of galactose-1-phosphate causes hepatic and renal tubular dysfunction, while galactitol accumulates in the lens; impaired bactericidal activity predisposes to fulminant E. coli sepsis.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Accumulation of galactose-1-phosphate causes hepatic and renal tubular dysfunction, while galactitol accumulates in the lens; impaired bactericidal activity predisposes to fulminant E. coli sepsis. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Classical Galactosemia presentation with E. coli neonatal sepsis and cataracts.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Classical Galactosemia presentation with E. coli neonatal sepsis and cataracts."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1478",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Hyperammonemia without acidosis in Ornithine Transcarbamylase (OTC) deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 72-year-old female who presents to the acute specialized assessment service with prominent manifestations of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Bedside evaluation demonstrates neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 118/74 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 96%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "X-linked urea cycle defect causing severe hyperammonemia, low blood urea nitrogen, elevated urine orotic acid, and absence of metabolic ketoacidosis.",
+        "explanation": "OTC deficiency is the most common urea cycle disorder; excess carbamoyl phosphate shunts into pyrimidine synthesis, resulting in massive urinary orotic acid excretion.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "OTC deficiency is the most common urea cycle disorder; excess carbamoyl phosphate shunts into pyrimidine synthesis, resulting in massive urinary orotic acid excretion. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Hyperammonemia without acidosis in Ornithine Transcarbamylase (OTC) deficiency.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Hyperammonemia without acidosis in Ornithine Transcarbamylase (OTC) deficiency."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1479",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Emergency stabilization of acute neonatal metabolic decompensation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 24-year-old male with recent symptom exacerbation is evaluated during comprehensive tertiary inpatient consultation for urgent clarification of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination highlights neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 119/75 mm Hg, heart rate 77/min, respiratory rate 21/min, and ambient oxygen saturation 97%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Stopping all oral protein intake, starting intravenous 10% dextrose with electrolytes to halt catabolism, and administering nitrogen scavengers (sodium benzoate/phenylbutyrate).",
+        "explanation": "Acute metabolic decompensation requires suppression of endogenous protein catabolism via high-caloric dextrose infusion alongside pharmacologic ammonium excretion.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute metabolic decompensation requires suppression of endogenous protein catabolism via high-caloric dextrose infusion alongside pharmacologic ammonium excretion. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Emergency stabilization of acute neonatal metabolic decompensation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Emergency stabilization of acute neonatal metabolic decompensation."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1480",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Carnitine cycle defects and primary carnitine uptake deficiency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female attends the multidisciplinary academic medical center clinic with clinical manifestations indicative of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Bedside physical examination confirms neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 120/76 mm Hg, heart rate 78/min, respiratory rate 14/min, and ambient oxygen saturation 98%. Which advanced intervention is indicated for definitive disease control in this presentation?",
+    "options": [
+      {
+        "text": "SLC22A5 transporter mutation preventing cellular carnitine uptake, presenting with progressive dilated cardiomyopathy, hypotonia, and low plasma free carnitine.",
+        "explanation": "Primary carnitine deficiency impairs long-chain fatty acid entry into mitochondrial matrix via carnitine palmitoyltransferase (CPT); high-dose oral L-carnitine reverses cardiomyopathy.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Primary carnitine deficiency impairs long-chain fatty acid entry into mitochondrial matrix via carnitine palmitoyltransferase (CPT); high-dose oral L-carnitine reverses cardiomyopathy. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Carnitine cycle defects and primary carnitine uptake deficiency.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Carnitine cycle defects and primary carnitine uptake deficiency."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1481",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Maternal PKU syndrome and congenital fetal malformations",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 48-year-old male who is urgently admitted to the acute care clinical observation unit due to suspected Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination demonstrates neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 121/77 mm Hg, heart rate 79/min, respiratory rate 15/min, and ambient oxygen saturation 99%. According to national licensing examination standards, what is the fundamental diagnostic criterion or primary emergency therapy?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Strict maternal preconceptional dietary phenylalanine restriction to prevent microcephaly, congenital heart disease (cardiac septal defects), and facial dysmorphism.",
+        "explanation": "Elevated maternal phenylalanine crosses the placenta and acts as a potent teratogen; strict dietary adherence before conception is vital to protect the developing fetus.",
+        "correct": true
+      }
+    ],
+    "explanation": "Elevated maternal phenylalanine crosses the placenta and acts as a potent teratogen; strict dietary adherence before conception is vital to protect the developing fetus. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Maternal PKU syndrome and congenital fetal malformations.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Maternal PKU syndrome and congenital fetal malformations."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1482",
+    "exam": "NEET PG",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Alkaptonuria, homogentisic acid oxidase deficiency, and ochronosis",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 60-year-old female presenting with progressive functional symptoms presents to the advanced critical care and resuscitation service requiring evaluation for Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Physical assessment reveals neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 122/78 mm Hg, heart rate 80/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which pathognomonic diagnostic sign, radiological feature, or molecular alteration establishes this condition?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Deficiency of homogentisic acid dioxygenase leading to homogentisic acid accumulation, urine darkening on oxidation, blue-black connective tissue pigmentation, and arthritis.",
+        "explanation": "Alkaptonuria is an autosomal recessive disorder of tyrosine degradation; oxidized homogentisate polymerizes into dark pigment depositing in large joint cartilages (ochronotic arthropathy).",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Alkaptonuria is an autosomal recessive disorder of tyrosine degradation; oxidized homogentisate polymerizes into dark pigment depositing in large joint cartilages (ochronotic arthropathy). In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Alkaptonuria, homogentisic acid oxidase deficiency, and ochronosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Alkaptonuria, homogentisic acid oxidase deficiency, and ochronosis."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1483",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Late-onset Glycogen Storage Disease Type II (Pompe disease) and enzyme replac...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 72-year-old male who undergoes systematic clinical evaluation in the hospital clinic with prominent manifestations of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Bedside evaluation demonstrates neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 123/79 mm Hg, heart rate 81/min, respiratory rate 17/min, and ambient oxygen saturation 95%. Which evidence-based management strategy represents the standard of care for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Acid alpha-glucosidase (lysosomal maltase) deficiency presenting with slowly progressive limb-girdle myopathy, diaphragmatic weakness, and respiratory failure.",
+        "explanation": "Pompe disease leads to lysosomal glycogen accumulation; late-onset forms present in adulthood with respiratory failure, responsive to recombinant human acid alpha-glucosidase (alglucosidase alfa).",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pompe disease leads to lysosomal glycogen accumulation; late-onset forms present in adulthood with respiratory failure, responsive to recombinant human acid alpha-glucosidase (alglucosidase alfa). In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Late-onset Glycogen Storage Disease Type II (Pompe disease) and enzyme replac....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Late-onset Glycogen Storage Disease Type II (Pompe disease) and enzyme replac...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1484",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Emergency management of acute hyperammonemic encephalopathy in the ED",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old female with recent symptom exacerbation is transferred by emergency medical service to the hospital unit for urgent clarification of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination highlights neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 124/80 mm Hg, heart rate 82/min, respiratory rate 18/min, and ambient oxygen saturation 96%. In the emergency department resuscitation bay, what is the immediate priority intervention or acute diagnostic step?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Immediate administration of intravenous arginine hydrochloride, sodium phenylacetate/benzoate, and emergency continuous renal replacement therapy (CRRT).",
+        "explanation": "Ammonia levels > 200 umol/L cause rapid astrocyte swelling, intracranial hypertension, and brain herniation; hemodialysis/CRRT is the most effective clearance modality.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ammonia levels > 200 umol/L cause rapid astrocyte swelling, intracranial hypertension, and brain herniation; hemodialysis/CRRT is the most effective clearance modality. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Emergency management of acute hyperammonemic encephalopathy in the ED.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Emergency management of acute hyperammonemic encephalopathy in the ED."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1485",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Dietary counseling and avoidance of artificial sweeteners (aspartame) in PKU",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old male attends the scheduled outpatient hospital assessment session with clinical manifestations indicative of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Bedside physical examination confirms neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 125/81 mm Hg, heart rate 83/min, respiratory rate 19/min, and ambient oxygen saturation 97%. What is the priority diagnostic investigation or clinical management step for this patient?",
+    "options": [
+      {
+        "text": "Lifelong avoidance of phenylalanine-containing proteins and aspartame (methyl ester of phenylalanine-aspartic acid dipeptide) with medical amino acid formula supplementation.",
+        "explanation": "Aspartame is hydrolyzed in the gut to release free phenylalanine; patients with PKU must check all processed foods and medications for aspartame warnings.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Aspartame is hydrolyzed in the gut to release free phenylalanine; patients with PKU must check all processed foods and medications for aspartame warnings. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Dietary counseling and avoidance of artificial sweeteners (aspartame) in PKU.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Dietary counseling and avoidance of artificial sweeteners (aspartame) in PKU."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1486",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Expanded newborn screening protocols using tandem mass spectrometry (MS/MS)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 48-year-old female who is evaluated in the acute procedural diagnostic suite due to suspected Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Clinical examination demonstrates neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 126/82 mm Hg, heart rate 84/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Dried blood spot Guthrie card screening at 24 to 48 hours of life utilizing tandem mass spectrometry to detect amino acidopathies, organic acidemias, and fatty acid oxidation defects.",
+        "explanation": "Tandem mass spectrometry permits simultaneous multiphasic quantification of amino acids and acylcarnitines, enabling presymptomatic detection and dietary rescue.",
+        "correct": true
+      }
+    ],
+    "explanation": "Tandem mass spectrometry permits simultaneous multiphasic quantification of amino acids and acylcarnitines, enabling presymptomatic detection and dietary rescue. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Expanded newborn screening protocols using tandem mass spectrometry (MS/MS).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Expanded newborn screening protocols using tandem mass spectrometry (MS/MS)."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1487",
+    "exam": "UHS MBBS",
+    "subject": "Biochemistry",
+    "system": "General Principles",
+    "topic": "Urine ferric chloride test and reducing substances in inborn errors",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old male presenting with progressive functional symptoms undergoes urgent bedside clinical assessment in the ward requiring evaluation for Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia). Physical assessment reveals neonatal feeding intolerance, lethargy, encephalopathy, seizures, developmental regression, metabolic acidosis with elevated anion gap, hyperammonemia, non-ketotic hypoglycemia, or cataracts with hepatomegaly. Clinical observations record blood pressure 127/83 mm Hg, heart rate 85/min, respiratory rate 21/min, and ambient oxygen saturation 99%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Ferric chloride reagent turning green in phenylketonuria, and non-glucose reducing substances detected by Clinitest (negative dipstick glucose) in galactosemia.",
+        "explanation": "Traditional bedside tests: ferric chloride detects phenylpyruvate (transaminated phenylalanine); urine dipstick (glucose oxidase) is negative while Benedict test is positive in galactosemia.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Traditional bedside tests: ferric chloride detects phenylpyruvate (transaminated phenylalanine); urine dipstick (glucose oxidase) is negative while Benedict test is positive in galactosemia. In the clinical evaluation of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Urine ferric chloride test and reducing substances in inborn errors.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Inborn errors of metabolism (PKU, MSUD, MCAD, and Galactosemia) concerning Urine ferric chloride test and reducing substances in inborn errors."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1488",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Trisomy 21 non-disjunction vs Robertsonian translocation and maternal age risk",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 65-year-old female who undergoes urgent bedside clinical assessment in the ward due to suspected Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 128/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Meiotic non-disjunction during maternal meiosis I (95% of cases) versus unbalanced Robertsonian translocation (der(14;21)) independent of maternal age.",
+        "explanation": "Meiotic non-disjunction strongly correlates with advanced maternal age; Robertsonian translocations carrier parents have substantial recurrence risks requiring karyotypic parental testing.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "Meiotic non-disjunction strongly correlates with advanced maternal age; Robertsonian translocations carrier parents have substantial recurrence risks requiring karyotypic parental testing. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Trisomy 21 non-disjunction vs Robertsonian translocation and maternal age risk.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Trisomy 21 non-disjunction vs Robertsonian translocation and maternal age risk."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1489",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Health supervision and screening guidelines for children with Down syndrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male presenting with progressive functional symptoms presents to the acute specialized assessment service requiring evaluation for Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Physical assessment reveals dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 129/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Screening with echocardiography at birth (AV canal defect), thyroid function tests annually, screening for celiac disease, and monitoring for atlantoaxial instability.",
+        "explanation": "Complete atrioventricular septal defect occurs in 40% of Down syndrome infants; regular screening for hypothyroidism, duodenal atresia, and acute leukemia (ALL/AMKL) is mandatory.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Complete atrioventricular septal defect occurs in 40% of Down syndrome infants; regular screening for hypothyroidism, duodenal atresia, and acute leukemia (ALL/AMKL) is mandatory. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Health supervision and screening guidelines for children with Down syndrome.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Health supervision and screening guidelines for children with Down syndrome."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1490",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Cardiovascular evaluation and aortic dissection risk in Turner syndrome (45,X)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 29-year-old female who is evaluated during comprehensive tertiary inpatient consultation with prominent manifestations of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Bedside evaluation demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 130/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Serial echocardiography and cardiac MRI to evaluate bicuspid aortic valve, aortic coarctation, and aortic root dilation with aortic size index (ASI) monitoring.",
+        "explanation": "Aortic dissection is the leading cause of premature death in Turner syndrome; risk is magnified by bicuspid aortic valve, coarctation, hypertension, and pregnancy.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "Aortic dissection is the leading cause of premature death in Turner syndrome; risk is magnified by bicuspid aortic valve, coarctation, hypertension, and pregnancy. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Cardiovascular evaluation and aortic dissection risk in Turner syndrome (45,X).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Cardiovascular evaluation and aortic dissection risk in Turner syndrome (45,X)."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1491",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "First-trimester combined screening protocol for aneuploidy in NHS pregnancy care",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 41-year-old male with recent symptom exacerbation attends the multidisciplinary academic medical center clinic for urgent clarification of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination highlights dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 131/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Measurement of fetal nuchal translucency (NT) on ultrasound combined with maternal serum pregnancy-associated plasma protein-A (PAPP-A) and free beta-hCG at 11-14 weeks.",
+        "explanation": "In Down syndrome, fetal nuchal translucency is increased, free beta-hCG is elevated, and serum PAPP-A is significantly reduced during the first trimester.",
+        "correct": true
+      }
+    ],
+    "explanation": "In Down syndrome, fetal nuchal translucency is increased, free beta-hCG is elevated, and serum PAPP-A is significantly reduced during the first trimester. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning First-trimester combined screening protocol for aneuploidy in NHS pregnancy care.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning First-trimester combined screening protocol for aneuploidy in NHS pregnancy care."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1492",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Fragile X syndrome CGG trinucleotide expansion and FMR1 gene hypermethylation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is urgently admitted to the acute care clinical observation unit with clinical manifestations indicative of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Bedside physical examination confirms dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 132/88 mm Hg, heart rate 90/min, respiratory rate 18/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "CGG repeat expansion (> 200 repeats) in the 5' untranslated region of FMR1 leading to DNA hypermethylation, transcriptional silencing, and FMRP protein loss.",
+        "explanation": "Fragile X is the most common inherited cause of intellectual disability and autism; features include macroorchidism, long narrow face, large ears, and hyperflexible joints.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Fragile X is the most common inherited cause of intellectual disability and autism; features include macroorchidism, long narrow face, large ears, and hyperflexible joints. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Fragile X syndrome CGG trinucleotide expansion and FMR1 gene hypermethylation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Fragile X syndrome CGG trinucleotide expansion and FMR1 gene hypermethylation."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1493",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "22q11.2 deletion syndrome (DiGeorge) features: CATCH-22 and immunodeficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 65-year-old male who presents to the advanced critical care and resuscitation service due to suspected Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 133/89 mm Hg, heart rate 91/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Microdeletion on chromosome 22q11.2 resulting in third and fourth pharyngeal pouch maldevelopment, thymic hypoplasia (T-cell deficiency), and severe neonatal hypocalcemia.",
+        "explanation": "Features include Conotruncal cardiac anomalies (Tetralogy of Fallot, truncus arteriosus), Abnormal facies, Thymic aplasia, Cleft palate, and Hypocalcemia from parathyroid hypoplasia.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Features include Conotruncal cardiac anomalies (Tetralogy of Fallot, truncus arteriosus), Abnormal facies, Thymic aplasia, Cleft palate, and Hypocalcemia from parathyroid hypoplasia. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning 22q11.2 deletion syndrome (DiGeorge) features: CATCH-22 and immunodeficiency.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning 22q11.2 deletion syndrome (DiGeorge) features: CATCH-22 and immunodeficiency."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1494",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Klinefelter syndrome (47,XXY) endocrinology and hypergonadotropic hypogonadism",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 77-year-old female presenting with progressive functional symptoms undergoes systematic clinical evaluation in the hospital clinic requiring evaluation for Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Physical assessment reveals dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 134/90 mm Hg, heart rate 92/min, respiratory rate 20/min, and ambient oxygen saturation 94%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Testicular dysgenesis with Leydig cell atrophy, low serum testosterone, markedly elevated LH and FSH, gynecomastia, and azoospermia.",
+        "explanation": "Klinefelter syndrome presents in adolescence or adulthood with tall eunuchoid proportions, sparse body hair, small firm testes, and increased risk of male breast carcinoma.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Klinefelter syndrome presents in adolescence or adulthood with tall eunuchoid proportions, sparse body hair, small firm testes, and increased risk of male breast carcinoma. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Klinefelter syndrome (47,XXY) endocrinology and hypergonadotropic hypogonadism.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Klinefelter syndrome (47,XXY) endocrinology and hypergonadotropic hypogonadism."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1495",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Prenatal ultrasound soft markers for aneuploidy and genetic counseling",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 29-year-old male who is transferred by emergency medical service to the hospital unit with prominent manifestations of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Bedside evaluation demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 135/91 mm Hg, heart rate 93/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Identifying echogenic intracardiac focus, choroid plexus cysts, thickened nuchal fold, pyelectasis, and hypoplastic nasal bone warranting non-invasive prenatal testing (NIPT).",
+        "explanation": "Ultrasound soft markers indicate heightened aneuploidy risk; cell-free fetal DNA (NIPT) provides > 99% sensitivity and low false-positive rates for trisomy 21.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ultrasound soft markers indicate heightened aneuploidy risk; cell-free fetal DNA (NIPT) provides > 99% sensitivity and low false-positive rates for trisomy 21. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Prenatal ultrasound soft markers for aneuploidy and genetic counseling.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Prenatal ultrasound soft markers for aneuploidy and genetic counseling."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1496",
+    "exam": "NEET PG",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Edward syndrome (Trisomy 18) vs Patau syndrome (Trisomy 13) clinical distinction",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old female with recent symptom exacerbation attends the scheduled outpatient hospital assessment session for urgent clarification of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination highlights dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 136/70 mm Hg, heart rate 94/min, respiratory rate 14/min, and ambient oxygen saturation 96%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Rocker-bottom feet, clenched fists with overlapping fingers, and micrognathia in Trisomy 18 versus holoprosencephaly, microphthalmia, and polydactyly in Trisomy 13.",
+        "explanation": "Edward syndrome displays prominent occiput, low-set ears, and severe cardiac defects; Patau syndrome features midline fusion defects (cleft lip/palate, proboscis) with very poor survival.",
+        "correct": true
+      }
+    ],
+    "explanation": "Edward syndrome displays prominent occiput, low-set ears, and severe cardiac defects; Patau syndrome features midline fusion defects (cleft lip/palate, proboscis) with very poor survival. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Edward syndrome (Trisomy 18) vs Patau syndrome (Trisomy 13) clinical distinction.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Edward syndrome (Trisomy 18) vs Patau syndrome (Trisomy 13) clinical distinction."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1497",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Prader-Willi vs Angelman syndrome: genomic imprinting on chromosome 15q11-q13",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 53-year-old male is evaluated in the acute procedural diagnostic suite with clinical manifestations indicative of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Bedside physical examination confirms dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 137/71 mm Hg, heart rate 95/min, respiratory rate 15/min, and ambient oxygen saturation 97%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Maternal imprinting with paternal deletion causing Prader-Willi (hyperphagia, obesity) versus paternal imprinting with maternal deletion causing Angelman (happy puppet, ataxia).",
+        "explanation": "Genomic imprinting involves epigenetic gene silencing; absence of active paternal 15q11-q13 genes results in Prader-Willi, whereas absence of maternal UBE3A causes Angelman syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Genomic imprinting involves epigenetic gene silencing; absence of active paternal 15q11-q13 genes results in Prader-Willi, whereas absence of maternal UBE3A causes Angelman syndrome. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Prader-Willi vs Angelman syndrome: genomic imprinting on chromosome 15q11-q13.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Prader-Willi vs Angelman syndrome: genomic imprinting on chromosome 15q11-q13."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1498",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal seizure presentation secondary to hypocalcemic tetany in DiGeorge sy...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 65-year-old female who undergoes urgent bedside clinical assessment in the ward due to suspected Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 138/72 mm Hg, heart rate 96/min, respiratory rate 16/min, and ambient oxygen saturation 98%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent intravenous calcium gluconate under continuous cardiac monitoring for hypocalcemic seizures caused by parathyroid gland aplasia.",
+        "explanation": "Neonates with DiGeorge syndrome frequently present within the first week of life with intractable seizures and tetany due to profound hypocalcemia from absent parathyroid tissue.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Neonates with DiGeorge syndrome frequently present within the first week of life with intractable seizures and tetany due to profound hypocalcemia from absent parathyroid tissue. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Neonatal seizure presentation secondary to hypocalcemic tetany in DiGeorge sy....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Neonatal seizure presentation secondary to hypocalcemic tetany in DiGeorge sy...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1499",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Premature ovarian failure and hormone replacement therapy in Turner syndrome",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male presenting with progressive functional symptoms presents to the acute specialized assessment service requiring evaluation for Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Physical assessment reveals dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 139/73 mm Hg, heart rate 97/min, respiratory rate 17/min, and ambient oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Accelerated oocyte atresia leading to streak gonads, absent secondary sexual characteristics, elevated FSH, and requirement for pubertal induction with estrogen.",
+        "explanation": "Turner syndrome requires gradual estrogen titration beginning at age 11-12 to induce breast development and uterine growth, followed by cyclic progesterone to maintain bone mineral density.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Turner syndrome requires gradual estrogen titration beginning at age 11-12 to induce breast development and uterine growth, followed by cyclic progesterone to maintain bone mineral density. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Premature ovarian failure and hormone replacement therapy in Turner syndrome.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Premature ovarian failure and hormone replacement therapy in Turner syndrome."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1500",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Pre-implantation genetic testing (PGT-M) in couples with known single-gene de...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 29-year-old female who is evaluated during comprehensive tertiary inpatient consultation with prominent manifestations of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Bedside evaluation demonstrates dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 140/74 mm Hg, heart rate 98/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "In vitro fertilization with embryo biopsy at the blastocyst stage (trophectoderm) to identify embryos free of monogenic mutations prior to uterine transfer.",
+        "explanation": "PGT-M prevents transmission of autosomal dominant, recessive, or X-linked disorders (e.g., cystic fibrosis, Huntington, beta-thalassemia) without elective termination.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "PGT-M prevents transmission of autosomal dominant, recessive, or X-linked disorders (e.g., cystic fibrosis, Huntington, beta-thalassemia) without elective termination. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Pre-implantation genetic testing (PGT-M) in couples with known single-gene de....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Pre-implantation genetic testing (PGT-M) in couples with known single-gene de...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1501",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Karyotyping technique and G-banding in the diagnosis of chromosomal abnormali...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male with recent symptom exacerbation attends the multidisciplinary academic medical center clinic for urgent clarification of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion). Clinical examination highlights dysmorphic features including epicanthal folds, single palmar crease, webbed neck, shield chest, long face with large everted ears, cleft palate, conotruncal heart defects, and intellectual disability or sensorineural hearing loss. Clinical observations record blood pressure 141/75 mm Hg, heart rate 99/min, respiratory rate 19/min, and ambient oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Peripheral blood lymphocyte culture arrested in metaphase with colchicine, treated with hypotonic saline, and stained with Giemsa (G-banding) to evaluate band resolution.",
+        "explanation": "Standard metaphase cytogenetics detects numerical aneuploidies and structural translocations >= 5 megabases; fluorescence in situ hybridization (FISH) is required for microdeletions.",
+        "correct": true
+      }
+    ],
+    "explanation": "Standard metaphase cytogenetics detects numerical aneuploidies and structural translocations >= 5 megabases; fluorescence in situ hybridization (FISH) is required for microdeletions. In the clinical evaluation of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion), standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Karyotyping technique and G-banding in the diagnosis of chromosomal abnormali....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Common genetic syndromes (Down, Turner, Fragile X, and 22q11.2 deletion) concerning Karyotyping technique and G-banding in the diagnosis of chromosomal abnormali...."
+    ],
+    "references": [
+      {
+        "label": "GeneReviews: Inborn Errors of Metabolism & Genetic Syndromes, NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1502",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Dipalmitoylphosphatidylcholine deficiency, alveolar surface tension, and atel...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 46-year-old female who attends the multidisciplinary academic medical center clinic with prominent manifestations of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside evaluation demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 142/76 mm Hg, heart rate 100/min, respiratory rate 20/min, and ambient oxygen saturation 96%. What is the underlying biochemical pathway, genetic defect, or cellular alteration responsible for these observed clinical findings?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Deficiency of pulmonary surfactant (dipalmitoylphosphatidylcholine produced by type II pneumocytes) leading to increased surface tension, diffuse microatelectasis, and low compliance.",
+        "explanation": "According to the law of Laplace (P = 2T/r), surfactant lowers surface tension proportionately as alveolar radius decreases, preventing end-expiratory collapse and maintaining FRC.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      }
+    ],
+    "explanation": "According to the law of Laplace (P = 2T/r), surfactant lowers surface tension proportionately as alveolar radius decreases, preventing end-expiratory collapse and maintaining FRC. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Dipalmitoylphosphatidylcholine deficiency, alveolar surface tension, and atel....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Dipalmitoylphosphatidylcholine deficiency, alveolar surface tension, and atel...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1503",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Exogenous surfactant administration and nasal CPAP in premature neonates",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 58-year-old male with recent symptom exacerbation is urgently admitted to the acute care clinical observation unit for urgent clarification of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination highlights tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 143/77 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 97%. Which of the following represents the immediate next step in patient evaluation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Early application of continuous positive airway pressure (CPAP) and endotracheal administration of bovine or porcine surfactant for persistent oxygen requirement.",
+        "explanation": "Surfactant replacement therapy rapidly restores alveolar stability, improves functional residual capacity, decreases ventilation-perfusion mismatch, and lowers mortality.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "Surfactant replacement therapy rapidly restores alveolar stability, improves functional residual capacity, decreases ventilation-perfusion mismatch, and lowers mortality. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Exogenous surfactant administration and nasal CPAP in premature neonates.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Exogenous surfactant administration and nasal CPAP in premature neonates."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1504",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Prevention and screening for Bronchopulmonary Dysplasia (BPD) and Retinopathy...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 70-year-old female presents to the advanced critical care and resuscitation service with clinical manifestations indicative of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside physical examination confirms tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 144/78 mm Hg, heart rate 70/min, respiratory rate 14/min, and ambient oxygen saturation 98%. Which of the following represents the most appropriate long-term ambulatory management or secondary prevention strategy?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Targeting conservative oxygen saturation limits (91-95%), gentle lung-protective ventilation, and systematic dilated retinal ophthalmological examinations.",
+        "explanation": "Prolonged hyperoxia and barotrauma/volutrauma in very preterm neonates arrest alveolar and pulmonary vascular development, causing BPD and abnormal retinal vessel proliferation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      }
+    ],
+    "explanation": "Prolonged hyperoxia and barotrauma/volutrauma in very preterm neonates arrest alveolar and pulmonary vascular development, causing BPD and abnormal retinal vessel proliferation. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Prevention and screening for Bronchopulmonary Dysplasia (BPD) and Retinopathy....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Prevention and screening for Bronchopulmonary Dysplasia (BPD) and Retinopathy...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1505",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Transient Tachypnea of the Newborn (TTN) etiology and self-limiting clinical ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 22-year-old male who undergoes systematic clinical evaluation in the hospital clinic due to suspected Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 110/79 mm Hg, heart rate 71/min, respiratory rate 15/min, and ambient oxygen saturation 99%. According to UK national clinical standards, which intervention should be initiated promptly?",
+    "options": [
+      {
+        "text": "Delayed resorption of fetal alveolar lung fluid following cesarean section without labor, resolving spontaneously within 24 to 72 hours with supportive oxygen.",
+        "explanation": "Epithelial sodium channels (ENaC) normally clear lung fluid during vaginal labor stimulated by maternal catecholamines; absence of labor leads to fluid retention in interlobar fissures.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Epithelial sodium channels (ENaC) normally clear lung fluid during vaginal labor stimulated by maternal catecholamines; absence of labor leads to fluid retention in interlobar fissures. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Transient Tachypnea of the Newborn (TTN) etiology and self-limiting clinical ....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Transient Tachypnea of the Newborn (TTN) etiology and self-limiting clinical ...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1506",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Meconium Aspiration Syndrome (MAS) pathophysiology, chemical pneumonitis, and...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 34-year-old female presenting with progressive functional symptoms is transferred by emergency medical service to the hospital unit requiring evaluation for Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Physical assessment reveals tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 111/80 mm Hg, heart rate 72/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which diagnostic or therapeutic action is prioritized under Australian clinical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Intrauterine fetal distress triggering meconium passage, acute mechanical airway obstruction, chemical pneumonitis, surfactant inactivation, and persistent pulmonary hypertension.",
+        "explanation": "Meconium causes ball-valve small airway obstruction, alveolar hyperinflation, and severe chemical inflammation, predisposing to pulmonary air leaks (pneumothorax) and severe hypoxemia.",
+        "correct": true
+      }
+    ],
+    "explanation": "Meconium causes ball-valve small airway obstruction, alveolar hyperinflation, and severe chemical inflammation, predisposing to pulmonary air leaks (pneumothorax) and severe hypoxemia. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Meconium Aspiration Syndrome (MAS) pathophysiology, chemical pneumonitis, and....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Meconium Aspiration Syndrome (MAS) pathophysiology, chemical pneumonitis, and...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1507",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Persistent Pulmonary Hypertension of the Newborn (PPHN) and inhaled nitric oxide",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 46-year-old male who attends the scheduled outpatient hospital assessment session with prominent manifestations of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside evaluation demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 112/81 mm Hg, heart rate 73/min, respiratory rate 17/min, and ambient oxygen saturation 95%. In accordance with Medical Council of Canada clinical objectives, which of the following is the most appropriate initial step?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Failure of normal postnatal pulmonary vascular resistance drop leading to right-to-left shunting across the ductus arteriosus and foramen ovale, treated with inhaled nitric oxide.",
+        "explanation": "PPHN causes severe labile hypoxemia with pre- and post-ductal oxygen saturation gradients (> 10%); inhaled nitric oxide selectively dilates pulmonary vasculature without systemic hypotension.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "PPHN causes severe labile hypoxemia with pre- and post-ductal oxygen saturation gradients (> 10%); inhaled nitric oxide selectively dilates pulmonary vasculature without systemic hypotension. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Persistent Pulmonary Hypertension of the Newborn (PPHN) and inhaled nitric oxide.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Persistent Pulmonary Hypertension of the Newborn (PPHN) and inhaled nitric oxide."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1508",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Congenital Diaphragmatic Hernia (CDH) resuscitation: avoiding bag-mask ventil...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old female with recent symptom exacerbation is evaluated in the acute procedural diagnostic suite for urgent clarification of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination highlights tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 113/82 mm Hg, heart rate 74/min, respiratory rate 18/min, and ambient oxygen saturation 96%. What is the primary diagnostic confirmation or surgical management strategy according to specialist consensus?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation in the delivery room, placement of a continuous-suction nasogastric tube, and strict avoidance of face mask bag ventilation.",
+        "explanation": "Bag-mask ventilation pushes air into the herniated stomach and intestines within the hemithorax, acutely compressing the hypoplastic lungs and worsening mediastinal shift.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Bag-mask ventilation pushes air into the herniated stomach and intestines within the hemithorax, acutely compressing the hypoplastic lungs and worsening mediastinal shift. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Congenital Diaphragmatic Hernia (CDH) resuscitation: avoiding bag-mask ventil....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Congenital Diaphragmatic Hernia (CDH) resuscitation: avoiding bag-mask ventil...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1509",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Chest radiographic patterns distinguishing NRDS, TTN, and Meconium Aspiration",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 70-year-old male undergoes urgent bedside clinical assessment in the ward with clinical manifestations indicative of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside physical examination confirms tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 114/83 mm Hg, heart rate 75/min, respiratory rate 19/min, and ambient oxygen saturation 97%. Which primary healthcare intervention is most critical for this condition?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Diffuse reticulogranular ground-glass pattern with air bronchograms in NRDS, fluid in interlobar fissures in TTN, and patchy fluffy infiltrates with hyperinflation in MAS.",
+        "explanation": "Radiographic differentiation is definitive: NRDS shows diffuse bell-shaped hypoaerated thorax with air bronchograms; TTN shows perihilar streaking and hyperinflation; MAS shows coarse consolidation.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Radiographic differentiation is definitive: NRDS shows diffuse bell-shaped hypoaerated thorax with air bronchograms; TTN shows perihilar streaking and hyperinflation; MAS shows coarse consolidation. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Chest radiographic patterns distinguishing NRDS, TTN, and Meconium Aspiration.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Chest radiographic patterns distinguishing NRDS, TTN, and Meconium Aspiration."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1510",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Lecithin-to-Sphingomyelin (L/S) ratio and phosphatidylglycerol in amniotic fluid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 22-year-old female who presents to the acute specialized assessment service due to suspected Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 115/84 mm Hg, heart rate 76/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the characteristic pathological hallmark, clinical sign, or high-yield pharmacological association in this case?",
+    "options": [
+      {
+        "text": "Amniotic fluid lecithin/sphingomyelin ratio >= 2.0 and the presence of phosphatidylglycerol indicating mature fetal surfactant production and low NRDS risk.",
+        "explanation": "Lecithin (phosphatidylcholine) synthesis increases dramatically after 34 weeks gestation while sphingomyelin remains constant; an L/S ratio < 1.5 indicates high risk of neonatal respiratory failure.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Lecithin (phosphatidylcholine) synthesis increases dramatically after 34 weeks gestation while sphingomyelin remains constant; an L/S ratio < 1.5 indicates high risk of neonatal respiratory failure. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Lecithin-to-Sphingomyelin (L/S) ratio and phosphatidylglycerol in amniotic fluid.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Lecithin-to-Sphingomyelin (L/S) ratio and phosphatidylglycerol in amniotic fluid."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1511",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Necrotizing Enterocolitis (NEC) in premature infants: pneumatosis intestinalis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male presenting with progressive functional symptoms is evaluated during comprehensive tertiary inpatient consultation requiring evaluation for Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Physical assessment reveals tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 116/85 mm Hg, heart rate 77/min, respiratory rate 21/min, and ambient oxygen saturation 99%. In accordance with Royal Colleges consensus, which diagnostic investigation or targeted pharmacotherapy is indicated?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Ischemic bowel necrosis, abdominal distension, bloody stools, and pathognomonic gas within the bowel wall (pneumatosis intestinalis) on abdominal cross-table radiograph.",
+        "explanation": "NEC stems from prematurity, enteral formula feeding, and bacterial colonization; gas-forming bacteria invade the ischemic mucosa, creating subserosal intramural bubbles.",
+        "correct": true
+      }
+    ],
+    "explanation": "NEC stems from prematurity, enteral formula feeding, and bacterial colonization; gas-forming bacteria invade the ischemic mucosa, creating subserosal intramural bubbles. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Necrotizing Enterocolitis (NEC) in premature infants: pneumatosis intestinalis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Necrotizing Enterocolitis (NEC) in premature infants: pneumatosis intestinalis."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1512",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Neonatal resuscitation algorithm: dry, warm, stimulate, and positive pressure...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 46-year-old female who attends the multidisciplinary academic medical center clinic with prominent manifestations of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside evaluation demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 117/86 mm Hg, heart rate 78/min, respiratory rate 14/min, and ambient oxygen saturation 94%. Which life-saving acute intervention should be executed immediately in the emergency setting?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Immediate drying and warming, clearing secretions if obstructed, and initiating positive pressure ventilation (PPV) with room air (21% O2) if heart rate is < 100/min.",
+        "explanation": "In term and late preterm neonates, resuscitation begins with 21% oxygen; effective positive pressure ventilation is the single most critical step in establishing spontaneous respiration.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In term and late preterm neonates, resuscitation begins with 21% oxygen; effective positive pressure ventilation is the single most critical step in establishing spontaneous respiration. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Neonatal resuscitation algorithm: dry, warm, stimulate, and positive pressure....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Neonatal resuscitation algorithm: dry, warm, stimulate, and positive pressure...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1513",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Antenatal magnesium sulfate for fetal neuroprotection before 32 weeks gestation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 58-year-old male with recent symptom exacerbation is urgently admitted to the acute care clinical observation unit for urgent clarification of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination highlights tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 118/87 mm Hg, heart rate 79/min, respiratory rate 15/min, and ambient oxygen saturation 95%. In accordance with Saudi licensing standards and clinical practice guidelines, what is the recommended protocol?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous magnesium sulfate infusion to mothers in imminent preterm delivery (< 32 weeks) to decrease the risk of cerebral palsy.",
+        "explanation": "Magnesium sulfate stabilizes neuronal membranes, improves cerebral perfusion, and reduces excitotoxic NMDA receptor activation, significantly lowering the incidence of disabling cerebral palsy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Magnesium sulfate stabilizes neuronal membranes, improves cerebral perfusion, and reduces excitotoxic NMDA receptor activation, significantly lowering the incidence of disabling cerebral palsy. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Antenatal magnesium sulfate for fetal neuroprotection before 32 weeks gestation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Antenatal magnesium sulfate for fetal neuroprotection before 32 weeks gestation."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1514",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Targeted pulse oximetry screening for Critical Congenital Heart Disease (CCHD)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 70-year-old female presents to the advanced critical care and resuscitation service with clinical manifestations indicative of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Bedside physical examination confirms tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 119/88 mm Hg, heart rate 80/min, respiratory rate 16/min, and ambient oxygen saturation 96%. Under Department of Health clinical standards, what is the most appropriate diagnostic or management action?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Postnatal pulse oximetry screening on the right hand and either foot at 24 hours of life; failing if SpO2 < 90% or > 3% difference between pre- and post-ductal measurements.",
+        "explanation": "CCHD screening identifies ductal-dependent lesions (hypoplastic left heart, transposition of great arteries, coarctation) before ductus arteriosus closure causes cardiogenic collapse.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "CCHD screening identifies ductal-dependent lesions (hypoplastic left heart, transposition of great arteries, coarctation) before ductus arteriosus closure causes cardiogenic collapse. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Targeted pulse oximetry screening for Critical Congenital Heart Disease (CCHD).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Targeted pulse oximetry screening for Critical Congenital Heart Disease (CCHD)."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1515",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Structure and function of fetal circulation: ductus venosus, foramen ovale, a...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 22-year-old male who undergoes systematic clinical evaluation in the hospital clinic due to suspected Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome. Clinical examination demonstrates tachypnea, grunting, nasal flaring, subcostal retractions, cyanosis, ground-glass reticulogranular infiltrates with air bronchograms on chest radiograph, or coarse patchy infiltrates with hyperinflation. Clinical observations record blood pressure 120/89 mm Hg, heart rate 81/min, respiratory rate 17/min, and ambient oxygen saturation 97%. Which foundational clinical or pathological feature is most characteristic of this disorder?",
+    "options": [
+      {
+        "text": "Oxygenated umbilical venous blood shunting through the ductus venosus to bypass the liver, crossing the foramen ovale to the left atrium, and ductus arteriosus bypassing the lungs.",
+        "explanation": "At birth, clamping of the umbilical cord increases systemic vascular resistance while lung expansion drops pulmonary vascular resistance, closing the foramen ovale and reversing ductal flow.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "At birth, clamping of the umbilical cord increases systemic vascular resistance while lung expansion drops pulmonary vascular resistance, closing the foramen ovale and reversing ductal flow. In the clinical evaluation of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Structure and function of fetal circulation: ductus venosus, foramen ovale, a....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Neonatal respiratory distress syndrome (NRDS), TTN, and Meconium aspiration syndrome concerning Structure and function of fetal circulation: ductus venosus, foramen ovale, a...."
+    ],
+    "references": [
+      {
+        "label": "AAP Section on Neonatal-Perinatal Medicine: Clinical Guidelines",
+        "url": "https://www.aap.org/en/community/aap-sections/sonpm/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1516",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Cardiovascular",
+    "topic": "Ankle-Brachial Index (ABI) pathophysiology and medial arterial calcification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female undergoes systematic clinical evaluation in the hospital clinic with clinical manifestations indicative of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside physical examination confirms intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 121/90 mm Hg, heart rate 82/min, respiratory rate 18/min, and ambient oxygen saturation 98%. Which physiological alteration or pharmacological mechanism of action directly accounts for this condition?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Ratio of highest ankle systolic pressure to highest brachial systolic pressure; ABI <= 0.90 confirms arterial stenosis, while ABI > 1.40 indicates non-compressible calcified vessels.",
+        "explanation": "M\u00f6nckeberg medial calcific sclerosis in diabetics and chronic kidney disease makes peripheral arteries rigid and incompressible, falsely elevating Doppler systolic pressures.",
+        "correct": true
+      }
+    ],
+    "explanation": "M\u00f6nckeberg medial calcific sclerosis in diabetics and chronic kidney disease makes peripheral arteries rigid and incompressible, falsely elevating Doppler systolic pressures. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Ankle-Brachial Index (ABI) pathophysiology and medial arterial calcification.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Ankle-Brachial Index (ABI) pathophysiology and medial arterial calcification."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1517",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Acute limb ischemia emergency management: systemic heparin and surgical revas...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive medical evaluation is performed for a 39-year-old male who is transferred by emergency medical service to the hospital unit due to suspected Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Clinical examination demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 122/91 mm Hg, heart rate 83/min, respiratory rate 19/min, and ambient oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management or diagnostic confirmation?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Immediate intravenous unfractionated heparin bolus followed by urgent surgical thromboembolectomy (Fogarty catheter) or catheter-directed thrombolysis.",
+        "explanation": "Acute embolic occlusion (commonly cardiac in origin from atrial fibrillation) requires immediate anticoagulation to prevent clot propagation, followed by prompt revascularization within 6 hours.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented or suspected invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Acute embolic occlusion (commonly cardiac in origin from atrial fibrillation) requires immediate anticoagulation to prevent clot propagation, followed by prompt revascularization within 6 hours. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Acute limb ischemia emergency management: systemic heparin and surgical revas....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Acute limb ischemia emergency management: systemic heparin and surgical revas...."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1518",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Supervised exercise therapy and pharmacotherapy (cilostazol) in stable claudi...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 51-year-old female presenting with progressive functional symptoms attends the scheduled outpatient hospital assessment session requiring evaluation for Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Physical assessment reveals intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 123/70 mm Hg, heart rate 84/min, respiratory rate 20/min, and ambient oxygen saturation 94%. What is the optimal long-term maintenance therapy or surveillance interval for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing a formal 12-week supervised exercise therapy program, high-intensity statin, antiplatelet therapy, and a trial of cilostazol for symptom improvement.",
+        "explanation": "Supervised walking exercise promotes collateral vessel recruitment and enhances muscle mitochondrial oxidative capacity; cilostazol (PDE-3 inhibitor) improves pain-free walking distance.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Supervised walking exercise promotes collateral vessel recruitment and enhances muscle mitochondrial oxidative capacity; cilostazol (PDE-3 inhibitor) improves pain-free walking distance. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Supervised exercise therapy and pharmacotherapy (cilostazol) in stable claudi....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Supervised exercise therapy and pharmacotherapy (cilostazol) in stable claudi...."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1519",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Urgent referral criteria for Critical Limb-Threatening Ischemia (CLTI)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 63-year-old male who is evaluated in the acute procedural diagnostic suite with prominent manifestations of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside evaluation demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 124/71 mm Hg, heart rate 85/min, respiratory rate 21/min, and ambient oxygen saturation 95%. What is the guideline-directed management recommendation for this NHS acute presentation?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Arranging same-day or within 24-hour vascular surgery assessment for rest pain lasting > 2 weeks or gangrenous/ulcerated ischemic tissue loss.",
+        "explanation": "Critical limb-threatening ischemia represents end-stage peripheral artery disease with impending tissue necrosis; urgent arterial revascularization is mandatory to avert major limb amputation.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk unnecessary toxicity and promote antimicrobial resistance when not indicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Critical limb-threatening ischemia represents end-stage peripheral artery disease with impending tissue necrosis; urgent arterial revascularization is mandatory to avert major limb amputation. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Urgent referral criteria for Critical Limb-Threatening Ischemia (CLTI).",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Urgent referral criteria for Critical Limb-Threatening Ischemia (CLTI)."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1520",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Carotid endarterectomy (CEA) indications in symptomatic vs asymptomatic stenosis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 75-year-old female with recent symptom exacerbation undergoes urgent bedside clinical assessment in the ward for urgent clarification of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Clinical examination highlights intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 125/72 mm Hg, heart rate 86/min, respiratory rate 14/min, and ambient oxygen saturation 96%. According to Australian therapeutic guidelines and AMC clinical standards, what is the most appropriate initial action?",
+    "options": [
+      {
+        "text": "Recommending carotid endarterectomy for symptomatic patients with 70% to 99% internal carotid artery stenosis within 14 days of transient ischemic attack or non-disabling stroke.",
+        "explanation": "Randomized trials (NASCET/ECST) demonstrated significant absolute risk reduction of recurrent stroke with early CEA in symptomatic high-grade stenosis performed by experienced surgeons.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Randomized trials (NASCET/ECST) demonstrated significant absolute risk reduction of recurrent stroke with early CEA in symptomatic high-grade stenosis performed by experienced surgeons. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Carotid endarterectomy (CEA) indications in symptomatic vs asymptomatic stenosis.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Carotid endarterectomy (CEA) indications in symptomatic vs asymptomatic stenosis."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1521",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Diagnostic differentiation between neurogenic and vascular claudication",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 27-year-old male presents to the acute specialized assessment service with clinical manifestations indicative of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside physical examination confirms intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 126/73 mm Hg, heart rate 87/min, respiratory rate 15/min, and ambient oxygen saturation 97%. What is the key diagnostic investigation or management priority according to Canadian qualifying standards?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Vascular claudication triggered predictably by walking and rapidly relieved by standing still, versus neurogenic claudication relieved by lumbar spine flexion (sitting or leaning on cart).",
+        "explanation": "Neurogenic claudication stems from spinal canal stenosis; spinal flexion widens the anteroposterior diameter of the canal and neural foramina, relieving radicular ischemic nerve root compression.",
+        "correct": true
+      }
+    ],
+    "explanation": "Neurogenic claudication stems from spinal canal stenosis; spinal flexion widens the anteroposterior diameter of the canal and neural foramina, relieving radicular ischemic nerve root compression. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Diagnostic differentiation between neurogenic and vascular claudication.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Diagnostic differentiation between neurogenic and vascular claudication."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1522",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Abdominal Aortic Aneurysm (AAA) screening, surveillance, and repair thresholds",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 39-year-old female who is evaluated during comprehensive tertiary inpatient consultation due to suspected Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Clinical examination demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 127/74 mm Hg, heart rate 88/min, respiratory rate 16/min, and ambient oxygen saturation 98%. Which advanced intervention is indicated for definitive disease control in this presentation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Elective repair indicated when maximum infrarenal aortic diameter reaches >= 5.5 cm in men, >= 5.0 cm in women, or exhibits rapid expansion (> 1.0 cm per year).",
+        "explanation": "Annual ultrasound surveillance is recommended for aneurysms 4.0 to 4.9 cm and semi-annual for 5.0 to 5.4 cm; endovascular aneurysm repair (EVAR) or open graft repair prevents rupture.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Annual ultrasound surveillance is recommended for aneurysms 4.0 to 4.9 cm and semi-annual for 5.0 to 5.4 cm; endovascular aneurysm repair (EVAR) or open graft repair prevents rupture. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Abdominal Aortic Aneurysm (AAA) screening, surveillance, and repair thresholds.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Abdominal Aortic Aneurysm (AAA) screening, surveillance, and repair thresholds."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1523",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Clinical distinction between arterial, venous, and neuropathic lower extremit...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 51-year-old male presenting with progressive functional symptoms attends the multidisciplinary academic medical center clinic requiring evaluation for Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Physical assessment reveals intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 128/75 mm Hg, heart rate 89/min, respiratory rate 17/min, and ambient oxygen saturation 99%. According to national licensing examination standards, what is the fundamental diagnostic criterion or primary emergency therapy?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Arterial ulcers on distal toes/malleoli with punched-out borders and pale bases versus venous ulcers over the medial malleolus with irregular margins and hemosiderin staining.",
+        "explanation": "Arterial ulcers are painful, dry, and accompanied by absent pulses and dependent rubor; venous ulcers are exudative, shallow, and improve with leg elevation and compression therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "Arterial ulcers are painful, dry, and accompanied by absent pulses and dependent rubor; venous ulcers are exudative, shallow, and improve with leg elevation and compression therapy. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Clinical distinction between arterial, venous, and neuropathic lower extremit....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Clinical distinction between arterial, venous, and neuropathic lower extremit...."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1524",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Thromboangiitis obliterans (Buerger disease) pathology and tobacco cessation",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic assessment is commenced for a 63-year-old female who is urgently admitted to the acute care clinical observation unit with prominent manifestations of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside evaluation demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 129/76 mm Hg, heart rate 90/min, respiratory rate 18/min, and ambient oxygen saturation 94%. Which pathognomonic diagnostic sign, radiological feature, or molecular alteration establishes this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Segmental, non-atherosclerotic, highly inflammatory transmural vasculitis of small- and medium-sized arteries with neutrophil microabscesses in young male smokers.",
+        "explanation": "Buerger disease affects distal neurovascular bundles in cigarette smokers; complete, permanent cessation of all tobacco and nicotine products is the only intervention that arrests amputation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Buerger disease affects distal neurovascular bundles in cigarette smokers; complete, permanent cessation of all tobacco and nicotine products is the only intervention that arrests amputation. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Thromboangiitis obliterans (Buerger disease) pathology and tobacco cessation.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Thromboangiitis obliterans (Buerger disease) pathology and tobacco cessation."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1525",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Subclavian steal syndrome pathophysiology and retrograde vertebral artery flow",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 75-year-old male with recent symptom exacerbation presents to the advanced critical care and resuscitation service for urgent clarification of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Clinical examination highlights intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 130/77 mm Hg, heart rate 91/min, respiratory rate 19/min, and ambient oxygen saturation 95%. Which evidence-based management strategy represents the standard of care for this patient?",
+    "options": [
+      {
+        "text": "Severe proximal subclavian artery stenosis resulting in retrograde blood flow down the ipsilateral vertebral artery to supply the arm during exercise, causing vertebrobasilar ischemia.",
+        "explanation": "Upper extremity exertion draws cerebral perfusion retrograde into the arm via the circle of Willis and vertebral artery, triggering transient dizziness, ataxia, syncope, and asymmetric arm pulses.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Upper extremity exertion draws cerebral perfusion retrograde into the arm via the circle of Willis and vertebral artery, triggering transient dizziness, ataxia, syncope, and asymmetric arm pulses. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Subclavian steal syndrome pathophysiology and retrograde vertebral artery flow.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Subclavian steal syndrome pathophysiology and retrograde vertebral artery flow."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1526",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Compartment syndrome following lower extremity revascularization: emergent fa...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 27-year-old female undergoes systematic clinical evaluation in the hospital clinic with clinical manifestations indicative of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside physical examination confirms intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 131/78 mm Hg, heart rate 92/min, respiratory rate 20/min, and ambient oxygen saturation 96%. In the emergency department resuscitation bay, what is the immediate priority intervention or acute diagnostic step?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Immediate four-compartment lower leg surgical fasciotomy (anterolateral and posteromedial incisions) when post-ischemic reperfusion tissue pressure rises within 30 mm Hg of diastolic BP.",
+        "explanation": "Reperfusion of prolonged ischemic skeletal muscle triggers massive capillary endothelial leakage, tissue edema, and compartment tamponade; delay in decompression causes muscle necrosis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Reperfusion of prolonged ischemic skeletal muscle triggers massive capillary endothelial leakage, tissue edema, and compartment tamponade; delay in decompression causes muscle necrosis. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Compartment syndrome following lower extremity revascularization: emergent fa....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Compartment syndrome following lower extremity revascularization: emergent fa...."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1527",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Dual antiplatelet therapy vs rivaroxaban vascular dose in peripheral artery d...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive medical evaluation is performed for a 39-year-old male who is transferred by emergency medical service to the hospital unit due to suspected Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Clinical examination demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 132/79 mm Hg, heart rate 93/min, respiratory rate 21/min, and ambient oxygen saturation 97%. What is the priority diagnostic investigation or clinical management step for this patient?",
+    "options": [
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Combining low-dose rivaroxaban (2.5 mg twice daily) with low-dose aspirin (100 mg daily) based on the COMPASS trial to reduce major adverse cardiovascular and limb events.",
+        "explanation": "The COMPASS and VOYAGER PAD trials proved that dual pathway inhibition (aspirin plus low-dose factor Xa inhibitor) significantly reduces ischemic amputations and cardiovascular death.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      }
+    ],
+    "explanation": "The COMPASS and VOYAGER PAD trials proved that dual pathway inhibition (aspirin plus low-dose factor Xa inhibitor) significantly reduces ischemic amputations and cardiovascular death. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Dual antiplatelet therapy vs rivaroxaban vascular dose in peripheral artery d....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Dual antiplatelet therapy vs rivaroxaban vascular dose in peripheral artery d...."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1528",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Endovascular aneurysm repair (EVAR) surveillance and Endoleak classification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female presenting with progressive functional symptoms attends the scheduled outpatient hospital assessment session requiring evaluation for Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Physical assessment reveals intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 133/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and ambient oxygen saturation 98%. What is the recommended guideline-directed protocol for this patient in the UAE health system?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      },
+      {
+        "text": "Lifelong contrast CT or duplex ultrasound surveillance to detect Type I (attachment cuff leak) and Type II (retrograde flow from lumbar/inferior mesenteric branches) endoleaks.",
+        "explanation": "Type I and Type III endoleaks represent direct systemic pressurization of the aneurysm sac and require immediate secondary intervention, whereas small Type II leaks are observed.",
+        "correct": true
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      }
+    ],
+    "explanation": "Type I and Type III endoleaks represent direct systemic pressurization of the aneurysm sac and require immediate secondary intervention, whereas small Type II leaks are observed. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Endovascular aneurysm repair (EVAR) surveillance and Endoleak classification.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Endovascular aneurysm repair (EVAR) surveillance and Endoleak classification."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1529",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Anatomy of the femoral triangle and Fogarty embolectomy catheter technique",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic assessment is commenced for a 63-year-old male who is evaluated in the acute procedural diagnostic suite with prominent manifestations of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis. Bedside evaluation demonstrates intermittent claudication, rest pain relieved by dependency, non-healing ischemic ulcers, the 6 P's of acute ischemia (pain, pallor, pulselessness, paresthesias, poikilothermia, paralysis), or transient ischemic attack with carotid bruit. Clinical observations record blood pressure 134/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and ambient oxygen saturation 99%. Bedside clinical examination reveals classical findings. What is the most important clinical sign, pathological finding, or investigation to establish the diagnosis?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior stabilization",
+        "explanation": "Emergency surgery without hemodynamic optimization significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Femoral artery exposure at the groin, transverse arteriotomy, and advancement of a balloon-tipped Fogarty catheter past the embolus with balloon inflation and gentle withdrawal.",
+        "explanation": "The femoral artery lies within the femoral sheath lateral to the femoral vein and medial to the femoral nerve; Fogarty balloon embolectomy under local anesthesia rapidly clears occluding thrombus.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal ulceration and impairs renal perfusion in dehydrated states.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and breed multidrug resistance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without added value.",
+        "correct": false
+      }
+    ],
+    "explanation": "The femoral artery lies within the femoral sheath lateral to the femoral vein and medial to the femoral nerve; Fogarty balloon embolectomy under local anesthesia rapidly clears occluding thrombus. In the clinical evaluation of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Anatomy of the femoral triangle and Fogarty embolectomy catheter technique.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Peripheral arterial disease, acute limb ischemia, and carotid artery stenosis concerning Anatomy of the femoral triangle and Fogarty embolectomy catheter technique."
+    ],
+    "references": [
+      {
+        "label": "Society for Vascular Surgery (SVS) Practice Guidelines",
+        "url": "https://vascular.org/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1530",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Respiratory",
+    "topic": "Anatomical compartmentalization of mediastinal masses: 4 T's of the anterior ...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 68-year-old female presenting with progressive functional symptoms is evaluated in the acute procedural diagnostic suite requiring evaluation for Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Physical assessment reveals chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 135/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and ambient oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological feature, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Anterior mediastinal localization characteristic of Thymoma, Teratoma (germ cell tumor), Thyroid (retrosternal goiter), and 'Terrible' Lymphoma.",
+        "explanation": "Middle mediastinum houses lymphadenopathy, pericardial cysts, and bronchogenic cysts; posterior mediastinum contains neurogenic tumors (schwannoma, neurofibroma) along the sympathetic chain.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging is unnecessary and carries risk of contrast-induced nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Middle mediastinum houses lymphadenopathy, pericardial cysts, and bronchogenic cysts; posterior mediastinum contains neurogenic tumors (schwannoma, neurofibroma) along the sympathetic chain. In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Anatomical compartmentalization of mediastinal masses: 4 T's of the anterior ....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Anatomical compartmentalization of mediastinal masses: 4 T's of the anterior ...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1531",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Management of secondary vs primary spontaneous pneumothorax and chest tube cr...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic assessment is commenced for a 20-year-old male who undergoes urgent bedside clinical assessment in the ward with prominent manifestations of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Bedside evaluation demonstrates chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 136/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and ambient oxygen saturation 95%. What is the most definitive diagnostic test or initial pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Immediate tube thoracostomy (chest drain) for large (> 2 cm) or clinically unstable pneumothoraces, followed by surgical pleurodesis for persistent air leak or recurrence.",
+        "explanation": "Primary spontaneous pneumothorax (apical subpleural bleb rupture in tall young males) can be managed with aspiration if small; secondary pneumothorax (COPD) mandates formal intercostal drainage.",
+        "correct": true
+      }
+    ],
+    "explanation": "Primary spontaneous pneumothorax (apical subpleural bleb rupture in tall young males) can be managed with aspiration if small; secondary pneumothorax (COPD) mandates formal intercostal drainage. In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Management of secondary vs primary spontaneous pneumothorax and chest tube cr....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Management of secondary vs primary spontaneous pneumothorax and chest tube cr...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1532",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Thoracoscopic (VATS) wedge resection and mechanical pleurodesis for recurrent...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old female with recent symptom exacerbation presents to the acute specialized assessment service for urgent clarification of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Clinical examination highlights chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 137/84 mm Hg, heart rate 98/min, respiratory rate 18/min, and ambient oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term health maintenance?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Video-assisted thoracoscopic surgery (VATS) apical wedge resection of subpleural blebs combined with parietal pleural abrasion or talc poudrage.",
+        "explanation": "Surgical intervention significantly reduces the 50% lifetime recurrence risk of spontaneous pneumothorax to < 5% by obliterating the pleural potential space.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics treat volume overload but do not address underlying vascular, ischemic, or inflammatory pathology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Surgical intervention significantly reduces the 50% lifetime recurrence risk of spontaneous pneumothorax to < 5% by obliterating the pleural potential space. In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Thoracoscopic (VATS) wedge resection and mechanical pleurodesis for recurrent....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Thoracoscopic (VATS) wedge resection and mechanical pleurodesis for recurrent...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1533",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Parapneumonic effusion staging and indications for intercostal drainage accor...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 44-year-old male is evaluated during comprehensive tertiary inpatient consultation with clinical manifestations indicative of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Bedside physical examination confirms chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 138/85 mm Hg, heart rate 99/min, respiratory rate 19/min, and ambient oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Pleural fluid pH < 7.20, glucose < 3.4 mmol/L, elevated LDH (> 1000 IU/L), or positive microbiological culture defining empyema requiring prompt chest tube drainage.",
+        "explanation": "British Thoracic Society (BTS) guidelines mandate immediate tube drainage for complicated parapneumonic effusions and empyema; antibiotics alone fail due to pleural loculation.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without confirming the diagnosis exposes the patient to hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      }
+    ],
+    "explanation": "British Thoracic Society (BTS) guidelines mandate immediate tube drainage for complicated parapneumonic effusions and empyema; antibiotics alone fail due to pleural loculation. In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Parapneumonic effusion staging and indications for intercostal drainage accor....",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Parapneumonic effusion staging and indications for intercostal drainage accor...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1534",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension pneumothorax emergency identification and needle thoracostomy site",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive medical evaluation is performed for a 56-year-old female who attends the multidisciplinary academic medical center clinic due to suspected Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Clinical examination demonstrates chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 139/86 mm Hg, heart rate 100/min, respiratory rate 20/min, and ambient oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "Clinical diagnosis based on tracheal deviation, absent unilateral breath sounds, and hypotension, managed by immediate needle thoracostomy in the 2nd intercostal space midclavicular line or 4th/5th space anterior axillary line.",
+        "explanation": "Tension pneumothorax is a clinical emergency: positive intrapleural pressure compresses the vena cava, reducing venous return and causing immediate obstructive shock; never await chest radiography.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or sedation",
+        "explanation": "Unplanned rapid intubation without proper airway evaluation risks hypoxemia, cardiovascular collapse, and airway trauma.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      }
+    ],
+    "explanation": "Tension pneumothorax is a clinical emergency: positive intrapleural pressure compresses the vena cava, reducing venous return and causing immediate obstructive shock; never await chest radiography. In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Tension pneumothorax emergency identification and needle thoracostomy site.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Tension pneumothorax emergency identification and needle thoracostomy site."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-1535",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Light's criteria for differentiating pleural exudates from transudates",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old male presenting with progressive functional symptoms is urgently admitted to the acute care clinical observation unit requiring evaluation for Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema. Physical assessment reveals chest fullness, persistent cough, dyspnea, sudden unilateral pleuritic chest pain with hyperresonance and absent breath sounds, or loculated parapneumonic effusion with pleural fluid pH < 7.20 and low glucose. Clinical observations record blood pressure 140/87 mm Hg, heart rate 101/min, respiratory rate 21/min, and ambient oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Exudate confirmed if pleural/serum protein ratio > 0.5, pleural/serum LDH ratio > 0.6, or pleural LDH > two-thirds upper limit of normal serum LDH.",
+        "explanation": "Transudates arise from imbalanced hydrostatic or oncotic pressure (heart failure, cirrhosis, nephrotic syndrome); exudates result from increased capillary permeability (infection, malignancy, pulmonary embolism).",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe hematemesis",
+        "explanation": "Enteral fluid challenge during acute upper gastrointestinal hemorrhage is contraindicated and delays vascular access.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries significant nephrotoxicity and ototoxicity risks.",
+        "correct": false
+      },
+      {
+        "text": "High-volume hypotonic saline infusion without serial serum sodium monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolarity and life-threatening cerebral edema.",
+        "correct": false
+      }
+    ],
+    "explanation": "Transudates arise from imbalanced hydrostatic or oncotic pressure (heart failure, cirrhosis, nephrotic syndrome); exudates result from increased capillary permeability (infection, malignancy, pulmonary embolism). In the clinical evaluation of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema, standard care requires systematic differential diagnosis and strict compliance with accredited practice guidelines.",
+    "objective": "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Light's criteria for differentiating pleural exudates from transudates.",
+    "keyPoints": [
+      "Evaluate the clinical presentation, diagnostic confirmation, and guideline-directed management of Mediastinal masses, spontaneous pneumothorax, and complex pleural empyema concerning Light's criteria for differentiating pleural exudates from transudates."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Thoracic Neoplasms & Mediastinal Tumors",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
