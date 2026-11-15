@@ -10,17 +10,50 @@ export const auth = betterAuth({
   appName: appName(),
   baseURL: env().BETTER_AUTH_URL,
   secret: env().BETTER_AUTH_SECRET,
-  trustedOrigins: [
-    'https://openprep-ahmedu558.vercel.app',
-    'https://openprep-amber.vercel.app',
-    'https://*.vercel.app',
-    'http://localhost:3000',
-    'http://localhost:3100',
-    'http://127.0.0.1:3000',
-    'http://127.0.0.1:3100',
-    ...(process.env.VERCEL_URL ? [`https://${process.env.VERCEL_URL}`] : []),
-    ...(process.env.VERCEL_PROJECT_PRODUCTION_URL ? [`https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`] : []),
-  ],
+  trustedOrigins: async (request) => {
+    const origins = [
+      'https://openprep-ahmedu558.vercel.app',
+      'https://openprep-amber.vercel.app',
+      'https://*.vercel.app',
+      '*.vercel.app',
+      'http://localhost:3000',
+      'http://localhost:3100',
+      'http://127.0.0.1:3000',
+      'http://127.0.0.1:3100',
+      ...(process.env.VERCEL_URL ? [`https://${process.env.VERCEL_URL}`] : []),
+      ...(process.env.VERCEL_PROJECT_PRODUCTION_URL ? [`https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`] : []),
+    ];
+    if (request) {
+      const host = request.headers.get('x-forwarded-host') || request.headers.get('host');
+      const proto = request.headers.get('x-forwarded-proto') || 'https';
+      if (host) origins.push(`${proto}://${host}`);
+      const origin = request.headers.get('origin');
+      if (origin) {
+        try {
+          const u = new URL(origin);
+          if (
+            u.hostname === 'localhost' ||
+            u.hostname === '127.0.0.1' ||
+            u.hostname.endsWith('.vercel.app') ||
+            u.hostname.includes('openprep') ||
+            (host && u.hostname === host.split(':')[0])
+          ) {
+            origins.push(origin);
+          }
+        } catch {}
+      }
+      const referer = request.headers.get('referer');
+      if (referer) {
+        try {
+          origins.push(new URL(referer).origin);
+        } catch {}
+      }
+    }
+    return origins;
+  },
+  advanced: {
+    trustedProxyHeaders: true,
+  },
   database: prismaAdapter(db, { provider: 'postgresql', transaction: true }),
   emailAndPassword: {
     enabled: true,

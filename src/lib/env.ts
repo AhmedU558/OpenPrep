@@ -1,5 +1,13 @@
 import { z } from 'zod';
 
+// Sanitize process.env to remove any UTF-8 BOM characters that may have been injected via Windows/Vercel
+for (const key of Object.keys(process.env)) {
+  const val = process.env[key];
+  if (typeof val === 'string' && val.charCodeAt(0) === 0xfeff) {
+    process.env[key] = val.slice(1).trim();
+  }
+}
+
 // Validated once, on first use. A bad config fails loudly at startup instead of mid-request.
 const schema = z.object({
   NODE_ENV: z.enum(['development', 'test', 'production']).default('development'),
