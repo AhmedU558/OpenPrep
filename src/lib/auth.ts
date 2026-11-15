@@ -10,6 +10,17 @@ export const auth = betterAuth({
   appName: appName(),
   baseURL: env().BETTER_AUTH_URL,
   secret: env().BETTER_AUTH_SECRET,
+  trustedOrigins: [
+    'https://openprep-ahmedu558.vercel.app',
+    'https://openprep-amber.vercel.app',
+    'https://*.vercel.app',
+    'http://localhost:3000',
+    'http://localhost:3100',
+    'http://127.0.0.1:3000',
+    'http://127.0.0.1:3100',
+    ...(process.env.VERCEL_URL ? [`https://${process.env.VERCEL_URL}`] : []),
+    ...(process.env.VERCEL_PROJECT_PRODUCTION_URL ? [`https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`] : []),
+  ],
   database: prismaAdapter(db, { provider: 'postgresql', transaction: true }),
   emailAndPassword: {
     enabled: true,

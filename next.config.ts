@@ -21,7 +21,20 @@ const csp = [
 
 const nextConfig: NextConfig = {
   turbopack: {},
-  experimental: { cpus: 2 },
+  experimental: {
+    cpus: 2,
+    serverActions: {
+      allowedOrigins: [
+        'openprep-ahmedu558.vercel.app',
+        'openprep-amber.vercel.app',
+        '*.vercel.app',
+        'localhost:3000',
+        'localhost:3100',
+        '127.0.0.1:3000',
+        '127.0.0.1:3100',
+      ],
+    },
+  },
   poweredByHeader: false,
   webpack(config, { isServer, nextRuntime }) {
     if (process.env.OPENPREP_COMPLIANCE_STATS === '1') config.plugins.push(new ComplianceStatsPlugin(isServer ? `server-${nextRuntime ?? 'node'}` : 'browser'));
