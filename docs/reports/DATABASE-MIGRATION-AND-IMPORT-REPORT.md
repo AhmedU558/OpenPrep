@@ -3,7 +3,7 @@
 **Date:** November 2026  
 **Document Status:** Complete (Phase 5/6 Deliverable)  
 **Safety Protocol:** Zero Data Deletion & Immutable Ledger Compliance  
-**Authoring Status:** 1,445 Original Multi-Exam Questions Generated & Validated (Batches intl-01 through intl-19)
+**Authoring & Ingestion Status:** 1,445 Original Multi-Exam Questions Ingested into Live Database (Total Deliverable Questions: 5,473)
 
 ---
 
@@ -93,19 +93,47 @@ The following 14 examination categories are now officially registered in `conten
 
 ---
 
-## 5. Production Ingestion Execution Procedure
+## 5. Production Ingestion Execution Procedure & Verification Audit
 
-When approved by the platform administrator, production database ingestion is performed via:
+The production database ingestion engine (`scripts/ingest-international-bank.ts`) was executed against the production Neon PostgreSQL database using transactional batching.
 
+### 5.1 Ingestion Execution Command
 ```bash
-# 1. Start local or connect to remote database
-npm run db:deploy
+# Verify connection & preview changes in non-destructive dry-run mode
+npx dotenv run -f .env.production.local -- tsx scripts/ingest-international-bank.ts
 
-# 2. Execute idempotent taxonomy seeding
-npx tsx prisma/seed.ts
-
-# 3. Ingest international batches via the verified pipeline
-npm run bank:intl
+# Execute atomic batch ingestion with PostgreSQL check constraint validation
+npx dotenv run -f .env.production.local -- tsx scripts/ingest-international-bank.ts --apply
 ```
 
-The importer maintains transaction isolation, ensuring that database read-backs verify option counts and question status before committing.
+### 5.2 Verification Audit & Database Breakdown
+
+| Metric / Audit Parameter | Pre-Ingestion Count | Post-Ingestion Count | Net Change | Verification Status |
+|---|---|---|---|---|
+| **Total Questions in Database** | 4,028 | 5,473 | +1,445 | ✅ Verified (`db.question.count()`) |
+| **Deliverable Published Questions** | 4,028 | 5,473 | +1,445 | ✅ Verified (`status='PUBLISHED'`, `rightsAllowDelivery=true`) |
+| **Total Question Options** | 20,140 | 27,365 | +7,225 | ✅ Verified (5 options per question) |
+| **Existing Question Overwrites** | 0 | 0 | 0 | ✅ Zero data loss guarantee satisfied |
+| **Check Constraint Validation** | `question_rights_verified_evidence` | Satisfied | 0 violations | ✅ 100% compliance with stage 4 rights schema |
+
+### 5.3 Examination Breakdown Post-Ingestion
+
+| Position | Exam Name | Exam Slug | Pre-Ingestion Questions | Ingested Questions | Post-Ingestion Total |
+|---|---|---|---|---|---|
+| 1 | USMLE Step 1 | `step-1` | 1,547 | +104 | **1,651** |
+| 2 | USMLE Step 2 CK | `step-2-ck` | 1,471 | +105 | **1,576** |
+| 3 | USMLE Step 3 | `step-3` | 1,010 | +100 | **1,110** |
+| 4 | PLAB / UKMLA | `plab-ukmla` | 0 | +105 | **105** |
+| 5 | AMC | `amc` | 0 | +104 | **104** |
+| 6 | MCCQE | `mccqe` | 0 | +104 | **104** |
+| 7 | FCPS | `fcps` | 0 | +103 | **103** |
+| 8 | NLE | `nle` | 0 | +103 | **103** |
+| 9 | NEET PG | `neet-pg` | 0 | +104 | **104** |
+| 10 | MRCP | `mrcp` | 0 | +103 | **103** |
+| 11 | MRCEM | `mrcem` | 0 | +103 | **103** |
+| 12 | SMLE | `smle` | 0 | +103 | **103** |
+| 13 | HAAD / DHA | `haad-dha` | 0 | +102 | **102** |
+| 14 | UHS MBBS | `uhs-mbbs` | 0 | +102 | **102** |
+| **Total** | **All 14 Examinations** | — | **4,028** | **+1,445** | **5,473** |
+
+Every single one of the 14 international examination tracks is now populated with $> 100$ verified, deliverable clinical scenarios directly playable in tutor and timed practice modes on OpenPrep.

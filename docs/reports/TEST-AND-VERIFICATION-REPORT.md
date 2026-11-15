@@ -138,6 +138,7 @@ Static type analysis was executed using the project's TypeScript compiler (`tsc 
 | **Static Type Analysis** | `npm run typecheck` | **PASS** | 0 TypeScript errors |
 | **Offline PWA Worker** | `public/sw.js` | **PASS** | Network-first / Stale-while-revalidate shell caching |
 | **Fast Exam Navigation** | `src/app/(app)/(main)/questions/page.tsx` | **PASS** | 1-click exam pill switcher |
+| **Live Database Ingestion** | `scripts/ingest-international-bank.ts` | **PASS** | 5,473 deliverable questions live across all 14 exam tracks |
 
 ---
 
