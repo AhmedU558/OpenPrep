@@ -1,0 +1,4339 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-2411",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gross pathology and hormonal production in functional ovarian sex cord-stroma...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old male is transferred by emergency mobile intensive care to the medical ward with clinical findings indicative of Cervical carcinoma, high-grade serous ovarian carcinoma, and endometrial adenocarcinoma. Physical examination reveals postcoital vaginal bleeding or watery discharge with exophytic cervical lesion, progressive abdominal distension with pelvic mass, ascites, and CA-125 > 500 U/mL, or postmenopausal bleeding. Clinical observations demonstrate blood pressure 125/83 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Granulosa-theca cell tumors produce estrogen (yellowish cut surface due to lipid-laden lutein cells); Sertoli-Leydig cell tumors produce testosterone (causing defeminization and virilization).",
+        "explanation": "Sertoli-Leydig cell tumors (arrhenoblastomas) cause rapid voice deepening, clitoromegaly, temporal balding, and oligomenorrhea in young women; serum testosterone is elevated with normal DHEA-S.",
+        "correct": true
+      }
+    ],
+    "explanation": "Sertoli-Leydig cell tumors (arrhenoblastomas) cause rapid voice deepening, clitoromegaly, temporal balding, and oligomenorrhea in young women; serum testosterone is elevated with normal DHEA-S. In the systematic diagnostic and therapeutic evaluation of Cervical carcinoma, high-grade serous ovarian carcinoma, and endometrial adenocarcinoma, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cervical carcinoma, high-grade serous ovarian carcinoma, and endometrial adenocarcinoma concerning Gross pathology and hormonal production in functional ovarian sex cord-stroma....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cervical carcinoma, high-grade serous ovarian carcinoma, and endometrial adenocarcinoma concerning Gross pathology and hormonal production in functional ovarian sex cord-stroma...."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Gynecologic Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2412",
+    "exam": "Step 1",
+    "subject": "Anatomy",
+    "system": "Musculoskeletal",
+    "topic": "Anatomical and biomechanical failure of the femoral physis in Slipped Capital...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 47-year-old female who attends the scheduled outpatient hospital consultative session due to suspected Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Clinical examination confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 126/84 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Shearing displacement of the femoral neck anteriorly and superiorly relative to the epiphysis through the hypertrophic zone of the proximal femoral growth plate.",
+        "explanation": "During pubertal growth spurts, vertical orientation of the physis and mechanical loading in overweight adolescents exceed physeal shear strength, displacing the epiphysis posteriorly and medially.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "During pubertal growth spurts, vertical orientation of the physis and mechanical loading in overweight adolescents exceed physeal shear strength, displacing the epiphysis posteriorly and medially. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Anatomical and biomechanical failure of the femoral physis in Slipped Capital....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Anatomical and biomechanical failure of the femoral physis in Slipped Capital...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2413",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Slipped Capital Femoral Epiphysis (SCFE): Diagnostic radiography and emergenc...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old male presenting with progressive symptomatic deterioration is evaluated during urgent inpatient specialty consultation requiring evaluation for Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside assessment highlights Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 127/85 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "AP and frog-leg lateral pelvic radiographs demonstrating Kline line failing to intersect the lateral femoral epiphysis, requiring immediate non-weightbearing and emergent in situ single-screw pin fixation.",
+        "explanation": "Attempting forceful closed reduction is strictly contraindicated as it stretches and tears retinacular vessels running along the femoral neck, precipitating avascular necrosis of the femoral head.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Attempting forceful closed reduction is strictly contraindicated as it stretches and tears retinacular vessels running along the femoral neck, precipitating avascular necrosis of the femoral head. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Slipped Capital Femoral Epiphysis (SCFE): Diagnostic radiography and emergenc....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Slipped Capital Femoral Epiphysis (SCFE): Diagnostic radiography and emergenc...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2414",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Developmental Dysplasia of the Hip (DDH): Ultrasonography screening and Pavli...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 79-year-old female who undergoes diagnostic clinical evaluation in the hospital specialist clinic with acute manifestations of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside examination demonstrates Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 128/86 mm Hg, pulse 84/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Serial clinical examination with Barlow (provocative dislocation) and Ortolani (reduction) maneuvers, confirmed by hip dynamic ultrasound at 4-6 weeks, treated with a dynamic Pavlik harness.",
+        "explanation": "The Pavlik harness maintains the hip in flexion (90-100 degrees) and controlled abduction, centering the cartilaginous femoral head deeply within the acetabulum to stimulate normal concentric remodeling.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Pavlik harness maintains the hip in flexion (90-100 degrees) and controlled abduction, centering the cartilaginous femoral head deeply within the acetabulum to stimulate normal concentric remodeling. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Developmental Dysplasia of the Hip (DDH): Ultrasonography screening and Pavli....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Developmental Dysplasia of the Hip (DDH): Ultrasonography screening and Pavli...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2415",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Kocher criteria for differentiating septic arthritis from transient synovitis...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 30-year-old male with acute clinical destabilization undergoes urgent bedside clinical evaluation in the high-dependency unit for urgent investigation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside evaluation confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 129/87 mm Hg, pulse 85/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Evaluating 4 criteria: non-weightbearing on affected side, oral temperature > 38.5 C, ESR > 40 mm/hr, and WBC > 12,000/uL; presence of 4 criteria gives a > 90% probability of septic arthritis.",
+        "explanation": "Septic arthritis is an orthopedic surgical emergency requiring urgent arthrocentesis and emergent surgical washout/arthrotomy to prevent irreversible chondrolysis and permanent hip deformity.",
+        "correct": true
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Septic arthritis is an orthopedic surgical emergency requiring urgent arthrocentesis and emergent surgical washout/arthrotomy to prevent irreversible chondrolysis and permanent hip deformity. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Kocher criteria for differentiating septic arthritis from transient synovitis....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Kocher criteria for differentiating septic arthritis from transient synovitis...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2416",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Legg-Calv\u00e9-Perthes disease: Idiopathic avascular necrosis of the femoral head...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 46-year-old female is admitted to the acute clinical observation and monitoring suite with clinical findings indicative of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Physical examination reveals Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 130/88 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Self-limiting avascular necrosis of the capital femoral epiphysis in boys aged 4-8 years presenting with an insidious, painless or mildly painful limp and limited hip internal rotation and abduction.",
+        "explanation": "Radiographs progress through necrosis, fragmentation, reossification, and remodeling; containment of the femoral head within the spherical acetabulum prevents permanent mushroom-shaped deformity.",
+        "correct": true
+      }
+    ],
+    "explanation": "Radiographs progress through necrosis, fragmentation, reossification, and remodeling; containment of the femoral head within the spherical acetabulum prevents permanent mushroom-shaped deformity. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Legg-Calv\u00e9-Perthes disease: Idiopathic avascular necrosis of the femoral head....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Legg-Calv\u00e9-Perthes disease: Idiopathic avascular necrosis of the femoral head...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2417",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Nursemaid elbow (radial head subluxation): Mechanism of injury and reduction ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 62-year-old male who attends the scheduled outpatient hospital consultative session due to suspected Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Clinical examination confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 131/89 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden longitudinal traction on an extended and pronated forearm in a toddler, causing the annular ligament to slip over the radial head into the radiohumeral joint, reduced by hyperpronation or supination-flexion.",
+        "explanation": "In young children, the radial head is cartilaginous and smaller than the radial neck; gentle hyperpronation of the flexed elbow snaps the trapped annular ligament back into place, with immediate symptom relief.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In young children, the radial head is cartilaginous and smaller than the radial neck; gentle hyperpronation of the flexed elbow snaps the trapped annular ligament back into place, with immediate symptom relief. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Nursemaid elbow (radial head subluxation): Mechanism of injury and reduction ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Nursemaid elbow (radial head subluxation): Mechanism of injury and reduction ...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2418",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Congenital Talipes Equinovarus (Clubfoot): Ponseti conservative serial castin...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 78-year-old female presenting with progressive symptomatic deterioration is evaluated during urgent inpatient specialty consultation requiring evaluation for Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside assessment highlights Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 132/90 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Correcting CAVE deformities (Cavus, Adductus, Varus, Equinus) through weekly gentle manual manipulation and serial long-leg plaster casting, followed by percutaneous Achilles tenotomy in > 80% of cases.",
+        "explanation": "The Ponseti method addresses abnormal tarsal joint alignment without aggressive extensive surgical release, achieving a flexible, plantigrade, pain-free foot with long-term success rates exceeding 95%.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "The Ponseti method addresses abnormal tarsal joint alignment without aggressive extensive surgical release, achieving a flexible, plantigrade, pain-free foot with long-term success rates exceeding 95%. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Congenital Talipes Equinovarus (Clubfoot): Ponseti conservative serial castin....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Congenital Talipes Equinovarus (Clubfoot): Ponseti conservative serial castin...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2419",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Genu varum (bow legs) versus Genu valgum (knock knees): Physiological develop...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 29-year-old male who undergoes diagnostic clinical evaluation in the hospital specialist clinic with acute manifestations of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside examination demonstrates Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 133/91 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Physiological genu varum is normal until age 2 years, transitioning to physiological genu valgum with peak at age 3-4 years, normalizing by age 7; pathological varum suggests nutritional rickets or Blount disease.",
+        "explanation": "Nutritional vitamin D deficiency rickets impairs chondrocyte apoptosis and osteoid mineralization at the physis, causing cupping, fraying, and widening of the metaphysis with persistent symmetrical bowing.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Nutritional vitamin D deficiency rickets impairs chondrocyte apoptosis and osteoid mineralization at the physis, causing cupping, fraying, and widening of the metaphysis with persistent symmetrical bowing. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Genu varum (bow legs) versus Genu valgum (knock knees): Physiological develop....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Genu varum (bow legs) versus Genu valgum (knock knees): Physiological develop...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2420",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Osteochondritis dissecans and Osgood-Schlatter disease: Traction apophysitis ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female with acute clinical destabilization undergoes urgent bedside clinical evaluation in the high-dependency unit for urgent investigation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside evaluation confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 134/70 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Repetitive quadriceps contraction pulling on the patellar tendon insertion at the tibial tubercle apophysis in active adolescent athletes, presenting with localized swelling and tenderness over the tibial tubercle.",
+        "explanation": "Osgood-Schlatter disease is a self-limiting traction microtrauma of the secondary ossification center; management is conservative with activity modification, ice, NSAIDs, and hamstring stretching.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Osgood-Schlatter disease is a self-limiting traction microtrauma of the secondary ossification center; management is conservative with activity modification, ice, NSAIDs, and hamstring stretching. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Osteochondritis dissecans and Osgood-Schlatter disease: Traction apophysitis ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Osteochondritis dissecans and Osgood-Schlatter disease: Traction apophysitis ...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2421",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Transient synovitis (toxic synovitis) of the hip: Natural history and conserv...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 61-year-old male is admitted to the acute clinical observation and monitoring suite with clinical findings indicative of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Physical examination reveals Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 135/71 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Benign, self-limiting sterile reactive hip synovitis developing 1-2 weeks after a viral upper respiratory illness in a child aged 3-10 years, managed with rest and oral NSAIDs, resolving within 7-10 days.",
+        "explanation": "Careful ultrasound rules out joint effusion exceeding criteria; absence of fever and normal inflammatory markers differentiate transient synovitis from aggressive bacterial septic arthritis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Careful ultrasound rules out joint effusion exceeding criteria; absence of fever and normal inflammatory markers differentiate transient synovitis from aggressive bacterial septic arthritis. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Transient synovitis (toxic synovitis) of the hip: Natural history and conserv....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Transient synovitis (toxic synovitis) of the hip: Natural history and conserv...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2422",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Emergency arthrocentesis in suspected pediatric septic arthritis of the hip",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 77-year-old female who attends the scheduled outpatient hospital consultative session due to suspected Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Clinical examination confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 136/72 mm Hg, pulse 92/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Ultrasound-guided needle aspiration of the hip joint under sterile conditions in the operating theater or procedure room, analyzing synovial fluid for cell count, Gram stain, and bacterial culture.",
+        "explanation": "Confirming cloudy synovial fluid with leukocytosis (> 50,000/uL with > 75% polymorphonuclear neutrophils) mandates immediate intravenous flucloxacillin or cefazolin and formal surgical drainage.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Confirming cloudy synovial fluid with leukocytosis (> 50,000/uL with > 75% polymorphonuclear neutrophils) mandates immediate intravenous flucloxacillin or cefazolin and formal surgical drainage. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Emergency arthrocentesis in suspected pediatric septic arthritis of the hip.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Emergency arthrocentesis in suspected pediatric septic arthritis of the hip."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2423",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Scoliosis screening: Adams forward bend test, scoliometer evaluation, and Cob...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male presenting with progressive symptomatic deterioration is evaluated during urgent inpatient specialty consultation requiring evaluation for Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside assessment highlights Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 137/73 mm Hg, pulse 93/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Adams forward bend test demonstrating thoracic or lumbar rotational asymmetry (rib hump), confirmed on standing full-spine radiography with Cobb angle measurement.",
+        "explanation": "Curves between 25 and 40 degrees in growing adolescents are treated with rigid thoracolumbosacral orthosis (TLSO) bracing to arrest progression; Cobb angles > 45-50 degrees require posterior spinal fusion.",
+        "correct": true
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Curves between 25 and 40 degrees in growing adolescents are treated with rigid thoracolumbosacral orthosis (TLSO) bracing to arrest progression; Cobb angles > 45-50 degrees require posterior spinal fusion. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Scoliosis screening: Adams forward bend test, scoliometer evaluation, and Cob....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Scoliosis screening: Adams forward bend test, scoliometer evaluation, and Cob...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2424",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Salter-Harris physeal fracture classification and prognostic growth arrest risks",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic evaluation is commenced for a 44-year-old female who undergoes diagnostic clinical evaluation in the hospital specialist clinic with acute manifestations of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside examination demonstrates Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 138/74 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Grading growth plate injuries from Type I (transverse physeal slip) to Type V (compression/crush injury of physis); Types III, IV, and V involve the articular surface and carry high growth arrest risks.",
+        "explanation": "Salter-Harris Type IV fractures cross the epiphysis, physis, and metaphysis, producing bony bridge formation across the physis that causes progressive angular limb deformity without anatomic reduction.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Salter-Harris Type IV fractures cross the epiphysis, physis, and metaphysis, producing bony bridge formation across the physis that causes progressive angular limb deformity without anatomic reduction. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Salter-Harris physeal fracture classification and prognostic growth arrest risks.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Salter-Harris physeal fracture classification and prognostic growth arrest risks."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2425",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Anatomy of the hip joint blood supply and vulnerability to pediatric avascula...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male with acute clinical destabilization undergoes urgent bedside clinical evaluation in the high-dependency unit for urgent investigation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis. Bedside evaluation confirms Barlow and Ortolani signs with asymmetrical skin folds (DDH); dull groin pain, limp, and obligate external rotation upon hip flexion in an overweight adolescent (SCFE); or acute inability to bear weight with high fever and Kocher criteria (septic arthritis). Clinical observations demonstrate blood pressure 139/75 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "The capital femoral epiphysis receives its predominant arterial blood supply from the lateral epiphyseal branches of the medial femoral circumflex artery running within retinacular fibers along the femoral neck.",
+        "explanation": "Displacement in SCFE or tamponade from tense joint effusion in septic arthritis compresses these fragile retinacular vessels, compromising epiphyseal arterial perfusion and causing femoral head necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Displacement in SCFE or tamponade from tense joint effusion in septic arthritis compresses these fragile retinacular vessels, compromising epiphyseal arterial perfusion and causing femoral head necrosis. In the systematic diagnostic and therapeutic evaluation of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Anatomy of the hip joint blood supply and vulnerability to pediatric avascula....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Pediatric hip pathology: Developmental dysplasia of the hip (DDH), Slipped capital femoral epiphysis (SCFE), and Septic arthritis concerning Anatomy of the hip joint blood supply and vulnerability to pediatric avascula...."
+    ],
+    "references": [
+      {
+        "label": "POSNA Evidence-Based Practice Guidelines in Pediatric Orthopaedics",
+        "url": "https://posna.org/Physician-Resources/Clinical-Practice-Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2426",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Respiratory",
+    "topic": "Physiological transition from fetal to neonatal circulation and pulmonary vas...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old female presents to the academic medical center acute assessment unit with clinical findings indicative of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Physical examination reveals apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 140/76 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "First breath and umbilical cord clamping causing lung aeration, dramatic rise in alveolar oxygen tension, and profound fall in pulmonary vascular resistance, closing the foramen ovale and ductus arteriosus.",
+        "explanation": "Removal of the low-resistance placental circuit elevates systemic vascular resistance; lung expansion stimulates endothelial nitric oxide and prostacyclin production, dilating the pulmonary vascular bed.",
+        "correct": true
+      }
+    ],
+    "explanation": "Removal of the low-resistance placental circuit elevates systemic vascular resistance; lung expansion stimulates endothelial nitric oxide and prostacyclin production, dilating the pulmonary vascular bed. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Physiological transition from fetal to neonatal circulation and pulmonary vas....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Physiological transition from fetal to neonatal circulation and pulmonary vas...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2427",
+    "exam": "Step 2 CK",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Neonatal Resuscitation Program (NRP): Initial steps, positive pressure ventil...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 57-year-old male who presents to the regional emergency trauma and resuscitation center due to suspected Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Clinical examination confirms apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 141/77 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Warm, dry, stimulate; if heart rate < 100 bpm or gasping/apnea, initiate Positive Pressure Ventilation (PPV) with room air (21% O2) within 60 seconds; initiate chest compressions if HR remains < 60 bpm despite effective PPV.",
+        "explanation": "Effective ventilation of the lungs is the single most critical step in neonatal resuscitation; starting resuscitation with 100% oxygen in term infants increases oxidative stress and neonatal mortality.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Effective ventilation of the lungs is the single most critical step in neonatal resuscitation; starting resuscitation with 100% oxygen in term infants increases oxidative stress and neonatal mortality. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal Resuscitation Program (NRP): Initial steps, positive pressure ventil....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal Resuscitation Program (NRP): Initial steps, positive pressure ventil...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2428",
+    "exam": "Step 3",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Therapeutic hypothermia protocol for Moderate-to-Severe Hypoxic-Ischemic Ence...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old female presenting with progressive symptomatic deterioration is evaluated in the specialized acute diagnostic and procedure suite requiring evaluation for Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside assessment highlights apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 142/78 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Initiating controlled whole-body cooling to 33.5 C within 6 hours of birth for 72 hours, followed by slow rewarming at 0.5 C per hour in term infants with signs of asphyxia and encephalopathy.",
+        "explanation": "Therapeutic hypothermia suppresses the secondary energy failure phase, reduces apoptotic neuronal cascades, lowers cerebral metabolic demand, and decreases death and severe cerebral palsy by 25-30%.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Therapeutic hypothermia suppresses the secondary energy failure phase, reduces apoptotic neuronal cascades, lowers cerebral metabolic demand, and decreases death and severe cerebral palsy by 25-30%. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Therapeutic hypothermia protocol for Moderate-to-Severe Hypoxic-Ischemic Ence....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Therapeutic hypothermia protocol for Moderate-to-Severe Hypoxic-Ischemic Ence...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2429",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Meconium aspiration syndrome (MAS): Pathophysiology, chemical pneumonitis, an...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 24-year-old male who attends the university hospital regional referral service with acute manifestations of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside examination demonstrates apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 143/79 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Intrauterine fetal distress triggering gasping and meconium passage; inhaled meconium causes mechanical airway obstruction, severe chemical pneumonitis, and direct inactivation of pulmonary surfactant.",
+        "explanation": "Ball-valve obstruction produces localized air trapping, alveolar overdistension, and high pneumothorax risks; secondary surfactant degradation requires mechanical ventilation, sedation, and surfactant replacement.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ball-valve obstruction produces localized air trapping, alveolar overdistension, and high pneumothorax risks; secondary surfactant degradation requires mechanical ventilation, sedation, and surfactant replacement. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Meconium aspiration syndrome (MAS): Pathophysiology, chemical pneumonitis, an....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Meconium aspiration syndrome (MAS): Pathophysiology, chemical pneumonitis, an...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2430",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Persistent Pulmonary Hypertension of the Newborn (PPHN): Inhaled nitric oxide...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 40-year-old female with acute clinical destabilization is transferred by emergency mobile intensive care to the medical ward for urgent investigation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside evaluation confirms apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 114/80 mm Hg, pulse 100/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 94%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Failure of pulmonary vascular resistance to drop at birth, causing suprasystemic pulmonary pressures, right-to-left shunting through ductus arteriosus/foramen ovale, treated with inhaled nitric oxide (iNO).",
+        "explanation": "Pre-ductal (right hand) versus post-ductal (lower extremity) pulse oximetry gradient > 5-10% confirms right-to-left ductal shunting; inhaled NO selectively dilates ventilated pulmonary arterioles.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "Pre-ductal (right hand) versus post-ductal (lower extremity) pulse oximetry gradient > 5-10% confirms right-to-left ductal shunting; inhaled NO selectively dilates ventilated pulmonary arterioles. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Persistent Pulmonary Hypertension of the Newborn (PPHN): Inhaled nitric oxide....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Persistent Pulmonary Hypertension of the Newborn (PPHN): Inhaled nitric oxide...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2431",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Neonatal hypoglycemia screening, target glucose thresholds, and intravenous d...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old male presents to the academic medical center acute assessment unit with clinical findings indicative of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Physical examination reveals apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 115/81 mm Hg, pulse 101/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 95%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Screening at-risk neonates (SGA, LGA, infant of diabetic mother); threshold for intervention is plasma glucose < 2.2 mmol/L (< 40 mg/dL) in the first 4 hours or < 2.6 mmol/L (< 45 mg/dL) thereafter, treated with IV 10% dextrose.",
+        "explanation": "Hyperinsulinism in infants of diabetic mothers suppresses gluconeogenesis and glycogenolysis; persistent neuroglycopenia risks permanent occipital cerebral injury, visual impairment, and epilepsy.",
+        "correct": true
+      }
+    ],
+    "explanation": "Hyperinsulinism in infants of diabetic mothers suppresses gluconeogenesis and glycogenolysis; persistent neuroglycopenia risks permanent occipital cerebral injury, visual impairment, and epilepsy. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal hypoglycemia screening, target glucose thresholds, and intravenous d....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal hypoglycemia screening, target glucose thresholds, and intravenous d...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2432",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Transient Tachypnea of the Newborn (TTN): Delayed fetal lung liquid resorptio...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 72-year-old female who presents to the regional emergency trauma and resuscitation center due to suspected Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Clinical examination confirms apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 116/82 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Elective cesarean delivery without labor resulting in delayed clearance of fetal alveolar fluid by epithelial sodium channels (ENaC), presenting with tachypnea, prominent interlobar fluid on CXR, resolving in 24-48 hours.",
+        "explanation": "Labor contractions stimulate fetal catecholamine and cortisol release, triggering pulmonary epithelial transition from active chloride/fluid secretion to active sodium and fluid reabsorption via ENaC channels.",
+        "correct": true
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Labor contractions stimulate fetal catecholamine and cortisol release, triggering pulmonary epithelial transition from active chloride/fluid secretion to active sodium and fluid reabsorption via ENaC channels. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Transient Tachypnea of the Newborn (TTN): Delayed fetal lung liquid resorptio....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Transient Tachypnea of the Newborn (TTN): Delayed fetal lung liquid resorptio...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2433",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Apgar score components, scoring criteria at 1 and 5 minutes, and clinical sig...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 23-year-old male presenting with progressive symptomatic deterioration is evaluated in the specialized acute diagnostic and procedure suite requiring evaluation for Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside assessment highlights apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 117/83 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Scoring Appearance (color), Pulse (heart rate), Grimace (reflex irritability), Activity (muscle tone), and Respiration (0 to 2 points each); assesses immediate extrauterine transition, not for resuscitation decisions.",
+        "explanation": "Resuscitation must proceed immediately based on heart rate and respiration without waiting for the 1-minute Apgar score; a low 5-minute Apgar score correlates with long-term neurological prognosis.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "Resuscitation must proceed immediately based on heart rate and respiration without waiting for the 1-minute Apgar score; a low 5-minute Apgar score correlates with long-term neurological prognosis. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Apgar score components, scoring criteria at 1 and 5 minutes, and clinical sig....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Apgar score components, scoring criteria at 1 and 5 minutes, and clinical sig...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2434",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Retinopathy of Prematurity (ROP): Oxygen toxicity pathogenesis, screening cri...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 39-year-old female who attends the university hospital regional referral service with acute manifestations of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside examination demonstrates apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 118/84 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Phase 1 hyperoxia halts normal retinal vascularization; phase 2 relative hypoxia in non-vascularized retina drives massive VEGF overproduction, inducing pathological neovascularization and retinal detachment.",
+        "explanation": "Screening indicated for infants born <= 30 weeks gestation or birth weight <= 1,500 grams; treated with laser photocoagulation or intravitreal anti-VEGF antibodies (bevacizumab/ranibizumab).",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      }
+    ],
+    "explanation": "Screening indicated for infants born <= 30 weeks gestation or birth weight <= 1,500 grams; treated with laser photocoagulation or intravitreal anti-VEGF antibodies (bevacizumab/ranibizumab). In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Retinopathy of Prematurity (ROP): Oxygen toxicity pathogenesis, screening cri....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Retinopathy of Prematurity (ROP): Oxygen toxicity pathogenesis, screening cri...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2435",
+    "exam": "MRCP",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Bronchopulmonary dysplasia (BPD): Definition, ventilatory barotrauma, and caf...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old male with acute clinical destabilization is transferred by emergency mobile intensive care to the medical ward for urgent investigation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside evaluation confirms apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 119/85 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Requirement for supplemental oxygen at 36 weeks postmenstrual age in very preterm infants due to arrested alveolar and microvascular development from mechanical barotrauma, volutrauma, and oxygen toxicity.",
+        "explanation": "Early administration of caffeine citrate (methylxanthine stimulating central respiratory drive) significantly reduces apnea of prematurity, shortens mechanical ventilation duration, and lowers BPD incidence.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Early administration of caffeine citrate (methylxanthine stimulating central respiratory drive) significantly reduces apnea of prematurity, shortens mechanical ventilation duration, and lowers BPD incidence. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Bronchopulmonary dysplasia (BPD): Definition, ventilatory barotrauma, and caf....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Bronchopulmonary dysplasia (BPD): Definition, ventilatory barotrauma, and caf...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2436",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Neonatal pneumothorax emergency recognition and cold-light transillumination",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 71-year-old female presents to the academic medical center acute assessment unit with clinical findings indicative of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Physical examination reveals apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 120/86 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Sudden acute desaturation, bradycardia, and unilateral hyperresonance in an infant on positive pressure ventilation; bedside fiberoptic transillumination reveals a large hyperilluminant halo, relieved by needle thoracentesis.",
+        "explanation": "Tension pneumothorax causes immediate mediastinal shift and caval compression, producing acute cardiovascular collapse; immediate needle decompression at the 2nd intercostal space midclavicular line is life-saving.",
+        "correct": true
+      }
+    ],
+    "explanation": "Tension pneumothorax causes immediate mediastinal shift and caval compression, producing acute cardiovascular collapse; immediate needle decompression at the 2nd intercostal space midclavicular line is life-saving. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal pneumothorax emergency recognition and cold-light transillumination.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Neonatal pneumothorax emergency recognition and cold-light transillumination."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2437",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Surfactant replacement therapy in Neonatal Respiratory Distress Syndrome (RDS)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 22-year-old male who presents to the regional emergency trauma and resuscitation center due to suspected Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Clinical examination confirms apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 121/87 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Exogenous animal-derived surfactant (poractant alfa / beractant) administered via endotracheal tube or minimally invasive surfactant therapy (MIST) in premature infants with surfactant deficiency.",
+        "explanation": "Surfactant lowers alveolar surface tension, preventing end-expiratory alveolar collapse (atelectasis); early replacement within 2 hours of life significantly reduces pneumothorax, pulmonary interstitial emphysema, and mortality.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Surfactant lowers alveolar surface tension, preventing end-expiratory alveolar collapse (atelectasis); early replacement within 2 hours of life significantly reduces pneumothorax, pulmonary interstitial emphysema, and mortality. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Surfactant replacement therapy in Neonatal Respiratory Distress Syndrome (RDS).",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Surfactant replacement therapy in Neonatal Respiratory Distress Syndrome (RDS)."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2438",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Universal newborn hearing screening (UNHS): Automated ABR and Otoacoustic emi...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 38-year-old female presenting with progressive symptomatic deterioration is evaluated in the specialized acute diagnostic and procedure suite requiring evaluation for Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside assessment highlights apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 122/88 mm Hg, pulse 76/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Screening all newborns prior to hospital discharge using Automated Auditory Brainstem Response (A-ABR) or Transient Evoked Otoacoustic Emissions (TEOAE) to detect congenital sensorineural hearing loss.",
+        "explanation": "Outer hair cells of the cochlea generate otoacoustic emissions in response to sound; identifying hearing impairment before 3 months allows intervention by 6 months, optimizing speech and language development.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Outer hair cells of the cochlea generate otoacoustic emissions in response to sound; identifying hearing impairment before 3 months allows intervention by 6 months, optimizing speech and language development. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Universal newborn hearing screening (UNHS): Automated ABR and Otoacoustic emi....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Universal newborn hearing screening (UNHS): Automated ABR and Otoacoustic emi...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2439",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Physiological versus pathological neonatal jaundice: Bilirubin thresholds and...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic evaluation is commenced for a 54-year-old male who attends the university hospital regional referral service with acute manifestations of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy. Bedside examination demonstrates apneic or gasping newborn with heart rate < 100 bpm requiring positive pressure ventilation (NRP), severe respiratory distress with coarse patchy infiltrates and hyperinflation (meconium aspiration), or lethargy and seizures post-asphyxia (HIE). Clinical observations demonstrate blood pressure 123/89 mm Hg, pulse 77/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Pathological jaundice appears within the first 24 hours of life, rises > 5 mg/dL/day, or involves direct conjugated bilirubin > 1 mg/dL; physiological jaundice appears at 2-3 days and resolves by 10-14 days.",
+        "explanation": "Unconjugated bilirubin crosses the blood-brain barrier, depositing in the basal ganglia and cranial nerve nuclei (kernicterus); intensive blue phototherapy (wavelength 460-490 nm) converts bilirubin to excretable lumirubin.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Unconjugated bilirubin crosses the blood-brain barrier, depositing in the basal ganglia and cranial nerve nuclei (kernicterus); intensive blue phototherapy (wavelength 460-490 nm) converts bilirubin to excretable lumirubin. In the systematic diagnostic and therapeutic evaluation of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Physiological versus pathological neonatal jaundice: Bilirubin thresholds and....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Neonatal resuscitation, meconium aspiration syndrome, and hypoxic-ischemic encephalopathy concerning Physiological versus pathological neonatal jaundice: Bilirubin thresholds and...."
+    ],
+    "references": [
+      {
+        "label": "AAP / AHA Neonatal Resuscitation Program (NRP) Guidelines",
+        "url": "https://www.aap.org/en/learning/neonatal-resuscitation-program/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2440",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Molecular oncogenesis of Basal Cell Carcinoma: Sonic Hedgehog signaling and P...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 35-year-old female with acute clinical destabilization is admitted to the acute clinical observation and monitoring suite for urgent investigation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside evaluation confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 124/90 mm Hg, pulse 78/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Inactivating loss-of-function mutations in the PTCH1 tumor suppressor gene disinhibiting the Smoothened (SMO) transmembrane protein, driving continuous GLI1 transcription factor nuclear translocation.",
+        "explanation": "Dysregulated Sonic Hedgehog pathway activity drives uncontrolled basal keratinocyte proliferation; targeted oral SMO inhibitors (vismodegib, sonidegib) achieve high response rates in advanced BCC.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Dysregulated Sonic Hedgehog pathway activity drives uncontrolled basal keratinocyte proliferation; targeted oral SMO inhibitors (vismodegib, sonidegib) achieve high response rates in advanced BCC. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Molecular oncogenesis of Basal Cell Carcinoma: Sonic Hedgehog signaling and P....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Molecular oncogenesis of Basal Cell Carcinoma: Sonic Hedgehog signaling and P...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2441",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Mohs micrographic surgery: Indications, histological technique, and margin ti...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 51-year-old male attends the scheduled outpatient hospital consultative session with clinical findings indicative of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Physical examination reveals pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 125/91 mm Hg, pulse 79/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Indicated for high-risk cutaneous malignancies (BCC and SCC) located on cosmetically sensitive 'mask areas' of the face (H-zone), recurrent tumors, or aggressive histological subtypes (morpheaform BCC).",
+        "explanation": "Mohs surgery examines 100% of the peripheral and deep surgical margins horizontally via intraoperative frozen sections, maximizing healthy tissue preservation while achieving the lowest recurrence rates (< 1-2%).",
+        "correct": true
+      }
+    ],
+    "explanation": "Mohs surgery examines 100% of the peripheral and deep surgical margins horizontally via intraoperative frozen sections, maximizing healthy tissue preservation while achieving the lowest recurrence rates (< 1-2%). In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Mohs micrographic surgery: Indications, histological technique, and margin ti....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Mohs micrographic surgery: Indications, histological technique, and margin ti...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2442",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Mycosis fungoides (Cutaneous T-cell Lymphoma): Patch/plaque stage and topical...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 67-year-old female who is evaluated during urgent inpatient specialty consultation due to suspected Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Clinical examination confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 126/70 mm Hg, pulse 80/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Clonal epidermotropic proliferation of neoplastic CD4+ T-lymphocytes presenting as indolent patches and plaques in sun-shielded areas, managed with topical corticosteroids, topical nitrogen mustard, and narrowband UVB.",
+        "explanation": "Progression through patch, plaque, and tumor stages reflects evolving T-cell clonal expansion; early stage IA/IB disease has an indolent natural history and normal life expectancy with skin-directed therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Progression through patch, plaque, and tumor stages reflects evolving T-cell clonal expansion; early stage IA/IB disease has an indolent natural history and normal life expectancy with skin-directed therapy. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Mycosis fungoides (Cutaneous T-cell Lymphoma): Patch/plaque stage and topical....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Mycosis fungoides (Cutaneous T-cell Lymphoma): Patch/plaque stage and topical...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2443",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Cutaneous Squamous Cell Carcinoma (cSCC) high-risk clinicopathological features",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 18-year-old male presenting with progressive symptomatic deterioration undergoes diagnostic clinical evaluation in the hospital specialist clinic requiring evaluation for Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside assessment highlights pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 127/71 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Tumor diameter > 2 cm, depth > 4 mm, perineural invasion, poorly differentiated histology, immunosuppression (organ transplant recipients), and recurrence warranting wide surgical excision margins (>= 6-10 mm).",
+        "explanation": "Immunosuppressed solid organ transplant recipients have an 80- to 100-fold increased risk of aggressive cSCC driven by UV radiation and beta-papillomaviruses, with elevated metastatic potential.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Immunosuppressed solid organ transplant recipients have an 80- to 100-fold increased risk of aggressive cSCC driven by UV radiation and beta-papillomaviruses, with elevated metastatic potential. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Cutaneous Squamous Cell Carcinoma (cSCC) high-risk clinicopathological features.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Cutaneous Squamous Cell Carcinoma (cSCC) high-risk clinicopathological features."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2444",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Keratoacanthoma clinical presentation, rapid growth, and distinction from inv...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 34-year-old female who undergoes urgent bedside clinical evaluation in the high-dependency unit with acute manifestations of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside examination demonstrates pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 128/72 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Dome-shaped, symmetric erythematous nodule with a central hyperkeratotic crateriform horn plug that grows rapidly over 4-8 weeks, followed by spontaneous involution, treated by complete surgical excision.",
+        "explanation": "Because histological differentiation between keratoacanthoma and well-differentiated squamous cell carcinoma is notoriously difficult on partial biopsy, complete excision with clear margins is standard.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Because histological differentiation between keratoacanthoma and well-differentiated squamous cell carcinoma is notoriously difficult on partial biopsy, complete excision with clear margins is standard. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Keratoacanthoma clinical presentation, rapid growth, and distinction from inv....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Keratoacanthoma clinical presentation, rapid growth, and distinction from inv...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2445",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Actinic keratosis: Precancerous dysplastic pathology and field-directed thera...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 50-year-old male with acute clinical destabilization is admitted to the acute clinical observation and monitoring suite for urgent investigation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside evaluation confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 129/73 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Rough, erythematous, sandpaper-textured scaly macules on sun-damaged skin showing partial-thickness epidermal atypia, treated with cryotherapy (isolated) or topical 5-fluorouracil/imiquimod (field cancerization).",
+        "explanation": "Actinic keratosis represents intraepidermal keratinocyte dysplasia with a 0.1-1% annual risk of malignant transformation into invasive squamous cell carcinoma; field therapy treats subclinical dysplastic clones.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Actinic keratosis represents intraepidermal keratinocyte dysplasia with a 0.1-1% annual risk of malignant transformation into invasive squamous cell carcinoma; field therapy treats subclinical dysplastic clones. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Actinic keratosis: Precancerous dysplastic pathology and field-directed thera....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Actinic keratosis: Precancerous dysplastic pathology and field-directed thera...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2446",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Basal cell carcinoma histological subtypes: Nodular, Superficial, Morpheaform...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old female attends the scheduled outpatient hospital consultative session with clinical findings indicative of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Physical examination reveals pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 130/74 mm Hg, pulse 84/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Nodular BCC (islands of basaloid cells with peripheral palisading and retraction artifact); Superficial BCC (buds from epidermis); Morpheaform BCC (thin, infiltrative strands in dense fibrous stroma).",
+        "explanation": "Morpheaform (sclerotic) BCC mimics a scar, lacks distinct clinical borders, and deeply invades subfascial structures, mandating Mohs micrographic surgery rather than standard simple excision.",
+        "correct": true
+      }
+    ],
+    "explanation": "Morpheaform (sclerotic) BCC mimics a scar, lacks distinct clinical borders, and deeply invades subfascial structures, mandating Mohs micrographic surgery rather than standard simple excision. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Basal cell carcinoma histological subtypes: Nodular, Superficial, Morpheaform....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Basal cell carcinoma histological subtypes: Nodular, Superficial, Morpheaform...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2447",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Clinical distinction between Basal Cell Carcinoma and cutaneous Squamous Cell...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 82-year-old male who is evaluated during urgent inpatient specialty consultation due to suspected Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Clinical examination confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 131/75 mm Hg, pulse 85/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "BCC presents as a shiny, pearly, translucent papule with telangiectasias, rolled borders, and central rodent ulceration; SCC presents as a firm, hyperkeratotic, crusted, erythematous plaque or ulcer.",
+        "explanation": "BCC is the most common human cancer, has virtually zero metastatic potential (< 0.01%), but causes extensive local tissue destruction; SCC carries a definitive risk of regional lymph node metastasis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "BCC is the most common human cancer, has virtually zero metastatic potential (< 0.01%), but causes extensive local tissue destruction; SCC carries a definitive risk of regional lymph node metastasis. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Clinical distinction between Basal Cell Carcinoma and cutaneous Squamous Cell....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Clinical distinction between Basal Cell Carcinoma and cutaneous Squamous Cell...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2448",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Histological hallmarks of Mycosis Fungoides: Pautrier microabscesses and S\u00e9za...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 33-year-old female presenting with progressive symptomatic deterioration undergoes diagnostic clinical evaluation in the hospital specialist clinic requiring evaluation for Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside assessment highlights pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 132/76 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 94%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Collections of atypical convoluted (cerebriform) CD4+ T-lymphocytes within the epidermis (Pautrier microabscesses); S\u00e9zary syndrome is the leukemic variant characterized by erythroderma, lymphadenopathy, and circulating S\u00e9zary cells.",
+        "explanation": "S\u00e9zary cells have characteristic hyperconvoluted, grooved, cerebriform nuclei seen on peripheral blood smears, expressing CD3 and CD4 with loss of mature T-cell surface markers (CD7 and CD26).",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "S\u00e9zary cells have characteristic hyperconvoluted, grooved, cerebriform nuclei seen on peripheral blood smears, expressing CD3 and CD4 with loss of mature T-cell surface markers (CD7 and CD26). In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Histological hallmarks of Mycosis Fungoides: Pautrier microabscesses and S\u00e9za....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Histological hallmarks of Mycosis Fungoides: Pautrier microabscesses and S\u00e9za...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2449",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Merkel cell carcinoma: Neuroendocrine pathology, polyomavirus etiology, and p...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 49-year-old male who undergoes urgent bedside clinical evaluation in the high-dependency unit with acute manifestations of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside examination demonstrates pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 133/77 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Rapidly growing, violaceous, painless cutaneous nodule on sun-exposed head/neck in elderly patients, associated with Merkel Cell Polyomavirus (MCPyV), expressing cytokeratin 20 (CK20) in a perinuclear dot pattern.",
+        "explanation": "Merkel cell carcinoma is an extraordinarily aggressive neuroendocrine carcinoma with early lymphatic dissemination; immune checkpoint inhibition with anti-PD-1 (pembrolizumab/avelumab) is first-line therapy.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Merkel cell carcinoma is an extraordinarily aggressive neuroendocrine carcinoma with early lymphatic dissemination; immune checkpoint inhibition with anti-PD-1 (pembrolizumab/avelumab) is first-line therapy. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Merkel cell carcinoma: Neuroendocrine pathology, polyomavirus etiology, and p....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Merkel cell carcinoma: Neuroendocrine pathology, polyomavirus etiology, and p...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2450",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Marjolin ulcer: Aggressive squamous cell carcinoma arising in chronic non-hea...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female with acute clinical destabilization is admitted to the acute clinical observation and monitoring suite for urgent investigation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside evaluation confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 134/78 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Malignant transformation of a chronic, non-healing burn scar, venous stasis ulcer, or chronic osteomyelitis draining sinus into an aggressive, poorly differentiated squamous cell carcinoma.",
+        "explanation": "Chronic inflammatory tissue turnover and persistent avascular scarring create an immunologically privileged site permitting malignant transformation; Marjolin ulcers have high metastatic rates (up to 30%).",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chronic inflammatory tissue turnover and persistent avascular scarring create an immunologically privileged site permitting malignant transformation; Marjolin ulcers have high metastatic rates (up to 30%). In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Marjolin ulcer: Aggressive squamous cell carcinoma arising in chronic non-hea....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Marjolin ulcer: Aggressive squamous cell carcinoma arising in chronic non-hea...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2451",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Sun protection counseling: UV radiation types, sunscreen SPF, and broad-spect...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 81-year-old male attends the scheduled outpatient hospital consultative session with clinical findings indicative of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Physical examination reveals pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 135/79 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Recommending daily application of broad-spectrum sunscreen (protecting against UVA and UVB) with Sun Protection Factor (SPF) >= 30, reapplied every 2 hours, along with protective clothing and shade.",
+        "explanation": "UVB (290-320 nm) causes direct DNA pyrimidine dimer formation and sunburn; UVA (320-400 nm) penetrates deeper into the dermis, generating reactive oxygen species driving photoaging and carcinogenesis.",
+        "correct": true
+      }
+    ],
+    "explanation": "UVB (290-320 nm) causes direct DNA pyrimidine dimer formation and sunburn; UVA (320-400 nm) penetrates deeper into the dermis, generating reactive oxygen species driving photoaging and carcinogenesis. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Sun protection counseling: UV radiation types, sunscreen SPF, and broad-spect....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Sun protection counseling: UV radiation types, sunscreen SPF, and broad-spect...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2452",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Field cancerization management in actinic keratoses: Topical 5-Fluorouracil p...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 32-year-old female who is evaluated during urgent inpatient specialty consultation due to suspected Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Clinical examination confirms pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 136/80 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Applying topical 5-fluorouracil 5% cream twice daily for 2 to 4 weeks, producing expected inflammatory erythema, vesiculation, and erosion as it selectively induces apoptosis in rapidly dividing dysplastic cells.",
+        "explanation": "5-FU inhibits thymidylate synthase, starving dysplastic keratinocytes of thymidine for DNA synthesis; educating patients about the expected acute inflammatory reaction ensures compliance and therapeutic success.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      }
+    ],
+    "explanation": "5-FU inhibits thymidylate synthase, starving dysplastic keratinocytes of thymidine for DNA synthesis; educating patients about the expected acute inflammatory reaction ensures compliance and therapeutic success. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Field cancerization management in actinic keratoses: Topical 5-Fluorouracil p....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Field cancerization management in actinic keratoses: Topical 5-Fluorouracil p...."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2453",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Anatomy of the epidermis and cells of origin in cutaneous malignancies",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old male presenting with progressive symptomatic deterioration undergoes diagnostic clinical evaluation in the hospital specialist clinic requiring evaluation for Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides. Bedside assessment highlights pearly translucent papule with rolled borders and telangiectasias (BCC); hyperkeratotic ulcerated non-healing plaque on sun-exposed ear/lip (SCC); or chronic recalcitrant erythematous patches with epidermal tropism (mycosis fungoides). Clinical observations demonstrate blood pressure 137/81 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Stratum basale (stem cells giving rise to Basal Cell Carcinoma and melanocytes yielding Melanoma); Stratum spinosum (keratinocytes giving rise to Squamous Cell Carcinoma); Dermis (Merkel cells).",
+        "explanation": "The epidermis is an avascular stratified squamous epithelium; invasion through the basement membrane into the vascularized papillary dermis marks the transition from in situ to invasive carcinoma.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "The epidermis is an avascular stratified squamous epithelium; invasion through the basement membrane into the vascularized papillary dermis marks the transition from in situ to invasive carcinoma. In the systematic diagnostic and therapeutic evaluation of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Anatomy of the epidermis and cells of origin in cutaneous malignancies.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Cutaneous neoplasms: Basal cell carcinoma (BCC), Squamous cell carcinoma (SCC), and Mycosis fungoides concerning Anatomy of the epidermis and cells of origin in cutaneous malignancies."
+    ],
+    "references": [
+      {
+        "label": "AAD Guidelines of Care for the Management of Cutaneous Malignancies",
+        "url": "https://www.aad.org/member/clinical-quality/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2454",
+    "exam": "Step 1",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "HIV cellular viral entry: gp120 binding, CD4 receptor, and CCR5/CXCR4 corecep...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic evaluation is commenced for a 29-year-old female who is transferred by emergency mobile intensive care to the medical ward with acute manifestations of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside examination demonstrates exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 138/82 mm Hg, pulse 92/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 94%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Viral envelope glycoprotein gp120 binds the host CD4 receptor, inducing a conformational change that enables secondary binding to chemokine coreceptors (CCR5 on macrophages, CXCR4 on T-cells).",
+        "explanation": "Chemokine coreceptor engagement exposes the gp41 transmembrane fusion peptide, driving viral-host lipid bilayer fusion; individuals homozygous for the delta-32 CCR5 mutation are resistant to HIV-1 infection.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Chemokine coreceptor engagement exposes the gp41 transmembrane fusion peptide, driving viral-host lipid bilayer fusion; individuals homozygous for the delta-32 CCR5 mutation are resistant to HIV-1 infection. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning HIV cellular viral entry: gp120 binding, CD4 receptor, and CCR5/CXCR4 corecep....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning HIV cellular viral entry: gp120 binding, CD4 receptor, and CCR5/CXCR4 corecep...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2455",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Pneumocystis jirovecii pneumonia: Diagnostic silver stain and corticosteroid ...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male with acute clinical destabilization presents to the academic medical center acute assessment unit for urgent investigation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside evaluation confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 139/83 mm Hg, pulse 93/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 95%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Bilateral ground-glass infiltrates with elevated LDH, diagnosed by direct silver methenamine staining of induced sputum/BAL, treated with high-dose IV co-trimoxazole and adjunctive corticosteroids.",
+        "explanation": "Adjunctive corticosteroids (oral prednisone) are mandatory when arterial pO2 < 70 mm Hg or A-a gradient >= 35 mm Hg on room air, blunting severe inflammatory respiratory failure caused by antibiotic-induced fungal lysis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "Adjunctive corticosteroids (oral prednisone) are mandatory when arterial pO2 < 70 mm Hg or A-a gradient >= 35 mm Hg on room air, blunting severe inflammatory respiratory failure caused by antibiotic-induced fungal lysis. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Pneumocystis jirovecii pneumonia: Diagnostic silver stain and corticosteroid ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Pneumocystis jirovecii pneumonia: Diagnostic silver stain and corticosteroid ...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2456",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Immune Reconstitution Inflammatory Syndrome (IRIS): Unmasking versus paradoxi...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female presents to the regional emergency trauma and resuscitation center with clinical findings indicative of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Physical examination reveals exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 140/84 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Paradoxical worsening of a pre-existing treated infection or acute unmasking of a subclinical occult opportunistic infection (e.g., TB, cryptococcal meningitis) within weeks of initiating potent antiretroviral therapy (ART).",
+        "explanation": "Rapid recovery of CD4+ T-lymphocyte numbers and antigen-specific cellular immunity unleashes a massive cytokine storm against microbial antigens; managed by continuing ART and adding systemic corticosteroids.",
+        "correct": true
+      }
+    ],
+    "explanation": "Rapid recovery of CD4+ T-lymphocyte numbers and antigen-specific cellular immunity unleashes a massive cytokine storm against microbial antigens; managed by continuing ART and adding systemic corticosteroids. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Immune Reconstitution Inflammatory Syndrome (IRIS): Unmasking versus paradoxi....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Immune Reconstitution Inflammatory Syndrome (IRIS): Unmasking versus paradoxi...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2457",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Primary antimicrobial prophylaxis thresholds based on absolute CD4 lymphocyte...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 77-year-old male who is evaluated in the specialized acute diagnostic and procedure suite due to suspected Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Clinical examination confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 141/85 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Trimethoprim-sulfamethoxazole for Pneumocystis jirovecii pneumonia and Toxoplasma gondii prophylaxis at CD4 < 200/uL; azithromycin for Mycobacterium avium complex (MAC) in patients not on immediate ART at CD4 < 50/uL.",
+        "explanation": "Co-trimoxazole (one double-strength tablet daily) provides dual prophylaxis against both PCP pneumonia and toxoplasmosis reactivation; prophylaxis is discontinued when CD4 counts sustain > 200/uL for > 3 months on ART.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Co-trimoxazole (one double-strength tablet daily) provides dual prophylaxis against both PCP pneumonia and toxoplasmosis reactivation; prophylaxis is discontinued when CD4 counts sustain > 200/uL for > 3 months on ART. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Primary antimicrobial prophylaxis thresholds based on absolute CD4 lymphocyte....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Primary antimicrobial prophylaxis thresholds based on absolute CD4 lymphocyte...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2458",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cerebral toxoplasmosis versus Primary CNS Lymphoma (PCNSL) neuroimaging diffe...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old female presenting with progressive symptomatic deterioration attends the university hospital regional referral service requiring evaluation for Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside assessment highlights exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 142/86 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Multiple ring-enhancing lesions with surrounding vasogenic edema in the basal ganglia and corticomedullary junction (Toxoplasma gondii, treated empirically with pyrimethamine-sulfadiazine).",
+        "explanation": "PCNSL typically presents as a solitary, periventricular, subependymal lesion showing uniform contrast enhancement and positive EBV DNA PCR in the CSF; lack of clinical response to toxoplasma therapy prompts brain biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "PCNSL typically presents as a solitary, periventricular, subependymal lesion showing uniform contrast enhancement and positive EBV DNA PCR in the CSF; lack of clinical response to toxoplasma therapy prompts brain biopsy. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cerebral toxoplasmosis versus Primary CNS Lymphoma (PCNSL) neuroimaging diffe....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cerebral toxoplasmosis versus Primary CNS Lymphoma (PCNSL) neuroimaging diffe...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2459",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cryptococcal meningitis: Lumbar puncture opening pressure, India ink, and amp...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 44-year-old male who is transferred by emergency mobile intensive care to the medical ward with acute manifestations of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside examination demonstrates exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 143/87 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Subacute headache and fever with markedly elevated CSF opening pressure (> 250 mm H2O) and encapsulated budding yeast on India ink, treated with liposomal amphotericin B plus flucytosine for 2 weeks.",
+        "explanation": "Elevated intracranial pressure is the leading cause of early mortality in cryptococcal meningitis; daily therapeutic lumbar punctures are required until opening pressure normalizes, followed by oral fluconazole consolidation.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "Elevated intracranial pressure is the leading cause of early mortality in cryptococcal meningitis; daily therapeutic lumbar punctures are required until opening pressure normalizes, followed by oral fluconazole consolidation. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cryptococcal meningitis: Lumbar puncture opening pressure, India ink, and amp....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cryptococcal meningitis: Lumbar puncture opening pressure, India ink, and amp...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2460",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cytomegalovirus (CMV) retinitis and gastrointestinal ulceration in advanced AIDS",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 60-year-old female with acute clinical destabilization presents to the academic medical center acute assessment unit for urgent investigation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside evaluation confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 114/88 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Painless loss of vision with 'pizza-pie' fundoscopy (perivascular retinal hemorrhages with granular white retinal necrosis) in CD4 < 50/uL, treated with intravenous or intravitreal ganciclovir/valganciclovir.",
+        "explanation": "Untreated CMV retinitis rapidly leads to full-thickness retinal necrosis and rhegmatogenous retinal detachment; regular ophthalmology surveillance is essential until CD4 counts rise > 100/uL on effective ART.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "Untreated CMV retinitis rapidly leads to full-thickness retinal necrosis and rhegmatogenous retinal detachment; regular ophthalmology surveillance is essential until CD4 counts rise > 100/uL on effective ART. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cytomegalovirus (CMV) retinitis and gastrointestinal ulceration in advanced AIDS.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Cytomegalovirus (CMV) retinitis and gastrointestinal ulceration in advanced AIDS."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2461",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Post-exposure prophylaxis (PEP) for occupational HIV exposure: Timing and reg...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old male presents to the regional emergency trauma and resuscitation center with clinical findings indicative of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Physical examination reveals exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 115/89 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Initiating a 28-day three-drug antiretroviral regimen (e.g., tenofovir, emtricitabine, plus dolutegravir) as soon as possible, ideally within 2 hours and strictly within 72 hours of occupational needlestick exposure.",
+        "explanation": "Early antiretroviral administration blocks local viral reverse transcription and dendritic cell migration, preventing establishment of irreversible systemic latent viral reservoirs in regional lymph nodes.",
+        "correct": true
+      }
+    ],
+    "explanation": "Early antiretroviral administration blocks local viral reverse transcription and dendritic cell migration, preventing establishment of irreversible systemic latent viral reservoirs in regional lymph nodes. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Post-exposure prophylaxis (PEP) for occupational HIV exposure: Timing and reg....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Post-exposure prophylaxis (PEP) for occupational HIV exposure: Timing and reg...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2462",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Progressive Multifocal Leukoencephalopathy (PML): JC virus and non-enhancing ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 27-year-old female who is evaluated in the specialized acute diagnostic and procedure suite due to suspected Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Clinical examination confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 116/90 mm Hg, pulse 100/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Reactivation of JC polyomavirus in oligodendrocytes in CD4 < 200/uL causing demyelination, presenting with focal deficits and non-enhancing asymmetric white matter lesions without mass effect on MRI.",
+        "explanation": "Unlike toxoplasmosis or lymphoma, PML lesions lack mass effect and do not demonstrate contrast enhancement or perilesional edema; there is no specific antiviral therapy; immune reconstitution with ART is vital.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Unlike toxoplasmosis or lymphoma, PML lesions lack mass effect and do not demonstrate contrast enhancement or perilesional edema; there is no specific antiviral therapy; immune reconstitution with ART is vital. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Progressive Multifocal Leukoencephalopathy (PML): JC virus and non-enhancing ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Progressive Multifocal Leukoencephalopathy (PML): JC virus and non-enhancing ...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2463",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Antiretroviral classes and high-yield drug-specific adverse effects",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 43-year-old male presenting with progressive symptomatic deterioration attends the university hospital regional referral service requiring evaluation for Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside assessment highlights exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 117/91 mm Hg, pulse 101/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Tenofovir disoproxil fumarate (nephrotoxicity, Fanconi syndrome, bone density loss); efavirenz (vivid dreams, neuropsychiatric symptoms); abacavir (severe hypersensitivity in HLA-B*5701 carriers).",
+        "explanation": "Screening for HLA-B*5701 before prescribing abacavir is legally mandatory; tenofovir alafenamide (TAF) delivers higher intracellular active diphosphate levels with significantly lower renal and bone toxicity than TDF.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Screening for HLA-B*5701 before prescribing abacavir is legally mandatory; tenofovir alafenamide (TAF) delivers higher intracellular active diphosphate levels with significantly lower renal and bone toxicity than TDF. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Antiretroviral classes and high-yield drug-specific adverse effects.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Antiretroviral classes and high-yield drug-specific adverse effects."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2464",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Acute HIV seroconversion syndrome (Primary HIV infection) presentation and RN...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 59-year-old female who is transferred by emergency mobile intensive care to the medical ward with acute manifestations of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside examination demonstrates exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 118/70 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Mononucleosis-like illness with fever, diffuse non-pruritic maculopapular rash, pharyngitis, lymphadenopathy, and mouth ulcers, with negative 4th-generation antibody test and high viral load on HIV RNA PCR.",
+        "explanation": "During the initial 'eclipse/window period' (first 10-14 days), anti-HIV antibodies and p24 antigen may be below detection limits; plasma HIV RNA viral load PCR detects millions of viral copies/mL.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "During the initial 'eclipse/window period' (first 10-14 days), anti-HIV antibodies and p24 antigen may be below detection limits; plasma HIV RNA viral load PCR detects millions of viral copies/mL. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Acute HIV seroconversion syndrome (Primary HIV infection) presentation and RN....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Acute HIV seroconversion syndrome (Primary HIV infection) presentation and RN...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2465",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Pre-Exposure Prophylaxis (PrEP) protocols and safety monitoring in high-risk ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 75-year-old male with acute clinical destabilization presents to the academic medical center acute assessment unit for urgent investigation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Bedside evaluation confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 119/71 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Daily oral tenofovir disoproxil fumarate plus emtricitabine (TDF/FTC) for individuals at high risk of HIV acquisition, requiring documented negative HIV test and normal renal function before starting.",
+        "explanation": "Confirming HIV-negative status prior to initiating PrEP is essential; taking dual-nucleoside PrEP in unrecognized established HIV infection rapidly selects for viral resistance mutations (e.g., M184V).",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      }
+    ],
+    "explanation": "Confirming HIV-negative status prior to initiating PrEP is essential; taking dual-nucleoside PrEP in unrecognized established HIV infection rapidly selects for viral resistance mutations (e.g., M184V). In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Pre-Exposure Prophylaxis (PrEP) protocols and safety monitoring in high-risk ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Pre-Exposure Prophylaxis (PrEP) protocols and safety monitoring in high-risk ...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2466",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Prevention of mother-to-child transmission (PMTCT) of HIV during pregnancy an...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 26-year-old female presents to the regional emergency trauma and resuscitation center with clinical findings indicative of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Physical examination reveals exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 120/72 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Universal maternal ART throughout pregnancy, elective cesarean section at 38 weeks if maternal viral load > 1,000 copies/mL, infant post-exposure zidovudine prophylaxis, and formula feeding.",
+        "explanation": "Adherence to maternal combination ART suppressing viral load to undetectable levels (< 50 copies/mL) near delivery reduces vertical perinatal transmission rates from 25-30% down to less than 0.5-1%.",
+        "correct": true
+      }
+    ],
+    "explanation": "Adherence to maternal combination ART suppressing viral load to undetectable levels (< 50 copies/mL) near delivery reduces vertical perinatal transmission rates from 25-30% down to less than 0.5-1%. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Prevention of mother-to-child transmission (PMTCT) of HIV during pregnancy an....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Prevention of mother-to-child transmission (PMTCT) of HIV during pregnancy an...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2467",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Oral manifestations of HIV infection: Oral candidiasis versus Oral hairy leuk...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 42-year-old male who is evaluated in the specialized acute diagnostic and procedure suite due to suspected Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS. Clinical examination confirms exertional dyspnea, dry cough, and bilateral diffuse perihilar infiltrates in CD4 < 200 (PCP); multiple focal ring-enhancing brain lesions in CD4 < 100 (Toxoplasma); or headache, fever, and positive India ink in CD4 < 100 (Cryptococcus). Clinical observations demonstrate blood pressure 121/73 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral thrush (erythematous base with curd-like white pseudomembranous plaques that scrape off, revealing bleeding mucosa); Oral hairy leukoplakia (non-scrapable white corrugations on lateral tongue, caused by EBV).",
+        "explanation": "Oral candidiasis is caused by Candida albicans fungal overgrowth and scrapes away easily with a tongue blade; oral hairy leukoplakia is an opportunistic epithelial hyperkeratosis driven by Epstein-Barr virus.",
+        "correct": true
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "Oral candidiasis is caused by Candida albicans fungal overgrowth and scrapes away easily with a tongue blade; oral hairy leukoplakia is an opportunistic epithelial hyperkeratosis driven by Epstein-Barr virus. In the systematic diagnostic and therapeutic evaluation of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Oral manifestations of HIV infection: Oral candidiasis versus Oral hairy leuk....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Advanced HIV infection, CD4-stratified opportunistic infections, and IRIS concerning Oral manifestations of HIV infection: Oral candidiasis versus Oral hairy leuk...."
+    ],
+    "references": [
+      {
+        "label": "CDC / NIH / IDSA Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV",
+        "url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/whats-new"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2468",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Electrophysiological alterations in hypothermia: Osborn (J) wave and cardiac ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 23-year-old female presenting with progressive symptomatic deterioration undergoes urgent bedside clinical evaluation in the high-dependency unit requiring evaluation for Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside assessment highlights core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 122/74 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Delayed epicardial repolarization producing a prominent positive deflection at the QRS-ST junction (Osborn J wave), progressive sinus bradycardia, PR/QT prolongation, and cold-induced ventricular fibrillation.",
+        "explanation": "Hypothermia depresses myocardial pacemaker conduction velocity and prolongs refractory periods; mechanical agitation of the patient can trigger refractory ventricular fibrillation.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "Hypothermia depresses myocardial pacemaker conduction velocity and prolongs refractory periods; mechanical agitation of the patient can trigger refractory ventricular fibrillation. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Electrophysiological alterations in hypothermia: Osborn (J) wave and cardiac ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Electrophysiological alterations in hypothermia: Osborn (J) wave and cardiac ...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2469",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Heat stroke versus heat exhaustion distinction and evaporative / cold-water i...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic evaluation is commenced for a 39-year-old male who is admitted to the acute clinical observation and monitoring suite with acute manifestations of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside examination demonstrates core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 123/75 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Heat stroke requires core body temperature > 40 C with central nervous system dysfunction (confusion, delirium, seizures), treated with immediate whole-body cold-water immersion cooling.",
+        "explanation": "Heat exhaustion maintains intact mental status with core temperature < 40 C; heat stroke carries up to 30-50% mortality from rhabdomyolysis and DIC if rapid cooling to < 39 C is not achieved within 30 minutes.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      }
+    ],
+    "explanation": "Heat exhaustion maintains intact mental status with core temperature < 40 C; heat stroke carries up to 30-50% mortality from rhabdomyolysis and DIC if rapid cooling to < 39 C is not achieved within 30 minutes. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Heat stroke versus heat exhaustion distinction and evaporative / cold-water i....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Heat stroke versus heat exhaustion distinction and evaporative / cold-water i...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2470",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "High-Altitude Cerebral Edema (HACE) and Pulmonary Edema (HAPE) emergency prot...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 55-year-old female with acute clinical destabilization attends the scheduled outpatient hospital consultative session for urgent investigation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside evaluation confirms core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 124/76 mm Hg, pulse 76/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Immediate descent of at least 500-1,000 meters, supplemental oxygen, hyperbaric portable chamber (Gamow bag), dexamethasone for HACE, and oral nifedipine or tadalafil for HAPE.",
+        "explanation": "HACE is caused by hypobaric hypoxia-induced cerebral vasodilation and capillary leakage; HAPE is caused by uneven hypoxic pulmonary vasoconstriction driving patchy capillary stress failure and alveolar hemorrhage.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "HACE is caused by hypobaric hypoxia-induced cerebral vasodilation and capillary leakage; HAPE is caused by uneven hypoxic pulmonary vasoconstriction driving patchy capillary stress failure and alveolar hemorrhage. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning High-Altitude Cerebral Edema (HACE) and Pulmonary Edema (HAPE) emergency prot....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning High-Altitude Cerebral Edema (HACE) and Pulmonary Edema (HAPE) emergency prot...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2471",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Accidental hypothermia: Swiss staging system and active internal core rewarming",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 71-year-old male is evaluated during urgent inpatient specialty consultation with clinical findings indicative of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Physical examination reveals core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 125/77 mm Hg, pulse 77/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Classifying hypothermia (Stage I conscious/shivering > 32 C; Stage II lethargic/shivering ceases 28-32 C; Stage III unconscious < 28 C; Stage IV arrest), using ECMO/cardiopulmonary bypass for Stage IV.",
+        "explanation": "Cold-induced metabolic depression protects the brain during prolonged arrest ('nobody is dead until warm and dead'); successful neurologically intact resuscitation is achievable with extracorporeal rewarming.",
+        "correct": true
+      }
+    ],
+    "explanation": "Cold-induced metabolic depression protects the brain during prolonged arrest ('nobody is dead until warm and dead'); successful neurologically intact resuscitation is achievable with extracorporeal rewarming. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Accidental hypothermia: Swiss staging system and active internal core rewarming.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Accidental hypothermia: Swiss staging system and active internal core rewarming."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2472",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Venomous snakebites: Antivenom administration, pressure immobilization bandag...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 22-year-old female who undergoes diagnostic clinical evaluation in the hospital specialist clinic due to suspected Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Clinical examination confirms core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 126/78 mm Hg, pulse 78/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 94%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Applying a firm pressure immobilization bandage (PIB) over the entire bitten limb at 40-70 mm Hg and immobilizing the splint, performing serial coagulopathy monitoring (20WBCT), and administering specific antivenom.",
+        "explanation": "Australian elapid venoms (brown, tiger, taipan) travel primarily via lymphatic channels; pressure immobilization delays systemic systemic lymph absorption without compromising arterial perfusion; incision or tourniquets are contraindicated.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "Australian elapid venoms (brown, tiger, taipan) travel primarily via lymphatic channels; pressure immobilization delays systemic systemic lymph absorption without compromising arterial perfusion; incision or tourniquets are contraindicated. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Venomous snakebites: Antivenom administration, pressure immobilization bandag....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Venomous snakebites: Antivenom administration, pressure immobilization bandag...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2473",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Frostbite injury staging, rapid water bath rewarming, and avoidance of refree...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 38-year-old male presenting with progressive symptomatic deterioration undergoes urgent bedside clinical evaluation in the high-dependency unit requiring evaluation for Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside assessment highlights core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 127/79 mm Hg, pulse 79/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Rapid rewarming in a circulating warm water bath (37-39 C) for 15-30 minutes only after all risk of refreezing is eliminated; refreezing thawed tissue causes catastrophic microvascular thrombosis.",
+        "explanation": "Ice crystals form in the extracellular fluid, drawing water out of cells and causing intracellular dehydration and microvascular endothelial damage; dry heat or vigorous rubbing causes mechanical tissue loss.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "Ice crystals form in the extracellular fluid, drawing water out of cells and causing intracellular dehydration and microvascular endothelial damage; dry heat or vigorous rubbing causes mechanical tissue loss. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Frostbite injury staging, rapid water bath rewarming, and avoidance of refree....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Frostbite injury staging, rapid water bath rewarming, and avoidance of refree...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2474",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Near-drowning (submersion injury): Fresh water versus salt water and secondar...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 54-year-old female who is admitted to the acute clinical observation and monitoring suite with acute manifestations of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside examination demonstrates core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 128/80 mm Hg, pulse 80/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Submersion causing laryngospasm, profound hypoxemia, alveolar surfactant washout, pulmonary capillary stress failure, and secondary acute respiratory distress syndrome, requiring positive end-expiratory pressure (PEEP).",
+        "explanation": "Both fresh and salt water aspiration produce identical clinical pathophysiology dominated by severe hypoxic lung injury; asymptomatic patients require a minimum 6-8 hour observation period for late pulmonary edema.",
+        "correct": true
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Both fresh and salt water aspiration produce identical clinical pathophysiology dominated by severe hypoxic lung injury; asymptomatic patients require a minimum 6-8 hour observation period for late pulmonary edema. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Near-drowning (submersion injury): Fresh water versus salt water and secondar....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Near-drowning (submersion injury): Fresh water versus salt water and secondar...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2475",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Lightning strike injuries: Lichtenberg figures, keraunoparalysis, and reverse...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 70-year-old male with acute clinical destabilization attends the scheduled outpatient hospital consultative session for urgent investigation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside evaluation confirms core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 129/81 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Direct current flashover producing pathognomonic ferning feather-like skin lesions (Lichtenberg figures), transient lower limb paralysis (keraunoparalysis), and cardiac arrest requiring reverse triage.",
+        "explanation": "Reverse triage prioritizes lightning strike victims who appear clinically dead (in respiratory arrest or ventricular fibrillation) because aggressive immediate CPR achieves high rates of neurological recovery.",
+        "correct": true
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "Reverse triage prioritizes lightning strike victims who appear clinically dead (in respiratory arrest or ventricular fibrillation) because aggressive immediate CPR achieves high rates of neurological recovery. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Lightning strike injuries: Lichtenberg figures, keraunoparalysis, and reverse....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Lightning strike injuries: Lichtenberg figures, keraunoparalysis, and reverse...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2476",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Altitude illness prophylaxis: Acetazolamide mechanism of action and acclimati...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is evaluated during urgent inpatient specialty consultation with clinical findings indicative of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Physical examination reveals core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 130/82 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Carbonic anhydrase inhibition in the proximal renal tubule inducing mild bicarbonate diuresis and metabolic acidosis, stimulating central chemoreceptors to sustain hyperventilation and arterial oxygenation.",
+        "explanation": "Starting oral acetazolamide 24 hours prior to ascent accelerates physiological acclimatization, preventing acute mountain sickness (headache, nausea, insomnia) during rapid ascent above 2,500 meters.",
+        "correct": true
+      }
+    ],
+    "explanation": "Starting oral acetazolamide 24 hours prior to ascent accelerates physiological acclimatization, preventing acute mountain sickness (headache, nausea, insomnia) during rapid ascent above 2,500 meters. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Altitude illness prophylaxis: Acetazolamide mechanism of action and acclimati....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Altitude illness prophylaxis: Acetazolamide mechanism of action and acclimati...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2477",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Rhabdomyolysis in exertional heat illness: Creatine kinase thresholds and bic...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 37-year-old male who undergoes diagnostic clinical evaluation in the hospital specialist clinic due to suspected Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Clinical examination confirms core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 131/83 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Massive release of skeletal muscle intracellular contents (potassium, myoglobin, phosphate, CK > 10,000 U/L), managed with aggressive isotonic crystalloid rehydration maintaining urine output > 200-300 mL/hr.",
+        "explanation": "Intraluminal myoglobin precipitates in the acidic environment of the distal nephron; fluid expansion maintains high tubular flow to flush casts and prevent pigment nephropathy acute renal failure.",
+        "correct": true
+      },
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Intraluminal myoglobin precipitates in the acidic environment of the distal nephron; fluid expansion maintains high tubular flow to flush casts and prevent pigment nephropathy acute renal failure. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Rhabdomyolysis in exertional heat illness: Creatine kinase thresholds and bic....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Rhabdomyolysis in exertional heat illness: Creatine kinase thresholds and bic...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2478",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Severe hypothermia cardiac arrest: Prolonged resuscitation and defibrillation...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 53-year-old female presenting with progressive symptomatic deterioration undergoes urgent bedside clinical evaluation in the high-dependency unit requiring evaluation for Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside assessment highlights core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 132/84 mm Hg, pulse 84/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 94%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Withholding intravenous epinephrine and limiting defibrillation attempts to 3 shocks while core temperature remains < 30 C; full advanced life support resumed once active rewarming elevates core temperature > 30 C.",
+        "explanation": "At severe hypothermic temperatures (< 30 C), the myocardium is refractory to antiarrhythmics and defibrillation, and hepatic drug metabolism is suspended, causing dangerous accumulation of epinephrine.",
+        "correct": true
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "At severe hypothermic temperatures (< 30 C), the myocardium is refractory to antiarrhythmics and defibrillation, and hepatic drug metabolism is suspended, causing dangerous accumulation of epinephrine. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Severe hypothermia cardiac arrest: Prolonged resuscitation and defibrillation....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Severe hypothermia cardiac arrest: Prolonged resuscitation and defibrillation...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2479",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Scorpion envenomation: Autonomic storm, myocarditis, and antivenom therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 69-year-old male who is admitted to the acute clinical observation and monitoring suite with acute manifestations of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside examination demonstrates core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 133/85 mm Hg, pulse 85/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 95%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Alpha-toxins prolonging sodium channel opening causing massive autonomic storm (acetylcholine and catecholamine surge: hypertension, salivation, priapism, pulmonary edema), treated with antivenom and prazosin.",
+        "explanation": "Scorpion venom triggers intense peripheral vasoconstriction and direct toxic cardiomyopathy, leading to acute cardiogenic pulmonary edema in young children; alpha-1 antagonist (prazosin) relieves afterload.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "Scorpion venom triggers intense peripheral vasoconstriction and direct toxic cardiomyopathy, leading to acute cardiogenic pulmonary edema in young children; alpha-1 antagonist (prazosin) relieves afterload. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Scorpion envenomation: Autonomic storm, myocarditis, and antivenom therapy.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Scorpion envenomation: Autonomic storm, myocarditis, and antivenom therapy."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2480",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Occupational heat stress prevention: Wet Bulb Globe Temperature (WBGT) and re...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 20-year-old female with acute clinical destabilization attends the scheduled outpatient hospital consultative session for urgent investigation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Bedside evaluation confirms core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 134/86 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Measuring WBGT combining temperature, humidity, wind velocity, and radiant heat to mandate structured work-rest cycles (e.g., 45 minutes rest per hour when WBGT > 32 C) and mandatory fluid hydration.",
+        "explanation": "High ambient humidity severely impairs evaporative cooling via eccrine sweating (the primary thermoregulatory mechanism in hot environments); exceeding threshold WBGT rapidly drives fatal heat stroke.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "High ambient humidity severely impairs evaporative cooling via eccrine sweating (the primary thermoregulatory mechanism in hot environments); exceeding threshold WBGT rapidly drives fatal heat stroke. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Occupational heat stress prevention: Wet Bulb Globe Temperature (WBGT) and re....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Occupational heat stress prevention: Wet Bulb Globe Temperature (WBGT) and re...."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2481",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Physiological mechanisms of human thermoregulation in hot and cold environments",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 36-year-old male is evaluated during urgent inpatient specialty consultation with clinical findings indicative of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses. Physical examination reveals core temperature > 40 C with altered mental status and anhidrosis/diaphoresis (heat stroke); core temperature < 30 C with shivering cessation, bradycardia, and Osborn J waves (hypothermia); or ataxia and stupor at altitude (HACE). Clinical observations demonstrate blood pressure 135/87 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Preoptic anterior hypothalamus acts as the central thermostat; heat dissipation mediated by cutaneous vasodilation and sweating (sympathetic cholinergic); heat conservation mediated by vasoconstriction and shivering.",
+        "explanation": "Shivering thermogenesis increases basal metabolic heat production by up to 300-500%; when core temperature drops below 30-32 C, shivering ceases, leading to accelerated hypothermic decompensation.",
+        "correct": true
+      }
+    ],
+    "explanation": "Shivering thermogenesis increases basal metabolic heat production by up to 300-500%; when core temperature drops below 30-32 C, shivering ceases, leading to accelerated hypothermic decompensation. In the systematic diagnostic and therapeutic evaluation of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Physiological mechanisms of human thermoregulation in hot and cold environments.",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Accidental hypothermia, heat stroke versus heat exhaustion, and high-altitude illnesses concerning Physiological mechanisms of human thermoregulation in hot and cold environments."
+    ],
+    "references": [
+      {
+        "label": "Wilderness Medical Society Clinical Practice Guidelines",
+        "url": "https://wms.org/guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2482",
+    "exam": "Step 1",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Biomedical ethics in disaster medicine: Utilitarian resource allocation versu...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 82-year-old female who attends the university hospital regional referral service due to suspected Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Clinical examination confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 136/88 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following best characterizes the primary molecular mechanism, histological hallmark, or pharmacological target associated with this presentation?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Shift from standard individual-centered deontology to utilitarian public health ethics, aiming to maximize the greatest good and save the maximum number of salvageable human lives with limited resources.",
+        "explanation": "In a catastrophic mass casualty event where demand overwhelms healthcare capacity, scarce critical care resources (ventilators, blood units) are allocated based on clinical survivability rather than first-come first-served.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In a catastrophic mass casualty event where demand overwhelms healthcare capacity, scarce critical care resources (ventilators, blood units) are allocated based on clinical survivability rather than first-come first-served. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Biomedical ethics in disaster medicine: Utilitarian resource allocation versu....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Biomedical ethics in disaster medicine: Utilitarian resource allocation versu...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2483",
+    "exam": "Step 2 CK",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Simple Triage and Rapid Treatment (START) algorithm execution in primary fiel...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old male presenting with progressive symptomatic deterioration is transferred by emergency mobile intensive care to the medical ward requiring evaluation for Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside assessment highlights Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 137/89 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed pharmacotherapy indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Assessing ambulatory status (Green), respirations (> 30/min = Red), perfusion (radial pulse absent / cap refill > 2s = Red), and mental status (cannot follow commands = Red; can follow = Yellow); apnea after opening airway = Black.",
+        "explanation": "START triage categorizes each patient in under 30 seconds; patients requiring immediate life-saving airway or hemorrhage control receive a Red tag and immediate evacuation to definitive surgical care.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "START triage categorizes each patient in under 30 seconds; patients requiring immediate life-saving airway or hemorrhage control receive a Red tag and immediate evacuation to definitive surgical care. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Simple Triage and Rapid Treatment (START) algorithm execution in primary fiel....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Simple Triage and Rapid Treatment (START) algorithm execution in primary fiel...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2484",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Blast injury physics and classification: Primary, Secondary, Tertiary, and Qu...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Diagnostic evaluation is commenced for a 49-year-old female who presents to the academic medical center acute assessment unit with acute manifestations of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside examination demonstrates Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 138/90 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 94%. Which chronic disease management plan is prioritized for long-term clinical safety and outcome optimization?",
+    "options": [
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Primary (overpressure wave damaging air-filled organs: blast lung, eardrum perforation); Secondary (flying debris/shrapnel); Tertiary (body propelled against objects); Quaternary (burns, toxic fumes).",
+        "explanation": "Blast lung is the leading cause of initial mortality among survivors of explosive detonations, characterized by alveolar-capillary disruption, hemothorax, air embolism, and acute respiratory failure.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "Blast lung is the leading cause of initial mortality among survivors of explosive detonations, characterized by alveolar-capillary disruption, hemothorax, air embolism, and acute respiratory failure. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Blast injury physics and classification: Primary, Secondary, Tertiary, and Qu....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Blast injury physics and classification: Primary, Secondary, Tertiary, and Qu...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2485",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Chemical, Biological, Radiological, and Nuclear (CBRNE) decontamination and z...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old male with acute clinical destabilization presents to the regional emergency trauma and resuscitation center for urgent investigation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside evaluation confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 139/91 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. In accordance with current NICE clinical guidance, what is the recommended diagnostic or therapeutic management pathway?",
+    "options": [
+      {
+        "text": "Establishing strict Hot (contamination), Warm (decontamination), and Cold (clean triage/treatment) zones, with mandatory personal protective equipment (PPE Level C/A) prior to receiving contaminated victims.",
+        "explanation": "Failure to decontaminate victims outside the hospital facility results in secondary contamination of emergency department personnel, closing acute care resuscitation bays and disabling the receiving hospital.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "Failure to decontaminate victims outside the hospital facility results in secondary contamination of emergency department personnel, closing acute care resuscitation bays and disabling the receiving hospital. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Chemical, Biological, Radiological, and Nuclear (CBRNE) decontamination and z....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Chemical, Biological, Radiological, and Nuclear (CBRNE) decontamination and z...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2486",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Organophosphate nerve agent (Sarin, VX) emergency medical countermeasure prot...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is evaluated in the specialized acute diagnostic and procedure suite with clinical findings indicative of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Physical examination reveals Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 140/70 mm Hg, pulse 92/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 96%. What is the recommended management protocol in this Australian clinical practice presentation?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Immediate administration of high-dose auto-injector atropine (to block lethal muscarinic bronchorrhea and bradycardia), pralidoxime (oxime reactivation of AChE), and diazepam/midazolam for seizures.",
+        "explanation": "Nerve agents are potent organophosphates designed for rapid skin and respiratory penetration; Mark I autoinjectors provide rapid intramuscular antidotal delivery in the warm/cold zone before advanced airway access.",
+        "correct": true
+      }
+    ],
+    "explanation": "Nerve agents are potent organophosphates designed for rapid skin and respiratory penetration; Mark I autoinjectors provide rapid intramuscular antidotal delivery in the warm/cold zone before advanced airway access. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Organophosphate nerve agent (Sarin, VX) emergency medical countermeasure prot....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Organophosphate nerve agent (Sarin, VX) emergency medical countermeasure prot...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2487",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Hospital Incident Command System (HICS) structure and emergency disaster acti...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 32-year-old male who attends the university hospital regional referral service due to suspected Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Clinical examination confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 141/71 mm Hg, pulse 93/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 97%. Which patient-centered clinical action should be implemented next?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Adopting standardized command hierarchy (Incident Commander, Operations, Planning, Logistics, Finance) to coordinate internal bed surge capacity, emergency personnel recall, and clear communication.",
+        "explanation": "HICS establishes a manageable span of control (3 to 7 subordinates per supervisor) and standardized nomenclature, preventing institutional chaos and communication breakdowns during external disaster surges.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      }
+    ],
+    "explanation": "HICS establishes a manageable span of control (3 to 7 subordinates per supervisor) and standardized nomenclature, preventing institutional chaos and communication breakdowns during external disaster surges. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Hospital Incident Command System (HICS) structure and emergency disaster acti....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Hospital Incident Command System (HICS) structure and emergency disaster acti...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2488",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Damage control resuscitation in mass casualty trauma: Hemorrhage control and ...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old female presenting with progressive symptomatic deterioration is transferred by emergency mobile intensive care to the medical ward requiring evaluation for Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside assessment highlights Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 142/72 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. In accordance with CPSP fellowship clinical standards, what is the most definitive surgical or pharmacological intervention?",
+    "options": [
+      {
+        "text": "Continuous high-dose sedative infusion without airway protection",
+        "explanation": "Administering potent sedatives without securing the airway suppresses respiratory drive and causes fatal hypercapnic respiratory arrest.",
+        "correct": false
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Abbreviated initial surgical intervention prioritizing immediate mechanical bleeding control, temporary intravascular shunting, packing, and temporary abdominal closure, deferring complex reconstruction.",
+        "explanation": "Damage control surgery interrupts the lethal triad of hypothermia, acidosis, and coagulopathy, allowing the surgical team to rapidly stabilize multiple critical casualties during high-volume surges.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "Damage control surgery interrupts the lethal triad of hypothermia, acidosis, and coagulopathy, allowing the surgical team to rapidly stabilize multiple critical casualties during high-volume surges. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Damage control resuscitation in mass casualty trauma: Hemorrhage control and ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Damage control resuscitation in mass casualty trauma: Hemorrhage control and ...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2489",
+    "exam": "NLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "The four triage color categories in mass casualty incidents: Green, Yellow, R...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 64-year-old male who presents to the academic medical center acute assessment unit with acute manifestations of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside examination demonstrates Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 143/73 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the essential bedside sign or first-line treatment recommended for this patient presentation?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Red (Immediate / Priority 1: life-threatening but salvageable); Yellow (Delayed / Priority 2: serious, non-immediate); Green (Minimal / Priority 3: walking wounded); Black (Expectant / Deceased: dead or unsalvageable).",
+        "explanation": "Accurate color tagging ensures that available surgical and critical care transport assets are immediately directed to Priority 1 (Red) patients whose survival depends directly on emergency intervention within minutes.",
+        "correct": true
+      },
+      {
+        "text": "Indiscriminate infusion of concentrated sodium bicarbonate without acid-base analysis",
+        "explanation": "Empiric sodium bicarbonate causes paradoxical intracellular acidosis, hypocalcemia, and severe hyperosmolar sodium loading when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Topical steroid ointment monotherapy for deep fungal or bacterial cellulitis",
+        "explanation": "Topical corticosteroids suppress local cutaneous immunity, permitting rapid invasive tissue extension of bacterial and fungal infections.",
+        "correct": false
+      },
+      {
+        "text": "Immediate therapeutic lumbar puncture without prior neuroimaging or papilledema check",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Accurate color tagging ensures that available surgical and critical care transport assets are immediately directed to Priority 1 (Red) patients whose survival depends directly on emergency intervention within minutes. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning The four triage color categories in mass casualty incidents: Green, Yellow, R....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning The four triage color categories in mass casualty incidents: Green, Yellow, R...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2490",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Radiation disaster triage: Acute Radiation Syndrome (ARS) phases and absolute...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 80-year-old female with acute clinical destabilization presents to the regional emergency trauma and resuscitation center for urgent investigation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside evaluation confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 114/74 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 94%. What is the classical high-yield medical presentation or underlying defect characteristic of this entity?",
+    "options": [
+      {
+        "text": "Hematopoietic syndrome (1-6 Gy); Gastrointestinal syndrome (6-20 Gy); Neurovascular syndrome (> 20 Gy); absolute lymphocyte depletion at 48 hours is the most accurate clinical biodosimeter.",
+        "explanation": "A rapid precipitous drop in the peripheral absolute lymphocyte count within the first 24 to 48 hours indicates severe whole-body ionizing radiation exposure (> 4-6 Gy), guiding granulocyte colony-stimulating factor (G-CSF) use.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in three months",
+        "explanation": "Delaying intervention in an acutely decompensated condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "A rapid precipitous drop in the peripheral absolute lymphocyte count within the first 24 to 48 hours indicates severe whole-body ionizing radiation exposure (> 4-6 Gy), guiding granulocyte colony-stimulating factor (G-CSF) use. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Radiation disaster triage: Acute Radiation Syndrome (ARS) phases and absolute....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Radiation disaster triage: Acute Radiation Syndrome (ARS) phases and absolute...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2491",
+    "exam": "MRCP",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Anthrax (Bacillus anthracis) as a biological weapon: Inhalation anthrax and c...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 31-year-old male is evaluated in the specialized acute diagnostic and procedure suite with clinical findings indicative of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Physical examination reveals Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 115/75 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. What is the primary pathophysiological mechanism, diagnostic gold standard, or disease-modifying therapy for this presentation?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Inhalation of aerosolized endospores causing hemorrhagic mediastinitis with prominent mediastinal widening on chest radiography, pleural effusions, and bacteremia, treated with IV ciprofloxacin plus clindamycin.",
+        "explanation": "Anthrax lethal toxin and edema toxin destroy mediastinal lymph nodes and macrophages, causing necrotizing hemorrhagic mediastinitis; clindamycin is added to immediately arrest ribosomal toxin synthesis.",
+        "correct": true
+      }
+    ],
+    "explanation": "Anthrax lethal toxin and edema toxin destroy mediastinal lymph nodes and macrophages, causing necrotizing hemorrhagic mediastinitis; clindamycin is added to immediately arrest ribosomal toxin synthesis. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Anthrax (Bacillus anthracis) as a biological weapon: Inhalation anthrax and c....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Anthrax (Bacillus anthracis) as a biological weapon: Inhalation anthrax and c...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2492",
+    "exam": "MRCEM",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Mass casualty emergency department surge: Reverse triage and rapid discharge ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive diagnostic evaluation is conducted for a 47-year-old female who attends the university hospital regional referral service due to suspected Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Clinical examination confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 116/76 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the primary emergency stabilization measure or time-critical diagnostic action required?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after four weeks",
+        "explanation": "Waiting four weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Executing immediate structured reverse triage in hospital wards and ED to identify stable inpatients who can be safely discharged home or transferred to step-down facilities to create acute bed capacity.",
+        "explanation": "Discharging inpatients with low risk of short-term deterioration rapidly generates acute staffed monitored bed capacity within 60-90 minutes, absorbing sudden influxes of critical trauma victims.",
+        "correct": true
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "Discharging inpatients with low risk of short-term deterioration rapidly generates acute staffed monitored bed capacity within 60-90 minutes, absorbing sudden influxes of critical trauma victims. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Mass casualty emergency department surge: Reverse triage and rapid discharge ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Mass casualty emergency department surge: Reverse triage and rapid discharge ...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2493",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Crush syndrome in structural collapse disasters: Hyperkalemic arrest preventi...",
+    "type": "SINGLE",
+    "difficulty": 2,
+    "stem": "A 63-year-old male presenting with progressive symptomatic deterioration is transferred by emergency mobile intensive care to the medical ward requiring evaluation for Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside assessment highlights Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 117/77 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which therapeutic or diagnostic intervention is prioritized in this clinical scenario?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Initiating aggressive intravenous normal saline fluid resuscitation (1-1.5 L/hr) prior to extricating pinned limbs to prevent sudden hyperkalemic cardiac arrest and acute tubular necrosis upon reperfusion.",
+        "explanation": "Reperfusion of crushed skeletal muscle abruptly releases massive loads of intracellular potassium, myoglobin, and lactic acid into the systemic circulation; pre-release hydration dilutes toxins and protects kidneys.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "Reperfusion of crushed skeletal muscle abruptly releases massive loads of intracellular potassium, myoglobin, and lactic acid into the systemic circulation; pre-release hydration dilutes toxins and protects kidneys. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Crush syndrome in structural collapse disasters: Hyperkalemic arrest preventi....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Crush syndrome in structural collapse disasters: Hyperkalemic arrest preventi...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2494",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Public health syndromic surveillance systems for early detection of bioterror...",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 79-year-old female who presents to the academic medical center acute assessment unit with acute manifestations of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside examination demonstrates Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 118/78 mm Hg, pulse 100/min, respiratory rate 20/min, and pulse oximetry oxygen saturation 98%. Which clinical screening, occupational, or therapeutic standard is recommended according to UAE health authority guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Automated real-time monitoring of emergency department chief complaints, over-the-counter medication sales, and school absenteeism to detect statistical spikes indicative of intentional aerosol pathogen release.",
+        "explanation": "Syndromic surveillance identifies anomalous clusters days before clinical laboratory identification of exotic pathogens (e.g., Francisella tularensis, Yersinia pestis), triggering early public health quarantine.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "Syndromic surveillance identifies anomalous clusters days before clinical laboratory identification of exotic pathogens (e.g., Francisella tularensis, Yersinia pestis), triggering early public health quarantine. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Public health syndromic surveillance systems for early detection of bioterror....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Public health syndromic surveillance systems for early detection of bioterror...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-2495",
+    "exam": "UHS MBBS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Tympanic membrane rupture as an index of blast injury severity and secondary ...",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 30-year-old male with acute clinical destabilization presents to the regional emergency trauma and resuscitation center for urgent investigation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns. Bedside evaluation confirms Simple Triage and Rapid Treatment (START) color-coded tagging (Green, Yellow, Red, Black); acute cholinergic hypersecretion in chemical nerve agent attack; or tympanic membrane rupture with blast lung. Clinical observations demonstrate blood pressure 119/79 mm Hg, pulse 101/min, respiratory rate 21/min, and pulse oximetry oxygen saturation 99%. What is the classical bedside sign or primary diagnostic test required to confirm the diagnosis in this patient?",
+    "options": [
+      {
+        "text": "The tympanic membrane is the human organ most sensitive to explosive barotrauma (rupturing at pressures as low as 5 psi / 35 kPa); presence of rupture mandates inpatient screening for occult blast lung injury.",
+        "explanation": "While blast lung requires higher blast wave overpressures (> 40 psi), an intact eardrum does not completely exclude blast lung; however, bilateral eardrum rupture strongly indicates high-energy overpressure exposure.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "While blast lung requires higher blast wave overpressures (> 40 psi), an intact eardrum does not completely exclude blast lung; however, bilateral eardrum rupture strongly indicates high-energy overpressure exposure. In the systematic diagnostic and therapeutic evaluation of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns, strict compliance with accredited practice guidelines is essential.",
+    "objective": "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Tympanic membrane rupture as an index of blast injury severity and secondary ....",
+    "keyPoints": [
+      "Examine the pathophysiological mechanisms, diagnostic confirmation, and guideline-directed clinical management of Mass casualty incident (MCI) triage, chemical / CBRNE emergencies, and blast injury patterns concerning Tympanic membrane rupture as an index of blast injury severity and secondary ...."
+    ],
+    "references": [
+      {
+        "label": "NDLS / FEMA Guidelines for Mass Casualty Triage and CBRNE Response",
+        "url": "https://www.fema.gov/emergency-managers/national-preparedness"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

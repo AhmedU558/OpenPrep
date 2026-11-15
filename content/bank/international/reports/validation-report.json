@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-15T12:33:17.397Z",
-  "totalQuestions": 2145,
+  "validatedAt": "2026-11-15T13:28:15.619Z",
+  "totalQuestions": 2495,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -163,6 +163,30 @@
       "count": 85,
       "digest": "80e0429f3b05cd23bb84d94ddb2e1ffc9cc996e0e71b9ab57ee56bdef66ffd7f",
       "errors": []
+    },
+    {
+      "name": "batch-intl-28",
+      "count": 90,
+      "digest": "87cbbe5ae719bfe96efc652799baba7a2c2782bcffd895227338b72f8f9653aa",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-29",
+      "count": 90,
+      "digest": "6023f57d12a5d7cd32a5b9816f983c53d4479f6906ee48738009e4af579d5b83",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-30",
+      "count": 85,
+      "digest": "b13d20ec02ded6175708b2797fb4c6353589baf271312a73e80c34415f6fe663",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-31",
+      "count": 85,
+      "digest": "dfc22af44cf895aa7539b84093be7ecd5d582a137c04fcd63a10366a37e6d356",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -182,23 +206,23 @@
     "UHS MBBS"
   ],
   "subjectsCovered": {
-    "Anatomy": 31,
-    "Biochemistry": 16,
-    "Biostatistics": 26,
-    "Ethics": 32,
-    "Genetics": 2,
-    "Geriatrics": 11,
-    "Immunology": 13,
-    "Medicine": 897,
-    "Microbiology": 43,
+    "Anatomy": 34,
+    "Biochemistry": 19,
+    "Biostatistics": 39,
+    "Ethics": 45,
+    "Genetics": 5,
+    "Geriatrics": 21,
+    "Immunology": 15,
+    "Medicine": 1025,
+    "Microbiology": 46,
     "Neurology": 35,
-    "Obstetrics": 88,
-    "Pathology": 147,
-    "Pediatrics": 203,
-    "Pharmacology": 55,
-    "Physiology": 31,
-    "Psychiatry": 85,
-    "Surgery": 430
+    "Obstetrics": 101,
+    "Pathology": 154,
+    "Pediatrics": 238,
+    "Pharmacology": 65,
+    "Physiology": 33,
+    "Psychiatry": 110,
+    "Surgery": 510
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
