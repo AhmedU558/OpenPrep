@@ -163,6 +163,73 @@ export async function dueCards(userId: string, limit = 50) {
   return { due: due.map((c) => ({ ...c, frontHtml: renderMarkdown(c.front), backHtml: renderMarkdown(c.back) })), total, reviewedToday };
 }
 
+export type ExportAnkiOptions = {
+  q?: string;
+  subjectId?: string;
+};
+
+export async function exportAnkiCards(userId: string, options?: ExportAnkiOptions): Promise<string> {
+  const q = options?.q?.trim();
+  const subjectId = options?.subjectId?.trim();
+
+  const cards = await db.card.findMany({
+    where: {
+      userId,
+      AND: [
+        deliverableCard,
+        ...(q
+          ? [
+              {
+                OR: [
+                  { front: { contains: q, mode: 'insensitive' as const } },
+                  { back: { contains: q, mode: 'insensitive' as const } },
+                ],
+              },
+            ]
+          : []),
+        ...(subjectId ? [{ question: { subjectId } }] : []),
+      ],
+    },
+    orderBy: { createdAt: 'desc' },
+    select: {
+      id: true,
+      front: true,
+      back: true,
+      question: {
+        select: {
+          code: true,
+          exam: { select: { code: true, name: true } },
+          subject: { select: { name: true } },
+          system: { select: { name: true } },
+        },
+      },
+    },
+  });
+
+  const lines: string[] = [
+    '#separator:tab',
+    '#html:true',
+    '#tags column:3',
+  ];
+
+  for (const c of cards) {
+    const frontHtml = renderMarkdown(c.front).replace(/[\r\n]+/g, ' ').replace(/\t/g, ' ').trim();
+    const backHtml = renderMarkdown(c.back).replace(/[\r\n]+/g, ' ').replace(/\t/g, ' ').trim();
+
+    const tagList: string[] = ['OpenPrep'];
+    if (c.question) {
+      if (c.question.exam?.name) tagList.push(c.question.exam.name.replace(/\s+/g, '_'));
+      if (c.question.subject?.name) tagList.push(c.question.subject.name.replace(/\s+/g, '_'));
+      if (c.question.system?.name) tagList.push(c.question.system.name.replace(/\s+/g, '_'));
+      if (c.question.code) tagList.push(c.question.code.replace(/\s+/g, '_'));
+    }
+    const tags = tagList.join(' ');
+    lines.push(`${frontHtml}\t${backHtml}\t${tags}`);
+  }
+
+  return lines.join('\n');
+}
+
 
 // ---------------- practice reset
 

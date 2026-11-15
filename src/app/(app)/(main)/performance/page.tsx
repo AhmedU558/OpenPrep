@@ -2,9 +2,10 @@ import Link from 'next/link';
 import { BreakdownTable } from '@/components/breakdown-table';
 import { ActivityHeatmap, ScoreTrend } from '@/components/charts';
 import { ReadinessCard } from '@/components/readiness-card';
+import { USMLEPredictionCard } from '@/components/usmle-prediction-card';
 import { ButtonLink, Card, EmptyState, PageHeader, Stat, fmtDuration } from '@/components/ui';
 import { overview } from '@/lib/analytics';
-import { assessExamReadiness } from '@/lib/readiness';
+import { assessExamReadiness, estimateUSMLEPerformance } from '@/lib/readiness';
 import { requireUserPage } from '@/lib/session';
 
 export const metadata = { title: 'Performance' };
@@ -23,6 +24,7 @@ export default async function PerformancePage({ searchParams }: { searchParams: 
   if (!o.used) return <>{header}<EmptyState title="No answers yet" action={<ButtonLink href="/create">Start practicing</ButtonLink>}>Answer a few questions and your accuracy, trends and weak areas will show up here.</EmptyState></>;
 
   const readiness = assessExamReadiness(o);
+  const usmleEstimate = estimateUSMLEPerformance(o.byExam, o.used, o.pct);
 
   return (
     <>
@@ -44,6 +46,8 @@ export default async function PerformancePage({ searchParams }: { searchParams: 
           </div>
 
           <ReadinessCard assessment={readiness} />
+
+          <USMLEPredictionCard estimate={usmleEstimate} />
 
           <div className="grid gap-6 lg:grid-cols-2">
             <Card><h2 className="mb-3 font-semibold">Activity</h2><ActivityHeatmap activity={o.activity} /></Card>

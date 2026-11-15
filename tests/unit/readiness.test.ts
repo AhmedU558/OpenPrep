@@ -1,5 +1,11 @@
 import { describe, expect, it } from 'vitest';
-import { assessExamReadiness } from '@/lib/readiness';
+import {
+  assessExamReadiness,
+  estimateUSMLEPerformance,
+  predictStep1,
+  predictStep2CK,
+  predictStep3,
+} from '@/lib/readiness';
 
 describe('assessExamReadiness', () => {
   it('identifies beginning phase when fewer than 25 questions are used', () => {
@@ -86,5 +92,107 @@ describe('assessExamReadiness', () => {
     expect(res.coveragePct).toBe(0);
     expect(res.accuracyPct).toBe(0);
     expect(res.remaining).toBe(0);
+  });
+});
+
+describe('USMLE Predictive Score Estimators', () => {
+  describe('predictStep1', () => {
+    it('returns INSUFFICIENT_DATA when tested items < 15', () => {
+      const pred = predictStep1(10, 80);
+      expect(pred.status).toBe('INSUFFICIENT_DATA');
+      expect(pred.statusLabel).toBe('Insufficient Data');
+      expect(pred.passLikelihoodPct).toBeUndefined();
+    });
+
+    it('predicts high pass probability for accuracy >= 75% with sufficient volume', () => {
+      const pred = predictStep1(100, 75);
+      expect(pred.status).toBe('VERY_HIGH_PROBABILITY');
+      expect(pred.badgeTone).toBe('ok');
+      expect(pred.passLikelihoodPct).toBeGreaterThanOrEqual(90);
+      expect(pred.passingStandard).toBe(196);
+    });
+
+    it('identifies borderline pass when accuracy is near 60%', () => {
+      const pred = predictStep1(80, 61);
+      expect(pred.status).toBe('BORDERLINE');
+      expect(pred.badgeTone).toBe('warn');
+      expect(pred.passLikelihoodPct).toBeGreaterThanOrEqual(50);
+      expect(pred.passLikelihoodPct).toBeLessThan(75);
+    });
+
+    it('identifies at risk when accuracy is well below 60%', () => {
+      const pred = predictStep1(50, 42);
+      expect(pred.status).toBe('AT_RISK');
+      expect(pred.badgeTone).toBe('warn');
+      expect(pred.passLikelihoodPct).toBeLessThan(55);
+    });
+  });
+
+  describe('predictStep2CK', () => {
+    it('returns INSUFFICIENT_DATA when tested items < 15', () => {
+      const pred = predictStep2CK(12, 70);
+      expect(pred.status).toBe('INSUFFICIENT_DATA');
+      expect(pred.projectedScore).toBeUndefined();
+    });
+
+    it('predicts competitive 3-digit score for high accuracy', () => {
+      const pred = predictStep2CK(120, 75);
+      expect(pred.status).toBe('VERY_HIGH_PROBABILITY');
+      expect(pred.projectedScore).toBeGreaterThanOrEqual(245);
+      expect(pred.scoreBuffer).toBeGreaterThan(30);
+      expect(pred.scoreRange).toBeDefined();
+      expect(pred.scoreRange![0]).toBeLessThanOrEqual(pred.projectedScore!);
+      expect(pred.scoreRange![1]).toBeGreaterThanOrEqual(pred.projectedScore!);
+      expect(pred.percentileRank).toBeGreaterThanOrEqual(50);
+    });
+
+    it('predicts passing score near passing standard (214) for 55% accuracy', () => {
+      const pred = predictStep2CK(60, 55);
+      expect(pred.status).toBe('BORDERLINE');
+      expect(pred.projectedScore).toBe(214);
+      expect(pred.scoreBuffer).toBe(0);
+    });
+  });
+
+  describe('predictStep3', () => {
+    it('returns INSUFFICIENT_DATA when tested items < 15', () => {
+      const pred = predictStep3(8, 65);
+      expect(pred.status).toBe('INSUFFICIENT_DATA');
+      expect(pred.projectedScore).toBeUndefined();
+    });
+
+    it('predicts passing score above 200 standard for 65% accuracy', () => {
+      const pred = predictStep3(80, 65);
+      expect(pred.status).toBe('PASS_LIKELY');
+      expect(pred.projectedScore).toBeGreaterThanOrEqual(210);
+      expect(pred.scoreBuffer).toBeGreaterThanOrEqual(10);
+    });
+  });
+
+  describe('estimateUSMLEPerformance', () => {
+    it('handles empty exam history with fallback or insufficient data', () => {
+      const estimate = estimateUSMLEPerformance([], 0, 0);
+      expect(estimate.hasUSMLEData).toBe(false);
+      expect(estimate.step1.status).toBe('INSUFFICIENT_DATA');
+      expect(estimate.step2ck.status).toBe('INSUFFICIENT_DATA');
+      expect(estimate.step3.status).toBe('INSUFFICIENT_DATA');
+    });
+
+    it('computes exam-specific predictions when USMLE exams are present', () => {
+      const byExam = [
+        { name: 'Step 1', total: 100, correct: 75, pct: 75 },
+        { name: 'Step 2 CK', total: 80, correct: 56, pct: 70 },
+        { name: 'Step 3', total: 60, correct: 39, pct: 65 },
+      ];
+      const estimate = estimateUSMLEPerformance(byExam, 240, 71);
+      expect(estimate.hasUSMLEData).toBe(true);
+      expect(estimate.totalUSMLEAnswered).toBe(240);
+      expect(estimate.step1.testedCount).toBe(100);
+      expect(estimate.step1.passLikelihoodPct).toBeGreaterThanOrEqual(90);
+      expect(estimate.step2ck.testedCount).toBe(80);
+      expect(estimate.step2ck.projectedScore).toBeGreaterThanOrEqual(240);
+      expect(estimate.step3.testedCount).toBe(60);
+      expect(estimate.step3.projectedScore).toBeGreaterThanOrEqual(210);
+    });
   });
 });

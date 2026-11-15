@@ -32,6 +32,10 @@ import { questions as bIntl28 } from '../content/bank/international/batch-intl-2
 import { questions as bIntl29 } from '../content/bank/international/batch-intl-29';
 import { questions as bIntl30 } from '../content/bank/international/batch-intl-30';
 import { questions as bIntl31 } from '../content/bank/international/batch-intl-31';
+import { questions as bIntl32 } from '../content/bank/international/batch-intl-32';
+import { questions as bIntl33 } from '../content/bank/international/batch-intl-33';
+import { questions as bIntl34 } from '../content/bank/international/batch-intl-34';
+import { questions as bIntl35 } from '../content/bank/international/batch-intl-35';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -43,6 +47,7 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl20, ...bIntl21, ...bIntl22, ...bIntl23,
   ...bIntl24, ...bIntl25, ...bIntl26, ...bIntl27,
   ...bIntl28, ...bIntl29, ...bIntl30, ...bIntl31,
+  ...bIntl32, ...bIntl33, ...bIntl34, ...bIntl35,
 ];
 
 interface IngestOptions {

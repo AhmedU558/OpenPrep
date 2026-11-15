@@ -57,7 +57,17 @@ export function ReviewSession({ cards }: { cards: Due[] }) {
 
 type Row = { id: string; front: string; back: string; frontHtml: string; suspended: boolean; due: string; interval: number; source: string };
 
-export function CardManager({ cards, q }: { cards: Row[]; q: string }) {
+export function CardManager({
+  cards,
+  q,
+  subjects,
+  selectedSubject,
+}: {
+  cards: Row[];
+  q: string;
+  subjects?: { id: string; name: string }[];
+  selectedSubject?: string;
+}) {
   const router = useRouter();
   const [front, setFront] = useState('');
   const [back, setBack] = useState('');
@@ -69,9 +79,20 @@ export function CardManager({ cards, q }: { cards: Row[]; q: string }) {
   return (
     <div className="grid gap-6 lg:grid-cols-[1fr_340px]">
       <Card className="p-0">
-        <form method="get" className="flex gap-2 border-b border-line p-3">
-          <input name="q" defaultValue={q} placeholder="Search your cards" aria-label="Search cards" className={cx(inputCls, 'h-9')} />
-          <Button size="sm" type="submit" variant="secondary">Search</Button>
+        <form method="get" className="flex flex-wrap items-center gap-2 border-b border-line p-3">
+          <input name="q" defaultValue={q} placeholder="Search your cards..." aria-label="Search cards" className={cx(inputCls, 'h-9 min-w-40 flex-1')} />
+          {subjects && subjects.length > 0 && (
+            <select name="subject" defaultValue={selectedSubject ?? ''} aria-label="Filter by subject" className={cx(inputCls, 'h-9 w-auto text-sm')}>
+              <option value="">All Subjects</option>
+              {subjects.map((s) => (
+                <option key={s.id} value={s.id}>{s.name}</option>
+              ))}
+            </select>
+          )}
+          <Button size="sm" type="submit" variant="secondary">Filter</Button>
+          {(q || selectedSubject) && (
+            <a href="/flashcards" className="inline-flex items-center text-xs text-muted hover:text-ink px-2">Clear</a>
+          )}
         </form>
         {cards.length === 0 ? <p className="p-6 text-center text-muted">{q ? 'No cards match.' : 'No cards yet.'}</p> : (
           <ul>

@@ -20,9 +20,16 @@ export const bankQuestionSchema = questionContentSchema.superRefine((q, ctx) => 
 
 export const normalize = (s: string) => s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
 
+const shingleCache = new Map<string, Set<string>>();
+
 function shingles(s: string) {
-  const words = normalize(s).split(' ');
-  return new Set(words.slice(0, -2).map((_, i) => words.slice(i, i + 3).join(' ')));
+  let cached = shingleCache.get(s);
+  if (!cached) {
+    const words = normalize(s).split(' ');
+    cached = new Set(words.slice(0, -2).map((_, i) => words.slice(i, i + 3).join(' ')));
+    shingleCache.set(s, cached);
+  }
+  return cached;
 }
 
 /** Conservative lexical screen. Semantic/medical duplicates still need editorial review. */
