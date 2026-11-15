@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-15T20:36:23.508Z",
-  "totalQuestions": 6545,
+  "validatedAt": "2026-11-15T21:09:46.093Z",
+  "totalQuestions": 7045,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -398,23 +398,23 @@
     "UHS MBBS"
   ],
   "subjectsCovered": {
-    "Anatomy": 79,
-    "Biochemistry": 122,
-    "Biostatistics": 69,
-    "Ethics": 62,
-    "Genetics": 279,
-    "Geriatrics": 35,
-    "Immunology": 147,
-    "Medicine": 2394,
-    "Microbiology": 187,
+    "Anatomy": 87,
+    "Biochemistry": 131,
+    "Biostatistics": 89,
+    "Ethics": 73,
+    "Genetics": 316,
+    "Geriatrics": 36,
+    "Immunology": 176,
+    "Medicine": 2471,
+    "Microbiology": 190,
     "Neurology": 73,
-    "Obstetrics": 289,
-    "Pathology": 548,
-    "Pediatrics": 446,
-    "Pharmacology": 460,
-    "Physiology": 310,
-    "Psychiatry": 176,
-    "Surgery": 869
+    "Obstetrics": 330,
+    "Pathology": 605,
+    "Pediatrics": 498,
+    "Pharmacology": 492,
+    "Physiology": 355,
+    "Psychiatry": 206,
+    "Surgery": 917
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

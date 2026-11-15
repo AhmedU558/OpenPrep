@@ -52,6 +52,7 @@ export const auth = betterAuth({
     return origins;
   },
   advanced: {
+    disableOriginCheck: true,
     trustedProxyHeaders: true,
   },
   database: prismaAdapter(db, { provider: 'postgresql', transaction: true }),
