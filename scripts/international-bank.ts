@@ -65,6 +65,11 @@ import { questions as bIntl60 } from '../content/bank/international/batch-intl-6
 import { questions as bIntl61 } from '../content/bank/international/batch-intl-61';
 import { questions as bIntl62 } from '../content/bank/international/batch-intl-62';
 import { questions as bIntl63 } from '../content/bank/international/batch-intl-63';
+import { questions as bIntl64 } from '../content/bank/international/batch-intl-64';
+import { questions as bIntl65 } from '../content/bank/international/batch-intl-65';
+import { questions as bIntl66 } from '../content/bank/international/batch-intl-66';
+import { questions as bIntl67 } from '../content/bank/international/batch-intl-67';
+import { questions as bIntl68 } from '../content/bank/international/batch-intl-68';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -83,7 +88,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl44, ...bIntl45, ...bIntl46, ...bIntl47, ...bIntl48,
   ...bIntl49, ...bIntl50, ...bIntl51, ...bIntl52, ...bIntl53,
   ...bIntl54, ...bIntl55, ...bIntl56, ...bIntl57, ...bIntl58,
-  ...bIntl59, ...bIntl60, ...bIntl61, ...bIntl62, ...bIntl63
+  ...bIntl59, ...bIntl60, ...bIntl61, ...bIntl62, ...bIntl63,
+  ...bIntl64, ...bIntl65, ...bIntl66, ...bIntl67, ...bIntl68
 ];
 const dir = 'content/bank/international';
 
