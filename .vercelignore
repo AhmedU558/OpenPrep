@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+coverage
+playwright-report
+test-results
+.vercel
+artifacts
+temp
+tmp
+__pycache__
+*.pyc
+tests
+e2e
