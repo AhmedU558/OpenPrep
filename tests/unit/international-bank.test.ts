@@ -49,6 +49,11 @@ import { questions as bIntl45 } from '../../content/bank/international/batch-int
 import { questions as bIntl46 } from '../../content/bank/international/batch-intl-46';
 import { questions as bIntl47 } from '../../content/bank/international/batch-intl-47';
 import { questions as bIntl48 } from '../../content/bank/international/batch-intl-48';
+import { questions as bIntl49 } from '../../content/bank/international/batch-intl-49';
+import { questions as bIntl50 } from '../../content/bank/international/batch-intl-50';
+import { questions as bIntl51 } from '../../content/bank/international/batch-intl-51';
+import { questions as bIntl52 } from '../../content/bank/international/batch-intl-52';
+import { questions as bIntl53 } from '../../content/bank/international/batch-intl-53';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -64,12 +69,13 @@ describe('international question bank expansion', () => {
     ...bIntl32, ...bIntl33, ...bIntl34, ...bIntl35,
     ...bIntl36, ...bIntl37, ...bIntl38, ...bIntl39,
     ...bIntl40, ...bIntl41, ...bIntl42, ...bIntl43,
-    ...bIntl44, ...bIntl45, ...bIntl46, ...bIntl47, ...bIntl48
+    ...bIntl44, ...bIntl45, ...bIntl46, ...bIntl47, ...bIntl48,
+    ...bIntl49, ...bIntl50, ...bIntl51, ...bIntl52, ...bIntl53
   ];
 
-  it('contains 4045 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(4045);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(4045);
+  it('contains 4545 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(4545);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(4545);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
