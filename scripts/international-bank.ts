@@ -85,6 +85,11 @@ import { questions as bIntl80 } from '../content/bank/international/batch-intl-8
 import { questions as bIntl81 } from '../content/bank/international/batch-intl-81';
 import { questions as bIntl82 } from '../content/bank/international/batch-intl-82';
 import { questions as bIntl83 } from '../content/bank/international/batch-intl-83';
+import { questions as bIntl84 } from '../content/bank/international/batch-intl-84';
+import { questions as bIntl85 } from '../content/bank/international/batch-intl-85';
+import { questions as bIntl86 } from '../content/bank/international/batch-intl-86';
+import { questions as bIntl87 } from '../content/bank/international/batch-intl-87';
+import { questions as bIntl88 } from '../content/bank/international/batch-intl-88';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -107,7 +112,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl64, ...bIntl65, ...bIntl66, ...bIntl67, ...bIntl68,
   ...bIntl69, ...bIntl70, ...bIntl71, ...bIntl72, ...bIntl73,
   ...bIntl74, ...bIntl75, ...bIntl76, ...bIntl77, ...bIntl78,
-  ...bIntl79, ...bIntl80, ...bIntl81, ...bIntl82, ...bIntl83
+  ...bIntl79, ...bIntl80, ...bIntl81, ...bIntl82, ...bIntl83,
+  ...bIntl84, ...bIntl85, ...bIntl86, ...bIntl87, ...bIntl88
 ];
 const dir = 'content/bank/international';
 
@@ -181,6 +187,31 @@ async function main() {
     { name: 'batch-intl-61', data: bIntl61 },
     { name: 'batch-intl-62', data: bIntl62 },
     { name: 'batch-intl-63', data: bIntl63 },
+    { name: 'batch-intl-64', data: bIntl64 },
+    { name: 'batch-intl-65', data: bIntl65 },
+    { name: 'batch-intl-66', data: bIntl66 },
+    { name: 'batch-intl-67', data: bIntl67 },
+    { name: 'batch-intl-68', data: bIntl68 },
+    { name: 'batch-intl-69', data: bIntl69 },
+    { name: 'batch-intl-70', data: bIntl70 },
+    { name: 'batch-intl-71', data: bIntl71 },
+    { name: 'batch-intl-72', data: bIntl72 },
+    { name: 'batch-intl-73', data: bIntl73 },
+    { name: 'batch-intl-74', data: bIntl74 },
+    { name: 'batch-intl-75', data: bIntl75 },
+    { name: 'batch-intl-76', data: bIntl76 },
+    { name: 'batch-intl-77', data: bIntl77 },
+    { name: 'batch-intl-78', data: bIntl78 },
+    { name: 'batch-intl-79', data: bIntl79 },
+    { name: 'batch-intl-80', data: bIntl80 },
+    { name: 'batch-intl-81', data: bIntl81 },
+    { name: 'batch-intl-82', data: bIntl82 },
+    { name: 'batch-intl-83', data: bIntl83 },
+    { name: 'batch-intl-84', data: bIntl84 },
+    { name: 'batch-intl-85', data: bIntl85 },
+    { name: 'batch-intl-86', data: bIntl86 },
+    { name: 'batch-intl-87', data: bIntl87 },
+    { name: 'batch-intl-88', data: bIntl88 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];

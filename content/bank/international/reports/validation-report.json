@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-15T21:41:33.852Z",
-  "totalQuestions": 7545,
+  "validatedAt": "2026-11-15T22:28:28.318Z",
+  "totalQuestions": 8045,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -379,6 +379,156 @@
       "count": 100,
       "digest": "b116424063ef7faec63fad136f52c63bb0f56b32e06fd15b0fb98689eb316dbb",
       "errors": []
+    },
+    {
+      "name": "batch-intl-64",
+      "count": 100,
+      "digest": "0932103a523c58a804a3469cda270994936e4687172c757dc5e89c85e14ac2f7",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-65",
+      "count": 100,
+      "digest": "552fd04d9699250bc7cd71d0c939df04ac7a5b5087f6f75c0616614939a90930",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-66",
+      "count": 100,
+      "digest": "1c890bd65d9f2139423363cc86ada6ad3be1b82f1642a629c76b043123955460",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-67",
+      "count": 100,
+      "digest": "8a6ab15270c05cae70ca634bd5647604e9d0ecdeb9ee27dd27b4894340daebec",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-68",
+      "count": 100,
+      "digest": "3e5c43e8be1ce185635db07e2d20e20127fb3a726615c852303af01d69b2b38f",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-69",
+      "count": 100,
+      "digest": "b4ed072948c61eaec7b613213ab789de3c5dca76ac2500ae354d968f5aa5edd6",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-70",
+      "count": 100,
+      "digest": "8b5bba36464af079a6c844891ea38abc3b03b3f99fb598013e6f37cf7988fe75",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-71",
+      "count": 100,
+      "digest": "a386a02ae5ba43ad910471f1945f64293b0671a6c0c231818e9b78a6e24238ba",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-72",
+      "count": 100,
+      "digest": "7d9d1f9690c9372e1b255c64ce9227d2273478cfd358c7626ad6eb2824ccaadd",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-73",
+      "count": 100,
+      "digest": "49100ea8aaaea8dd8819a3a5e926e46a0c1e0d9a5e1daddcd0378ec19b28737a",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-74",
+      "count": 100,
+      "digest": "c62fd297d8a804b726a0d26f7c405e30d6f277dee7b6dd7a50827aab76d23dbd",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-75",
+      "count": 100,
+      "digest": "e3e649e17796f4b0d677a1ff498cf11d2e9974b5babd7d875d5ca7ed48f9ba12",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-76",
+      "count": 100,
+      "digest": "3b060c03260f7659318e6040e97d30f8e2aa5138414cf43c718219206aec00a7",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-77",
+      "count": 100,
+      "digest": "13d533f43db02b5a90e956e3122929902a5f1b7b6ab733f58caca34377ca1c9d",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-78",
+      "count": 100,
+      "digest": "a53724a64d265a3cf37b5631a938dfe786c871fa702b30f8a27be7b018758c86",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-79",
+      "count": 100,
+      "digest": "9e6927b389913bc73d27ac5181519d013bec274aa7039bd77a0e76aa7d6a8db0",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-80",
+      "count": 100,
+      "digest": "68d4ff6a537c7a2ac6772160561e9fb1fba3d5fb1815e08d6a23c3d121f88acd",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-81",
+      "count": 100,
+      "digest": "1f46795201658e44abd2946b6f9925db12ba09e9a5f03dfba9baeeb0b81e5ffc",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-82",
+      "count": 100,
+      "digest": "15926652954296159bb9f7cac786b8829405c495245fc777b434099a9337ee7a",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-83",
+      "count": 100,
+      "digest": "6b1fcdd3a365246bf2960c52a0faa9e36d426ffce0635318917ff2fe4288af32",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-84",
+      "count": 100,
+      "digest": "5bac9a1309c2b6ba66bf038721328f6e5996392a258e9e977c6939c3e3d9c478",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-85",
+      "count": 100,
+      "digest": "ca9fda35e8bb34bbc784d0f4dc33029bf7fa5c1871dd695c16125b9e34e4a019",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-86",
+      "count": 100,
+      "digest": "8f30afc3690f3b5ea5b48ff2b9353ff087220da3e852a5d1f0ebfd18c234ccd1",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-87",
+      "count": 100,
+      "digest": "df942f24dd999eb2804983a044af39cb167175cca2008b4f7127e7343389afc1",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-88",
+      "count": 100,
+      "digest": "139e73f6fcf73dcc1a17bc3b8f30225d99d9212edcca1e586f12e7680d080a66",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -401,20 +551,20 @@
     "Anatomy": 90,
     "Biochemistry": 173,
     "Biostatistics": 89,
-    "Ethics": 73,
-    "Genetics": 339,
-    "Geriatrics": 36,
+    "Ethics": 91,
+    "Genetics": 341,
+    "Geriatrics": 62,
     "Immunology": 200,
-    "Medicine": 2601,
+    "Medicine": 2940,
     "Microbiology": 225,
-    "Neurology": 96,
-    "Obstetrics": 343,
+    "Neurology": 103,
+    "Obstetrics": 374,
     "Pathology": 651,
-    "Pediatrics": 519,
+    "Pediatrics": 555,
     "Pharmacology": 523,
     "Physiology": 403,
-    "Psychiatry": 206,
-    "Surgery": 978
+    "Psychiatry": 211,
+    "Surgery": 1014
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

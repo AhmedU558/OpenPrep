@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-7546",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 72-year-old female who presents to the academic primary care continuity and preventive medicine clinic with symptomatic deterioration from suspected Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion. Bedside evaluation demonstrates screened with morning plasma aldosterone-to-renin ratio (ARR > 20 with aldosterone > 15 ng/dL); confirmed with oral sodium loading or IV saline suppression test before adrenal CT and adrenal vein sampling. Clinical observations demonstrate blood pressure 118/82 mm Hg, pulse 84/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Screened with morning plasma aldosterone-to-renin ratio (arr > 20 with aldosterone > 15 ng/dl); confirmed with oral sodium loading or iv saline suppression test before adrenal ct and adrenal vein sampling",
+        "explanation": "In accordance with accredited clinical practice guidelines, screened with morning plasma aldosterone-to-renin ratio (ARR > 20 with aldosterone > 15 ng/dL); confirmed with oral sodium loading or IV saline suppression test before adrenal CT and adrenal vein sampling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, screened with morning plasma aldosterone-to-renin ratio (ARR > 20 with aldosterone > 15 ng/dL); confirmed with oral sodium loading or IV saline suppression test before adrenal CT and adrenal vein sampling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion. In the clinical approach to Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hyperaldosteronism (Conn Syndrome) Plasma Aldosterone to Renin Ratio (ARR) > 20 Adrenal CT and Saline Infusion."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Practice Guidelines on Primary Aldosteronism",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7547",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with clinical manifestations indicative of Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR. Physical examination demonstrates all incidental adrenal masses on abdominal CT require biochemical evaluation for hypercortisolism (1-mg overnight dexamethasone), pheochromocytoma (metanephrines), and hyperaldosteronism if hypertensive. Clinical observations demonstrate blood pressure 119/83 mm Hg, pulse 85/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "All incidental adrenal masses on abdominal ct require biochemical evaluation for hypercortisolism (1-mg overnight dexamethasone), pheochromocytoma (metanephrines), and hyperaldosteronism if hypertensive",
+        "explanation": "In accordance with accredited clinical practice guidelines, all incidental adrenal masses on abdominal CT require biochemical evaluation for hypercortisolism (1-mg overnight dexamethasone), pheochromocytoma (metanephrines), and hyperaldosteronism if hypertensive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, all incidental adrenal masses on abdominal CT require biochemical evaluation for hypercortisolism (1-mg overnight dexamethasone), pheochromocytoma (metanephrines), and hyperaldosteronism if hypertensive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR. In the clinical approach to Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adrenal Incidentaloma Asymptomatic Mass Workup 1-mg Dexamethasone Plasma Free Metanephrines and ARR."
+    ],
+    "references": [
+      {
+        "label": "AACE/AAES Guidelines on Adrenal Incidentalomas",
+        "url": "https://www.aace.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7548",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indica",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 24-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation with decompensation related to Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy. Rapid clinical triage confirms asymptomatic elevation of TSH (5-10 mIU/L) with normal free thyroxine; levothyroxine treatment indicated if TSH >= 10 mIU/L, high anti-TPO antibody titer, symptomatic goiter, or pregnancy. Clinical observations demonstrate blood pressure 120/84 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Asymptomatic elevation of tsh (5-10 miu/l) with normal free thyroxine; levothyroxine treatment indicated if tsh >= 10 miu/l, high anti-tpo antibody titer, symptomatic goiter, or pregnancy",
+        "explanation": "In accordance with accredited clinical practice guidelines, asymptomatic elevation of TSH (5-10 mIU/L) with normal free thyroxine; levothyroxine treatment indicated if TSH >= 10 mIU/L, high anti-TPO antibody titer, symptomatic goiter, or pregnancy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, asymptomatic elevation of TSH (5-10 mIU/L) with normal free thyroxine; levothyroxine treatment indicated if TSH >= 10 mIU/L, high anti-TPO antibody titer, symptomatic goiter, or pregnancy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy. In the clinical approach to Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Subclinical Hypothyroidism Normal Free T4 Mildly Elevated TSH Treatment Indications TSH > 10 or Pregnancy."
+    ],
+    "references": [
+      {
+        "label": "ATA/AACE Guidelines on Hypothyroidism in Adults",
+        "url": "https://www.thyroid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7549",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the continuity family medicine pavilion for targeted follow-up with acute clinical presentation of Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation. Urgent bedside examination and point-of-care diagnostics demonstrate critically ill ICU patient with severe sepsis showing profound drop in serum T3 due to decreased peripheral 5'-deiodinase activity; thyroid hormone replacement is not indicated; retest after recovery. Clinical observations demonstrate blood pressure 121/85 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Critically ill icu patient with severe sepsis showing profound drop in serum t3 due to decreased peripheral 5'-deiodinase activity; thyroid hormone replacement is not indicated; retest after recovery",
+        "explanation": "In accordance with accredited clinical practice guidelines, critically ill ICU patient with severe sepsis showing profound drop in serum T3 due to decreased peripheral 5'-deiodinase activity; thyroid hormone replacement is not indicated; retest after recovery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, critically ill ICU patient with severe sepsis showing profound drop in serum T3 due to decreased peripheral 5'-deiodinase activity; thyroid hormone replacement is not indicated; retest after recovery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation. In the clinical approach to Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Euthyroid Sick Syndrome Non-Thyroidal Illness Low Total and Free T3 Normal T4 and TSH Observation."
+    ],
+    "references": [
+      {
+        "label": "ATA Guidelines on Thyroid Dysfunction in Critical Illness",
+        "url": "https://www.thyroid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7550",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 40-year-old female with acute destabilization presents to the regional emergency receiving and diagnostic resuscitation center for definitive management of Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake. Initial diagnostic workup identifies elderly patient with hyperthyroidism and irregular nodular thyroid; RAIU demonstrates patchy areas of increased and decreased tracer uptake, in contrast to diffuse symmetric high uptake in Graves disease. Clinical observations demonstrate blood pressure 122/86 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Elderly patient with hyperthyroidism and irregular nodular thyroid; raiu demonstrates patchy areas of increased and decreased tracer uptake, in contrast to diffuse symmetric high uptake in graves disease",
+        "explanation": "In accordance with accredited clinical practice guidelines, elderly patient with hyperthyroidism and irregular nodular thyroid; RAIU demonstrates patchy areas of increased and decreased tracer uptake, in contrast to diffuse symmetric high uptake in Graves disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, elderly patient with hyperthyroidism and irregular nodular thyroid; RAIU demonstrates patchy areas of increased and decreased tracer uptake, in contrast to diffuse symmetric high uptake in Graves disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake. In the clinical approach to Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Toxic Multinodular Goiter vs Graves Disease Radioactive Iodine Uptake Showing Patchy Heterogeneous Uptake."
+    ],
+    "references": [
+      {
+        "label": "ATA Guidelines for Management of Hyperthyroidism",
+        "url": "https://www.thyroid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7551",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ult",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 80-year-old male who is examined in the urgent ambulatory specialist clinic with symptomatic deterioration from suspected Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound. Bedside evaluation demonstrates palpable thyroid nodule investigated first with serum TSH; low TSH prompts radioiodine scan to identify hot functioning nodule; normal or elevated TSH prompts dedicated neck ultrasound to assess biopsy criteria. Clinical observations demonstrate blood pressure 123/87 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Palpable thyroid nodule investigated first with serum tsh; low tsh prompts radioiodine scan to identify hot functioning nodule; normal or elevated tsh prompts dedicated neck ultrasound to assess biopsy criteria",
+        "explanation": "In accordance with accredited clinical practice guidelines, palpable thyroid nodule investigated first with serum TSH; low TSH prompts radioiodine scan to identify hot functioning nodule; normal or elevated TSH prompts dedicated neck ultrasound to assess biopsy criteria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, palpable thyroid nodule investigated first with serum TSH; low TSH prompts radioiodine scan to identify hot functioning nodule; normal or elevated TSH prompts dedicated neck ultrasound to assess biopsy criteria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound. In the clinical approach to Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Nodule Workup Serum TSH Measurement Followed by Diagnostic Thyroid Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "ATA Management Guidelines for Adult Patients with Thyroid Nodules",
+        "url": "https://www.thyroid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7552",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodul",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center presenting with clinical manifestations indicative of Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications. Physical examination demonstrates high-suspicion sonographic features (microcalcifications, irregular margins, taller-than-wide shape) warrant ultrasound-guided FNA for nodules >= 1.0 cm to exclude thyroid malignancy. Clinical observations demonstrate blood pressure 124/72 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "High-suspicion sonographic features (microcalcifications, irregular margins, taller-than-wide shape) warrant ultrasound-guided fna for nodules >= 1.0 cm to exclude thyroid malignancy",
+        "explanation": "In accordance with accredited clinical practice guidelines, high-suspicion sonographic features (microcalcifications, irregular margins, taller-than-wide shape) warrant ultrasound-guided FNA for nodules >= 1.0 cm to exclude thyroid malignancy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, high-suspicion sonographic features (microcalcifications, irregular margins, taller-than-wide shape) warrant ultrasound-guided FNA for nodules >= 1.0 cm to exclude thyroid malignancy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications. In the clinical approach to Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Fine-Needle Aspiration (FNA) Biopsy Indications Solid Hypoechoic Nodule >= 1.0 cm with Microcalcifications."
+    ],
+    "references": [
+      {
+        "label": "ATA Guidelines for Thyroid Nodules and Cancer",
+        "url": "https://www.thyroid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7553",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 32-year-old female who presents to the academic primary care continuity and preventive medicine clinic with decompensation related to Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea. Rapid clinical triage confirms ischemic anterior pituitary infarction following severe postpartum hemorrhage; early failure of lactation (prolactin deficiency) and amenorrhea followed by secondary adrenal insufficiency and hypothyroidism. Clinical observations demonstrate blood pressure 125/73 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Ischemic anterior pituitary infarction following severe postpartum hemorrhage; early failure of lactation (prolactin deficiency) and amenorrhea followed by secondary adrenal insufficiency and hypothyroidism",
+        "explanation": "In accordance with accredited clinical practice guidelines, ischemic anterior pituitary infarction following severe postpartum hemorrhage; early failure of lactation (prolactin deficiency) and amenorrhea followed by secondary adrenal insufficiency and hypothyroidism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, ischemic anterior pituitary infarction following severe postpartum hemorrhage; early failure of lactation (prolactin deficiency) and amenorrhea followed by secondary adrenal insufficiency and hypothyroidism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea. In the clinical approach to Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypopituitarism Postpartum Pituitary Necrosis (Sheehan Syndrome) Inability to Lactate and Amenorrhea."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Guidelines on Hypopituitarism",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7554",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Vis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit with acute clinical presentation of Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone. Urgent bedside examination and point-of-care diagnostics demonstrate sudden catastrophic headache, bitemporal hemianopia, and ophthalmoplegia from expanding intrasellar mass; emergency high-dose IV hydrocortisone prevents fatal adrenal collapse before transsphenoidal decompression. Clinical observations demonstrate blood pressure 126/74 mm Hg, pulse 92/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden catastrophic headache, bitemporal hemianopia, and ophthalmoplegia from expanding intrasellar mass; emergency high-dose iv hydrocortisone prevents fatal adrenal collapse before transsphenoidal decompression",
+        "explanation": "In accordance with accredited clinical practice guidelines, sudden catastrophic headache, bitemporal hemianopia, and ophthalmoplegia from expanding intrasellar mass; emergency high-dose IV hydrocortisone prevents fatal adrenal collapse before transsphenoidal decompression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sudden catastrophic headache, bitemporal hemianopia, and ophthalmoplegia from expanding intrasellar mass; emergency high-dose IV hydrocortisone prevents fatal adrenal collapse before transsphenoidal decompression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone. In the clinical approach to Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pituitary Apoplexy Acute Hemorrhage into Macroadenoma Thunderclap Headache Visual Field Defect IV Hydrocortisone."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines on Pituitary Incidentalomas and Apoplexy",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7555",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old male with acute destabilization attends the comprehensive regional ambulatory healthcare center for evaluation for definitive management of Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test. Initial diagnostic workup identifies coarsening facial features, enlarging ring/shoe size, and carpal tunnel syndrome; initial screen is serum insulin-like growth factor 1 (IGF-1); confirmed by failure of growth hormone suppression < 1 ng/mL after 75-g oral glucose. Clinical observations demonstrate blood pressure 127/75 mm Hg, pulse 93/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Coarsening facial features, enlarging ring/shoe size, and carpal tunnel syndrome; initial screen is serum insulin-like growth factor 1 (igf-1); confirmed by failure of growth hormone suppression < 1 ng/ml after 75-g oral glucose",
+        "explanation": "In accordance with accredited clinical practice guidelines, coarsening facial features, enlarging ring/shoe size, and carpal tunnel syndrome; initial screen is serum insulin-like growth factor 1 (IGF-1); confirmed by failure of growth hormone suppression < 1 ng/mL after 75-g oral glucose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, coarsening facial features, enlarging ring/shoe size, and carpal tunnel syndrome; initial screen is serum insulin-like growth factor 1 (IGF-1); confirmed by failure of growth hormone suppression < 1 ng/mL after 75-g oral glucose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test. In the clinical approach to Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acromegaly Excess Growth Hormone Screening Serum IGF-1 Followed by Oral Glucose Tolerance Test."
+    ],
+    "references": [
+      {
+        "label": "AACE Guidelines for Management of Acromegaly",
+        "url": "https://www.aace.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7556",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dop",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 24-year-old female who attends the continuity family medicine pavilion for targeted follow-up with symptomatic deterioration from suspected Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline. Bedside evaluation demonstrates hyperprolactinemia suppressing GnRH pulsatility; symptomatic microprolactinomas and macroprolactinomas treated first-line with D2 receptor agonists (cabergoline or bromocriptine) which shrink tumor and normalize levels. Clinical observations demonstrate blood pressure 128/76 mm Hg, pulse 94/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Hyperprolactinemia suppressing gnrh pulsatility; symptomatic microprolactinomas and macroprolactinomas treated first-line with d2 receptor agonists (cabergoline or bromocriptine) which shrink tumor and normalize levels",
+        "explanation": "In accordance with accredited clinical practice guidelines, hyperprolactinemia suppressing GnRH pulsatility; symptomatic microprolactinomas and macroprolactinomas treated first-line with D2 receptor agonists (cabergoline or bromocriptine) which shrink tumor and normalize levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hyperprolactinemia suppressing GnRH pulsatility; symptomatic microprolactinomas and macroprolactinomas treated first-line with D2 receptor agonists (cabergoline or bromocriptine) which shrink tumor and normalize levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline. In the clinical approach to Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Prolactinoma Microadenoma (< 10 mm) Galactorrhea Oligomenorrhea First-Line Dopamine Agonist Cabergoline."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines on Hyperprolactinemia",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7557",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old male presents to the regional emergency receiving and diagnostic resuscitation center presenting with clinical manifestations indicative of Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge. Physical examination demonstrates polyuria and polydipsia with dilute urine (urine Osm < 300 mOsm/kg); central DI responds to exogenous desmopressin with > 50% rise in urine osmolality; nephrogenic DI demonstrates minimal or no change. Clinical observations demonstrate blood pressure 129/77 mm Hg, pulse 95/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Polyuria and polydipsia with dilute urine (urine osm < 300 mosm/kg); central di responds to exogenous desmopressin with > 50% rise in urine osmolality; nephrogenic di demonstrates minimal or no change",
+        "explanation": "In accordance with accredited clinical practice guidelines, polyuria and polydipsia with dilute urine (urine Osm < 300 mOsm/kg); central DI responds to exogenous desmopressin with > 50% rise in urine osmolality; nephrogenic DI demonstrates minimal or no change represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, polyuria and polydipsia with dilute urine (urine Osm < 300 mOsm/kg); central DI responds to exogenous desmopressin with > 50% rise in urine osmolality; nephrogenic DI demonstrates minimal or no change represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge. In the clinical approach to Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Central vs Nephrogenic Diabetes Insipidus Water Deprivation Test Followed by Desmopressin (DDAVP) Challenge."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Guidelines on Pituitary Disorders",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7558",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 40-year-old female who is examined in the urgent ambulatory specialist clinic with decompensation related to Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride. Rapid clinical triage confirms lithium enters collecting duct principal cells via ENaC, disabling adenylate cyclase and aquaporin-2 translocation; treated by stopping lithium if feasible, low-sodium diet, and ENaC blocker amiloride. Clinical observations demonstrate blood pressure 130/78 mm Hg, pulse 96/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Lithium enters collecting duct principal cells via enac, disabling adenylate cyclase and aquaporin-2 translocation; treated by stopping lithium if feasible, low-sodium diet, and enac blocker amiloride",
+        "explanation": "In accordance with accredited clinical practice guidelines, lithium enters collecting duct principal cells via ENaC, disabling adenylate cyclase and aquaporin-2 translocation; treated by stopping lithium if feasible, low-sodium diet, and ENaC blocker amiloride represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, lithium enters collecting duct principal cells via ENaC, disabling adenylate cyclase and aquaporin-2 translocation; treated by stopping lithium if feasible, low-sodium diet, and ENaC blocker amiloride represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride. In the clinical approach to Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrogenic Diabetes Insipidus Induced by Chronic Lithium Discontinuation Low-Salt Diet and Amiloride."
+    ],
+    "references": [
+      {
+        "label": "Kidney International Guidelines on Drug-Induced Tubulopathies",
+        "url": "https://www.kidney-international.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7559",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcino",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 80-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center with acute clinical presentation of Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction. Urgent bedside examination and point-of-care diagnostics demonstrate euvolemic hyponatremia with inappropriately concentrated urine (urine Osm > 100 mOsm/kg, urine Na > 40 mEq/L); asymptomatic or mild cases treated first-line with free water restriction (800-1000 mL/day). Clinical observations demonstrate blood pressure 131/79 mm Hg, pulse 97/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Euvolemic hyponatremia with inappropriately concentrated urine (urine osm > 100 mosm/kg, urine na > 40 meq/l); asymptomatic or mild cases treated first-line with free water restriction (800-1000 ml/day)",
+        "explanation": "In accordance with accredited clinical practice guidelines, euvolemic hyponatremia with inappropriately concentrated urine (urine Osm > 100 mOsm/kg, urine Na > 40 mEq/L); asymptomatic or mild cases treated first-line with free water restriction (800-1000 mL/day) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, euvolemic hyponatremia with inappropriately concentrated urine (urine Osm > 100 mOsm/kg, urine Na > 40 mEq/L); asymptomatic or mild cases treated first-line with free water restriction (800-1000 mL/day) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction. In the clinical approach to Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Syndrome of Inappropriate Antidiuretic Hormone (SIADH) Small Cell Lung Carcinoma Euvolemic Hyponatremia Fluid Restriction."
+    ],
+    "references": [
+      {
+        "label": "European Clinical Practice Guideline on Hyponatremia",
+        "url": "https://eje.bioscientifica.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7560",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old female with acute destabilization presents to the academic primary care continuity and preventive medicine clinic for definitive management of Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2. Initial diagnostic workup identifies hypercortisolemia with elevated plasma ACTH; when pituitary MRI is equivocal (< 6 mm), bilateral inferior petrosal sinus sampling with CRH stimulation localizes central pituitary ACTH hypersecretion. Clinical observations demonstrate blood pressure 132/80 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Hypercortisolemia with elevated plasma acth; when pituitary mri is equivocal (< 6 mm), bilateral inferior petrosal sinus sampling with crh stimulation localizes central pituitary acth hypersecretion",
+        "explanation": "In accordance with accredited clinical practice guidelines, hypercortisolemia with elevated plasma ACTH; when pituitary MRI is equivocal (< 6 mm), bilateral inferior petrosal sinus sampling with CRH stimulation localizes central pituitary ACTH hypersecretion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hypercortisolemia with elevated plasma ACTH; when pituitary MRI is equivocal (< 6 mm), bilateral inferior petrosal sinus sampling with CRH stimulation localizes central pituitary ACTH hypersecretion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2. In the clinical approach to Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling (IPSS) Central-to-Peripheral Ratio > 2."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines for Diagnosis of Cushing Syndrome",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7561",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenale",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 32-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with symptomatic deterioration from suspected Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation. Bedside evaluation demonstrates loss of negative feedback following surgical bilateral adrenalectomy for Cushing disease allowing preexisting corticotroph adenoma to expand aggressively, causing bitemporal visual loss and marked hyperpigmentation. Clinical observations demonstrate blood pressure 133/81 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Loss of negative feedback following surgical bilateral adrenalectomy for cushing disease allowing preexisting corticotroph adenoma to expand aggressively, causing bitemporal visual loss and marked hyperpigmentation",
+        "explanation": "In accordance with accredited clinical practice guidelines, loss of negative feedback following surgical bilateral adrenalectomy for Cushing disease allowing preexisting corticotroph adenoma to expand aggressively, causing bitemporal visual loss and marked hyperpigmentation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, loss of negative feedback following surgical bilateral adrenalectomy for Cushing disease allowing preexisting corticotroph adenoma to expand aggressively, causing bitemporal visual loss and marked hyperpigmentation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation. In the clinical approach to Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nelson Syndrome Rapid Growth of Pituitary ACTH Adenoma Post-Bilateral Adrenalectomy Hyperpigmentation."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines on Cushing Syndrome",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7562",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Os",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation presenting with clinical manifestations indicative of Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene. Physical examination demonstrates neuropathic plantar ulcer over metatarsal head; initial plain three-view radiograph evaluates for cortical erosion, periosteal reaction, and subcutaneous gas prior to advanced MRI imaging. Clinical observations demonstrate blood pressure 134/82 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Neuropathic plantar ulcer over metatarsal head; initial plain three-view radiograph evaluates for cortical erosion, periosteal reaction, and subcutaneous gas prior to advanced mri imaging",
+        "explanation": "In accordance with accredited clinical practice guidelines, neuropathic plantar ulcer over metatarsal head; initial plain three-view radiograph evaluates for cortical erosion, periosteal reaction, and subcutaneous gas prior to advanced MRI imaging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, neuropathic plantar ulcer over metatarsal head; initial plain three-view radiograph evaluates for cortical erosion, periosteal reaction, and subcutaneous gas prior to advanced MRI imaging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene. In the clinical approach to Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Foot Ulcer Initial Evaluation Plain Radiograph of Foot to Rule Out Osteomyelitis and Gas Gangrene."
+    ],
+    "references": [
+      {
+        "label": "IWGDF Guidelines on Prevention and Management of Diabetic Foot",
+        "url": "https://iwgdfguidelines.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7563",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Slidin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 48-year-old male who attends the continuity family medicine pavilion for targeted follow-up with decompensation related to Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated. Rapid clinical triage confirms hospitalized patients requiring glycemic management managed with scheduled basal-bolus-correction insulin regimen; sliding-scale regular insulin monotherapy is ineffective and strictly discouraged. Clinical observations demonstrate blood pressure 135/83 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Hospitalized patients requiring glycemic management managed with scheduled basal-bolus-correction insulin regimen; sliding-scale regular insulin monotherapy is ineffective and strictly discouraged",
+        "explanation": "In accordance with accredited clinical practice guidelines, hospitalized patients requiring glycemic management managed with scheduled basal-bolus-correction insulin regimen; sliding-scale regular insulin monotherapy is ineffective and strictly discouraged represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hospitalized patients requiring glycemic management managed with scheduled basal-bolus-correction insulin regimen; sliding-scale regular insulin monotherapy is ineffective and strictly discouraged represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated. In the clinical approach to Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Mellitus Inpatient Glycemic Control Basal-Bolus Insulin Sliding Scale Alone Contraindicated."
+    ],
+    "references": [
+      {
+        "label": "ADA Standards of Medical Care in Hospitalized Patients",
+        "url": "https://diabetesjournals.org/care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7564",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lac",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old female presents to the regional emergency receiving and diagnostic resuscitation center with acute clinical presentation of Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk. Urgent bedside examination and point-of-care diagnostics demonstrate biguanide antidiabetic agent cleared by renal excretion; contraindicated if eGFR < 30 mL/min/1.73m2 or acute shock/hypoxia to prevent lethal metformin-associated lactic acidosis (MALA). Clinical observations demonstrate blood pressure 136/84 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Biguanide antidiabetic agent cleared by renal excretion; contraindicated if egfr < 30 ml/min/1.73m2 or acute shock/hypoxia to prevent lethal metformin-associated lactic acidosis (mala)",
+        "explanation": "In accordance with accredited clinical practice guidelines, biguanide antidiabetic agent cleared by renal excretion; contraindicated if eGFR < 30 mL/min/1.73m2 or acute shock/hypoxia to prevent lethal metformin-associated lactic acidosis (MALA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, biguanide antidiabetic agent cleared by renal excretion; contraindicated if eGFR < 30 mL/min/1.73m2 or acute shock/hypoxia to prevent lethal metformin-associated lactic acidosis (MALA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk. In the clinical approach to Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Metformin Therapy Contraindication Estimated GFR < 30 mL/min/1.73m2 Due to Lactic Acidosis Risk."
+    ],
+    "references": [
+      {
+        "label": "ADA Standards of Care: Pharmacologic Approaches to Glycemia",
+        "url": "https://diabetesjournals.org/care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7565",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old male with acute destabilization is examined in the urgent ambulatory specialist clinic for definitive management of Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk. Initial diagnostic workup identifies promotes proximal glucosuria lowering HbA1c, reducing heart failure hospitalizations and progression of diabetic kidney disease; requires patient education regarding risk of euglycemic DKA during acute illness/surgery. Clinical observations demonstrate blood pressure 137/85 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Promotes proximal glucosuria lowering hba1c, reducing heart failure hospitalizations and progression of diabetic kidney disease; requires patient education regarding risk of euglycemic dka during acute illness/surgery",
+        "explanation": "In accordance with accredited clinical practice guidelines, promotes proximal glucosuria lowering HbA1c, reducing heart failure hospitalizations and progression of diabetic kidney disease; requires patient education regarding risk of euglycemic DKA during acute illness/surgery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, promotes proximal glucosuria lowering HbA1c, reducing heart failure hospitalizations and progression of diabetic kidney disease; requires patient education regarding risk of euglycemic DKA during acute illness/surgery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk. In the clinical approach to Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors Empagliflozin Renoprotection and Euglycemic DKA Risk."
+    ],
+    "references": [
+      {
+        "label": "ADA Standards of Medical Care in Diabetes",
+        "url": "https://diabetesjournals.org/care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7566",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 40-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center with symptomatic deterioration from suspected Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection. Bedside evaluation demonstrates incretin mimetic enhancing glucose-dependent insulin secretion, delaying gastric emptying, promoting satiety and significant weight loss, with proven reduction in major adverse cardiovascular events (MACE). Clinical observations demonstrate blood pressure 138/86 mm Hg, pulse 76/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Incretin mimetic enhancing glucose-dependent insulin secretion, delaying gastric emptying, promoting satiety and significant weight loss, with proven reduction in major adverse cardiovascular events (mace)",
+        "explanation": "In accordance with accredited clinical practice guidelines, incretin mimetic enhancing glucose-dependent insulin secretion, delaying gastric emptying, promoting satiety and significant weight loss, with proven reduction in major adverse cardiovascular events (MACE) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, incretin mimetic enhancing glucose-dependent insulin secretion, delaying gastric emptying, promoting satiety and significant weight loss, with proven reduction in major adverse cardiovascular events (MACE) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection. In the clinical approach to Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Semaglutide Weight Loss and Cardiorenal Protection."
+    ],
+    "references": [
+      {
+        "label": "ADA Standards of Care in Diabetes",
+        "url": "https://diabetesjournals.org/care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7567",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 89-year-old male presents to the academic primary care continuity and preventive medicine clinic presenting with clinical manifestations indicative of Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose. Physical examination demonstrates long-acting insulin secretagogue accumulation causing protracted, recurrent hypoglycemia lasting 24-48 hours; mandates hospital admission, serial glucose monitoring, IV dextrose, and octreotide if refractory. Clinical observations demonstrate blood pressure 139/87 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Long-acting insulin secretagogue accumulation causing protracted, recurrent hypoglycemia lasting 24-48 hours; mandates hospital admission, serial glucose monitoring, iv dextrose, and octreotide if refractory",
+        "explanation": "In accordance with accredited clinical practice guidelines, long-acting insulin secretagogue accumulation causing protracted, recurrent hypoglycemia lasting 24-48 hours; mandates hospital admission, serial glucose monitoring, IV dextrose, and octreotide if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, long-acting insulin secretagogue accumulation causing protracted, recurrent hypoglycemia lasting 24-48 hours; mandates hospital admission, serial glucose monitoring, IV dextrose, and octreotide if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose. In the clinical approach to Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sulfonylurea-Induced Hypoglycemia Glipizide Elderly Renal Impairment Inpatient Admission and IV Dextrose."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Practice Guidelines on Hypoglycemia",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7568",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 56-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit with decompensation related to Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide. Rapid clinical triage confirms symptoms of hypoglycemia with documented blood glucose < 55 mg/dL relieved by glucose ingestion; supervised 72-hour fast demonstrates elevated insulin (>= 3 uU/mL) and elevated C-peptide (>= 0.6 ng/mL) during hypoglycemia. Clinical observations demonstrate blood pressure 118/72 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Symptoms of hypoglycemia with documented blood glucose < 55 mg/dl relieved by glucose ingestion; supervised 72-hour fast demonstrates elevated insulin (>= 3 uu/ml) and elevated c-peptide (>= 0.6 ng/ml) during hypoglycemia",
+        "explanation": "In accordance with accredited clinical practice guidelines, symptoms of hypoglycemia with documented blood glucose < 55 mg/dL relieved by glucose ingestion; supervised 72-hour fast demonstrates elevated insulin (>= 3 uU/mL) and elevated C-peptide (>= 0.6 ng/mL) during hypoglycemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, symptoms of hypoglycemia with documented blood glucose < 55 mg/dL relieved by glucose ingestion; supervised 72-hour fast demonstrates elevated insulin (>= 3 uU/mL) and elevated C-peptide (>= 0.6 ng/mL) during hypoglycemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide. In the clinical approach to Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Insulinoma Neuroendocrine Pancreatic Tumor Whipple Triad 72-Hour Fasting Test Elevated C-Peptide."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines on Hypoglycemia Evaluation",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7569",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Ser",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation with acute clinical presentation of Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide. Urgent bedside examination and point-of-care diagnostics demonstrate healthcare worker with recurrent documented hypoglycemia; high circulating insulin level paired with low or undetectable serum C-peptide and negative sulfonylurea screen confirms exogenous insulin injection. Clinical observations demonstrate blood pressure 119/73 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Healthcare worker with recurrent documented hypoglycemia; high circulating insulin level paired with low or undetectable serum c-peptide and negative sulfonylurea screen confirms exogenous insulin injection",
+        "explanation": "In accordance with accredited clinical practice guidelines, healthcare worker with recurrent documented hypoglycemia; high circulating insulin level paired with low or undetectable serum C-peptide and negative sulfonylurea screen confirms exogenous insulin injection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, healthcare worker with recurrent documented hypoglycemia; high circulating insulin level paired with low or undetectable serum C-peptide and negative sulfonylurea screen confirms exogenous insulin injection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide. In the clinical approach to Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Factitious Hypoglycemia Exogenous Insulin Administration Low or Suppressed Serum C-Peptide."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Practice Guidelines on Hypoglycemic Disorders",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7570",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old female with acute destabilization attends the continuity family medicine pavilion for targeted follow-up for definitive management of Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5. Initial diagnostic workup identifies asymptomatic primary hyperparathyroidism managed surgically with parathyroidectomy if age < 50, serum calcium >= 1.0 mg/dL above upper limit of normal, T-score < -2.5, or eGFR < 60 mL/min. Clinical observations demonstrate blood pressure 120/74 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Asymptomatic primary hyperparathyroidism managed surgically with parathyroidectomy if age < 50, serum calcium >= 1.0 mg/dl above upper limit of normal, t-score < -2.5, or egfr < 60 ml/min",
+        "explanation": "In accordance with accredited clinical practice guidelines, asymptomatic primary hyperparathyroidism managed surgically with parathyroidectomy if age < 50, serum calcium >= 1.0 mg/dL above upper limit of normal, T-score < -2.5, or eGFR < 60 mL/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, asymptomatic primary hyperparathyroidism managed surgically with parathyroidectomy if age < 50, serum calcium >= 1.0 mg/dL above upper limit of normal, T-score < -2.5, or eGFR < 60 mL/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5. In the clinical approach to Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hyperparathyroidism Surgical Indications Age < 50 Serum Calcium > 1.0 mg/dL Above Normal DEXA T-score < -2.5."
+    ],
+    "references": [
+      {
+        "label": "AACE/AAES Guidelines for Management of Primary Hyperparathyroidism",
+        "url": "https://www.aace.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7571",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 48-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center with symptomatic deterioration from suspected Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG. Bedside evaluation demonstrates autoantibodies against GPIIb/IIIa causing splenic platelet destruction; isolated low platelets with normal coagulation panel treated first-line with oral corticosteroids (prednisone 1 mg/kg) or IVIG. Clinical observations demonstrate blood pressure 121/75 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Autoantibodies against gpiib/iiia causing splenic platelet destruction; isolated low platelets with normal coagulation panel treated first-line with oral corticosteroids (prednisone 1 mg/kg) or ivig",
+        "explanation": "In accordance with accredited clinical practice guidelines, autoantibodies against GPIIb/IIIa causing splenic platelet destruction; isolated low platelets with normal coagulation panel treated first-line with oral corticosteroids (prednisone 1 mg/kg) or IVIG represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, autoantibodies against GPIIb/IIIa causing splenic platelet destruction; isolated low platelets with normal coagulation panel treated first-line with oral corticosteroids (prednisone 1 mg/kg) or IVIG represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG. In the clinical approach to Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Immune Thrombocytopenia (ITP) Isolated Thrombocytopenia Platelets < 30000 with Mucocutaneous Bleeding Oral Prednisone or IVIG."
+    ],
+    "references": [
+      {
+        "label": "ASH Guidelines for Immune Thrombocytopenia",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7572",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old female is examined in the urgent ambulatory specialist clinic presenting with clinical manifestations indicative of Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX). Physical examination demonstrates microangiopathic hemolytic anemia, thrombocytopenia, fever, renal failure, and neurological fluctuations; platelet transfusion is strictly contraindicated; immediate therapeutic plasma exchange is life-saving. Clinical observations demonstrate blood pressure 122/76 mm Hg, pulse 82/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Microangiopathic hemolytic anemia, thrombocytopenia, fever, renal failure, and neurological fluctuations; platelet transfusion is strictly contraindicated; immediate therapeutic plasma exchange is life-saving",
+        "explanation": "In accordance with accredited clinical practice guidelines, microangiopathic hemolytic anemia, thrombocytopenia, fever, renal failure, and neurological fluctuations; platelet transfusion is strictly contraindicated; immediate therapeutic plasma exchange is life-saving represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX).",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, microangiopathic hemolytic anemia, thrombocytopenia, fever, renal failure, and neurological fluctuations; platelet transfusion is strictly contraindicated; immediate therapeutic plasma exchange is life-saving represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX). In the clinical approach to Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thrombotic Thrombocytopenic Purpura (TTP) ADAMTS13 Deficiency Pentad Immediate Plasma Exchange (PLEX)."
+    ],
+    "references": [
+      {
+        "label": "ISTH Guidelines on Thrombotic Thrombocytopenic Purpura",
+        "url": "https://www.isth.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7573",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive F",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 64-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with decompensation related to Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics. Rapid clinical triage confirms bloody diarrhea followed by microangiopathic hemolytic anemia, thrombocytopenia, and acute oliguric renal failure; antibiotics and antimotility agents increase toxin release and are strictly contraindicated. Clinical observations demonstrate blood pressure 123/77 mm Hg, pulse 83/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Bloody diarrhea followed by microangiopathic hemolytic anemia, thrombocytopenia, and acute oliguric renal failure; antibiotics and antimotility agents increase toxin release and are strictly contraindicated",
+        "explanation": "In accordance with accredited clinical practice guidelines, bloody diarrhea followed by microangiopathic hemolytic anemia, thrombocytopenia, and acute oliguric renal failure; antibiotics and antimotility agents increase toxin release and are strictly contraindicated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bloody diarrhea followed by microangiopathic hemolytic anemia, thrombocytopenia, and acute oliguric renal failure; antibiotics and antimotility agents increase toxin release and are strictly contraindicated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics. In the clinical approach to Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hemolytic Uremic Syndrome (HUS) Shiga-Toxin E. coli O157:H7 Triad Supportive Fluid Management Avoiding Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "AAP Guidelines on Hemolytic Uremic Syndrome",
+        "url": "https://pediatrics.aappublications.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7574",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Di",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 40-year-old female presents to the academic primary care continuity and preventive medicine clinic with acute clinical presentation of Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban). Urgent bedside examination and point-of-care diagnostics demonstrate antibodies against platelet factor 4-heparin complex triggering catastrophic arterial and venous thrombosis; all heparin products stopped immediately and anticoagulation transitioned to argatroban, bivalirudin, or fondaparinux. Clinical observations demonstrate blood pressure 124/78 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Antibodies against platelet factor 4-heparin complex triggering catastrophic arterial and venous thrombosis; all heparin products stopped immediately and anticoagulation transitioned to argatroban, bivalirudin, or fondaparinux",
+        "explanation": "In accordance with accredited clinical practice guidelines, antibodies against platelet factor 4-heparin complex triggering catastrophic arterial and venous thrombosis; all heparin products stopped immediately and anticoagulation transitioned to argatroban, bivalirudin, or fondaparinux represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, antibodies against platelet factor 4-heparin complex triggering catastrophic arterial and venous thrombosis; all heparin products stopped immediately and anticoagulation transitioned to argatroban, bivalirudin, or fondaparinux represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban). In the clinical approach to Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heparin-Induced Thrombocytopenia (HIT Type II) Platelet Drop > 50% Day 5-10 Direct Thrombin Inhibitor (Argatroban)."
+    ],
+    "references": [
+      {
+        "label": "ASH Guidelines on Heparin-Induced Thrombocytopenia",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7575",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lup",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 80-year-old female with acute destabilization is evaluated in the specialized ambulatory procedural and diagnostic unit for definitive management of Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin. Initial diagnostic workup identifies vascular thrombosis or recurrent miscarriages with persistent lupus anticoagulant, anticardiolipin, or anti-beta-2-glycoprotein I antibodies; managed with therapeutic anticoagulation with warfarin (INR 2.0-3.0; DOACs inferior). Clinical observations demonstrate blood pressure 125/79 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Vascular thrombosis or recurrent miscarriages with persistent lupus anticoagulant, anticardiolipin, or anti-beta-2-glycoprotein i antibodies; managed with therapeutic anticoagulation with warfarin (inr 2.0-3.0; doacs inferior)",
+        "explanation": "In accordance with accredited clinical practice guidelines, vascular thrombosis or recurrent miscarriages with persistent lupus anticoagulant, anticardiolipin, or anti-beta-2-glycoprotein I antibodies; managed with therapeutic anticoagulation with warfarin (INR 2.0-3.0; DOACs inferior) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, vascular thrombosis or recurrent miscarriages with persistent lupus anticoagulant, anticardiolipin, or anti-beta-2-glycoprotein I antibodies; managed with therapeutic anticoagulation with warfarin (INR 2.0-3.0; DOACs inferior) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin. In the clinical approach to Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Antiphospholipid Syndrome (APS) Recurrent Venous Thrombosis Pregnancy Loss Lupus Anticoagulant Long-Term Warfarin."
+    ],
+    "references": [
+      {
+        "label": "ACR/EULAR Antiphospholipid Syndrome Classification Guidelines",
+        "url": "https://www.rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7576",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocyte",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 56-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation with symptomatic deterioration from suspected Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy. Bedside evaluation demonstrates extravascular hemolytic anemia with elevated MCHC (> 36 g/dL), negative direct Coombs test, and positive eosin-5-maleimide flow cytometry; elective splenectomy cures hemolysis and prevents pigmented gallstones. Clinical observations demonstrate blood pressure 126/80 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Extravascular hemolytic anemia with elevated mchc (> 36 g/dl), negative direct coombs test, and positive eosin-5-maleimide flow cytometry; elective splenectomy cures hemolysis and prevents pigmented gallstones",
+        "explanation": "In accordance with accredited clinical practice guidelines, extravascular hemolytic anemia with elevated MCHC (> 36 g/dL), negative direct Coombs test, and positive eosin-5-maleimide flow cytometry; elective splenectomy cures hemolysis and prevents pigmented gallstones represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, extravascular hemolytic anemia with elevated MCHC (> 36 g/dL), negative direct Coombs test, and positive eosin-5-maleimide flow cytometry; elective splenectomy cures hemolysis and prevents pigmented gallstones represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy. In the clinical approach to Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hereditary Spherocytosis Autosomal Dominant Spectrin/Ankyrin Defect Spherocytes Osmotic Fragility Splenectomy."
+    ],
+    "references": [
+      {
+        "label": "ASH Practice Guidelines for Hemolytic Anemias",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7577",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic H",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the continuity family medicine pavilion for targeted follow-up presenting with clinical manifestations indicative of Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone. Physical examination demonstrates normocytic anemia with spherocytes, elevated reticulocytes, indirect hyperbilirubinemia, and positive direct Coombs test for IgG; treated first-line with high-dose oral prednisone and rituximab if refractory. Clinical observations demonstrate blood pressure 127/81 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Normocytic anemia with spherocytes, elevated reticulocytes, indirect hyperbilirubinemia, and positive direct coombs test for igg; treated first-line with high-dose oral prednisone and rituximab if refractory",
+        "explanation": "In accordance with accredited clinical practice guidelines, normocytic anemia with spherocytes, elevated reticulocytes, indirect hyperbilirubinemia, and positive direct Coombs test for IgG; treated first-line with high-dose oral prednisone and rituximab if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, normocytic anemia with spherocytes, elevated reticulocytes, indirect hyperbilirubinemia, and positive direct Coombs test for IgG; treated first-line with high-dose oral prednisone and rituximab if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone. In the clinical approach to Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Warm Autoimmune Hemolytic Anemia (AIHA) IgG Antibodies Extravascular Splenic Hemolysis Oral Prednisone."
+    ],
+    "references": [
+      {
+        "label": "ASH Guidelines on Autoimmune Hemolytic Anemia",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7578",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular He",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 72-year-old female who presents to the regional emergency receiving and diagnostic resuscitation center with decompensation related to Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab. Rapid clinical triage confirms IgM autoantibodies binding erythrocyte I-antigen at cold temperatures fixing complement; peripheral acrocyanosis upon cold exposure; direct Coombs test positive for C3d; treated by avoiding cold and rituximab (steroids ineffective). Clinical observations demonstrate blood pressure 128/82 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Igm autoantibodies binding erythrocyte i-antigen at cold temperatures fixing complement; peripheral acrocyanosis upon cold exposure; direct coombs test positive for c3d; treated by avoiding cold and rituximab (steroids ineffective)",
+        "explanation": "In accordance with accredited clinical practice guidelines, IgM autoantibodies binding erythrocyte I-antigen at cold temperatures fixing complement; peripheral acrocyanosis upon cold exposure; direct Coombs test positive for C3d; treated by avoiding cold and rituximab (steroids ineffective) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, IgM autoantibodies binding erythrocyte I-antigen at cold temperatures fixing complement; peripheral acrocyanosis upon cold exposure; direct Coombs test positive for C3d; treated by avoiding cold and rituximab (steroids ineffective) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab. In the clinical approach to Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cold Agglutinin Disease IgM Antibodies Post-Mycoplasma or EBV Intravascular Hemolysis Avoid Cold Exposure Rituximab."
+    ],
+    "references": [
+      {
+        "label": "ASH Guidelines for Cold Agglutinin Disease",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7579",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old male is examined in the urgent ambulatory specialist clinic with acute clinical presentation of Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine. Urgent bedside examination and point-of-care diagnostics demonstrate autoimmune T-cell destruction of hematopoietic stem cells presenting with anemia, neutropenic infections, and bleeding; bone marrow aspirate reveals dry tap with fat replacement; treated with antithymocyte globulin and cyclosporine. Clinical observations demonstrate blood pressure 129/83 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Autoimmune t-cell destruction of hematopoietic stem cells presenting with anemia, neutropenic infections, and bleeding; bone marrow aspirate reveals dry tap with fat replacement; treated with antithymocyte globulin and cyclosporine",
+        "explanation": "In accordance with accredited clinical practice guidelines, autoimmune T-cell destruction of hematopoietic stem cells presenting with anemia, neutropenic infections, and bleeding; bone marrow aspirate reveals dry tap with fat replacement; treated with antithymocyte globulin and cyclosporine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, autoimmune T-cell destruction of hematopoietic stem cells presenting with anemia, neutropenic infections, and bleeding; bone marrow aspirate reveals dry tap with fat replacement; treated with antithymocyte globulin and cyclosporine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine. In the clinical approach to Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aplastic Anemia Pancytopenia Hypocellular Bone Marrow Biopsy Immunosuppressive Therapy with ATG and Cyclosporine."
+    ],
+    "references": [
+      {
+        "label": "EBMT Guidelines for Severe Aplastic Anemia",
+        "url": "https://www.ebmt.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7580",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Throm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old female with acute destabilization is referred for subspecialty assessment in the tertiary ambulatory care center for definitive management of Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab. Initial diagnostic workup identifies dark morning urine, atypical abdominal venous thrombosis (Budd-Chiari syndrome), and pancytopenia; flow cytometry demonstrates loss of GPI-anchored CD55/CD59; treated with terminal complement C5 inhibitor eculizumab. Clinical observations demonstrate blood pressure 130/84 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Dark morning urine, atypical abdominal venous thrombosis (budd-chiari syndrome), and pancytopenia; flow cytometry demonstrates loss of gpi-anchored cd55/cd59; treated with terminal complement c5 inhibitor eculizumab",
+        "explanation": "In accordance with accredited clinical practice guidelines, dark morning urine, atypical abdominal venous thrombosis (Budd-Chiari syndrome), and pancytopenia; flow cytometry demonstrates loss of GPI-anchored CD55/CD59; treated with terminal complement C5 inhibitor eculizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, dark morning urine, atypical abdominal venous thrombosis (Budd-Chiari syndrome), and pancytopenia; flow cytometry demonstrates loss of GPI-anchored CD55/CD59; treated with terminal complement C5 inhibitor eculizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab. In the clinical approach to Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Paroxysmal Nocturnal Hemoglobinuria (PNH) Intravascular Hemolysis Venous Thrombosis Flow Cytometry CD55/CD59 Eculizumab."
+    ],
+    "references": [
+      {
+        "label": "ASH Practice Guidelines for PNH",
+        "url": "https://www.hematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7581",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phleboto",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 64-year-old male who presents to the academic primary care continuity and preventive medicine clinic with symptomatic deterioration from suspected Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin. Bedside evaluation demonstrates aquagenic pruritus, facial plethora, splenomegaly, and low serum erythropoietin; managed with serial therapeutic phlebotomy targeting hematocrit < 45% plus daily low-dose aspirin and hydroxyurea for high risk. Clinical observations demonstrate blood pressure 131/85 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Aquagenic pruritus, facial plethora, splenomegaly, and low serum erythropoietin; managed with serial therapeutic phlebotomy targeting hematocrit < 45% plus daily low-dose aspirin and hydroxyurea for high risk",
+        "explanation": "In accordance with accredited clinical practice guidelines, aquagenic pruritus, facial plethora, splenomegaly, and low serum erythropoietin; managed with serial therapeutic phlebotomy targeting hematocrit < 45% plus daily low-dose aspirin and hydroxyurea for high risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, aquagenic pruritus, facial plethora, splenomegaly, and low serum erythropoietin; managed with serial therapeutic phlebotomy targeting hematocrit < 45% plus daily low-dose aspirin and hydroxyurea for high risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin. In the clinical approach to Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycythemia Vera Elevated Hematocrit JAK2 V617F Mutation Therapeutic Phlebotomy and Low-Dose Aspirin."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Myeloproliferative Neoplasms",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7582",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with clinical manifestations indicative of Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk. Physical examination demonstrates unexplained marked thrombocytosis with megakaryocyte hyperplasia in bone marrow; high-risk patients (age > 60 or history of thrombosis) treated with cytoreductive therapy (hydroxyurea) plus low-dose aspirin. Clinical observations demonstrate blood pressure 132/86 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Unexplained marked thrombocytosis with megakaryocyte hyperplasia in bone marrow; high-risk patients (age > 60 or history of thrombosis) treated with cytoreductive therapy (hydroxyurea) plus low-dose aspirin",
+        "explanation": "In accordance with accredited clinical practice guidelines, unexplained marked thrombocytosis with megakaryocyte hyperplasia in bone marrow; high-risk patients (age > 60 or history of thrombosis) treated with cytoreductive therapy (hydroxyurea) plus low-dose aspirin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, unexplained marked thrombocytosis with megakaryocyte hyperplasia in bone marrow; high-risk patients (age > 60 or history of thrombosis) treated with cytoreductive therapy (hydroxyurea) plus low-dose aspirin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk. In the clinical approach to Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Essential Thrombocythemia Platelets > 450000 JAK2 or CALR Mutation Hydroxyurea for High Thrombotic Risk."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines for Essential Thrombocythemia",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7583",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 80-year-old male who attends the comprehensive regional ambulatory healthcare center for evaluation with decompensation related to Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib. Rapid clinical triage confirms clonal megakaryocyte release of PDGF and TGF-beta driving progressive bone marrow reticulin fibrosis and extramedullary hematopoiesis; managed with JAK1/JAK2 inhibitor ruxolitinib to shrink splenomegaly and alleviate B-symptoms. Clinical observations demonstrate blood pressure 133/87 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Clonal megakaryocyte release of pdgf and tgf-beta driving progressive bone marrow reticulin fibrosis and extramedullary hematopoiesis; managed with jak1/jak2 inhibitor ruxolitinib to shrink splenomegaly and alleviate b-symptoms",
+        "explanation": "In accordance with accredited clinical practice guidelines, clonal megakaryocyte release of PDGF and TGF-beta driving progressive bone marrow reticulin fibrosis and extramedullary hematopoiesis; managed with JAK1/JAK2 inhibitor ruxolitinib to shrink splenomegaly and alleviate B-symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, clonal megakaryocyte release of PDGF and TGF-beta driving progressive bone marrow reticulin fibrosis and extramedullary hematopoiesis; managed with JAK1/JAK2 inhibitor ruxolitinib to shrink splenomegaly and alleviate B-symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib. In the clinical approach to Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Myelofibrosis Massive Splenomegaly Teardrop Erythrocytes (Dacrocytes) JAK2 Mutation JAK Inhibitor Ruxolitinib."
+    ],
+    "references": [
+      {
+        "label": "NCCN Practice Guidelines in Oncology: Myelofibrosis",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7584",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed N",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 84-year-old female attends the continuity family medicine pavilion for targeted follow-up with acute clinical presentation of Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts. Urgent bedside examination and point-of-care diagnostics demonstrate ineffective hematopoiesis in older adult with cytopenias and dysplastic bone marrow precursors; 5q- syndrome treated specifically with lenalidomide; high-risk MDS treated with hypomethylating agents (azacitidine). Clinical observations demonstrate blood pressure 134/72 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Ineffective hematopoiesis in older adult with cytopenias and dysplastic bone marrow precursors; 5q- syndrome treated specifically with lenalidomide; high-risk mds treated with hypomethylating agents (azacitidine)",
+        "explanation": "In accordance with accredited clinical practice guidelines, ineffective hematopoiesis in older adult with cytopenias and dysplastic bone marrow precursors; 5q- syndrome treated specifically with lenalidomide; high-risk MDS treated with hypomethylating agents (azacitidine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, ineffective hematopoiesis in older adult with cytopenias and dysplastic bone marrow precursors; 5q- syndrome treated specifically with lenalidomide; high-risk MDS treated with hypomethylating agents (azacitidine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts. In the clinical approach to Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myelodysplastic Syndrome (MDS) Elderly Macrocytic Anemia Pelger-Huet Bilobed Neutrophils Ring Sideroblasts."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Myelodysplastic Syndromes",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7585",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosom",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old male with acute destabilization presents to the regional emergency receiving and diagnostic resuscitation center for definitive management of Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib). Initial diagnostic workup identifies marked leukocytosis with full spectrum of myeloid precursors (myelocytes, metamyelocytes, basophilia) and low leukocyte alkaline phosphatase (LAP); oral BCR-ABL tyrosine kinase inhibitors (imatinib, dasatinib) produce deep molecular remissions. Clinical observations demonstrate blood pressure 135/73 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Marked leukocytosis with full spectrum of myeloid precursors (myelocytes, metamyelocytes, basophilia) and low leukocyte alkaline phosphatase (lap); oral bcr-abl tyrosine kinase inhibitors (imatinib, dasatinib) produce deep molecular remissions",
+        "explanation": "In accordance with accredited clinical practice guidelines, marked leukocytosis with full spectrum of myeloid precursors (myelocytes, metamyelocytes, basophilia) and low leukocyte alkaline phosphatase (LAP); oral BCR-ABL tyrosine kinase inhibitors (imatinib, dasatinib) produce deep molecular remissions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib).",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, marked leukocytosis with full spectrum of myeloid precursors (myelocytes, metamyelocytes, basophilia) and low leukocyte alkaline phosphatase (LAP); oral BCR-ABL tyrosine kinase inhibitors (imatinib, dasatinib) produce deep molecular remissions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib). In the clinical approach to Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Myeloid Leukemia (CML) t(9;22) BCR-ABL1 Fusion (Philadelphia Chromosome) First-Line Tyrosine Kinase Inhibitor (Imatinib)."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: CML",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7586",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immedi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 72-year-old female who is examined in the urgent ambulatory specialist clinic with symptomatic deterioration from suspected Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA). Bedside evaluation demonstrates medical emergency presenting with severe DIC from release of procoagulant granules; initiation of oral all-trans retinoic acid (ATRA) and arsenic trioxide must not be delayed for genetic confirmation. Clinical observations demonstrate blood pressure 136/74 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Medical emergency presenting with severe dic from release of procoagulant granules; initiation of oral all-trans retinoic acid (atra) and arsenic trioxide must not be delayed for genetic confirmation",
+        "explanation": "In accordance with accredited clinical practice guidelines, medical emergency presenting with severe DIC from release of procoagulant granules; initiation of oral all-trans retinoic acid (ATRA) and arsenic trioxide must not be delayed for genetic confirmation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, medical emergency presenting with severe DIC from release of procoagulant granules; initiation of oral all-trans retinoic acid (ATRA) and arsenic trioxide must not be delayed for genetic confirmation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA). In the clinical approach to Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Promyelocytic Leukemia (APL / AML M3) t(15;17) PML-RARA Auer Rods Immediate All-Trans Retinoic Acid (ATRA)."
+    ],
+    "references": [
+      {
+        "label": "NCCN Practice Guidelines for Acute Myeloid Leukemia",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7587",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cyto",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center presenting with clinical manifestations indicative of Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation. Physical examination demonstrates most common adult leukemia; asymptomatic Rai stage 0-I managed conservatively with watchful waiting; symptomatic progressive disease treated with targeted BTK inhibitors (ibrutinib, acalabrutinib) or BCL-2 inhibitors (venetoclax). Clinical observations demonstrate blood pressure 137/75 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Most common adult leukemia; asymptomatic rai stage 0-i managed conservatively with watchful waiting; symptomatic progressive disease treated with targeted btk inhibitors (ibrutinib, acalabrutinib) or bcl-2 inhibitors (venetoclax)",
+        "explanation": "In accordance with accredited clinical practice guidelines, most common adult leukemia; asymptomatic Rai stage 0-I managed conservatively with watchful waiting; symptomatic progressive disease treated with targeted BTK inhibitors (ibrutinib, acalabrutinib) or BCL-2 inhibitors (venetoclax) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, most common adult leukemia; asymptomatic Rai stage 0-I managed conservatively with watchful waiting; symptomatic progressive disease treated with targeted BTK inhibitors (ibrutinib, acalabrutinib) or BCL-2 inhibitors (venetoclax) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation. In the clinical approach to Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Lymphocytic Leukemia (CLL) Smudge Cells Mature Lymphocytosis Flow Cytometry CD5+ CD19+ CD23+ Asymptomatic Observation."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Chronic Lymphocytic Leukemia",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7588",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Lo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 24-year-old female who presents to the academic primary care continuity and preventive medicine clinic with decompensation related to Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation. Rapid clinical triage confirms painless rubbery supradiaphragmatic lymphadenopathy, alcohol-induced nodal pain, and mediastinal mass; histology reveals binucleated CD15+/CD30+ Reed-Sternberg cells with prominent nucleoli; treated with ABVD and PET-adapted therapy. Clinical observations demonstrate blood pressure 138/76 mm Hg, pulse 70/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Painless rubbery supradiaphragmatic lymphadenopathy, alcohol-induced nodal pain, and mediastinal mass; histology reveals binucleated cd15+/cd30+ reed-sternberg cells with prominent nucleoli; treated with abvd and pet-adapted therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, painless rubbery supradiaphragmatic lymphadenopathy, alcohol-induced nodal pain, and mediastinal mass; histology reveals binucleated CD15+/CD30+ Reed-Sternberg cells with prominent nucleoli; treated with ABVD and PET-adapted therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, painless rubbery supradiaphragmatic lymphadenopathy, alcohol-induced nodal pain, and mediastinal mass; histology reveals binucleated CD15+/CD30+ Reed-Sternberg cells with prominent nucleoli; treated with ABVD and PET-adapted therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation. In the clinical approach to Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hodgkin Lymphoma Reed-Sternberg Cells B-Symptoms (Fever Night Sweats Weight Loss) ABVD Chemotherapy and Radiation."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Hodgkin Lymphoma",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7589",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit with acute clinical presentation of Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP). Urgent bedside examination and point-of-care diagnostics demonstrate lytic punched-out bone lesions, monoclonal IgG/IgA paraprotein spike on SPEP, and clonal bone marrow plasma cells >= 10%; triplet induction therapy (bortezomib, lenalidomide, dexamethasone) followed by autologous stem cell transplant. Clinical observations demonstrate blood pressure 139/77 mm Hg, pulse 71/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Lytic punched-out bone lesions, monoclonal igg/iga paraprotein spike on spep, and clonal bone marrow plasma cells >= 10%; triplet induction therapy (bortezomib, lenalidomide, dexamethasone) followed by autologous stem cell transplant",
+        "explanation": "In accordance with accredited clinical practice guidelines, lytic punched-out bone lesions, monoclonal IgG/IgA paraprotein spike on SPEP, and clonal bone marrow plasma cells >= 10%; triplet induction therapy (bortezomib, lenalidomide, dexamethasone) followed by autologous stem cell transplant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP).",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, lytic punched-out bone lesions, monoclonal IgG/IgA paraprotein spike on SPEP, and clonal bone marrow plasma cells >= 10%; triplet induction therapy (bortezomib, lenalidomide, dexamethasone) followed by autologous stem cell transplant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP). In the clinical approach to Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Myeloma CRAB Criteria (Hypercalcemia Renal Failure Anemia Bone Pain) Serum Protein Electrophoresis (SPEP)."
+    ],
+    "references": [
+      {
+        "label": "NCCN Clinical Practice Guidelines in Oncology: Multiple Myeloma",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7590",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 40-year-old female with acute destabilization attends the comprehensive regional ambulatory healthcare center for evaluation for definitive management of Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis. Initial diagnostic workup identifies lymphoplasmacytic lymphoma producing large pentameric IgM paraprotein; serum hyperviscosity causing mucosal bleeding, visual changes, and sausage-link retinal veins treated immediately with therapeutic plasmapheresis. Clinical observations demonstrate blood pressure 118/78 mm Hg, pulse 72/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Lymphoplasmacytic lymphoma producing large pentameric igm paraprotein; serum hyperviscosity causing mucosal bleeding, visual changes, and sausage-link retinal veins treated immediately with therapeutic plasmapheresis",
+        "explanation": "In accordance with accredited clinical practice guidelines, lymphoplasmacytic lymphoma producing large pentameric IgM paraprotein; serum hyperviscosity causing mucosal bleeding, visual changes, and sausage-link retinal veins treated immediately with therapeutic plasmapheresis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, lymphoplasmacytic lymphoma producing large pentameric IgM paraprotein; serum hyperviscosity causing mucosal bleeding, visual changes, and sausage-link retinal veins treated immediately with therapeutic plasmapheresis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis. In the clinical approach to Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Waldenstrom Macroglobulinemia Monoclonal IgM Hyperviscosity Syndrome (Headache Blurring Epistaxis) Emergent Plasmapheresis."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Waldenstrom Macroglobulinemia",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7591",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 80-year-old male who attends the continuity family medicine pavilion for targeted follow-up with symptomatic deterioration from suspected Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance. Bedside evaluation demonstrates incidental serum paraprotein spike in elderly adult without CRAB end-organ damage; risk of progression to multiple myeloma approx 1% per year; managed with annual SPEP, CBC, calcium, and creatinine surveillance. Clinical observations demonstrate blood pressure 119/79 mm Hg, pulse 73/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Incidental serum paraprotein spike in elderly adult without crab end-organ damage; risk of progression to multiple myeloma approx 1% per year; managed with annual spep, cbc, calcium, and creatinine surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines, incidental serum paraprotein spike in elderly adult without CRAB end-organ damage; risk of progression to multiple myeloma approx 1% per year; managed with annual SPEP, CBC, calcium, and creatinine surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, incidental serum paraprotein spike in elderly adult without CRAB end-organ damage; risk of progression to multiple myeloma approx 1% per year; managed with annual SPEP, CBC, calcium, and creatinine surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance. In the clinical approach to Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Monoclonal Gammopathy of Undetermined Significance (MGUS) Asymptomatic M-Spike < 3 g/dL Bone Marrow Plasma Cells < 10% Surveillance."
+    ],
+    "references": [
+      {
+        "label": "IMWG Consensus Guidelines on MGUS",
+        "url": "https://www.myeloma.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7592",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis F",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old female presents to the regional emergency receiving and diagnostic resuscitation center presenting with clinical manifestations indicative of Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately. Physical examination demonstrates clerical misidentification causing preformed anti-A/anti-B IgM binding transfused donor RBCs; immediate cessation of blood infusion, aggressive IV crystalloid resuscitation to preserve renal output, and return unit to blood bank. Clinical observations demonstrate blood pressure 120/80 mm Hg, pulse 74/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Clerical misidentification causing preformed anti-a/anti-b igm binding transfused donor rbcs; immediate cessation of blood infusion, aggressive iv crystalloid resuscitation to preserve renal output, and return unit to blood bank",
+        "explanation": "In accordance with accredited clinical practice guidelines, clerical misidentification causing preformed anti-A/anti-B IgM binding transfused donor RBCs; immediate cessation of blood infusion, aggressive IV crystalloid resuscitation to preserve renal output, and return unit to blood bank represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, clerical misidentification causing preformed anti-A/anti-B IgM binding transfused donor RBCs; immediate cessation of blood infusion, aggressive IV crystalloid resuscitation to preserve renal output, and return unit to blood bank represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately. In the clinical approach to Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Hemolytic Transfusion Reaction ABO Incompatibility Intravascular Lysis Fever Flank Pain Shock Stop Transfusion Immediately."
+    ],
+    "references": [
+      {
+        "label": "AABB Standards for Blood Banks and Transfusion Services",
+        "url": "https://www.aabb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7593",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 32-year-old male who is examined in the urgent ambulatory specialist clinic with decompensation related to Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention. Rapid clinical triage confirms temperature elevation >= 1 C within 1-6 hours of transfusion without hemolysis, caused by accumulated cytokines released by donor white cells during storage; treated with acetaminophen; prevented by prestorage leukoreduction. Clinical observations demonstrate blood pressure 121/81 mm Hg, pulse 75/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Temperature elevation >= 1 c within 1-6 hours of transfusion without hemolysis, caused by accumulated cytokines released by donor white cells during storage; treated with acetaminophen; prevented by prestorage leukoreduction",
+        "explanation": "In accordance with accredited clinical practice guidelines, temperature elevation >= 1 C within 1-6 hours of transfusion without hemolysis, caused by accumulated cytokines released by donor white cells during storage; treated with acetaminophen; prevented by prestorage leukoreduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, temperature elevation >= 1 C within 1-6 hours of transfusion without hemolysis, caused by accumulated cytokines released by donor white cells during storage; treated with acetaminophen; prevented by prestorage leukoreduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention. In the clinical approach to Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Non-Hemolytic Transfusion Reaction Cytokines from Donor Leukocytes Leukoreduction Prevention."
+    ],
+    "references": [
+      {
+        "label": "AABB Guidelines on Transfusion Reactions",
+        "url": "https://www.aabb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7594",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Ca",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center with acute clinical presentation of Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours. Urgent bedside examination and point-of-care diagnostics demonstrate donor antibodies against recipient granulocytes sequestering and activating in pulmonary microvasculature, causing capillary leak, hypoxemia, and bilateral alveolar infiltrates with normal PCWP; managed with supportive mechanical ventilation. Clinical observations demonstrate blood pressure 122/82 mm Hg, pulse 76/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Donor antibodies against recipient granulocytes sequestering and activating in pulmonary microvasculature, causing capillary leak, hypoxemia, and bilateral alveolar infiltrates with normal pcwp; managed with supportive mechanical ventilation",
+        "explanation": "In accordance with accredited clinical practice guidelines, donor antibodies against recipient granulocytes sequestering and activating in pulmonary microvasculature, causing capillary leak, hypoxemia, and bilateral alveolar infiltrates with normal PCWP; managed with supportive mechanical ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, donor antibodies against recipient granulocytes sequestering and activating in pulmonary microvasculature, causing capillary leak, hypoxemia, and bilateral alveolar infiltrates with normal PCWP; managed with supportive mechanical ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours. In the clinical approach to Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transfusion-Related Acute Lung Injury (TRALI) Donor Anti-HLA Antibodies Non-Cardiogenic Pulmonary Edema Within 6 Hours."
+    ],
+    "references": [
+      {
+        "label": "AABB Consensus Conference on TRALI",
+        "url": "https://www.aabb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7595",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old male with acute destabilization presents to the academic primary care continuity and preventive medicine clinic for definitive management of Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide. Initial diagnostic workup identifies rapid transfusion volume overload in elderly or renal/heart failure patient presenting with hypertension, elevated jugular venous pressure, and S3 gallop within 6 hours; treated with oxygen, patient sitting upright, and IV loop diuretics. Clinical observations demonstrate blood pressure 123/83 mm Hg, pulse 77/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Rapid transfusion volume overload in elderly or renal/heart failure patient presenting with hypertension, elevated jugular venous pressure, and s3 gallop within 6 hours; treated with oxygen, patient sitting upright, and iv loop diuretics",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid transfusion volume overload in elderly or renal/heart failure patient presenting with hypertension, elevated jugular venous pressure, and S3 gallop within 6 hours; treated with oxygen, patient sitting upright, and IV loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid transfusion volume overload in elderly or renal/heart failure patient presenting with hypertension, elevated jugular venous pressure, and S3 gallop within 6 hours; treated with oxygen, patient sitting upright, and IV loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide. In the clinical approach to Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transfusion-Associated Circulatory Overload (TACO) Cardiogenic Pulmonary Edema Elevated BNP Intravenous Furosemide."
+    ],
+    "references": [
+      {
+        "label": "AABB Guidelines on TACO",
+        "url": "https://www.aabb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7596",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Tri",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 24-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit with symptomatic deterioration from suspected Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug. Bedside evaluation demonstrates hypersensitivity reaction presenting with sterile pyuria, white blood cell casts, and urine eosinophils 1-2 weeks post-drug exposure; stopping causative medication is primary therapy; oral corticosteroids considered if creatinine fails to improve. Clinical observations demonstrate blood pressure 124/84 mm Hg, pulse 78/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Hypersensitivity reaction presenting with sterile pyuria, white blood cell casts, and urine eosinophils 1-2 weeks post-drug exposure; stopping causative medication is primary therapy; oral corticosteroids considered if creatinine fails to improve",
+        "explanation": "In accordance with accredited clinical practice guidelines, hypersensitivity reaction presenting with sterile pyuria, white blood cell casts, and urine eosinophils 1-2 weeks post-drug exposure; stopping causative medication is primary therapy; oral corticosteroids considered if creatinine fails to improve represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hypersensitivity reaction presenting with sterile pyuria, white blood cell casts, and urine eosinophils 1-2 weeks post-drug exposure; stopping causative medication is primary therapy; oral corticosteroids considered if creatinine fails to improve represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug. In the clinical approach to Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Interstitial Nephritis (AIN) Drug-Induced (PPIs Beta-Lactams NSAIDs) Triad of Rash Fever Eosinophilia Discontinue Offending Drug."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on Acute Kidney Injury",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7597",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low S",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation presenting with clinical manifestations indicative of Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care. Physical examination demonstrates gross hematuria with red blood cell casts 1-3 weeks after Group A strep pharyngitis or 3-6 weeks after impetigo; subepithelial humps on electron microscopy; self-limiting illness managed supportively with sodium restriction and loop diuretics. Clinical observations demonstrate blood pressure 125/85 mm Hg, pulse 79/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Gross hematuria with red blood cell casts 1-3 weeks after group a strep pharyngitis or 3-6 weeks after impetigo; subepithelial humps on electron microscopy; self-limiting illness managed supportively with sodium restriction and loop diuretics",
+        "explanation": "In accordance with accredited clinical practice guidelines, gross hematuria with red blood cell casts 1-3 weeks after Group A strep pharyngitis or 3-6 weeks after impetigo; subepithelial humps on electron microscopy; self-limiting illness managed supportively with sodium restriction and loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, gross hematuria with red blood cell casts 1-3 weeks after Group A strep pharyngitis or 3-6 weeks after impetigo; subepithelial humps on electron microscopy; self-limiting illness managed supportively with sodium restriction and loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care. In the clinical approach to Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Infectious Glomerulonephritis (PSGN) Tea-Colored Urine Facial Edema Low Serum C3 Complement Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Practice Guidelines on Glomerular Diseases",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7598",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Norma",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 40-year-old female who attends the continuity family medicine pavilion for targeted follow-up with decompensation related to IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors. Rapid clinical triage confirms recurrent macroscopic hematuria occurring concurrently with or within 2 days of upper respiratory infection in young adult male; normal serum complement levels; renal biopsy demonstrates mesangial IgA deposition; treated with ACEi/ARBs. Clinical observations demonstrate blood pressure 126/86 mm Hg, pulse 80/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Recurrent macroscopic hematuria occurring concurrently with or within 2 days of upper respiratory infection in young adult male; normal serum complement levels; renal biopsy demonstrates mesangial iga deposition; treated with acei/arbs",
+        "explanation": "In accordance with accredited clinical practice guidelines, recurrent macroscopic hematuria occurring concurrently with or within 2 days of upper respiratory infection in young adult male; normal serum complement levels; renal biopsy demonstrates mesangial IgA deposition; treated with ACEi/ARBs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, recurrent macroscopic hematuria occurring concurrently with or within 2 days of upper respiratory infection in young adult male; normal serum complement levels; renal biopsy demonstrates mesangial IgA deposition; treated with ACEi/ARBs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors. In the clinical approach to IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of IgA Nephropathy (Berger Disease) Episodic Synpharyngitic Gross Hematuria Normal Complement ACE Inhibitors."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on IgA Nephropathy",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7599",
+    "exam": "Step 2 CK",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 80-year-old male presents to the regional emergency receiving and diagnostic resuscitation center with acute clinical presentation of Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria. Urgent bedside examination and point-of-care diagnostics demonstrate hereditary nephritis characterized by progressive microhematuria, proteinuria, high-frequency sensorineural deafness, and anterior lenticonus; renal biopsy shows characteristic longitudinal splitting and lamellation of glomerular basement membrane. Clinical observations demonstrate blood pressure 127/87 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Hereditary nephritis characterized by progressive microhematuria, proteinuria, high-frequency sensorineural deafness, and anterior lenticonus; renal biopsy shows characteristic longitudinal splitting and lamellation of glomerular basement membrane",
+        "explanation": "In accordance with accredited clinical practice guidelines, hereditary nephritis characterized by progressive microhematuria, proteinuria, high-frequency sensorineural deafness, and anterior lenticonus; renal biopsy shows characteristic longitudinal splitting and lamellation of glomerular basement membrane represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hereditary nephritis characterized by progressive microhematuria, proteinuria, high-frequency sensorineural deafness, and anterior lenticonus; renal biopsy shows characteristic longitudinal splitting and lamellation of glomerular basement membrane represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria. In the clinical approach to Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alport Syndrome X-Linked Mutation in Type IV Collagen Alpha-5 Chain Sensorineural Hearing Loss and Glomerular Hematuria."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Clinical Practice Guidelines for Alport Syndrome",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7600",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old female with acute destabilization is examined in the urgent ambulatory specialist clinic for definitive management of Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis. Initial diagnostic workup identifies autoantibodies against alpha-3 chain of type IV collagen causing pulmonary hemoptysis and acute oliguric renal failure; linear IgG deposition on immunofluorescence; treated emergently with plasmapheresis, high-dose steroids, and cyclophosphamide. Clinical observations demonstrate blood pressure 128/72 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Autoantibodies against alpha-3 chain of type iv collagen causing pulmonary hemoptysis and acute oliguric renal failure; linear igg deposition on immunofluorescence; treated emergently with plasmapheresis, high-dose steroids, and cyclophosphamide",
+        "explanation": "In accordance with accredited clinical practice guidelines, autoantibodies against alpha-3 chain of type IV collagen causing pulmonary hemoptysis and acute oliguric renal failure; linear IgG deposition on immunofluorescence; treated emergently with plasmapheresis, high-dose steroids, and cyclophosphamide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, autoantibodies against alpha-3 chain of type IV collagen causing pulmonary hemoptysis and acute oliguric renal failure; linear IgG deposition on immunofluorescence; treated emergently with plasmapheresis, high-dose steroids, and cyclophosphamide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis. In the clinical approach to Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anti-Glomerular Basement Membrane Disease (Goodpasture Syndrome) Alveolar Hemorrhage and Rapidly Progressive Crescentic Glomerulonephritis."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on Glomerulonephritis",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7601",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 32-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with symptomatic deterioration from suspected Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening. Bedside evaluation demonstrates most common cause of primary nephrotic syndrome in Caucasian adults; autoantibodies against M-type phospholipase A2 receptor; rule out secondary causes (hepatitis B/C, NSAIDs, solid organ malignancy); treated with ACEi, statins, and rituximab. Clinical observations demonstrate blood pressure 129/73 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Most common cause of primary nephrotic syndrome in caucasian adults; autoantibodies against m-type phospholipase a2 receptor; rule out secondary causes (hepatitis b/c, nsaids, solid organ malignancy); treated with acei, statins, and rituximab",
+        "explanation": "In accordance with accredited clinical practice guidelines, most common cause of primary nephrotic syndrome in Caucasian adults; autoantibodies against M-type phospholipase A2 receptor; rule out secondary causes (hepatitis B/C, NSAIDs, solid organ malignancy); treated with ACEi, statins, and rituximab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, most common cause of primary nephrotic syndrome in Caucasian adults; autoantibodies against M-type phospholipase A2 receptor; rule out secondary causes (hepatitis B/C, NSAIDs, solid organ malignancy); treated with ACEi, statins, and rituximab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening. In the clinical approach to Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Antibodies Subepithelial Spikes Secondary Etiologies Screening."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Clinical Practice Guideline for Glomerulonephritis",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7602",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Allele",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 72-year-old female presents to the academic primary care continuity and preventive medicine clinic presenting with clinical manifestations indicative of Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use. Physical examination demonstrates most common cause of nephrotic syndrome in African Americans; segmental sclerosis and hyalinosis of glomeruli with diffuse podocyte foot process effacement; treated with oral high-dose prednisone for 16 weeks. Clinical observations demonstrate blood pressure 130/74 mm Hg, pulse 84/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Most common cause of nephrotic syndrome in african americans; segmental sclerosis and hyalinosis of glomeruli with diffuse podocyte foot process effacement; treated with oral high-dose prednisone for 16 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines, most common cause of nephrotic syndrome in African Americans; segmental sclerosis and hyalinosis of glomeruli with diffuse podocyte foot process effacement; treated with oral high-dose prednisone for 16 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, most common cause of nephrotic syndrome in African Americans; segmental sclerosis and hyalinosis of glomeruli with diffuse podocyte foot process effacement; treated with oral high-dose prednisone for 16 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use. In the clinical approach to Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Focal Segmental Glomerulosclerosis (FSGS) Nephrotic Syndrome APOL1 Risk Alleles Association with HIV and Heroin Use."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on Glomerular Disease",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7603",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inh",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 48-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with decompensation related to Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor. Rapid clinical triage confirms early glomerular hyperfiltration followed by nodular glomerulosclerosis (Kimmelstiel-Wilson nodules); progression slowed by strict blood pressure control (< 130/80 mm Hg), RAAS blockade, and SGLT2 inhibitors. Clinical observations demonstrate blood pressure 131/75 mm Hg, pulse 85/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Early glomerular hyperfiltration followed by nodular glomerulosclerosis (kimmelstiel-wilson nodules); progression slowed by strict blood pressure control (< 130/80 mm hg), raas blockade, and sglt2 inhibitors",
+        "explanation": "In accordance with accredited clinical practice guidelines, early glomerular hyperfiltration followed by nodular glomerulosclerosis (Kimmelstiel-Wilson nodules); progression slowed by strict blood pressure control (< 130/80 mm Hg), RAAS blockade, and SGLT2 inhibitors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, early glomerular hyperfiltration followed by nodular glomerulosclerosis (Kimmelstiel-Wilson nodules); progression slowed by strict blood pressure control (< 130/80 mm Hg), RAAS blockade, and SGLT2 inhibitors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor. In the clinical approach to Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Kidney Disease Persistent Microalbuminuria (UACR 30-300 mg/g) ACE Inhibitor or ARB Titration and SGLT2 Inhibitor."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Diabetes Management in Chronic Kidney Disease",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7604",
+    "exam": "Step 2 CK",
+    "subject": "Genetics",
+    "system": "Renal",
+    "topic": "Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intrac",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation with acute clinical presentation of Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening. Urgent bedside examination and point-of-care diagnostics demonstrate bilateral progressive renal enlargement with multiple parenchymal cysts; complications include recurrent hematuria, hepatic cysts, and berry aneurysms of circle of Willis; screening MRA indicated for high-risk family history of aneurysm rupture. Clinical observations demonstrate blood pressure 132/76 mm Hg, pulse 86/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral progressive renal enlargement with multiple parenchymal cysts; complications include recurrent hematuria, hepatic cysts, and berry aneurysms of circle of willis; screening mra indicated for high-risk family history of aneurysm rupture",
+        "explanation": "In accordance with accredited clinical practice guidelines, bilateral progressive renal enlargement with multiple parenchymal cysts; complications include recurrent hematuria, hepatic cysts, and berry aneurysms of circle of Willis; screening MRA indicated for high-risk family history of aneurysm rupture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bilateral progressive renal enlargement with multiple parenchymal cysts; complications include recurrent hematuria, hepatic cysts, and berry aneurysms of circle of Willis; screening MRA indicated for high-risk family history of aneurysm rupture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening. In the clinical approach to Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Kidney Disease (ADPKD) PKD1 Mutation Flank Pain Hypertension Intracranial Berry Aneurysms Screening."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on Autosomal Dominant Polycystic Kidney Disease",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7605",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Heli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old male with acute destabilization attends the continuity family medicine pavilion for targeted follow-up for definitive management of Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis. Initial diagnostic workup identifies sudden excruciating flank pain with microscopic hematuria; low-dose non-contrast CT is gold standard imaging (renal ultrasound preferred in pregnancy); stones < 5 mm managed with oral hydration, alpha-1 blockers (tamsulosin), and analgesia. Clinical observations demonstrate blood pressure 133/77 mm Hg, pulse 87/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Sudden excruciating flank pain with microscopic hematuria; low-dose non-contrast ct is gold standard imaging (renal ultrasound preferred in pregnancy); stones < 5 mm managed with oral hydration, alpha-1 blockers (tamsulosin), and analgesia",
+        "explanation": "In accordance with accredited clinical practice guidelines, sudden excruciating flank pain with microscopic hematuria; low-dose non-contrast CT is gold standard imaging (renal ultrasound preferred in pregnancy); stones < 5 mm managed with oral hydration, alpha-1 blockers (tamsulosin), and analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sudden excruciating flank pain with microscopic hematuria; low-dose non-contrast CT is gold standard imaging (renal ultrasound preferred in pregnancy); stones < 5 mm managed with oral hydration, alpha-1 blockers (tamsulosin), and analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis. In the clinical approach to Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrolithiasis Ureteral Colic Flank Pain Radiating to Groin Non-Contrast Helical CT Abdomen and Pelvis."
+    ],
+    "references": [
+      {
+        "label": "AUA Guidelines on Surgical Management of Stones",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7606",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 40-year-old female who presents to the regional emergency receiving and diagnostic resuscitation center with symptomatic deterioration from suspected Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet. Bedside evaluation demonstrates idiopathic hypercalciuria with normal serum calcium; paradoxical recommendation is normal dietary calcium (binds dietary oxalate in gut) combined with low sodium, low animal protein, and thiazide diuretics to reduce urinary calcium. Clinical observations demonstrate blood pressure 134/78 mm Hg, pulse 88/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Idiopathic hypercalciuria with normal serum calcium; paradoxical recommendation is normal dietary calcium (binds dietary oxalate in gut) combined with low sodium, low animal protein, and thiazide diuretics to reduce urinary calcium",
+        "explanation": "In accordance with accredited clinical practice guidelines, idiopathic hypercalciuria with normal serum calcium; paradoxical recommendation is normal dietary calcium (binds dietary oxalate in gut) combined with low sodium, low animal protein, and thiazide diuretics to reduce urinary calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, idiopathic hypercalciuria with normal serum calcium; paradoxical recommendation is normal dietary calcium (binds dietary oxalate in gut) combined with low sodium, low animal protein, and thiazide diuretics to reduce urinary calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet. In the clinical approach to Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Calcium Oxalate Nephrolithiasis Most Common Stone Radiopaque Envelope-Shaped Increased Fluid and Low-Sodium Diet."
+    ],
+    "references": [
+      {
+        "label": "AUA Medical Management of Kidney Stones Guidelines",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7607",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 80-year-old male is examined in the urgent ambulatory specialist clinic presenting with clinical manifestations indicative of Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate. Physical examination demonstrates forms in persistently acidic urine (urine pH < 5.5); stones visible on CT but invisible on plain radiographs; highly soluble at neutral pH; primary medical therapy is oral potassium citrate to raise urine pH >= 6.5. Clinical observations demonstrate blood pressure 135/79 mm Hg, pulse 89/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Forms in persistently acidic urine (urine ph < 5.5); stones visible on ct but invisible on plain radiographs; highly soluble at neutral ph; primary medical therapy is oral potassium citrate to raise urine ph >= 6.5",
+        "explanation": "In accordance with accredited clinical practice guidelines, forms in persistently acidic urine (urine pH < 5.5); stones visible on CT but invisible on plain radiographs; highly soluble at neutral pH; primary medical therapy is oral potassium citrate to raise urine pH >= 6.5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, forms in persistently acidic urine (urine pH < 5.5); stones visible on CT but invisible on plain radiographs; highly soluble at neutral pH; primary medical therapy is oral potassium citrate to raise urine pH >= 6.5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate. In the clinical approach to Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uric Acid Nephrolithiasis Radiolucent Stones on Plain X-Ray Rhomboid Crystals Urinary Alkalinization with Potassium Citrate."
+    ],
+    "references": [
+      {
+        "label": "AUA Guidelines on Kidney Stones",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7608",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 56-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center with decompensation related to Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy. Rapid clinical triage confirms urease-producing organisms (Proteus mirabilis, Klebsiella) split urea into ammonia, alkalinizing urine (pH > 7.0) to form branched staghorn calculi filling renal pelvis; requires complete surgical stone removal via percutaneous nephrolithotomy. Clinical observations demonstrate blood pressure 136/80 mm Hg, pulse 90/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Urease-producing organisms (proteus mirabilis, klebsiella) split urea into ammonia, alkalinizing urine (ph > 7.0) to form branched staghorn calculi filling renal pelvis; requires complete surgical stone removal via percutaneous nephrolithotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines, urease-producing organisms (Proteus mirabilis, Klebsiella) split urea into ammonia, alkalinizing urine (pH > 7.0) to form branched staghorn calculi filling renal pelvis; requires complete surgical stone removal via percutaneous nephrolithotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, urease-producing organisms (Proteus mirabilis, Klebsiella) split urea into ammonia, alkalinizing urine (pH > 7.0) to form branched staghorn calculi filling renal pelvis; requires complete surgical stone removal via percutaneous nephrolithotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy. In the clinical approach to Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Struvite (Infection) Calculi Magnesium Ammonium Phosphate Proteus Urease Coffin-Lid Crystals Percutaneous Nephrolithotomy."
+    ],
+    "references": [
+      {
+        "label": "AUA Guidelines on Staghorn Calculi",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7609",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 32-year-old male presents to the academic primary care continuity and preventive medicine clinic with acute clinical presentation of Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization. Urgent bedside examination and point-of-care diagnostics demonstrate autosomal recessive defect in dibasic amino acid transporter (COLA); diagnostic purple color on urinary sodium cyanide-nitroprusside test; managed with aggressive fluid intake (> 3 L/day), urine alkalinization, and tiopronin if refractory. Clinical observations demonstrate blood pressure 137/81 mm Hg, pulse 91/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Autosomal recessive defect in dibasic amino acid transporter (cola); diagnostic purple color on urinary sodium cyanide-nitroprusside test; managed with aggressive fluid intake (> 3 l/day), urine alkalinization, and tiopronin if refractory",
+        "explanation": "In accordance with accredited clinical practice guidelines, autosomal recessive defect in dibasic amino acid transporter (COLA); diagnostic purple color on urinary sodium cyanide-nitroprusside test; managed with aggressive fluid intake (> 3 L/day), urine alkalinization, and tiopronin if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, autosomal recessive defect in dibasic amino acid transporter (COLA); diagnostic purple color on urinary sodium cyanide-nitroprusside test; managed with aggressive fluid intake (> 3 L/day), urine alkalinization, and tiopronin if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization. In the clinical approach to Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cystine Nephrolithiasis Hexagonal Crystals Sodium Nitroprusside Test Hydration and Potassium Citrate Alkalinization."
+    ],
+    "references": [
+      {
+        "label": "AUA Guidelines on Cystinuria",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7610",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emerg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old female with acute destabilization is evaluated in the specialized ambulatory procedural and diagnostic unit for definitive management of Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent. Initial diagnostic workup identifies ureteral calculus combined with fever, hydronephrosis, and systemic infection is a surgical emergency; immediate decompression via retrograde ureteral double-J stent or percutaneous nephrostomy tube mandatory before stone manipulation. Clinical observations demonstrate blood pressure 138/82 mm Hg, pulse 92/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Ureteral calculus combined with fever, hydronephrosis, and systemic infection is a surgical emergency; immediate decompression via retrograde ureteral double-j stent or percutaneous nephrostomy tube mandatory before stone manipulation",
+        "explanation": "In accordance with accredited clinical practice guidelines, ureteral calculus combined with fever, hydronephrosis, and systemic infection is a surgical emergency; immediate decompression via retrograde ureteral double-J stent or percutaneous nephrostomy tube mandatory before stone manipulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, ureteral calculus combined with fever, hydronephrosis, and systemic infection is a surgical emergency; immediate decompression via retrograde ureteral double-J stent or percutaneous nephrostomy tube mandatory before stone manipulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent. In the clinical approach to Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructive Uropathy Infected Hydronephrosis Nephrolithiasis with Sepsis Emergent Percutaneous Nephrostomy or Double-J Stent."
+    ],
+    "references": [
+      {
+        "label": "AUA Guidelines on Obstructive Pyelonephritis",
+        "url": "https://www.auanet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7611",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Co",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 48-year-old male who attends the comprehensive regional ambulatory healthcare center for evaluation with symptomatic deterioration from suspected Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy. Bedside evaluation demonstrates most common renal malignancy arising from proximal convoluted tubular epithelium; loss of VHL gene on chromosome 3p; percutaneous biopsy contraindicated due to seeding and bleeding; surgical resection is definitive cure for localized disease. Clinical observations demonstrate blood pressure 139/83 mm Hg, pulse 93/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Most common renal malignancy arising from proximal convoluted tubular epithelium; loss of vhl gene on chromosome 3p; percutaneous biopsy contraindicated due to seeding and bleeding; surgical resection is definitive cure for localized disease",
+        "explanation": "In accordance with accredited clinical practice guidelines, most common renal malignancy arising from proximal convoluted tubular epithelium; loss of VHL gene on chromosome 3p; percutaneous biopsy contraindicated due to seeding and bleeding; surgical resection is definitive cure for localized disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, most common renal malignancy arising from proximal convoluted tubular epithelium; loss of VHL gene on chromosome 3p; percutaneous biopsy contraindicated due to seeding and bleeding; surgical resection is definitive cure for localized disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy. In the clinical approach to Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renal Cell Carcinoma Clear Cell Triad of Flank Pain Palpable Mass Hematuria Contrast CT and Partial/Radical Nephrectomy."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines on Kidney Cancer",
+        "url": "https://www.nccn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7612",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hyp",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old female attends the continuity family medicine pavilion for targeted follow-up presenting with clinical manifestations indicative of Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure. Physical examination demonstrates sudden severe hypertension in patient > 55 or refractory to 3+ antihypertensive agents; abdominal bruit present; initiation of ACE inhibitor causes acute drop in GFR > 30% in bilateral stenosis; evaluated with renal duplex ultrasound. Clinical observations demonstrate blood pressure 118/84 mm Hg, pulse 94/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Sudden severe hypertension in patient > 55 or refractory to 3+ antihypertensive agents; abdominal bruit present; initiation of ace inhibitor causes acute drop in gfr > 30% in bilateral stenosis; evaluated with renal duplex ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines, sudden severe hypertension in patient > 55 or refractory to 3+ antihypertensive agents; abdominal bruit present; initiation of ACE inhibitor causes acute drop in GFR > 30% in bilateral stenosis; evaluated with renal duplex ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sudden severe hypertension in patient > 55 or refractory to 3+ antihypertensive agents; abdominal bruit present; initiation of ACE inhibitor causes acute drop in GFR > 30% in bilateral stenosis; evaluated with renal duplex ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure. In the clinical approach to Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renovascular Hypertension Atherosclerotic Renal Artery Stenosis Refractory Hypertension ACEi-Induced Acute Renal Failure."
+    ],
+    "references": [
+      {
+        "label": "ACC/AHA Guidelines on Renal Artery Stenosis",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7613",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 64-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center with decompensation related to Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty. Rapid clinical triage confirms young female with severe hypertension and carotid bruits; contrast-enhanced CT angiography demonstrates alternating stenoses and aneurysms in distal renal and internal carotid arteries; treated first-line with percutaneous balloon angioplasty without stenting. Clinical observations demonstrate blood pressure 119/85 mm Hg, pulse 95/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Young female with severe hypertension and carotid bruits; contrast-enhanced ct angiography demonstrates alternating stenoses and aneurysms in distal renal and internal carotid arteries; treated first-line with percutaneous balloon angioplasty without stenting",
+        "explanation": "In accordance with accredited clinical practice guidelines, young female with severe hypertension and carotid bruits; contrast-enhanced CT angiography demonstrates alternating stenoses and aneurysms in distal renal and internal carotid arteries; treated first-line with percutaneous balloon angioplasty without stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, young female with severe hypertension and carotid bruits; contrast-enhanced CT angiography demonstrates alternating stenoses and aneurysms in distal renal and internal carotid arteries; treated first-line with percutaneous balloon angioplasty without stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty. In the clinical approach to Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fibromuscular Dysplasia Non-Atherosclerotic Medial Fibroplasia String-of-Beads Sign on CTA Catheter Angioplasty."
+    ],
+    "references": [
+      {
+        "label": "AHA Scientific Statement on Fibromuscular Dysplasia",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7614",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 40-year-old female is examined in the urgent ambulatory specialist clinic with acute clinical presentation of Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid. Urgent bedside examination and point-of-care diagnostics demonstrate toxic medullary vasoconstriction and acute tubular necrosis developing 24-48 hours post-intravascular iodinated contrast; best preventive strategy in chronic kidney disease is pre- and post-procedure intravenous isotonic saline hydration. Clinical observations demonstrate blood pressure 120/86 mm Hg, pulse 96/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Toxic medullary vasoconstriction and acute tubular necrosis developing 24-48 hours post-intravascular iodinated contrast; best preventive strategy in chronic kidney disease is pre- and post-procedure intravenous isotonic saline hydration",
+        "explanation": "In accordance with accredited clinical practice guidelines, toxic medullary vasoconstriction and acute tubular necrosis developing 24-48 hours post-intravascular iodinated contrast; best preventive strategy in chronic kidney disease is pre- and post-procedure intravenous isotonic saline hydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, toxic medullary vasoconstriction and acute tubular necrosis developing 24-48 hours post-intravascular iodinated contrast; best preventive strategy in chronic kidney disease is pre- and post-procedure intravenous isotonic saline hydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid. In the clinical approach to Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contrast-Induced Nephropathy Acute Drop in Renal Function Post-CT Angiography Pre-Hydration with Isotonic Crystalloid."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Guidelines on Acute Kidney Injury: Contrast-Induced AKI",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7615",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Micro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 80-year-old male with acute destabilization is referred for subspecialty assessment in the tertiary ambulatory care center for definitive management of Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration. Initial diagnostic workup identifies massive release of myoglobin into circulation causing pigment-induced tubular injury; urine dipstick detects heme in myoglobin causing false-positive blood; resuscitated with IV isotonic crystalloids targeting urine output 200-300 mL/h. Clinical observations demonstrate blood pressure 121/87 mm Hg, pulse 97/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Massive release of myoglobin into circulation causing pigment-induced tubular injury; urine dipstick detects heme in myoglobin causing false-positive blood; resuscitated with iv isotonic crystalloids targeting urine output 200-300 ml/h",
+        "explanation": "In accordance with accredited clinical practice guidelines, massive release of myoglobin into circulation causing pigment-induced tubular injury; urine dipstick detects heme in myoglobin causing false-positive blood; resuscitated with IV isotonic crystalloids targeting urine output 200-300 mL/h represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, massive release of myoglobin into circulation causing pigment-induced tubular injury; urine dipstick detects heme in myoglobin causing false-positive blood; resuscitated with IV isotonic crystalloids targeting urine output 200-300 mL/h represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration. In the clinical approach to Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rhabdomyolysis Crush Injury Positive Blood on Dipstick with Zero RBCs on Microscopy Aggressive IV Crystalloid Hydration."
+    ],
+    "references": [
+      {
+        "label": "Trauma and Critical Care Guidelines on Rhabdomyolysis",
+        "url": "https://www.east.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7616",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 56-year-old female who presents to the academic primary care continuity and preventive medicine clinic with symptomatic deterioration from suspected Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction. Bedside evaluation demonstrates elderly patient started on escitalopram or sertraline presenting with lethargy and serum sodium < 130 mEq/L with normal volume exam; managed by stopping the offending SSRI and restricting daily free water intake. Clinical observations demonstrate blood pressure 122/72 mm Hg, pulse 70/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Elderly patient started on escitalopram or sertraline presenting with lethargy and serum sodium < 130 meq/l with normal volume exam; managed by stopping the offending ssri and restricting daily free water intake",
+        "explanation": "In accordance with accredited clinical practice guidelines, elderly patient started on escitalopram or sertraline presenting with lethargy and serum sodium < 130 mEq/L with normal volume exam; managed by stopping the offending SSRI and restricting daily free water intake represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, elderly patient started on escitalopram or sertraline presenting with lethargy and serum sodium < 130 mEq/L with normal volume exam; managed by stopping the offending SSRI and restricting daily free water intake represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction. In the clinical approach to Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Syndrome of Inappropriate ADH (SIADH) Induced by SSRIs Euvolemic Hyponatremia Discontinuation and Fluid Restriction."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Practice Guidelines",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7617",
+    "exam": "Step 2 CK",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Cor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 32-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with clinical manifestations indicative of Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome. Physical examination demonstrates rapid serum sodium correction exceeding 8-10 mEq/L in 24 hours draws water out of pontine neurons, destroying oligodendrocytes; manifests 2-6 days later as dysarthria, dysphagia, spastic quadriparesis, and locked-in state. Clinical observations demonstrate blood pressure 123/73 mm Hg, pulse 71/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Rapid serum sodium correction exceeding 8-10 meq/l in 24 hours draws water out of pontine neurons, destroying oligodendrocytes; manifests 2-6 days later as dysarthria, dysphagia, spastic quadriparesis, and locked-in state",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid serum sodium correction exceeding 8-10 mEq/L in 24 hours draws water out of pontine neurons, destroying oligodendrocytes; manifests 2-6 days later as dysarthria, dysphagia, spastic quadriparesis, and locked-in state represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid serum sodium correction exceeding 8-10 mEq/L in 24 hours draws water out of pontine neurons, destroying oligodendrocytes; manifests 2-6 days later as dysarthria, dysphagia, spastic quadriparesis, and locked-in state represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome. In the clinical approach to Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Central Pontine Myelinolysis (Osmotic Demyelination Syndrome) Overly Rapid Correction of Chronic Hyponatremia Locked-In Syndrome."
+    ],
+    "references": [
+      {
+        "label": "Neurocritical Care Society Guidelines on Hyponatremia",
+        "url": "https://www.neurocriticalcare.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7618",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenou",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 72-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation with decompensation related to Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First. Rapid clinical triage confirms magnesium is essential cofactor for Na+/K+-ATPase and parathyroid hormone secretion; hypomagnesemia causes end-organ resistance to PTH (hypocalcemia) and renal potassium wasting; magnesium must be normalized to correct K+ and Ca2+. Clinical observations demonstrate blood pressure 124/74 mm Hg, pulse 72/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Magnesium is essential cofactor for na+/k+-atpase and parathyroid hormone secretion; hypomagnesemia causes end-organ resistance to pth (hypocalcemia) and renal potassium wasting; magnesium must be normalized to correct k+ and ca2+",
+        "explanation": "In accordance with accredited clinical practice guidelines, magnesium is essential cofactor for Na+/K+-ATPase and parathyroid hormone secretion; hypomagnesemia causes end-organ resistance to PTH (hypocalcemia) and renal potassium wasting; magnesium must be normalized to correct K+ and Ca2+ represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, magnesium is essential cofactor for Na+/K+-ATPase and parathyroid hormone secretion; hypomagnesemia causes end-organ resistance to PTH (hypocalcemia) and renal potassium wasting; magnesium must be normalized to correct K+ and Ca2+ represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First. In the clinical approach to Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypomagnesemia Accompanying Refractory Hypocalcemia and Hypokalemia Intravenous Magnesium Repletion First."
+    ],
+    "references": [
+      {
+        "label": "Kidney International Guidelines on Mineral Metabolism",
+        "url": "https://www.kidney-international.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7619",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 48-year-old male attends the continuity family medicine pavilion for targeted follow-up with acute clinical presentation of Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase. Urgent bedside examination and point-of-care diagnostics demonstrate massive release of intracellular contents following cytotoxic chemotherapy for aggressive hematologic malignancies; prophylactic rasburicase (recombinant urate oxidase) converts insoluble uric acid into soluble allantoin. Clinical observations demonstrate blood pressure 125/75 mm Hg, pulse 73/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Massive release of intracellular contents following cytotoxic chemotherapy for aggressive hematologic malignancies; prophylactic rasburicase (recombinant urate oxidase) converts insoluble uric acid into soluble allantoin",
+        "explanation": "In accordance with accredited clinical practice guidelines, massive release of intracellular contents following cytotoxic chemotherapy for aggressive hematologic malignancies; prophylactic rasburicase (recombinant urate oxidase) converts insoluble uric acid into soluble allantoin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, massive release of intracellular contents following cytotoxic chemotherapy for aggressive hematologic malignancies; prophylactic rasburicase (recombinant urate oxidase) converts insoluble uric acid into soluble allantoin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase. In the clinical approach to Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tumor Lysis Syndrome Hyperuricemia Hyperkalemia Hyperphosphatemia Hypocalcemia IV Hydration and Rasburicase."
+    ],
+    "references": [
+      {
+        "label": "ASCO Guidelines on Tumor Lysis Syndrome",
+        "url": "https://www.asco.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7620",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Conce",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old female with acute destabilization presents to the regional emergency receiving and diagnostic resuscitation center for definitive management of Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation. Initial diagnostic workup identifies saline-responsive alkalosis (vomiting, prior diuretic therapy) has low urine chloride (< 20 mEq/L) and corrects with IV normal saline; saline-resistant alkalosis (hyperaldosteronism, Cushing) has high urine chloride (> 20 mEq/L). Clinical observations demonstrate blood pressure 126/76 mm Hg, pulse 74/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Saline-responsive alkalosis (vomiting, prior diuretic therapy) has low urine chloride (< 20 meq/l) and corrects with iv normal saline; saline-resistant alkalosis (hyperaldosteronism, cushing) has high urine chloride (> 20 meq/l)",
+        "explanation": "In accordance with accredited clinical practice guidelines, saline-responsive alkalosis (vomiting, prior diuretic therapy) has low urine chloride (< 20 mEq/L) and corrects with IV normal saline; saline-resistant alkalosis (hyperaldosteronism, Cushing) has high urine chloride (> 20 mEq/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, saline-responsive alkalosis (vomiting, prior diuretic therapy) has low urine chloride (< 20 mEq/L) and corrects with IV normal saline; saline-resistant alkalosis (hyperaldosteronism, Cushing) has high urine chloride (> 20 mEq/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation. In the clinical approach to Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Metabolic Alkalosis Saline-Responsive vs Saline-Resistant Urine Chloride Concentration Differentiation."
+    ],
+    "references": [
+      {
+        "label": "Rose Clinical Physiology of Acid-Base Disorders",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7621",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Cont",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 64-year-old male who is examined in the urgent ambulatory specialist clinic with symptomatic deterioration from suspected Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks. Bedside evaluation demonstrates rapid splenic enlargement from reactive lymphocytic proliferation predisposes to spontaneous or traumatic splenic rupture; athletes must refrain from all contact sports and strenuous exercise for at least 21-28 days from symptom onset. Clinical observations demonstrate blood pressure 127/77 mm Hg, pulse 75/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid splenic enlargement from reactive lymphocytic proliferation predisposes to spontaneous or traumatic splenic rupture; athletes must refrain from all contact sports and strenuous exercise for at least 21-28 days from symptom onset",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid splenic enlargement from reactive lymphocytic proliferation predisposes to spontaneous or traumatic splenic rupture; athletes must refrain from all contact sports and strenuous exercise for at least 21-28 days from symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid splenic enlargement from reactive lymphocytic proliferation predisposes to spontaneous or traumatic splenic rupture; athletes must refrain from all contact sports and strenuous exercise for at least 21-28 days from symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks. In the clinical approach to Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Mononucleosis Splenic Precautions Avoidance of Non-Contact and Contact Sports for Minimum 3-4 Weeks."
+    ],
+    "references": [
+      {
+        "label": "AAP Guidelines on Sports Participation Post-Mononucleosis",
+        "url": "https://pediatrics.aappublications.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7622",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or F",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 40-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center presenting with clinical manifestations indicative of Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours. Physical examination demonstrates reactivation of latent varicella-zoster virus in dorsal root ganglion; oral antivirals (valacyclovir 1 g TID for 7 days) started within 72 hours speed lesion healing and significantly decrease incidence of postherpetic neuralgia. Clinical observations demonstrate blood pressure 128/78 mm Hg, pulse 76/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Reactivation of latent varicella-zoster virus in dorsal root ganglion; oral antivirals (valacyclovir 1 g tid for 7 days) started within 72 hours speed lesion healing and significantly decrease incidence of postherpetic neuralgia",
+        "explanation": "In accordance with accredited clinical practice guidelines, reactivation of latent varicella-zoster virus in dorsal root ganglion; oral antivirals (valacyclovir 1 g TID for 7 days) started within 72 hours speed lesion healing and significantly decrease incidence of postherpetic neuralgia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, reactivation of latent varicella-zoster virus in dorsal root ganglion; oral antivirals (valacyclovir 1 g TID for 7 days) started within 72 hours speed lesion healing and significantly decrease incidence of postherpetic neuralgia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours. In the clinical approach to Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Herpes Zoster (Shingles) Unilateral Dermatomal Vesicles Oral Valacyclovir or Famciclovir Within 72 Hours."
+    ],
+    "references": [
+      {
+        "label": "CDC Clinical Guidance on Shingles",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7623",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 80-year-old male who presents to the academic primary care continuity and preventive medicine clinic with decompensation related to Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals. Rapid clinical triage confirms V1 ophthalmic trigeminal distribution involving nasociliary branch; vesicles on tip of nose predict ocular involvement (keratitis, uveitis); requires immediate slit-lamp exam and high-dose oral valacyclovir to prevent vision loss. Clinical observations demonstrate blood pressure 129/79 mm Hg, pulse 77/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "V1 ophthalmic trigeminal distribution involving nasociliary branch; vesicles on tip of nose predict ocular involvement (keratitis, uveitis); requires immediate slit-lamp exam and high-dose oral valacyclovir to prevent vision loss",
+        "explanation": "In accordance with accredited clinical practice guidelines, V1 ophthalmic trigeminal distribution involving nasociliary branch; vesicles on tip of nose predict ocular involvement (keratitis, uveitis); requires immediate slit-lamp exam and high-dose oral valacyclovir to prevent vision loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, V1 ophthalmic trigeminal distribution involving nasociliary branch; vesicles on tip of nose predict ocular involvement (keratitis, uveitis); requires immediate slit-lamp exam and high-dose oral valacyclovir to prevent vision loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals. In the clinical approach to Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Herpes Zoster Ophthalmicus Hutchinson Sign Tip of Nose Vesicles Emergent Ophthalmology Consult and Oral Antivirals."
+    ],
+    "references": [
+      {
+        "label": "AAO Preferred Practice Pattern for Herpes Zoster Ophthalmicus",
+        "url": "https://www.aao.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7624",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Ga",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 56-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit with acute clinical presentation of Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline. Urgent bedside examination and point-of-care diagnostics demonstrate chronic neuropathic pain persisting > 90 days after resolution of acute zoster rash; managed first-line with gabapentinoids, tricyclic antidepressants (amitriptyline), or topical 5% lidocaine patches. Clinical observations demonstrate blood pressure 130/80 mm Hg, pulse 78/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Chronic neuropathic pain persisting > 90 days after resolution of acute zoster rash; managed first-line with gabapentinoids, tricyclic antidepressants (amitriptyline), or topical 5% lidocaine patches",
+        "explanation": "In accordance with accredited clinical practice guidelines, chronic neuropathic pain persisting > 90 days after resolution of acute zoster rash; managed first-line with gabapentinoids, tricyclic antidepressants (amitriptyline), or topical 5% lidocaine patches represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, chronic neuropathic pain persisting > 90 days after resolution of acute zoster rash; managed first-line with gabapentinoids, tricyclic antidepressants (amitriptyline), or topical 5% lidocaine patches represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline. In the clinical approach to Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postherpetic Neuralgia Pain Persisting > 3 Months Post-Rash First-Line Oral Gabapentin Pregabalin or Amitriptyline."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Postherpetic Neuralgia",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7625",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg B",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male with acute destabilization attends the comprehensive regional ambulatory healthcare center for evaluation for definitive management of Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days. Initial diagnostic workup identifies painful vesicular and ulcerative genital lesions with inguinal lymphadenopathy and systemic fever; oral valacyclovir or acyclovir shortens duration of viral shedding and systemic symptoms. Clinical observations demonstrate blood pressure 131/81 mm Hg, pulse 79/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Painful vesicular and ulcerative genital lesions with inguinal lymphadenopathy and systemic fever; oral valacyclovir or acyclovir shortens duration of viral shedding and systemic symptoms",
+        "explanation": "In accordance with accredited clinical practice guidelines, painful vesicular and ulcerative genital lesions with inguinal lymphadenopathy and systemic fever; oral valacyclovir or acyclovir shortens duration of viral shedding and systemic symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, painful vesicular and ulcerative genital lesions with inguinal lymphadenopathy and systemic fever; oral valacyclovir or acyclovir shortens duration of viral shedding and systemic symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days. In the clinical approach to Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Genital Herpes Simplex Virus First Episode Oral Valacyclovir 1000 mg BID for 7-10 Days."
+    ],
+    "references": [
+      {
+        "label": "CDC STI Treatment Guidelines for Genital Herpes",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7626",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 72-year-old female who attends the continuity family medicine pavilion for targeted follow-up with symptomatic deterioration from suspected Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox. Bedside evaluation demonstrates caused by low-risk HPV types 6 and 11; patient-applied therapies include topical imiquimod 5% cream (immune response modifier) or podofilox solution; provider-administered options include cryotherapy and trichloroacetic acid. Clinical observations demonstrate blood pressure 132/82 mm Hg, pulse 80/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Caused by low-risk hpv types 6 and 11; patient-applied therapies include topical imiquimod 5% cream (immune response modifier) or podofilox solution; provider-administered options include cryotherapy and trichloroacetic acid",
+        "explanation": "In accordance with accredited clinical practice guidelines, caused by low-risk HPV types 6 and 11; patient-applied therapies include topical imiquimod 5% cream (immune response modifier) or podofilox solution; provider-administered options include cryotherapy and trichloroacetic acid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, caused by low-risk HPV types 6 and 11; patient-applied therapies include topical imiquimod 5% cream (immune response modifier) or podofilox solution; provider-administered options include cryotherapy and trichloroacetic acid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox. In the clinical approach to Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Human Papillomavirus Genital Warts (Condylomata Acuminata) Flesh-Colored Cauliflower Lesions Topical Imiquimod or Podofilox."
+    ],
+    "references": [
+      {
+        "label": "CDC STI Treatment Guidelines on Condylomata",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7627",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Me",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 48-year-old male presents to the regional emergency receiving and diagnostic resuscitation center presenting with clinical manifestations indicative of Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner. Physical examination demonstrates flagellated motile trichomonads on saline wet mount with vaginal pH > 4.5; treated with single-dose oral metronidazole 500 mg twice daily for 7 days in women; simultaneous treatment of sexual partners is mandatory. Clinical observations demonstrate blood pressure 133/83 mm Hg, pulse 81/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Flagellated motile trichomonads on saline wet mount with vaginal ph > 4.5; treated with single-dose oral metronidazole 500 mg twice daily for 7 days in women; simultaneous treatment of sexual partners is mandatory",
+        "explanation": "In accordance with accredited clinical practice guidelines, flagellated motile trichomonads on saline wet mount with vaginal pH > 4.5; treated with single-dose oral metronidazole 500 mg twice daily for 7 days in women; simultaneous treatment of sexual partners is mandatory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, flagellated motile trichomonads on saline wet mount with vaginal pH > 4.5; treated with single-dose oral metronidazole 500 mg twice daily for 7 days in women; simultaneous treatment of sexual partners is mandatory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner. In the clinical approach to Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trichomoniasis Frothy Green-Yellow Vaginal Discharge Strawberry Cervix Oral Metronidazole for Patient and Partner."
+    ],
+    "references": [
+      {
+        "label": "CDC STI Guidelines on Trichomoniasis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7628",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 24-year-old female who is examined in the urgent ambulatory specialist clinic with decompensation related to Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone. Rapid clinical triage confirms hematogenous dissemination of Neisseria gonorrhoeae presenting as migratory asymmetrical joint pain, wrist/ankle tenosynovitis, and few necrotic acral pustules; treated with IV ceftriaxone 1 g daily for 7 days. Clinical observations demonstrate blood pressure 134/84 mm Hg, pulse 82/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Hematogenous dissemination of neisseria gonorrhoeae presenting as migratory asymmetrical joint pain, wrist/ankle tenosynovitis, and few necrotic acral pustules; treated with iv ceftriaxone 1 g daily for 7 days",
+        "explanation": "In accordance with accredited clinical practice guidelines, hematogenous dissemination of Neisseria gonorrhoeae presenting as migratory asymmetrical joint pain, wrist/ankle tenosynovitis, and few necrotic acral pustules; treated with IV ceftriaxone 1 g daily for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hematogenous dissemination of Neisseria gonorrhoeae presenting as migratory asymmetrical joint pain, wrist/ankle tenosynovitis, and few necrotic acral pustules; treated with IV ceftriaxone 1 g daily for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone. In the clinical approach to Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Disseminated Gonococcal Infection Triad of Polyarthralgias Tenosynovitis and Pustular Skin Lesions Inpatient IV Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "CDC STI Treatment Guidelines on Gonococcal Infections",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7629",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata La",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center with acute clinical presentation of Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS. Urgent bedside examination and point-of-care diagnostics demonstrate diffuse non-pruritic bronze papules on trunk, palms, and soles with flat velvety genital lesions (condylomata lata) and generalized lymphadenopathy; confirmed by positive RPR and treponemal antibody; treated with IM benzathine penicillin G. Clinical observations demonstrate blood pressure 135/85 mm Hg, pulse 83/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Diffuse non-pruritic bronze papules on trunk, palms, and soles with flat velvety genital lesions (condylomata lata) and generalized lymphadenopathy; confirmed by positive rpr and treponemal antibody; treated with im benzathine penicillin g",
+        "explanation": "In accordance with accredited clinical practice guidelines, diffuse non-pruritic bronze papules on trunk, palms, and soles with flat velvety genital lesions (condylomata lata) and generalized lymphadenopathy; confirmed by positive RPR and treponemal antibody; treated with IM benzathine penicillin G represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, diffuse non-pruritic bronze papules on trunk, palms, and soles with flat velvety genital lesions (condylomata lata) and generalized lymphadenopathy; confirmed by positive RPR and treponemal antibody; treated with IM benzathine penicillin G represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS. In the clinical approach to Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Secondary Syphilis Maculopapular Rash Involving Palms and Soles Condylomata Lata Serology RPR and Treponemal FTA-ABS."
+    ],
+    "references": [
+      {
+        "label": "CDC STI Treatment Guidelines for Secondary Syphilis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7630",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old female with acute destabilization presents to the academic primary care continuity and preventive medicine clinic for definitive management of Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection. Initial diagnostic workup identifies bacterial inoculation (S. epidermidis, S. aureus) during intraocular surgery presenting with decreased vision, vitritis, and layered pus in anterior chamber (hypopyon); requires immediate vitreous tap and intravitreal vancomycin plus ceftazidime. Clinical observations demonstrate blood pressure 136/86 mm Hg, pulse 84/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Bacterial inoculation (s. epidermidis, s. aureus) during intraocular surgery presenting with decreased vision, vitritis, and layered pus in anterior chamber (hypopyon); requires immediate vitreous tap and intravitreal vancomycin plus ceftazidime",
+        "explanation": "In accordance with accredited clinical practice guidelines, bacterial inoculation (S. epidermidis, S. aureus) during intraocular surgery presenting with decreased vision, vitritis, and layered pus in anterior chamber (hypopyon); requires immediate vitreous tap and intravitreal vancomycin plus ceftazidime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bacterial inoculation (S. epidermidis, S. aureus) during intraocular surgery presenting with decreased vision, vitritis, and layered pus in anterior chamber (hypopyon); requires immediate vitreous tap and intravitreal vancomycin plus ceftazidime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection. In the clinical approach to Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Endophthalmitis Post-Cataract Surgery Severe Pain Hypopyon Emergent Intravitreal Antibiotic Injection."
+    ],
+    "references": [
+      {
+        "label": "AAO Preferred Practice Pattern for Endophthalmitis",
+        "url": "https://www.aao.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7631",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 80-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with symptomatic deterioration from suspected Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone. Bedside evaluation demonstrates extension of ethmoid sinusitis through lamina papyracea causing proptosis, ophthalmoplegia, and decreased visual acuity; contrast CT of orbits differentiates from preseptal cellulitis; managed with broad-spectrum IV antibiotics. Clinical observations demonstrate blood pressure 137/87 mm Hg, pulse 85/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Extension of ethmoid sinusitis through lamina papyracea causing proptosis, ophthalmoplegia, and decreased visual acuity; contrast ct of orbits differentiates from preseptal cellulitis; managed with broad-spectrum iv antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines, extension of ethmoid sinusitis through lamina papyracea causing proptosis, ophthalmoplegia, and decreased visual acuity; contrast CT of orbits differentiates from preseptal cellulitis; managed with broad-spectrum IV antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, extension of ethmoid sinusitis through lamina papyracea causing proptosis, ophthalmoplegia, and decreased visual acuity; contrast CT of orbits differentiates from preseptal cellulitis; managed with broad-spectrum IV antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone. In the clinical approach to Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Orbital (Postseptal) Cellulitis Proptosis Pain with Extraocular Movements Inpatient IV Vancomycin Plus Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "AAO Guidelines on Orbit and Ocular Adnexa",
+        "url": "https://www.aao.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7632",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Move",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 56-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation presenting with clinical manifestations indicative of Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate. Physical examination demonstrates superficial infection of eyelid structures anterior to orbital septum without proptosis, visual deficit, or pain on eye movement; managed safely with oral broad-spectrum antibiotics (Augmentin) and close 24-hour follow-up. Clinical observations demonstrate blood pressure 138/72 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Superficial infection of eyelid structures anterior to orbital septum without proptosis, visual deficit, or pain on eye movement; managed safely with oral broad-spectrum antibiotics (augmentin) and close 24-hour follow-up",
+        "explanation": "In accordance with accredited clinical practice guidelines, superficial infection of eyelid structures anterior to orbital septum without proptosis, visual deficit, or pain on eye movement; managed safely with oral broad-spectrum antibiotics (Augmentin) and close 24-hour follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, superficial infection of eyelid structures anterior to orbital septum without proptosis, visual deficit, or pain on eye movement; managed safely with oral broad-spectrum antibiotics (Augmentin) and close 24-hour follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate. In the clinical approach to Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preseptal Cellulitis Eyelid Swelling Normal Vision and Intact Extraocular Movements Outpatient Oral Amoxicillin-Clavulanate."
+    ],
+    "references": [
+      {
+        "label": "AAO Clinical Guidance on Preseptal Cellulitis",
+        "url": "https://www.aao.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7633",
+    "exam": "Step 2 CK",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic evaluation is commenced for a 32-year-old male who attends the continuity family medicine pavilion for targeted follow-up with decompensation related to Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI). Rapid clinical triage confirms septic thrombophlebitis of cavernous sinus following sphenoid or ethmoid infection presenting with high fever, bilateral proptosis, and ophthalmoplegia; contrast-enhanced MRI/MRV confirms thrombus; treated with IV vancomycin, ceftriaxone, and heparin. Clinical observations demonstrate blood pressure 139/73 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Septic thrombophlebitis of cavernous sinus following sphenoid or ethmoid infection presenting with high fever, bilateral proptosis, and ophthalmoplegia; contrast-enhanced mri/mrv confirms thrombus; treated with iv vancomycin, ceftriaxone, and heparin",
+        "explanation": "In accordance with accredited clinical practice guidelines, septic thrombophlebitis of cavernous sinus following sphenoid or ethmoid infection presenting with high fever, bilateral proptosis, and ophthalmoplegia; contrast-enhanced MRI/MRV confirms thrombus; treated with IV vancomycin, ceftriaxone, and heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI).",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, septic thrombophlebitis of cavernous sinus following sphenoid or ethmoid infection presenting with high fever, bilateral proptosis, and ophthalmoplegia; contrast-enhanced MRI/MRV confirms thrombus; treated with IV vancomycin, ceftriaxone, and heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI). In the clinical approach to Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Sinusitis Complication Cavernous Sinus Thrombosis Bilateral Periorbital Edema Chemosis Cranial Nerve Palsies (CN III IV VI)."
+    ],
+    "references": [
+      {
+        "label": "IDSA Guidelines on Central Nervous System Infections",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7634",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminan",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 72-year-old female presents to the regional emergency receiving and diagnostic resuscitation center with acute clinical presentation of Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation. Urgent bedside examination and point-of-care diagnostics demonstrate rapidly progressing septic shock with non-blanching purpuric skin lesions and DIC; immediate blood cultures and high-dose IV ceftriaxone administered without delay; post-exposure rifampin/ceftriaxone chemoprophylaxis for close household contacts. Clinical observations demonstrate blood pressure 118/74 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Rapidly progressing septic shock with non-blanching purpuric skin lesions and dic; immediate blood cultures and high-dose iv ceftriaxone administered without delay; post-exposure rifampin/ceftriaxone chemoprophylaxis for close household contacts",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapidly progressing septic shock with non-blanching purpuric skin lesions and DIC; immediate blood cultures and high-dose IV ceftriaxone administered without delay; post-exposure rifampin/ceftriaxone chemoprophylaxis for close household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapidly progressing septic shock with non-blanching purpuric skin lesions and DIC; immediate blood cultures and high-dose IV ceftriaxone administered without delay; post-exposure rifampin/ceftriaxone chemoprophylaxis for close household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation. In the clinical approach to Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meningococcemia Neisseria meningitidis Petechial and Purpuric Purpura Fulminans Immediate IV Ceftriaxone and Droplet Isolation."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines on Meningococcal Disease",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7635",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Seps",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male with acute destabilization is examined in the urgent ambulatory specialist clinic for definitive management of Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy. Initial diagnostic workup identifies facultative intracellular Gram-positive rod transmitted via unpasteurized dairy and cold cuts causing brainstem encephalitis or spontaneous abortion; inherently resistant to cephalosporins; treated first-line with high-dose IV ampicillin. Clinical observations demonstrate blood pressure 119/75 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Facultative intracellular gram-positive rod transmitted via unpasteurized dairy and cold cuts causing brainstem encephalitis or spontaneous abortion; inherently resistant to cephalosporins; treated first-line with high-dose iv ampicillin",
+        "explanation": "In accordance with accredited clinical practice guidelines, facultative intracellular Gram-positive rod transmitted via unpasteurized dairy and cold cuts causing brainstem encephalitis or spontaneous abortion; inherently resistant to cephalosporins; treated first-line with high-dose IV ampicillin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, facultative intracellular Gram-positive rod transmitted via unpasteurized dairy and cold cuts causing brainstem encephalitis or spontaneous abortion; inherently resistant to cephalosporins; treated first-line with high-dose IV ampicillin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy. In the clinical approach to Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Listeriosis in Immunocompromised and Pregnant Women Rhombencephalitis and Sepsis IV Ampicillin Monotherapy."
+    ],
+    "references": [
+      {
+        "label": "IDSA Clinical Guidelines for Listeriosis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7636",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 24-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center with symptomatic deterioration from suspected Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected. Bedside evaluation demonstrates bloody diarrhea with fever and abdominal cramps; stool evaluated for Salmonella, Shigella, Campylobacter, and Shiga toxin-producing E. coli; antibiotics withheld until STEC excluded to avoid precipitating hemolytic uremic syndrome. Clinical observations demonstrate blood pressure 120/76 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Bloody diarrhea with fever and abdominal cramps; stool evaluated for salmonella, shigella, campylobacter, and shiga toxin-producing e. coli; antibiotics withheld until stec excluded to avoid precipitating hemolytic uremic syndrome",
+        "explanation": "In accordance with accredited clinical practice guidelines, bloody diarrhea with fever and abdominal cramps; stool evaluated for Salmonella, Shigella, Campylobacter, and Shiga toxin-producing E. coli; antibiotics withheld until STEC excluded to avoid precipitating hemolytic uremic syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bloody diarrhea with fever and abdominal cramps; stool evaluated for Salmonella, Shigella, Campylobacter, and Shiga toxin-producing E. coli; antibiotics withheld until STEC excluded to avoid precipitating hemolytic uremic syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected. In the clinical approach to Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infectious Diarrhea Bloody Stools (Dysentery) Stool Culture Multiplex PCR Avoiding Empiric Antibiotics if STEC Suspected."
+    ],
+    "references": [
+      {
+        "label": "IDSA Clinical Practice Guidelines for Infectious Diarrhea",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7637",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old male presents to the academic primary care continuity and preventive medicine clinic presenting with clinical manifestations indicative of Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe. Physical examination demonstrates curved Gram-negative rod transmitted via undercooked poultry causing inflammatory diarrhea mimicking acute appendicitis; molecular mimicry triggers anti-ganglioside antibodies causing ascending motor weakness; treated with azithromycin. Clinical observations demonstrate blood pressure 121/77 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Curved gram-negative rod transmitted via undercooked poultry causing inflammatory diarrhea mimicking acute appendicitis; molecular mimicry triggers anti-ganglioside antibodies causing ascending motor weakness; treated with azithromycin",
+        "explanation": "In accordance with accredited clinical practice guidelines, curved Gram-negative rod transmitted via undercooked poultry causing inflammatory diarrhea mimicking acute appendicitis; molecular mimicry triggers anti-ganglioside antibodies causing ascending motor weakness; treated with azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, curved Gram-negative rod transmitted via undercooked poultry causing inflammatory diarrhea mimicking acute appendicitis; molecular mimicry triggers anti-ganglioside antibodies causing ascending motor weakness; treated with azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe. In the clinical approach to Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Campylobacter jejuni Enteritis Guillain-Barre Syndrome Complication Self-Limiting Oral Azithromycin if Severe."
+    ],
+    "references": [
+      {
+        "label": "CDC Clinical Guidance on Campylobacter",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7638",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen De",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic evaluation is commenced for a 40-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit with decompensation related to Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole. Rapid clinical triage confirms ingestion of contaminated freshwater cysts during outdoor hiking; trophozoites adhere to duodenal brush border causing malabsorption, sulfurous belching, and bloating; diagnosed by stool EIA antigen and treated with oral tinidazole or metronidazole. Clinical observations demonstrate blood pressure 122/78 mm Hg, pulse 92/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Ingestion of contaminated freshwater cysts during outdoor hiking; trophozoites adhere to duodenal brush border causing malabsorption, sulfurous belching, and bloating; diagnosed by stool eia antigen and treated with oral tinidazole or metronidazole",
+        "explanation": "In accordance with accredited clinical practice guidelines, ingestion of contaminated freshwater cysts during outdoor hiking; trophozoites adhere to duodenal brush border causing malabsorption, sulfurous belching, and bloating; diagnosed by stool EIA antigen and treated with oral tinidazole or metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, ingestion of contaminated freshwater cysts during outdoor hiking; trophozoites adhere to duodenal brush border causing malabsorption, sulfurous belching, and bloating; diagnosed by stool EIA antigen and treated with oral tinidazole or metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole. In the clinical approach to Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giardiasis Waterborne Infection Foul-Smelling Greasy Diarrhea Stool Antigen Detection Oral Tinidazole or Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines on Waterborne Parasites: Giardia",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7639",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 80-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation with acute clinical presentation of Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin. Urgent bedside examination and point-of-care diagnostics demonstrate dysentery with flask-shaped colonic ulcers or solitary right hepatic abscess containing anchovy paste fluid; treated first with tissue amebicide (metronidazole) followed by luminal amebicide (paromomycin) to eradicate asymptomatic colonic cyst carriage. Clinical observations demonstrate blood pressure 123/79 mm Hg, pulse 93/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Dysentery with flask-shaped colonic ulcers or solitary right hepatic abscess containing anchovy paste fluid; treated first with tissue amebicide (metronidazole) followed by luminal amebicide (paromomycin) to eradicate asymptomatic colonic cyst carriage",
+        "explanation": "In accordance with accredited clinical practice guidelines, dysentery with flask-shaped colonic ulcers or solitary right hepatic abscess containing anchovy paste fluid; treated first with tissue amebicide (metronidazole) followed by luminal amebicide (paromomycin) to eradicate asymptomatic colonic cyst carriage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, dysentery with flask-shaped colonic ulcers or solitary right hepatic abscess containing anchovy paste fluid; treated first with tissue amebicide (metronidazole) followed by luminal amebicide (paromomycin) to eradicate asymptomatic colonic cyst carriage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin. In the clinical approach to Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amebiasis Entamoeba histolytica Colitis and Liver Abscess Anchovy Paste Fluid Oral Metronidazole Followed by Paromomycin."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines for Parasitic Diseases: Amebiasis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7640",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old female with acute destabilization attends the continuity family medicine pavilion for targeted follow-up for definitive management of Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy. Initial diagnostic workup identifies intractable severe cholera-like diarrhea in immunocompromised host; stool examination demonstrates round oocysts that stain bright red with modified Kinyoun acid-fast stain; primary effective therapy is immune reconstitution with ART. Clinical observations demonstrate blood pressure 124/80 mm Hg, pulse 94/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intractable severe cholera-like diarrhea in immunocompromised host; stool examination demonstrates round oocysts that stain bright red with modified kinyoun acid-fast stain; primary effective therapy is immune reconstitution with art",
+        "explanation": "In accordance with accredited clinical practice guidelines, intractable severe cholera-like diarrhea in immunocompromised host; stool examination demonstrates round oocysts that stain bright red with modified Kinyoun acid-fast stain; primary effective therapy is immune reconstitution with ART represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intractable severe cholera-like diarrhea in immunocompromised host; stool examination demonstrates round oocysts that stain bright red with modified Kinyoun acid-fast stain; primary effective therapy is immune reconstitution with ART represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy. In the clinical approach to Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cryptosporidiosis Chronic Watery Diarrhea in AIDS (CD4 < 100) Modified Acid-Fast Staining Antiretroviral Therapy."
+    ],
+    "references": [
+      {
+        "label": "NIH/CDC Guidelines on Opportunistic Infections",
+        "url": "https://clinicalinfo.hiv.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7641",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape T",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 32-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center with symptomatic deterioration from suspected Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole. Bedside evaluation demonstrates female pinworms migrate to perianal fold at night to deposit eggs; diagnosed by applying transparent adhesive tape to perianal skin in morning showing bean-shaped eggs; entire household treated simultaneously and repeated at 2 weeks. Clinical observations demonstrate blood pressure 125/81 mm Hg, pulse 95/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Female pinworms migrate to perianal fold at night to deposit eggs; diagnosed by applying transparent adhesive tape to perianal skin in morning showing bean-shaped eggs; entire household treated simultaneously and repeated at 2 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines, female pinworms migrate to perianal fold at night to deposit eggs; diagnosed by applying transparent adhesive tape to perianal skin in morning showing bean-shaped eggs; entire household treated simultaneously and repeated at 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, female pinworms migrate to perianal fold at night to deposit eggs; diagnosed by applying transparent adhesive tape to perianal skin in morning showing bean-shaped eggs; entire household treated simultaneously and repeated at 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole. In the clinical approach to Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pinworm (Enterobius vermicularis) Nocturnal Perianal Pruritus Cellulose Tape Test Oral Pyrantel Pamoate or Albendazole."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines on Enterobiasis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7642",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 72-year-old female is examined in the urgent ambulatory specialist clinic presenting with clinical manifestations indicative of Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin. Physical examination demonstrates nematode with autoinfection life cycle; initiation of systemic steroids allows filariform larvae to penetrate bowel wall, carrying enteric Gram-negative bacilli into bloodstream causing recurrent polymicrobial sepsis; treated with oral ivermectin. Clinical observations demonstrate blood pressure 126/82 mm Hg, pulse 96/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Nematode with autoinfection life cycle; initiation of systemic steroids allows filariform larvae to penetrate bowel wall, carrying enteric gram-negative bacilli into bloodstream causing recurrent polymicrobial sepsis; treated with oral ivermectin",
+        "explanation": "In accordance with accredited clinical practice guidelines, nematode with autoinfection life cycle; initiation of systemic steroids allows filariform larvae to penetrate bowel wall, carrying enteric Gram-negative bacilli into bloodstream causing recurrent polymicrobial sepsis; treated with oral ivermectin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin.",
+        "correct": true
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, nematode with autoinfection life cycle; initiation of systemic steroids allows filariform larvae to penetrate bowel wall, carrying enteric Gram-negative bacilli into bloodstream causing recurrent polymicrobial sepsis; treated with oral ivermectin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin. In the clinical approach to Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Strongyloides stercoralis Hyperinfection Syndrome Immunosuppression Glucocorticoid Initiation Oral Ivermectin."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidance on Strongyloidiasis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7643",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic evaluation is commenced for a 48-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with decompensation related to Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate. Rapid clinical triage confirms fever, rigors, anemia, and altered mental status in international traveler; blood smear shows multiple delicate ring forms within erythrocytes; severe malaria treated emergently with intravenous artesunate (superior to IV quinidine). Clinical observations demonstrate blood pressure 127/83 mm Hg, pulse 97/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Fever, rigors, anemia, and altered mental status in international traveler; blood smear shows multiple delicate ring forms within erythrocytes; severe malaria treated emergently with intravenous artesunate (superior to iv quinidine)",
+        "explanation": "In accordance with accredited clinical practice guidelines, fever, rigors, anemia, and altered mental status in international traveler; blood smear shows multiple delicate ring forms within erythrocytes; severe malaria treated emergently with intravenous artesunate (superior to IV quinidine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, fever, rigors, anemia, and altered mental status in international traveler; blood smear shows multiple delicate ring forms within erythrocytes; severe malaria treated emergently with intravenous artesunate (superior to IV quinidine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate. In the clinical approach to Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malaria Plasmodium falciparum Severe Infection Ring Forms on Thick/Thin Blood Smear Intravenous Artesunate."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines for Treatment of Malaria in the United States",
+        "url": "https://www.cdc.gov/malaria/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7644",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old female presents to the academic primary care continuity and preventive medicine clinic with acute clinical presentation of Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin. Urgent bedside examination and point-of-care diagnostics demonstrate transmitted by deer tick in New England; intraerythrocytic protozoa causing hemolytic anemia, fever, and thrombocytopenia, especially severe in asplenic patients; treated with oral atovaquone plus azithromycin for 7-10 days. Clinical observations demonstrate blood pressure 128/84 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Transmitted by deer tick in new england; intraerythrocytic protozoa causing hemolytic anemia, fever, and thrombocytopenia, especially severe in asplenic patients; treated with oral atovaquone plus azithromycin for 7-10 days",
+        "explanation": "In accordance with accredited clinical practice guidelines, transmitted by deer tick in New England; intraerythrocytic protozoa causing hemolytic anemia, fever, and thrombocytopenia, especially severe in asplenic patients; treated with oral atovaquone plus azithromycin for 7-10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, transmitted by deer tick in New England; intraerythrocytic protozoa causing hemolytic anemia, fever, and thrombocytopenia, especially severe in asplenic patients; treated with oral atovaquone plus azithromycin for 7-10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin. In the clinical approach to Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Babesiosis Northeastern US Ixodes Tick Intraerythrocytic Maltese Cross Tetrads Oral Atovaquone Plus Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "IDSA Clinical Practice Guidelines for Babesiosis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-7645",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male with acute destabilization is evaluated in the specialized ambulatory procedural and diagnostic unit for definitive management of Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel. Initial diagnostic workup identifies swimming in freshwater snails endemic areas in Africa; chronic deposition of eggs with terminal spines into bladder wall triggers granulomatous inflammation, hematuria, hydronephrosis, and high risk of squamous cell bladder carcinoma. Clinical observations demonstrate blood pressure 129/85 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed acute intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Swimming in freshwater snails endemic areas in africa; chronic deposition of eggs with terminal spines into bladder wall triggers granulomatous inflammation, hematuria, hydronephrosis, and high risk of squamous cell bladder carcinoma",
+        "explanation": "In accordance with accredited clinical practice guidelines, swimming in freshwater snails endemic areas in Africa; chronic deposition of eggs with terminal spines into bladder wall triggers granulomatous inflammation, hematuria, hydronephrosis, and high risk of squamous cell bladder carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel.",
+        "correct": true
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, swimming in freshwater snails endemic areas in Africa; chronic deposition of eggs with terminal spines into bladder wall triggers granulomatous inflammation, hematuria, hydronephrosis, and high risk of squamous cell bladder carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel. In the clinical approach to Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schistosomiasis Terminal Hematuria and Hydronephrosis Schistosoma haematobium Terminal Spine Eggs Oral Praziquantel."
+    ],
+    "references": [
+      {
+        "label": "CDC Guidelines on Schistosomiasis",
+        "url": "https://www.cdc.gov/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
