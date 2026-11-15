@@ -36,6 +36,10 @@ import { questions as bIntl32 } from '../../content/bank/international/batch-int
 import { questions as bIntl33 } from '../../content/bank/international/batch-intl-33';
 import { questions as bIntl34 } from '../../content/bank/international/batch-intl-34';
 import { questions as bIntl35 } from '../../content/bank/international/batch-intl-35';
+import { questions as bIntl36 } from '../../content/bank/international/batch-intl-36';
+import { questions as bIntl37 } from '../../content/bank/international/batch-intl-37';
+import { questions as bIntl38 } from '../../content/bank/international/batch-intl-38';
+import { questions as bIntl39 } from '../../content/bank/international/batch-intl-39';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -48,12 +52,13 @@ describe('international question bank expansion', () => {
     ...bIntl20, ...bIntl21, ...bIntl22, ...bIntl23,
     ...bIntl24, ...bIntl25, ...bIntl26, ...bIntl27,
     ...bIntl28, ...bIntl29, ...bIntl30, ...bIntl31,
-    ...bIntl32, ...bIntl33, ...bIntl34, ...bIntl35
+    ...bIntl32, ...bIntl33, ...bIntl34, ...bIntl35,
+    ...bIntl36, ...bIntl37, ...bIntl38, ...bIntl39
   ];
 
-  it('contains 2845 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(2845);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(2845);
+  it('contains 3195 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(3195);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(3195);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
