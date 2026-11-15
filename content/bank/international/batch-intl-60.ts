@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-5146",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic investigation is undertaken for a 76-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with features of Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification. Specialized laboratory testing reveals loss of osteoclast proton pump or carbonic anhydrase II preventing bone resorption resulting in thick sclerotic bone obliterating marrow cavities. Clinical observations demonstrate blood pressure 126/82 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Loss of osteoclast proton pump or carbonic anhydrase ii preventing bone resorption resulting in thick sclerotic bone obliterating marrow cavities",
+        "explanation": "In accordance with accredited clinical practice guidelines, loss of osteoclast proton pump or carbonic anhydrase II preventing bone resorption resulting in thick sclerotic bone obliterating marrow cavities represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, loss of osteoclast proton pump or carbonic anhydrase II preventing bone resorption resulting in thick sclerotic bone obliterating marrow cavities represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification. In the clinical approach to Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteopetrosis (Marble Bone Disease) Carbonic Anhydrase II Defect Impaired Acidification."
+    ],
+    "references": [
+      {
+        "label": "ASBMR Guidelines on Metabolic Bone Disorders",
+        "url": "https://www.asbmr.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5147",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Ref",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old male attends the comprehensive regional ambulatory and diagnostic health pavilion presenting with acute clinical manifestations indicative of Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease. Urgent physical examination demonstrates continuous daily NSAIDs (naproxen, celecoxib) alongside structured physical therapy, escalating to TNF-alpha inhibitors for axial inflammation. Clinical observations demonstrate blood pressure 127/83 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Continuous daily nsaids (naproxen, celecoxib) alongside structured physical therapy, escalating to tnf-alpha inhibitors for axial inflammation",
+        "explanation": "In accordance with accredited clinical practice guidelines, continuous daily NSAIDs (naproxen, celecoxib) alongside structured physical therapy, escalating to TNF-alpha inhibitors for axial inflammation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, continuous daily NSAIDs (naproxen, celecoxib) alongside structured physical therapy, escalating to TNF-alpha inhibitors for axial inflammation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease. In the clinical approach to Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis First-Line Continuous NSAIDs and Anti-TNF Alpha for Refractory Disease."
+    ],
+    "references": [
+      {
+        "label": "ACR/SAA Guidelines for Axial Spondyloarthritis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5148",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Clinical assessment is conducted for a 28-year-old female who attends the multidisciplinary continuity referral pavilion for targeted evaluation due to suspected Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation. Further laboratory investigation confirms initial frantic osteolytic phase followed by disorganized osteoblastic activity producing woven bone with cement lines and elevated alkaline phosphatase. Clinical observations demonstrate blood pressure 128/84 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Initial frantic osteolytic phase followed by disorganized osteoblastic activity producing woven bone with cement lines and elevated alkaline phosphatase",
+        "explanation": "In accordance with accredited clinical practice guidelines, initial frantic osteolytic phase followed by disorganized osteoblastic activity producing woven bone with cement lines and elevated alkaline phosphatase represents the established gold standard mechanism, diagnostic confirmation, or management priority for Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, initial frantic osteolytic phase followed by disorganized osteoblastic activity producing woven bone with cement lines and elevated alkaline phosphatase represents the established gold standard mechanism, diagnostic confirmation, or management priority for Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation. In the clinical approach to Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Paget Disease of Bone (Osteitis Deformans) Mosaic Pattern and RANK-L Mediated Osteoclast Activation."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Guidelines on Paget Disease of Bone",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5149",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old male presents to the regional emergency receiving and resuscitation center with acute presentation of Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs. Urgent bedside examination and point-of-care diagnostics demonstrate asymmetric lower extremity oligoarthritis 1-4 weeks following Chlamydia or enteric dysentery managed with high-dose oral NSAIDs. Clinical observations demonstrate blood pressure 129/85 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Asymmetric lower extremity oligoarthritis 1-4 weeks following chlamydia or enteric dysentery managed with high-dose oral nsaids",
+        "explanation": "In accordance with accredited clinical practice guidelines, asymmetric lower extremity oligoarthritis 1-4 weeks following Chlamydia or enteric dysentery managed with high-dose oral NSAIDs represents the established gold standard mechanism, diagnostic confirmation, or management priority for Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, asymmetric lower extremity oligoarthritis 1-4 weeks following Chlamydia or enteric dysentery managed with high-dose oral NSAIDs represents the established gold standard mechanism, diagnostic confirmation, or management priority for Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs. In the clinical approach to Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Reactive Arthritis Post-Infectious Triad Urethritis, Conjunctivitis, Oligoarthritis NSAIDs."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Spondyloarthropathies",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5150",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old female with progressive symptomatic dysfunction is examined in the urgent ambulatory specialist clinic requiring evaluation for Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization. Pathological testing confirms failure of calcium-phosphate crystallization onto newly formed collagen matrix producing unmineralized osteoid seams, rachitic rosary, and craniotabes. Clinical observations demonstrate blood pressure 130/86 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Failure of calcium-phosphate crystallization onto newly formed collagen matrix producing unmineralized osteoid seams, rachitic rosary, and craniotabes",
+        "explanation": "In accordance with accredited clinical practice guidelines, failure of calcium-phosphate crystallization onto newly formed collagen matrix producing unmineralized osteoid seams, rachitic rosary, and craniotabes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, failure of calcium-phosphate crystallization onto newly formed collagen matrix producing unmineralized osteoid seams, rachitic rosary, and craniotabes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization. In the clinical approach to Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rickets and Osteomalacia Vitamin D Deficiency Defective Osteoid Mineralization."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Clinical Practice Guidelines",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5151",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 20-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with symptomatic deterioration from suspected Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000. Bedside evaluation demonstrates immediate needle aspiration of native joint fluid for cell count, Gram stain, and culture followed by empiric vancomycin and surgical lavage. Clinical observations demonstrate blood pressure 131/87 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate needle aspiration of native joint fluid for cell count, gram stain, and culture followed by empiric vancomycin and surgical lavage",
+        "explanation": "In accordance with accredited clinical practice guidelines, immediate needle aspiration of native joint fluid for cell count, Gram stain, and culture followed by empiric vancomycin and surgical lavage represents the established gold standard mechanism, diagnostic confirmation, or management priority for Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, immediate needle aspiration of native joint fluid for cell count, Gram stain, and culture followed by empiric vancomycin and surgical lavage represents the established gold standard mechanism, diagnostic confirmation, or management priority for Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000. In the clinical approach to Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Septic Arthritis Emergent Diagnostic Arthrocentesis Synovial WBC Above 50,000."
+    ],
+    "references": [
+      {
+        "label": "IDSA Guidelines on Native Joint Infectious Arthritis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5152",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Re",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old female presents to the academic medical center tertiary emergency care pavilion with clinical and physical signs consistent with Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction. Molecular and microscopic evaluation confirms most common primary malignant bone tumor in adolescents occurring at metaphysis of distal femur or proximal tibia producing pleomorphic osteoid matrix. Clinical observations demonstrate blood pressure 132/72 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Most common primary malignant bone tumor in adolescents occurring at metaphysis of distal femur or proximal tibia producing pleomorphic osteoid matrix",
+        "explanation": "In accordance with accredited clinical practice guidelines, most common primary malignant bone tumor in adolescents occurring at metaphysis of distal femur or proximal tibia producing pleomorphic osteoid matrix represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, most common primary malignant bone tumor in adolescents occurring at metaphysis of distal femur or proximal tibia producing pleomorphic osteoid matrix represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction. In the clinical approach to Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteosarcoma RB1 and TP53 Mutations Codman Triangle and Sunburst Periosteal Reaction."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Bone Cancers",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5153",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Co",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency department evaluation is commenced for a 36-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with acute decompensation from Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids. Rapid triage confirms rapid initiation of low-dose colchicine or indomethacin; reserving intra-articular triamcinolone for single-joint flares with renal failure. Clinical observations demonstrate blood pressure 133/73 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Rapid initiation of low-dose colchicine or indomethacin; reserving intra-articular triamcinolone for single-joint flares with renal failure",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid initiation of low-dose colchicine or indomethacin; reserving intra-articular triamcinolone for single-joint flares with renal failure represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid initiation of low-dose colchicine or indomethacin; reserving intra-articular triamcinolone for single-joint flares with renal failure represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids. In the clinical approach to Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Gout Flare Monotherapy Options Colchicine, NSAIDs, or Intra-Articular Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "ACR Guideline for the Management of Gout",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5154",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal R",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old female attends the comprehensive regional ambulatory and diagnostic health pavilion for targeted evaluation of suspected Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction. Detailed biochemical analysis demonstrates neuroectodermal small round blue cell malignancy of diaphysis expressing CD99 showing sheet-like arrays of glycogen-filled cells. Clinical observations demonstrate blood pressure 134/74 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Neuroectodermal small round blue cell malignancy of diaphysis expressing cd99 showing sheet-like arrays of glycogen-filled cells",
+        "explanation": "In accordance with accredited clinical practice guidelines, neuroectodermal small round blue cell malignancy of diaphysis expressing CD99 showing sheet-like arrays of glycogen-filled cells represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, neuroectodermal small round blue cell malignancy of diaphysis expressing CD99 showing sheet-like arrays of glycogen-filled cells represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction. In the clinical approach to Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ewing Sarcoma t(11;22) EWS-FLI1 Gene Fusion Concentric Onion-Skin Periosteal Reaction."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Pediatric Bone Malignancies",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5155",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Pr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male with acute destabilization attends the multidisciplinary continuity referral pavilion for targeted evaluation for definitive management of Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis. Rapid initial diagnostic workup identifies allopurinol indicated for >= 2 flares/year, tophi, or CKD stage >= 3; co-prescribing colchicine prophylaxis for 3-6 months to prevent mobilization flares. Clinical observations demonstrate blood pressure 135/75 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Allopurinol indicated for >= 2 flares/year, tophi, or ckd stage >= 3; co-prescribing colchicine prophylaxis for 3-6 months to prevent mobilization flares",
+        "explanation": "In accordance with accredited clinical practice guidelines, allopurinol indicated for >= 2 flares/year, tophi, or CKD stage >= 3; co-prescribing colchicine prophylaxis for 3-6 months to prevent mobilization flares represents the established gold standard mechanism, diagnostic confirmation, or management priority for Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, allopurinol indicated for >= 2 flares/year, tophi, or CKD stage >= 3; co-prescribing colchicine prophylaxis for 3-6 months to prevent mobilization flares represents the established gold standard mechanism, diagnostic confirmation, or management priority for Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis. In the clinical approach to Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Gout Chronic Urate-Lowering Therapy Indications and Anti-Inflammatory Flare Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines for Urate-Lowering Therapy",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5156",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RAN",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic investigation is undertaken for a 28-year-old female who presents to the regional emergency receiving and resuscitation center presenting with features of Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression. Specialized laboratory testing reveals benign locally aggressive tumor of skeletally mature epiphyses featuring multinucleated osteoclast-like giant cells responding to denosumab. Clinical observations demonstrate blood pressure 136/76 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Benign locally aggressive tumor of skeletally mature epiphyses featuring multinucleated osteoclast-like giant cells responding to denosumab",
+        "explanation": "In accordance with accredited clinical practice guidelines, benign locally aggressive tumor of skeletally mature epiphyses featuring multinucleated osteoclast-like giant cells responding to denosumab represents the established gold standard mechanism, diagnostic confirmation, or management priority for Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, benign locally aggressive tumor of skeletally mature epiphyses featuring multinucleated osteoclast-like giant cells responding to denosumab represents the established gold standard mechanism, diagnostic confirmation, or management priority for Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression. In the clinical approach to Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Giant Cell Tumor of Bone (Osteoclastoma) Epiphyseal Soap-Bubble Appearance RANK-L Expression."
+    ],
+    "references": [
+      {
+        "label": "NCCN Guidelines: Bone Cancer",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5157",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography,",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old male is examined in the urgent ambulatory specialist clinic presenting with acute clinical manifestations indicative of Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT. Urgent physical examination demonstrates inflammatory myopathy strongly associated with internal adenocarcinomas (ovarian, lung, pancreatic, colorectal) requiring comprehensive screening. Clinical observations demonstrate blood pressure 137/77 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Inflammatory myopathy strongly associated with internal adenocarcinomas (ovarian, lung, pancreatic, colorectal) requiring comprehensive screening",
+        "explanation": "In accordance with accredited clinical practice guidelines, inflammatory myopathy strongly associated with internal adenocarcinomas (ovarian, lung, pancreatic, colorectal) requiring comprehensive screening represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inflammatory myopathy strongly associated with internal adenocarcinomas (ovarian, lung, pancreatic, colorectal) requiring comprehensive screening represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT. In the clinical approach to Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dermatomyositis Age-Appropriate Malignancy Screening Colonoscopy, Mammography, Pelvic CT."
+    ],
+    "references": [
+      {
+        "label": "ACR/EULAR Guidelines for Idiopathic Myopathies",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5158",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Clinical assessment is conducted for a 44-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center due to suspected Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief. Further laboratory investigation confirms benign osteoblastic lesion < 2 cm surrounded by dense sclerotic rim causing nocturnal pain relieved promptly by oral aspirin or ibuprofen. Clinical observations demonstrate blood pressure 138/78 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Benign osteoblastic lesion < 2 cm surrounded by dense sclerotic rim causing nocturnal pain relieved promptly by oral aspirin or ibuprofen",
+        "explanation": "In accordance with accredited clinical practice guidelines, benign osteoblastic lesion < 2 cm surrounded by dense sclerotic rim causing nocturnal pain relieved promptly by oral aspirin or ibuprofen represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, benign osteoblastic lesion < 2 cm surrounded by dense sclerotic rim causing nocturnal pain relieved promptly by oral aspirin or ibuprofen represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief. In the clinical approach to Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoid Osteoma Cortical Radiolucent Nidus Prostaglandin E2 Hypersecretion NSAID Relief."
+    ],
+    "references": [
+      {
+        "label": "AAOS Guidelines on Musculoskeletal Tumors",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5159",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Ste",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 20-year-old male presents to the academic medical center tertiary emergency care pavilion with acute presentation of Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger. Urgent bedside examination and point-of-care diagnostics demonstrate immediate titration of oral captopril to control blood pressure; systemic corticosteroids strictly avoided as they trigger or worsen renal crisis. Clinical observations demonstrate blood pressure 139/79 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Immediate titration of oral captopril to control blood pressure; systemic corticosteroids strictly avoided as they trigger or worsen renal crisis",
+        "explanation": "In accordance with accredited clinical practice guidelines, immediate titration of oral captopril to control blood pressure; systemic corticosteroids strictly avoided as they trigger or worsen renal crisis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, immediate titration of oral captopril to control blood pressure; systemic corticosteroids strictly avoided as they trigger or worsen renal crisis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger. In the clinical approach to Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Scleroderma Renal Crisis Malignant Hypertension ACE Inhibitor Captopril vs Steroid Danger."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Systemic Sclerosis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5160",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantib",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old female with progressive symptomatic dysfunction is evaluated in the specialized ambulatory procedural and diagnostic unit requiring evaluation for Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies. Pathological testing confirms chronic inflammatory synovitis with proliferative granulation tissue eroding articular cartilage and bone mediated by TNF-alpha and IL-1. Clinical observations demonstrate blood pressure 116/80 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Chronic inflammatory synovitis with proliferative granulation tissue eroding articular cartilage and bone mediated by tnf-alpha and il-1",
+        "explanation": "In accordance with accredited clinical practice guidelines, chronic inflammatory synovitis with proliferative granulation tissue eroding articular cartilage and bone mediated by TNF-alpha and IL-1 represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, chronic inflammatory synovitis with proliferative granulation tissue eroding articular cartilage and bone mediated by TNF-alpha and IL-1 represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies. In the clinical approach to Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Synovial Pannus Formation Citrullinated Protein Autoantibodies."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines for Rheumatoid Arthritis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5161",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine S",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 36-year-old male who attends the comprehensive regional ambulatory and diagnostic health pavilion with symptomatic deterioration from suspected Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues. Bedside evaluation demonstrates topical preservative-free ocular lubricants, oral muscarinic agonists (pilocarpine, cevimeline), and dental fluoride surveillance. Clinical observations demonstrate blood pressure 117/81 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Topical preservative-free ocular lubricants, oral muscarinic agonists (pilocarpine, cevimeline), and dental fluoride surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines, topical preservative-free ocular lubricants, oral muscarinic agonists (pilocarpine, cevimeline), and dental fluoride surveillance represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, topical preservative-free ocular lubricants, oral muscarinic agonists (pilocarpine, cevimeline), and dental fluoride surveillance represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues. In the clinical approach to Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sj\u00f6gren Syndrome Keratoconjunctivitis Sicca Artificial Tears and Pilocarpine Secretagogues."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines for Sj\u00f6gren Syndrome",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5162",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 76-year-old female attends the multidisciplinary continuity referral pavilion for targeted evaluation with clinical and physical signs consistent with Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation. Molecular and microscopic evaluation confirms mechanical biomechanical wear and tear activating chondrocyte matrix metalloproteinases leading to subchondral sclerosis and osteophyte formation. Clinical observations demonstrate blood pressure 118/82 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Mechanical biomechanical wear and tear activating chondrocyte matrix metalloproteinases leading to subchondral sclerosis and osteophyte formation",
+        "explanation": "In accordance with accredited clinical practice guidelines, mechanical biomechanical wear and tear activating chondrocyte matrix metalloproteinases leading to subchondral sclerosis and osteophyte formation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, mechanical biomechanical wear and tear activating chondrocyte matrix metalloproteinases leading to subchondral sclerosis and osteophyte formation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation. In the clinical approach to Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoarthritis Chondrocyte Degradation Type II Collagen Proteoglycan Loss and Eburnation."
+    ],
+    "references": [
+      {
+        "label": "ACR/OARSI Guidelines for Osteoarthritis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5163",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency department evaluation is commenced for a 52-year-old male who presents to the regional emergency receiving and resuscitation center with acute decompensation from Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension. Rapid triage confirms overlap features of SLE, systemic sclerosis, and polymyositis requiring routine Doppler echocardiography screening for pulmonary arterial hypertension. Clinical observations demonstrate blood pressure 119/83 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Overlap features of sle, systemic sclerosis, and polymyositis requiring routine doppler echocardiography screening for pulmonary arterial hypertension",
+        "explanation": "In accordance with accredited clinical practice guidelines, overlap features of SLE, systemic sclerosis, and polymyositis requiring routine Doppler echocardiography screening for pulmonary arterial hypertension represents the established gold standard mechanism, diagnostic confirmation, or management priority for Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, overlap features of SLE, systemic sclerosis, and polymyositis requiring routine Doppler echocardiography screening for pulmonary arterial hypertension represents the established gold standard mechanism, diagnostic confirmation, or management priority for Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension. In the clinical approach to Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Mixed Connective Tissue Disease High Titer Anti-U1 RNP Antibodies Pulmonary Hypertension."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Connective Tissue Diseases",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5164",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female is examined in the urgent ambulatory specialist clinic for targeted evaluation of suspected Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes. Detailed biochemical analysis demonstrates inflammatory ossification at tendon and ligament insertions into bone (entheses) causing progressive sacroiliac fusion and ascending spinal ankylosis. Clinical observations demonstrate blood pressure 120/84 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Inflammatory ossification at tendon and ligament insertions into bone (entheses) causing progressive sacroiliac fusion and ascending spinal ankylosis",
+        "explanation": "In accordance with accredited clinical practice guidelines, inflammatory ossification at tendon and ligament insertions into bone (entheses) causing progressive sacroiliac fusion and ascending spinal ankylosis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inflammatory ossification at tendon and ligament insertions into bone (entheses) causing progressive sacroiliac fusion and ascending spinal ankylosis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes. In the clinical approach to Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis HLA-B27 Enthesitis Bamboo Spine and Syndesmophytes."
+    ],
+    "references": [
+      {
+        "label": "ACR/SAA Guidelines on Spondyloarthritis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5165",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behav",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male with acute destabilization is referred for subspecialty assessment in the tertiary ambulatory care center for definitive management of Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy. Rapid initial diagnostic workup identifies graded low-impact aerobic exercise and CBT; FDA-approved medications include duloxetine, milnacipran, and pregabalin avoiding opioids. Clinical observations demonstrate blood pressure 121/85 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Graded low-impact aerobic exercise and cbt; fda-approved medications include duloxetine, milnacipran, and pregabalin avoiding opioids",
+        "explanation": "In accordance with accredited clinical practice guidelines, graded low-impact aerobic exercise and CBT; FDA-approved medications include duloxetine, milnacipran, and pregabalin avoiding opioids represents the established gold standard mechanism, diagnostic confirmation, or management priority for Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, graded low-impact aerobic exercise and CBT; FDA-approved medications include duloxetine, milnacipran, and pregabalin avoiding opioids represents the established gold standard mechanism, diagnostic confirmation, or management priority for Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy. In the clinical approach to Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Fibromyalgia First-Line Non-Pharmacologic Aerobic Exercise and Cognitive Behavioral Therapy."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Fibromyalgia Management",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5166",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic investigation is undertaken for a 44-year-old female who presents to the academic medical center tertiary emergency care pavilion presenting with features of Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence. Specialized laboratory testing reveals hyperuricemia crystal deposition in joint spaces phagocytosed by neutrophils activating NLRP3 inflammasome with yellow parallel birefringence. Clinical observations demonstrate blood pressure 122/86 mm Hg, pulse 76/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Hyperuricemia crystal deposition in joint spaces phagocytosed by neutrophils activating nlrp3 inflammasome with yellow parallel birefringence",
+        "explanation": "In accordance with accredited clinical practice guidelines, hyperuricemia crystal deposition in joint spaces phagocytosed by neutrophils activating NLRP3 inflammasome with yellow parallel birefringence represents the established gold standard mechanism, diagnostic confirmation, or management priority for Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, hyperuricemia crystal deposition in joint spaces phagocytosed by neutrophils activating NLRP3 inflammasome with yellow parallel birefringence represents the established gold standard mechanism, diagnostic confirmation, or management priority for Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence. In the clinical approach to Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Gout Monosodium Urate Monohydrate Needle-Shaped Crystals Negative Birefringence."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines for Management of Gout",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5167",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompre",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 20-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with acute clinical manifestations indicative of Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression. Urgent physical examination demonstrates MRI showing crescent sign in high-risk glucocorticoid or sickle cell patients; surgical core decompression preserving native joint prior to collapse. Clinical observations demonstrate blood pressure 123/87 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Mri showing crescent sign in high-risk glucocorticoid or sickle cell patients; surgical core decompression preserving native joint prior to collapse",
+        "explanation": "In accordance with accredited clinical practice guidelines, MRI showing crescent sign in high-risk glucocorticoid or sickle cell patients; surgical core decompression preserving native joint prior to collapse represents the established gold standard mechanism, diagnostic confirmation, or management priority for Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, MRI showing crescent sign in high-risk glucocorticoid or sickle cell patients; surgical core decompression preserving native joint prior to collapse represents the established gold standard mechanism, diagnostic confirmation, or management priority for Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression. In the clinical approach to Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Avascular Necrosis of Femoral Head (Osteonecrosis) Early MRI and Core Decompression."
+    ],
+    "references": [
+      {
+        "label": "AAOS Clinical Practice Guidelines on Hip Osteonecrosis",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5168",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Posit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Clinical assessment is conducted for a 60-year-old female who attends the comprehensive regional ambulatory and diagnostic health pavilion due to suspected Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence. Further laboratory investigation confirms deposition of calcium pyrophosphate crystals within large joint cartilage (chondrocalcinosis) showing blue parallel polarized light birefringence. Clinical observations demonstrate blood pressure 124/72 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Deposition of calcium pyrophosphate crystals within large joint cartilage (chondrocalcinosis) showing blue parallel polarized light birefringence",
+        "explanation": "In accordance with accredited clinical practice guidelines, deposition of calcium pyrophosphate crystals within large joint cartilage (chondrocalcinosis) showing blue parallel polarized light birefringence represents the established gold standard mechanism, diagnostic confirmation, or management priority for Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, deposition of calcium pyrophosphate crystals within large joint cartilage (chondrocalcinosis) showing blue parallel polarized light birefringence represents the established gold standard mechanism, diagnostic confirmation, or management priority for Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence. In the clinical approach to Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Pseudogout Calcium Pyrophosphate Dihydrate (CPPD) Rhomboid Crystals Weak Positive Birefringence."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Crystal Deposition Diseases",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5169",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male attends the multidisciplinary continuity referral pavilion for targeted evaluation with acute presentation of Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery. Urgent bedside examination and point-of-care diagnostics demonstrate painful arc and drop-arm test evaluated by ultrasound or MRI; trial of physical therapy and subacromial injections reserving surgery for active tears. Clinical observations demonstrate blood pressure 125/73 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Painful arc and drop-arm test evaluated by ultrasound or mri; trial of physical therapy and subacromial injections reserving surgery for active tears",
+        "explanation": "In accordance with accredited clinical practice guidelines, painful arc and drop-arm test evaluated by ultrasound or MRI; trial of physical therapy and subacromial injections reserving surgery for active tears represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, painful arc and drop-arm test evaluated by ultrasound or MRI; trial of physical therapy and subacromial injections reserving surgery for active tears represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery. In the clinical approach to Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rotator Cuff Tear Full-Thickness Shoulder Ultrasound/MRI and Physical Therapy vs Surgery."
+    ],
+    "references": [
+      {
+        "label": "AAOS Management of Rotator Cuff Tears",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5170",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessiv",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old female with progressive symptomatic dysfunction presents to the regional emergency receiving and resuscitation center requiring evaluation for Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation. Pathological testing confirms endothelial apoptosis, platelet activation, and PDGF/TGF-beta driven collagen deposition producing dermal thickening and Raynaud phenomenon. Clinical observations demonstrate blood pressure 126/74 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Endothelial apoptosis, platelet activation, and pdgf/tgf-beta driven collagen deposition producing dermal thickening and raynaud phenomenon",
+        "explanation": "In accordance with accredited clinical practice guidelines, endothelial apoptosis, platelet activation, and PDGF/TGF-beta driven collagen deposition producing dermal thickening and Raynaud phenomenon represents the established gold standard mechanism, diagnostic confirmation, or management priority for Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, endothelial apoptosis, platelet activation, and PDGF/TGF-beta driven collagen deposition producing dermal thickening and Raynaud phenomenon represents the established gold standard mechanism, diagnostic confirmation, or management priority for Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation. In the clinical approach to Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Systemic Sclerosis (Scleroderma) Microvascular Endothelial Injury and Excessive Fibroblast Activation."
+    ],
+    "references": [
+      {
+        "label": "ACR/EULAR Guidelines for Systemic Sclerosis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5171",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 52-year-old male who is examined in the urgent ambulatory specialist clinic with symptomatic deterioration from suspected Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids. Bedside evaluation demonstrates profound loss of both active and passive glenohumeral external rotation in diabetics managed with gentle stretching and glenohumeral steroid injection. Clinical observations demonstrate blood pressure 127/75 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Profound loss of both active and passive glenohumeral external rotation in diabetics managed with gentle stretching and glenohumeral steroid injection",
+        "explanation": "In accordance with accredited clinical practice guidelines, profound loss of both active and passive glenohumeral external rotation in diabetics managed with gentle stretching and glenohumeral steroid injection represents the established gold standard mechanism, diagnostic confirmation, or management priority for Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, profound loss of both active and passive glenohumeral external rotation in diabetics managed with gentle stretching and glenohumeral steroid injection represents the established gold standard mechanism, diagnostic confirmation, or management priority for Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids. In the clinical approach to Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Adhesive Capsulitis (Frozen Shoulder) Gradual Passive Range of Motion and Intra-Articular Steroids."
+    ],
+    "references": [
+      {
+        "label": "AAOS Guidelines on Shoulder Disorders",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5172",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center with clinical and physical signs consistent with Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association. Molecular and microscopic evaluation confirms calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasias with low incidence of renal crisis. Clinical observations demonstrate blood pressure 128/76 mm Hg, pulse 82/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Calcinosis, raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasias with low incidence of renal crisis",
+        "explanation": "In accordance with accredited clinical practice guidelines, calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasias with low incidence of renal crisis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasias with low incidence of renal crisis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association. In the clinical approach to Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Limited Cutaneous Scleroderma CREST Syndrome Anticentromere Antibody Association."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Scleroderma",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5173",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticoste",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency department evaluation is commenced for a 68-year-old male who presents to the academic medical center tertiary emergency care pavilion with acute decompensation from Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections. Rapid triage confirms median nerve compression at wrist confirmed by EMG/NCS; nocturnal neutral-position splinting first-line prior to carpal tunnel surgical release. Clinical observations demonstrate blood pressure 129/77 mm Hg, pulse 83/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Median nerve compression at wrist confirmed by emg/ncs; nocturnal neutral-position splinting first-line prior to carpal tunnel surgical release",
+        "explanation": "In accordance with accredited clinical practice guidelines, median nerve compression at wrist confirmed by EMG/NCS; nocturnal neutral-position splinting first-line prior to carpal tunnel surgical release represents the established gold standard mechanism, diagnostic confirmation, or management priority for Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, median nerve compression at wrist confirmed by EMG/NCS; nocturnal neutral-position splinting first-line prior to carpal tunnel surgical release represents the established gold standard mechanism, diagnostic confirmation, or management priority for Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections. In the clinical approach to Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Carpal Tunnel Syndrome Initial Volar Wrist Splinting in Neutral and Corticosteroid Injections."
+    ],
+    "references": [
+      {
+        "label": "AAOS Clinical Practice Guideline on Carpal Tunnel",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5174",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal C",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit for targeted evaluation of suspected Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis. Detailed biochemical analysis demonstrates rapid trunk and proximal extremity skin involvement with high risk of oliguric acute renal failure and malignant hypertension treated with ACE inhibitors. Clinical observations demonstrate blood pressure 130/78 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Rapid trunk and proximal extremity skin involvement with high risk of oliguric acute renal failure and malignant hypertension treated with ace inhibitors",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid trunk and proximal extremity skin involvement with high risk of oliguric acute renal failure and malignant hypertension treated with ACE inhibitors represents the established gold standard mechanism, diagnostic confirmation, or management priority for Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid trunk and proximal extremity skin involvement with high risk of oliguric acute renal failure and malignant hypertension treated with ACE inhibitors represents the established gold standard mechanism, diagnostic confirmation, or management priority for Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis. In the clinical approach to Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Diffuse Cutaneous Scleroderma Anti-Scl-70 (Topoisomerase I) Antibodies Renal Crisis."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Scleroderma Renal Crisis",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5175",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterfor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old male with acute destabilization attends the comprehensive regional ambulatory and diagnostic health pavilion for definitive management of Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing. Rapid initial diagnostic workup identifies repetitive wrist extension pain over lateral epicondyle treated with eccentric physical therapy, counterforce forearm strap, and activity modification. Clinical observations demonstrate blood pressure 131/79 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Repetitive wrist extension pain over lateral epicondyle treated with eccentric physical therapy, counterforce forearm strap, and activity modification",
+        "explanation": "In accordance with accredited clinical practice guidelines, repetitive wrist extension pain over lateral epicondyle treated with eccentric physical therapy, counterforce forearm strap, and activity modification represents the established gold standard mechanism, diagnostic confirmation, or management priority for Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, repetitive wrist extension pain over lateral epicondyle treated with eccentric physical therapy, counterforce forearm strap, and activity modification represents the established gold standard mechanism, diagnostic confirmation, or management priority for Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing. In the clinical approach to Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Lateral Epicondylitis (Tennis Elbow) Extensor Carpi Radialis Brevis Counterforce Bracing."
+    ],
+    "references": [
+      {
+        "label": "AAOS Guidelines on Tendinopathies",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5176",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibod",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic investigation is undertaken for a 60-year-old female who attends the multidisciplinary continuity referral pavilion for targeted evaluation presenting with features of Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies. Specialized laboratory testing reveals CD4+ T-cell and B-cell mediated destruction of lacrimal and salivary exocrine glands causing keratoconjunctivitis sicca and xerostomia. Clinical observations demonstrate blood pressure 132/80 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Cd4+ t-cell and b-cell mediated destruction of lacrimal and salivary exocrine glands causing keratoconjunctivitis sicca and xerostomia",
+        "explanation": "In accordance with accredited clinical practice guidelines, CD4+ T-cell and B-cell mediated destruction of lacrimal and salivary exocrine glands causing keratoconjunctivitis sicca and xerostomia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, CD4+ T-cell and B-cell mediated destruction of lacrimal and salivary exocrine glands causing keratoconjunctivitis sicca and xerostomia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies. In the clinical approach to Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sj\u00f6gren Syndrome Autoimmune Lymphocytic Infiltration Ro/SSA and La/SSB Antibodies."
+    ],
+    "references": [
+      {
+        "label": "ACR Clinical Practice Guidelines on Sj\u00f6gren Syndrome",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5177",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silico",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old male presents to the regional emergency receiving and resuscitation center presenting with acute clinical manifestations indicative of Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups. Urgent physical examination demonstrates stabbing heel tenderness at medial calcaneal tubercle managed conservatively with plantar fascia and Achilles stretching and night splints. Clinical observations demonstrate blood pressure 133/81 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Stabbing heel tenderness at medial calcaneal tubercle managed conservatively with plantar fascia and achilles stretching and night splints",
+        "explanation": "In accordance with accredited clinical practice guidelines, stabbing heel tenderness at medial calcaneal tubercle managed conservatively with plantar fascia and Achilles stretching and night splints represents the established gold standard mechanism, diagnostic confirmation, or management priority for Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, stabbing heel tenderness at medial calcaneal tubercle managed conservatively with plantar fascia and Achilles stretching and night splints represents the established gold standard mechanism, diagnostic confirmation, or management priority for Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups. In the clinical approach to Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Plantar Fasciitis Inferior Heel Pain Morning First Steps Stretching and Silicone Heel Cups."
+    ],
+    "references": [
+      {
+        "label": "ACFAS Clinical Practice Guidelines on Heel Pain",
+        "url": "https://www.acfas.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5178",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregul",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Clinical assessment is conducted for a 76-year-old female who is examined in the urgent ambulatory specialist clinic due to suspected Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation. Further laboratory investigation confirms symmetric proximal muscle weakness without skin involvement showing non-necrotic muscle fiber invasion by CD8+ lymphocytes. Clinical observations demonstrate blood pressure 134/82 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Symmetric proximal muscle weakness without skin involvement showing non-necrotic muscle fiber invasion by cd8+ lymphocytes",
+        "explanation": "In accordance with accredited clinical practice guidelines, symmetric proximal muscle weakness without skin involvement showing non-necrotic muscle fiber invasion by CD8+ lymphocytes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, symmetric proximal muscle weakness without skin involvement showing non-necrotic muscle fiber invasion by CD8+ lymphocytes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation. In the clinical approach to Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Polymyositis CD8+ Cytotoxic T-Cell Endomysial Infiltration MHC Class I Upregulation."
+    ],
+    "references": [
+      {
+        "label": "ACR/EULAR Guidelines for Idiopathic Inflammatory Myopathies",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5179",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center with acute presentation of Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management. Urgent bedside examination and point-of-care diagnostics demonstrate inability to plantarflex ankle upon squeezing calf muscle; functional rehabilitation in equinus cast or surgical percutaneous repair in athletes. Clinical observations demonstrate blood pressure 135/83 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Inability to plantarflex ankle upon squeezing calf muscle; functional rehabilitation in equinus cast or surgical percutaneous repair in athletes",
+        "explanation": "In accordance with accredited clinical practice guidelines, inability to plantarflex ankle upon squeezing calf muscle; functional rehabilitation in equinus cast or surgical percutaneous repair in athletes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inability to plantarflex ankle upon squeezing calf muscle; functional rehabilitation in equinus cast or surgical percutaneous repair in athletes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management. In the clinical approach to Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Achilles Tendon Rupture Sudden Pop and Positive Thompson Squeeze Test Management."
+    ],
+    "references": [
+      {
+        "label": "AAOS Practice Guidelines on Achilles Rupture",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5180",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old female with progressive symptomatic dysfunction presents to the academic medical center tertiary emergency care pavilion requiring evaluation for Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy. Pathological testing confirms antibody-mediated microangiopathy producing Gottron papules, heliotrope violaceous eyelid rash, and strong association with visceral malignancy. Clinical observations demonstrate blood pressure 136/84 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Antibody-mediated microangiopathy producing gottron papules, heliotrope violaceous eyelid rash, and strong association with visceral malignancy",
+        "explanation": "In accordance with accredited clinical practice guidelines, antibody-mediated microangiopathy producing Gottron papules, heliotrope violaceous eyelid rash, and strong association with visceral malignancy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, antibody-mediated microangiopathy producing Gottron papules, heliotrope violaceous eyelid rash, and strong association with visceral malignancy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy. In the clinical approach to Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dermatomyositis CD4+ T-Cell and B-Cell Perimysial Infiltration Perifascicular Atrophy."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines on Inflammatory Myopathies",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5181",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 68-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with symptomatic deterioration from suspected Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria. Bedside evaluation demonstrates audible pop, immediate hemarthrosis, and positive Lachman/pivot-shift tests; autograft or allograft ACL reconstruction in young active patients. Clinical observations demonstrate blood pressure 137/85 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Audible pop, immediate hemarthrosis, and positive lachman/pivot-shift tests; autograft or allograft acl reconstruction in young active patients",
+        "explanation": "In accordance with accredited clinical practice guidelines, audible pop, immediate hemarthrosis, and positive Lachman/pivot-shift tests; autograft or allograft ACL reconstruction in young active patients represents the established gold standard mechanism, diagnostic confirmation, or management priority for Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, audible pop, immediate hemarthrosis, and positive Lachman/pivot-shift tests; autograft or allograft ACL reconstruction in young active patients represents the established gold standard mechanism, diagnostic confirmation, or management priority for Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria. In the clinical approach to Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Anterior Cruciate Ligament (ACL) Tear Lachman Test and Reconstructive Surgery Criteria."
+    ],
+    "references": [
+      {
+        "label": "AAOS Guidelines on Knee Ligament Injuries",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5182",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruct",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old female attends the comprehensive regional ambulatory and diagnostic health pavilion with clinical and physical signs consistent with Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction. Molecular and microscopic evaluation confirms complement-mediated destruction of nicotinic ACh receptors and functional block at neuromuscular junction with thymic hyperplasia or thymoma. Clinical observations demonstrate blood pressure 138/86 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Complement-mediated destruction of nicotinic ach receptors and functional block at neuromuscular junction with thymic hyperplasia or thymoma",
+        "explanation": "In accordance with accredited clinical practice guidelines, complement-mediated destruction of nicotinic ACh receptors and functional block at neuromuscular junction with thymic hyperplasia or thymoma represents the established gold standard mechanism, diagnostic confirmation, or management priority for Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, complement-mediated destruction of nicotinic ACh receptors and functional block at neuromuscular junction with thymic hyperplasia or thymoma represents the established gold standard mechanism, diagnostic confirmation, or management priority for Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction. In the clinical approach to Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Autoantibodies Post-Synaptic Acetylcholine Receptor Destruction."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Myasthenia Gravis",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5183",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthrosc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency department evaluation is commenced for a 20-year-old male who attends the multidisciplinary continuity referral pavilion for targeted evaluation with acute decompensation from Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy. Rapid triage confirms mechanical locking and catching with joint-line tenderness; trial of rest and physical therapy for degenerative tears, arthroscopy for locked joints. Clinical observations demonstrate blood pressure 139/87 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Mechanical locking and catching with joint-line tenderness; trial of rest and physical therapy for degenerative tears, arthroscopy for locked joints",
+        "explanation": "In accordance with accredited clinical practice guidelines, mechanical locking and catching with joint-line tenderness; trial of rest and physical therapy for degenerative tears, arthroscopy for locked joints represents the established gold standard mechanism, diagnostic confirmation, or management priority for Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, mechanical locking and catching with joint-line tenderness; trial of rest and physical therapy for degenerative tears, arthroscopy for locked joints represents the established gold standard mechanism, diagnostic confirmation, or management priority for Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy. In the clinical approach to Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Meniscal Tear Joint Line Tenderness McMurray Test and Conservative vs Arthroscopy."
+    ],
+    "references": [
+      {
+        "label": "AAOS Guidelines on Meniscus Care",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5184",
+    "exam": "Step 1",
+    "subject": "Pathology",
+    "system": "Musculoskeletal",
+    "topic": "Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old female presents to the regional emergency receiving and resuscitation center for targeted evaluation of suspected Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels. Detailed biochemical analysis demonstrates impaired vesicular acetylcholine exocytosis with incremental muscle strength improvement on repetitive nerve stimulation linked to small cell lung cancer. Clinical observations demonstrate blood pressure 116/72 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Impaired vesicular acetylcholine exocytosis with incremental muscle strength improvement on repetitive nerve stimulation linked to small cell lung cancer",
+        "explanation": "In accordance with accredited clinical practice guidelines, impaired vesicular acetylcholine exocytosis with incremental muscle strength improvement on repetitive nerve stimulation linked to small cell lung cancer represents the established gold standard mechanism, diagnostic confirmation, or management priority for Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, impaired vesicular acetylcholine exocytosis with incremental muscle strength improvement on repetitive nerve stimulation linked to small cell lung cancer represents the established gold standard mechanism, diagnostic confirmation, or management priority for Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels. In the clinical approach to Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Lambert-Eaton Myasthenic Syndrome Autoantibodies Presynaptic P/Q-Type Voltage-Gated Calcium Channels."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Neuromuscular Junction Disorders",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5185",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-R",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old male with acute destabilization is examined in the urgent ambulatory specialist clinic for definitive management of Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI. Rapid initial diagnostic workup identifies recurrent microtrauma in runners or military recruits showing focal bony tenderness; early plain radiograph often negative requiring MRI or boot immobilization. Clinical observations demonstrate blood pressure 117/73 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Recurrent microtrauma in runners or military recruits showing focal bony tenderness; early plain radiograph often negative requiring mri or boot immobilization",
+        "explanation": "In accordance with accredited clinical practice guidelines, recurrent microtrauma in runners or military recruits showing focal bony tenderness; early plain radiograph often negative requiring MRI or boot immobilization represents the established gold standard mechanism, diagnostic confirmation, or management priority for Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, recurrent microtrauma in runners or military recruits showing focal bony tenderness; early plain radiograph often negative requiring MRI or boot immobilization represents the established gold standard mechanism, diagnostic confirmation, or management priority for Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI. In the clinical approach to Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Stress Fracture Metatarsal Shaft Insidious Pain Focal Tenderness and Plain X-Ray vs MRI."
+    ],
+    "references": [
+      {
+        "label": "ACR Appropriateness Criteria on Stress Fractures",
+        "url": "https://www.acr.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5186",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic investigation is undertaken for a 76-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center presenting with features of Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene. Specialized laboratory testing reveals loss of cytoskeletal protein connecting intracellular F-actin to transmembrane dystroglycan complex causing fibrofatty replacement and pseudo-hypertrophy. Clinical observations demonstrate blood pressure 118/74 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Loss of cytoskeletal protein connecting intracellular f-actin to transmembrane dystroglycan complex causing fibrofatty replacement and pseudo-hypertrophy",
+        "explanation": "In accordance with accredited clinical practice guidelines, loss of cytoskeletal protein connecting intracellular F-actin to transmembrane dystroglycan complex causing fibrofatty replacement and pseudo-hypertrophy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, loss of cytoskeletal protein connecting intracellular F-actin to transmembrane dystroglycan complex causing fibrofatty replacement and pseudo-hypertrophy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene. In the clinical approach to Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Duchenne Muscular Dystrophy X-Linked Frameshift Deletion of Dystrophin Gene."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Dystrophinopathies",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5187",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 52-year-old male presents to the academic medical center tertiary emergency care pavilion presenting with acute clinical manifestations indicative of Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure. Urgent physical examination demonstrates tense woody edema and severe pain on passive stretch with compartment delta pressure <= 30 mm Hg mandating emergent decompressive fasciotomy. Clinical observations demonstrate blood pressure 119/75 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Tense woody edema and severe pain on passive stretch with compartment delta pressure <= 30 mm hg mandating emergent decompressive fasciotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines, tense woody edema and severe pain on passive stretch with compartment delta pressure <= 30 mm Hg mandating emergent decompressive fasciotomy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, tense woody edema and severe pain on passive stretch with compartment delta pressure <= 30 mm Hg mandating emergent decompressive fasciotomy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure. In the clinical approach to Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Compartment Syndrome Pain Out of Proportion and Urgent Bedside Intracompartmental Pressure."
+    ],
+    "references": [
+      {
+        "label": "AAOS Practice Guidelines on Compartment Syndrome",
+        "url": "https://www.aaos.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5188",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Clinical assessment is conducted for a 28-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit due to suspected Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene. Further laboratory investigation confirms synthesis of partially functional truncated dystrophin protein producing milder adult-onset proximal weakness with cardiac cardiomyopathy risk. Clinical observations demonstrate blood pressure 120/76 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Synthesis of partially functional truncated dystrophin protein producing milder adult-onset proximal weakness with cardiac cardiomyopathy risk",
+        "explanation": "In accordance with accredited clinical practice guidelines, synthesis of partially functional truncated dystrophin protein producing milder adult-onset proximal weakness with cardiac cardiomyopathy risk represents the established gold standard mechanism, diagnostic confirmation, or management priority for Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, synthesis of partially functional truncated dystrophin protein producing milder adult-onset proximal weakness with cardiac cardiomyopathy risk represents the established gold standard mechanism, diagnostic confirmation, or management priority for Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene. In the clinical approach to Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Becker Muscular Dystrophy X-Linked In-Frame Deletion of Dystrophin Gene."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Muscular Dystrophy",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5189",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Emp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male attends the comprehensive regional ambulatory and diagnostic health pavilion with acute presentation of Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics. Urgent bedside examination and point-of-care diagnostics demonstrate palpable bone with sterile probe carrying high predictive value; deep operative bone culture preferred over superficial swab guiding targeted therapy. Clinical observations demonstrate blood pressure 121/77 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Palpable bone with sterile probe carrying high predictive value; deep operative bone culture preferred over superficial swab guiding targeted therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, palpable bone with sterile probe carrying high predictive value; deep operative bone culture preferred over superficial swab guiding targeted therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, palpable bone with sterile probe carrying high predictive value; deep operative bone culture preferred over superficial swab guiding targeted therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics. In the clinical approach to Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteomyelitis in Diabetic Foot Ulcer Probe-to-Bone Test and Bone Biopsy vs Empiric Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "IDSA Guidelines for Diabetic Foot Infections",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5190",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "Musculoskeletal",
+    "topic": "Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old female with progressive symptomatic dysfunction attends the multidisciplinary continuity referral pavilion for targeted evaluation requiring evaluation for Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism. Pathological testing confirms inadequate 25-hydroxyvitamin D leading to impaired intestinal calcium absorption with PTH elevation wasting phosphate in urine. Clinical observations demonstrate blood pressure 122/78 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Inadequate 25-hydroxyvitamin d leading to impaired intestinal calcium absorption with pth elevation wasting phosphate in urine",
+        "explanation": "In accordance with accredited clinical practice guidelines, inadequate 25-hydroxyvitamin D leading to impaired intestinal calcium absorption with PTH elevation wasting phosphate in urine represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inadequate 25-hydroxyvitamin D leading to impaired intestinal calcium absorption with PTH elevation wasting phosphate in urine represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism. In the clinical approach to Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteomalacia Low Serum Calcium and Phosphate with Secondary Hyperparathyroidism."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society Bone Metabolism Guidelines",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5191",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Con",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 20-year-old male who presents to the regional emergency receiving and resuscitation center with symptomatic deterioration from suspected Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI. Bedside evaluation demonstrates subacute focal spine tenderness and fever evaluated with blood cultures and spine MRI; CT-guided needle biopsy if blood cultures negative. Clinical observations demonstrate blood pressure 123/79 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Subacute focal spine tenderness and fever evaluated with blood cultures and spine mri; ct-guided needle biopsy if blood cultures negative",
+        "explanation": "In accordance with accredited clinical practice guidelines, subacute focal spine tenderness and fever evaluated with blood cultures and spine MRI; CT-guided needle biopsy if blood cultures negative represents the established gold standard mechanism, diagnostic confirmation, or management priority for Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, subacute focal spine tenderness and fever evaluated with blood cultures and spine MRI; CT-guided needle biopsy if blood cultures negative represents the established gold standard mechanism, diagnostic confirmation, or management priority for Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI. In the clinical approach to Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Vertebral Osteomyelitis and Discitis Back Pain and Elevated ESR/CRP Urgent Contrast MRI."
+    ],
+    "references": [
+      {
+        "label": "IDSA Practice Guidelines for Vertebral Osteomyelitis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5192",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthas",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 60-year-old female is examined in the urgent ambulatory specialist clinic with clinical and physical signs consistent with Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition. Molecular and microscopic evaluation confirms structural analogues of pyrophosphate binding hydroxyapatite inhibiting osteoclast mevalonate pathway inducing osteoclast apoptosis. Clinical observations demonstrate blood pressure 124/80 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Structural analogues of pyrophosphate binding hydroxyapatite inhibiting osteoclast mevalonate pathway inducing osteoclast apoptosis",
+        "explanation": "In accordance with accredited clinical practice guidelines, structural analogues of pyrophosphate binding hydroxyapatite inhibiting osteoclast mevalonate pathway inducing osteoclast apoptosis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, structural analogues of pyrophosphate binding hydroxyapatite inhibiting osteoclast mevalonate pathway inducing osteoclast apoptosis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition. In the clinical approach to Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Bisphosphonates Alendronate and Zoledronic Acid Farnesyl Pyrophosphate Synthase Inhibition."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5193",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indicati",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency department evaluation is commenced for a 36-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with acute decompensation from Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications. Rapid triage confirms routine screening at age >= 65 in women; oral alendronate or IV zoledronic acid first line with dental examination prior to initiation. Clinical observations demonstrate blood pressure 125/81 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Routine screening at age >= 65 in women; oral alendronate or iv zoledronic acid first line with dental examination prior to initiation",
+        "explanation": "In accordance with accredited clinical practice guidelines, routine screening at age >= 65 in women; oral alendronate or IV zoledronic acid first line with dental examination prior to initiation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, routine screening at age >= 65 in women; oral alendronate or IV zoledronic acid first line with dental examination prior to initiation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications. In the clinical approach to Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Osteoporosis Screening DEXA T-Score Below -2.5 Bisphosphonate Therapy Indications."
+    ],
+    "references": [
+      {
+        "label": "AACE/ACE Clinical Practice Guidelines for Postmenopausal Osteoporosis",
+        "url": "https://www.endocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5194",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old female presents to the academic medical center tertiary emergency care pavilion for targeted evaluation of suspected Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL). Detailed biochemical analysis demonstrates mimicking osteoprotegerin (OPG) binding RANKL preventing osteoclast maturation and survival used in refractory osteoporosis and bone metastases. Clinical observations demonstrate blood pressure 126/82 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Mimicking osteoprotegerin (opg) binding rankl preventing osteoclast maturation and survival used in refractory osteoporosis and bone metastases",
+        "explanation": "In accordance with accredited clinical practice guidelines, mimicking osteoprotegerin (OPG) binding RANKL preventing osteoclast maturation and survival used in refractory osteoporosis and bone metastases represents the established gold standard mechanism, diagnostic confirmation, or management priority for Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL).",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, mimicking osteoprotegerin (OPG) binding RANKL preventing osteoclast maturation and survival used in refractory osteoporosis and bone metastases represents the established gold standard mechanism, diagnostic confirmation, or management priority for Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL). In the clinical approach to Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL), thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL).",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Denosumab Fully Human Monoclonal Antibody Direct Inhibition of RANK-Ligand (RANKL)."
+    ],
+    "references": [
+      {
+        "label": "AACE/ACE Clinical Practice Guidelines for Osteoporosis",
+        "url": "https://www.prognosis.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5195",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old male with acute destabilization is evaluated in the specialized ambulatory procedural and diagnostic unit for definitive management of Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates. Rapid initial diagnostic workup identifies prodromal thigh or groin ache with cortical thickening on X-ray; immediate cessation of bisphosphonates and prophylactic intramedullary rodding. Clinical observations demonstrate blood pressure 127/83 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prodromal thigh or groin ache with cortical thickening on x-ray; immediate cessation of bisphosphonates and prophylactic intramedullary rodding",
+        "explanation": "In accordance with accredited clinical practice guidelines, prodromal thigh or groin ache with cortical thickening on X-ray; immediate cessation of bisphosphonates and prophylactic intramedullary rodding represents the established gold standard mechanism, diagnostic confirmation, or management priority for Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, prodromal thigh or groin ache with cortical thickening on X-ray; immediate cessation of bisphosphonates and prophylactic intramedullary rodding represents the established gold standard mechanism, diagnostic confirmation, or management priority for Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates. In the clinical approach to Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Atypical Femoral Fractures Subtrochanteric Chalk-Stick Fracture Prolonged Bisphosphonates."
+    ],
+    "references": [
+      {
+        "label": "ASBMR Task Force on Atypical Femoral Fractures",
+        "url": "https://www.asbmr.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5196",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic investigation is undertaken for a 28-year-old female who attends the comprehensive regional ambulatory and diagnostic health pavilion presenting with features of Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade. Specialized laboratory testing reveals inhibition of prostaglandin synthase preventing arachidonic acid conversion into PGE2, PGF2alpha, and prostacyclin. Clinical observations demonstrate blood pressure 128/84 mm Hg, pulse 76/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Inhibition of prostaglandin synthase preventing arachidonic acid conversion into pge2, pgf2alpha, and prostacyclin",
+        "explanation": "In accordance with accredited clinical practice guidelines, inhibition of prostaglandin synthase preventing arachidonic acid conversion into PGE2, PGF2alpha, and prostacyclin represents the established gold standard mechanism, diagnostic confirmation, or management priority for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inhibition of prostaglandin synthase preventing arachidonic acid conversion into PGE2, PGF2alpha, and prostacyclin represents the established gold standard mechanism, diagnostic confirmation, or management priority for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade. In the clinical approach to Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) Reversible Cyclooxygenase (COX-1/COX-2) Blockade."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5197",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old male attends the multidisciplinary continuity referral pavilion for targeted evaluation presenting with acute clinical manifestations indicative of Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours. Urgent physical examination demonstrates intravenous recombinant tPA within 4.5 hours of last known normal after excluding hemorrhage on non-contrast head CT and BP < 185/110. Clinical observations demonstrate blood pressure 129/85 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous recombinant tpa within 4.5 hours of last known normal after excluding hemorrhage on non-contrast head ct and bp < 185/110",
+        "explanation": "In accordance with accredited clinical practice guidelines, intravenous recombinant tPA within 4.5 hours of last known normal after excluding hemorrhage on non-contrast head CT and BP < 185/110 represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intravenous recombinant tPA within 4.5 hours of last known normal after excluding hemorrhage on non-contrast head CT and BP < 185/110 represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours. In the clinical approach to Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Intravenous Thrombolysis (Tenecteplase/Alteplase) Window <= 4.5 Hours."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Guidelines for the Early Management of Acute Ischemic Stroke",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5198",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Clinical assessment is conducted for a 44-year-old female who presents to the regional emergency receiving and resuscitation center due to suspected Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance. Further laboratory investigation confirms sparing gastric mucosal protective COX-1 while inhibiting endothelial prostacyclin raising relative platelet thromboxane A2 thrombosis risk. Clinical observations demonstrate blood pressure 130/86 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Sparing gastric mucosal protective cox-1 while inhibiting endothelial prostacyclin raising relative platelet thromboxane a2 thrombosis risk",
+        "explanation": "In accordance with accredited clinical practice guidelines, sparing gastric mucosal protective COX-1 while inhibiting endothelial prostacyclin raising relative platelet thromboxane A2 thrombosis risk represents the established gold standard mechanism, diagnostic confirmation, or management priority for Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sparing gastric mucosal protective COX-1 while inhibiting endothelial prostacyclin raising relative platelet thromboxane A2 thrombosis risk represents the established gold standard mechanism, diagnostic confirmation, or management priority for Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance. In the clinical approach to Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Celecoxib Selective Cyclooxygenase-2 (COX-2) Inhibitor Endothelial Thromboxane Imbalance."
+    ],
+    "references": [
+      {
+        "label": "AHA Guidelines on NSAID Cardiovascular Safety",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5199",
+    "exam": "Step 2 CK",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old male is examined in the urgent ambulatory specialist clinic with acute presentation of Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours. Urgent bedside examination and point-of-care diagnostics demonstrate catheter-directed mechanical thrombectomy for internal carotid or proximal MCA occlusion up to 24 hours guided by perfusion imaging (DAWN/DEFUSE-3). Clinical observations demonstrate blood pressure 131/87 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Catheter-directed mechanical thrombectomy for internal carotid or proximal mca occlusion up to 24 hours guided by perfusion imaging (dawn/defuse-3)",
+        "explanation": "In accordance with accredited clinical practice guidelines, catheter-directed mechanical thrombectomy for internal carotid or proximal MCA occlusion up to 24 hours guided by perfusion imaging (DAWN/DEFUSE-3) represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, catheter-directed mechanical thrombectomy for internal carotid or proximal MCA occlusion up to 24 hours guided by perfusion imaging (DAWN/DEFUSE-3) represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours. In the clinical approach to Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy Window <= 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Stroke Guidelines",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5200",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Seri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old female with progressive symptomatic dysfunction is referred for subspecialty assessment in the tertiary ambulatory care center requiring evaluation for Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529. Pathological testing confirms permanent covalent inactivation of COX-1 abolishing platelet thromboxane A2 production for the 7-10 day lifespan of circulating platelets. Clinical observations demonstrate blood pressure 132/72 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Permanent covalent inactivation of cox-1 abolishing platelet thromboxane a2 production for the 7-10 day lifespan of circulating platelets",
+        "explanation": "In accordance with accredited clinical practice guidelines, permanent covalent inactivation of COX-1 abolishing platelet thromboxane A2 production for the 7-10 day lifespan of circulating platelets represents the established gold standard mechanism, diagnostic confirmation, or management priority for Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, permanent covalent inactivation of COX-1 abolishing platelet thromboxane A2 production for the 7-10 day lifespan of circulating platelets represents the established gold standard mechanism, diagnostic confirmation, or management priority for Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529. In the clinical approach to Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Aspirin Irreversible Acetylation of Platelet Cyclooxygenase-1 Active Site Serine 529."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5201",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 36-year-old male who presents to the academic medical center tertiary emergency care pavilion with symptomatic deterioration from suspected Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension. Bedside evaluation demonstrates labetalol/nicardipine lowering BP < 185/110 for thrombolysis; allowing permissive hypertension up to 220/120 in non-thrombolysis patients to preserve perfusion. Clinical observations demonstrate blood pressure 133/73 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Labetalol/nicardipine lowering bp < 185/110 for thrombolysis; allowing permissive hypertension up to 220/120 in non-thrombolysis patients to preserve perfusion",
+        "explanation": "In accordance with accredited clinical practice guidelines, labetalol/nicardipine lowering BP < 185/110 for thrombolysis; allowing permissive hypertension up to 220/120 in non-thrombolysis patients to preserve perfusion represents the established gold standard mechanism, diagnostic confirmation, or management priority for Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, labetalol/nicardipine lowering BP < 185/110 for thrombolysis; allowing permissive hypertension up to 220/120 in non-thrombolysis patients to preserve perfusion represents the established gold standard mechanism, diagnostic confirmation, or management priority for Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension. In the clinical approach to Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Blood Pressure Control in Acute Stroke Thrombolysis Candidate vs Non-Candidate Permissive Hypertension."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Acute Stroke Management",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5202",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Perox",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit with clinical and physical signs consistent with Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage. Molecular and microscopic evaluation confirms antipyretic and analgesic activity mediated in CNS through cannabinoid receptor modulation without peripheral anti-inflammatory efficacy. Clinical observations demonstrate blood pressure 134/74 mm Hg, pulse 82/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Antipyretic and analgesic activity mediated in cns through cannabinoid receptor modulation without peripheral anti-inflammatory efficacy",
+        "explanation": "In accordance with accredited clinical practice guidelines, antipyretic and analgesic activity mediated in CNS through cannabinoid receptor modulation without peripheral anti-inflammatory efficacy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, antipyretic and analgesic activity mediated in CNS through cannabinoid receptor modulation without peripheral anti-inflammatory efficacy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage. In the clinical approach to Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acetaminophen (Paracetamol) Centrally Mediated Cyclooxygenase Inhibition Peroxidase Cleavage."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5203",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency department evaluation is commenced for a 52-year-old male who attends the comprehensive regional ambulatory and diagnostic health pavilion with acute decompensation from Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg. Rapid triage confirms rapid continuous IV nicardipine/clevidipine titration targeting SBP 130-140 mm Hg along with urgent reversal of coagulopathy. Clinical observations demonstrate blood pressure 135/75 mm Hg, pulse 83/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Rapid continuous iv nicardipine/clevidipine titration targeting sbp 130-140 mm hg along with urgent reversal of coagulopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapid continuous IV nicardipine/clevidipine titration targeting SBP 130-140 mm Hg along with urgent reversal of coagulopathy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapid continuous IV nicardipine/clevidipine titration targeting SBP 130-140 mm Hg along with urgent reversal of coagulopathy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg. In the clinical approach to Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Spontaneous Intracerebral Hemorrhage Emergent Systolic Blood Pressure Lowering < 140 mm Hg."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Guidelines for Spontaneous Intracerebral Hemorrhage",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5204",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcyste",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old female attends the multidisciplinary continuity referral pavilion for targeted evaluation for targeted evaluation of suspected Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine. Detailed biochemical analysis demonstrates CYP2E1 metabolism saturating hepatic glutathione with NAPQI binding mitochondrial proteins causing centrilobular liver necrosis reversed by NAC. Clinical observations demonstrate blood pressure 136/76 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Cyp2e1 metabolism saturating hepatic glutathione with napqi binding mitochondrial proteins causing centrilobular liver necrosis reversed by nac",
+        "explanation": "In accordance with accredited clinical practice guidelines, CYP2E1 metabolism saturating hepatic glutathione with NAPQI binding mitochondrial proteins causing centrilobular liver necrosis reversed by NAC represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, CYP2E1 metabolism saturating hepatic glutathione with NAPQI binding mitochondrial proteins causing centrilobular liver necrosis reversed by NAC represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine. In the clinical approach to Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acetaminophen Toxicity N-Acetyl-p-Benzoquinone Imine (NAPQI) and N-Acetylcysteine."
+    ],
+    "references": [
+      {
+        "label": "ACMT Practice Guidelines on Acetaminophen Poisoning",
+        "url": "https://www.acmt.net/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5205",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old male with acute destabilization presents to the regional emergency receiving and resuscitation center for definitive management of Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg. Rapid initial diagnostic workup identifies oral nimodipine initiated within 96 hours and continued for 21 days reducing delayed cerebral ischemia and poor neurological outcomes. Clinical observations demonstrate blood pressure 137/77 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Oral nimodipine initiated within 96 hours and continued for 21 days reducing delayed cerebral ischemia and poor neurological outcomes",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral nimodipine initiated within 96 hours and continued for 21 days reducing delayed cerebral ischemia and poor neurological outcomes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral nimodipine initiated within 96 hours and continued for 21 days reducing delayed cerebral ischemia and poor neurological outcomes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg. In the clinical approach to Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Aneurysmal Subarachnoid Hemorrhage Vasospasm Prophylaxis Oral Nimodipine 60 mg."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Guidelines for the Management of Aneurysmal SAH",
+        "url": "https://www.ahajournals.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5206",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic investigation is undertaken for a 44-year-old female who is examined in the urgent ambulatory specialist clinic presenting with features of Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block. Specialized laboratory testing reveals closure of presynaptic voltage-gated Ca2+ channels and opening of postsynaptic GIRK potassium channels hyperpolarizing pain neurons. Clinical observations demonstrate blood pressure 138/78 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Closure of presynaptic voltage-gated ca2+ channels and opening of postsynaptic girk potassium channels hyperpolarizing pain neurons",
+        "explanation": "In accordance with accredited clinical practice guidelines, closure of presynaptic voltage-gated Ca2+ channels and opening of postsynaptic GIRK potassium channels hyperpolarizing pain neurons represents the established gold standard mechanism, diagnostic confirmation, or management priority for Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, closure of presynaptic voltage-gated Ca2+ channels and opening of postsynaptic GIRK potassium channels hyperpolarizing pain neurons represents the established gold standard mechanism, diagnostic confirmation, or management priority for Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block. In the clinical approach to Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Opioid Receptors Mu, Kappa, and Delta Gi-Coupled Potassium Efflux and Calcium Influx Block."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5207",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 20-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center presenting with acute clinical manifestations indicative of Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam. Urgent physical examination demonstrates IV lorazepam 4 mg bolus (or IM midazolam) at 5 minutes, followed immediately by IV levetiracetam, fosphenytoin, or valproate at 10-20 minutes. Clinical observations demonstrate blood pressure 139/79 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Iv lorazepam 4 mg bolus (or im midazolam) at 5 minutes, followed immediately by iv levetiracetam, fosphenytoin, or valproate at 10-20 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines, IV lorazepam 4 mg bolus (or IM midazolam) at 5 minutes, followed immediately by IV levetiracetam, fosphenytoin, or valproate at 10-20 minutes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, IV lorazepam 4 mg bolus (or IM midazolam) at 5 minutes, followed immediately by IV levetiracetam, fosphenytoin, or valproate at 10-20 minutes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam. In the clinical approach to Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Status Epilepticus First-Line Intravenous Lorazepam Followed by Levetiracetam."
+    ],
+    "references": [
+      {
+        "label": "AES Guidelines on Status Epilepticus",
+        "url": "https://www.aesnet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5208",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Depen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Clinical assessment is conducted for a 60-year-old female who presents to the academic medical center tertiary emergency care pavilion due to suspected Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence. Further laboratory investigation confirms high-affinity competitive displacement of opioids at mu receptors; naloxone rapid IV/intranasal reversal, naltrexone long-acting oral relapse prevention. Clinical observations demonstrate blood pressure 116/80 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "High-affinity competitive displacement of opioids at mu receptors; naloxone rapid iv/intranasal reversal, naltrexone long-acting oral relapse prevention",
+        "explanation": "In accordance with accredited clinical practice guidelines, high-affinity competitive displacement of opioids at mu receptors; naloxone rapid IV/intranasal reversal, naltrexone long-acting oral relapse prevention represents the established gold standard mechanism, diagnostic confirmation, or management priority for Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, high-affinity competitive displacement of opioids at mu receptors; naloxone rapid IV/intranasal reversal, naltrexone long-acting oral relapse prevention represents the established gold standard mechanism, diagnostic confirmation, or management priority for Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence. In the clinical approach to Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Naloxone and Naltrexone Pure Opioid Competitive Antagonists Overdose and Dependence."
+    ],
+    "references": [
+      {
+        "label": "ASAM National Practice Guideline for Addiction Medicine",
+        "url": "https://www.asam.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5209",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmon",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit with acute presentation of Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring. Urgent bedside examination and point-of-care diagnostics demonstrate frequent monitoring of vital capacity and negative inspiratory force; treatment with IVIG or plasmapheresis, avoiding corticosteroids. Clinical observations demonstrate blood pressure 117/81 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Frequent monitoring of vital capacity and negative inspiratory force; treatment with ivig or plasmapheresis, avoiding corticosteroids",
+        "explanation": "In accordance with accredited clinical practice guidelines, frequent monitoring of vital capacity and negative inspiratory force; treatment with IVIG or plasmapheresis, avoiding corticosteroids represents the established gold standard mechanism, diagnostic confirmation, or management priority for Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, frequent monitoring of vital capacity and negative inspiratory force; treatment with IVIG or plasmapheresis, avoiding corticosteroids represents the established gold standard mechanism, diagnostic confirmation, or management priority for Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring. In the clinical approach to Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Guillain-Barr\u00e9 Syndrome Ascending Paralysis IVIG or Plasma Exchange and Pulmonary Monitoring."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Guillain-Barr\u00e9 Syndrome",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5210",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channe",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 76-year-old female with progressive symptomatic dysfunction attends the comprehensive regional ambulatory and diagnostic health pavilion requiring evaluation for Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block. Pathological testing confirms uncharged hydrophobic amine crossing axonal lipid membrane becoming protonated to block inner pore of active/inactivated Na+ channels. Clinical observations demonstrate blood pressure 118/82 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Uncharged hydrophobic amine crossing axonal lipid membrane becoming protonated to block inner pore of active/inactivated na+ channels",
+        "explanation": "In accordance with accredited clinical practice guidelines, uncharged hydrophobic amine crossing axonal lipid membrane becoming protonated to block inner pore of active/inactivated Na+ channels represents the established gold standard mechanism, diagnostic confirmation, or management priority for Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, uncharged hydrophobic amine crossing axonal lipid membrane becoming protonated to block inner pore of active/inactivated Na+ channels represents the established gold standard mechanism, diagnostic confirmation, or management priority for Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block. In the clinical approach to Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Local Anesthetics Lidocaine and Bupivacaine Inward Voltage-Gated Sodium Channel Block."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5211",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Py",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 52-year-old male who attends the multidisciplinary continuity referral pavilion for targeted evaluation with symptomatic deterioration from suspected Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold. Bedside evaluation demonstrates urgent therapeutic plasma exchange or IVIG, ICU admission with intubation criteria, and withholding anticholinesterases to reduce airway secretions. Clinical observations demonstrate blood pressure 119/83 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Urgent therapeutic plasma exchange or ivig, icu admission with intubation criteria, and withholding anticholinesterases to reduce airway secretions",
+        "explanation": "In accordance with accredited clinical practice guidelines, urgent therapeutic plasma exchange or IVIG, ICU admission with intubation criteria, and withholding anticholinesterases to reduce airway secretions represents the established gold standard mechanism, diagnostic confirmation, or management priority for Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, urgent therapeutic plasma exchange or IVIG, ICU admission with intubation criteria, and withholding anticholinesterases to reduce airway secretions represents the established gold standard mechanism, diagnostic confirmation, or management priority for Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold. In the clinical approach to Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Myasthenic Crisis Respiratory Muscle Weakness Plasma Exchange and Temporary Pyridostigmine Hold."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Myasthenia Gravis",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5212",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female presents to the regional emergency receiving and resuscitation center with clinical and physical signs consistent with Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation. Molecular and microscopic evaluation confirms enhancement of inhibitory ligand-gated chloride currents alongside two-pore domain potassium channel activation in cerebral cortex. Clinical observations demonstrate blood pressure 120/84 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Enhancement of inhibitory ligand-gated chloride currents alongside two-pore domain potassium channel activation in cerebral cortex",
+        "explanation": "In accordance with accredited clinical practice guidelines, enhancement of inhibitory ligand-gated chloride currents alongside two-pore domain potassium channel activation in cerebral cortex represents the established gold standard mechanism, diagnostic confirmation, or management priority for Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, enhancement of inhibitory ligand-gated chloride currents alongside two-pore domain potassium channel activation in cerebral cortex represents the established gold standard mechanism, diagnostic confirmation, or management priority for Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation. In the clinical approach to Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Inhaled Anesthetics Halothane, Sevoflurane, and Isoflurane GABA-A and Glycine Potentiation."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5213",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency department evaluation is commenced for a 68-year-old male who is examined in the urgent ambulatory specialist clinic with acute decompensation from Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse. Rapid triage confirms intravenous methylprednisolone 1 g daily for 3-5 days accelerating functional recovery, with oral prednisone taper. Clinical observations demonstrate blood pressure 121/85 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous methylprednisolone 1 g daily for 3-5 days accelerating functional recovery, with oral prednisone taper",
+        "explanation": "In accordance with accredited clinical practice guidelines, intravenous methylprednisolone 1 g daily for 3-5 days accelerating functional recovery, with oral prednisone taper represents the established gold standard mechanism, diagnostic confirmation, or management priority for Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intravenous methylprednisolone 1 g daily for 3-5 days accelerating functional recovery, with oral prednisone taper represents the established gold standard mechanism, diagnostic confirmation, or management priority for Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse. In the clinical approach to Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Exacerbation High-Dose Intravenous Methylprednisolone Pulse."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines for Multiple Sclerosis Relapse",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5214",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Pote",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center for targeted evaluation of suspected Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC). Detailed biochemical analysis demonstrates alveolar concentration preventing somatic movement in 50% of subjects in response to surgical incision where lower MAC indicates higher lipid solubility. Clinical observations demonstrate blood pressure 122/86 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Alveolar concentration preventing somatic movement in 50% of subjects in response to surgical incision where lower mac indicates higher lipid solubility",
+        "explanation": "In accordance with accredited clinical practice guidelines, alveolar concentration preventing somatic movement in 50% of subjects in response to surgical incision where lower MAC indicates higher lipid solubility represents the established gold standard mechanism, diagnostic confirmation, or management priority for Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC).",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, alveolar concentration preventing somatic movement in 50% of subjects in response to surgical incision where lower MAC indicates higher lipid solubility represents the established gold standard mechanism, diagnostic confirmation, or management priority for Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC). In the clinical approach to Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC), thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC).",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Minimum Alveolar Concentration (MAC) Inversely Proportional to Anesthetic Potency (1/MAC)."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5215",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 20-year-old male with acute destabilization presents to the academic medical center tertiary emergency care pavilion for definitive management of Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring. Rapid initial diagnostic workup identifies high-efficacy alpha-4 integrin blocker requiring strict JC virus serology surveillance every 6 months to prevent progressive multifocal leukoencephalopathy. Clinical observations demonstrate blood pressure 123/87 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "High-efficacy alpha-4 integrin blocker requiring strict jc virus serology surveillance every 6 months to prevent progressive multifocal leukoencephalopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines, high-efficacy alpha-4 integrin blocker requiring strict JC virus serology surveillance every 6 months to prevent progressive multifocal leukoencephalopathy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, high-efficacy alpha-4 integrin blocker requiring strict JC virus serology surveillance every 6 months to prevent progressive multifocal leukoencephalopathy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring. In the clinical approach to Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Disease-Modifying Therapy Natalizumab and JC Virus Antibody Monitoring."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Disease-Modifying Therapies in MS",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5216",
+    "exam": "Step 1",
+    "subject": "Physiology",
+    "system": "General Principles",
+    "topic": "Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Diagnostic investigation is undertaken for a 60-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with features of Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed. Specialized laboratory testing reveals low blood solubility agents (nitrous oxide, desflurane) saturate blood pool rapidly establishing rapid alveolar-to-arterial equilibrium and rapid recovery. Clinical observations demonstrate blood pressure 124/72 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Low blood solubility agents (nitrous oxide, desflurane) saturate blood pool rapidly establishing rapid alveolar-to-arterial equilibrium and rapid recovery",
+        "explanation": "In accordance with accredited clinical practice guidelines, low blood solubility agents (nitrous oxide, desflurane) saturate blood pool rapidly establishing rapid alveolar-to-arterial equilibrium and rapid recovery represents the established gold standard mechanism, diagnostic confirmation, or management priority for Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, low blood solubility agents (nitrous oxide, desflurane) saturate blood pool rapidly establishing rapid alveolar-to-arterial equilibrium and rapid recovery represents the established gold standard mechanism, diagnostic confirmation, or management priority for Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed. In the clinical approach to Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Blood-Gas Partition Coefficient Inversely Proportional to Anesthetic Induction Speed."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5217",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and W",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male attends the comprehensive regional ambulatory and diagnostic health pavilion presenting with acute clinical manifestations indicative of Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss. Urgent physical examination demonstrates carbonic anhydrase inhibitor acetazolamide to lower CSF production combined with lifestyle weight loss and optic nerve sheath fenestration for vision loss. Clinical observations demonstrate blood pressure 125/73 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Carbonic anhydrase inhibitor acetazolamide to lower csf production combined with lifestyle weight loss and optic nerve sheath fenestration for vision loss",
+        "explanation": "In accordance with accredited clinical practice guidelines, carbonic anhydrase inhibitor acetazolamide to lower CSF production combined with lifestyle weight loss and optic nerve sheath fenestration for vision loss represents the established gold standard mechanism, diagnostic confirmation, or management priority for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, carbonic anhydrase inhibitor acetazolamide to lower CSF production combined with lifestyle weight loss and optic nerve sheath fenestration for vision loss represents the established gold standard mechanism, diagnostic confirmation, or management priority for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss. In the clinical approach to Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Acetazolamide and Weight Loss."
+    ],
+    "references": [
+      {
+        "label": "AAO Neuro-Ophthalmology Guidelines on IIH",
+        "url": "https://www.aao.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5218",
+    "exam": "Step 1",
+    "subject": "Genetics",
+    "system": "Musculoskeletal",
+    "topic": "Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Clinical assessment is conducted for a 76-year-old female who attends the multidisciplinary continuity referral pavilion for targeted evaluation due to suspected Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux. Further laboratory investigation confirms volatile anesthetics or succinylcholine triggering unchecked sarcoplasmic reticulum Ca2+ release causing severe muscle rigidity and hyperthermia. Clinical observations demonstrate blood pressure 126/74 mm Hg, pulse 98/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Volatile anesthetics or succinylcholine triggering unchecked sarcoplasmic reticulum ca2+ release causing severe muscle rigidity and hyperthermia",
+        "explanation": "In accordance with accredited clinical practice guidelines, volatile anesthetics or succinylcholine triggering unchecked sarcoplasmic reticulum Ca2+ release causing severe muscle rigidity and hyperthermia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, volatile anesthetics or succinylcholine triggering unchecked sarcoplasmic reticulum Ca2+ release causing severe muscle rigidity and hyperthermia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux. In the clinical approach to Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Malignant Hyperthermia Ryanodine Receptor (RYR1) Mutation Massive Calcium Efflux."
+    ],
+    "references": [
+      {
+        "label": "MHAUS Clinical Guidelines on Malignant Hyperthermia",
+        "url": "https://www.mhaus.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5219",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old male presents to the regional emergency receiving and resuscitation center with acute presentation of Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test. Urgent bedside examination and point-of-care diagnostics demonstrate removal of 30-50 mL of CSF documenting objective improvement in gait velocity confirming indication for ventriculoperitoneal shunt. Clinical observations demonstrate blood pressure 127/75 mm Hg, pulse 99/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Removal of 30-50 ml of csf documenting objective improvement in gait velocity confirming indication for ventriculoperitoneal shunt",
+        "explanation": "In accordance with accredited clinical practice guidelines, removal of 30-50 mL of CSF documenting objective improvement in gait velocity confirming indication for ventriculoperitoneal shunt represents the established gold standard mechanism, diagnostic confirmation, or management priority for Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, removal of 30-50 mL of CSF documenting objective improvement in gait velocity confirming indication for ventriculoperitoneal shunt represents the established gold standard mechanism, diagnostic confirmation, or management priority for Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test. In the clinical approach to Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Normal Pressure Hydrocephalus Diagnostic Large-Volume Lumbar Puncture CSF Tap Test."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Normal Pressure Hydrocephalus",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5220",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old female with progressive symptomatic dysfunction is examined in the urgent ambulatory specialist clinic requiring evaluation for Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote. Pathological testing confirms direct binding to ryanodine receptor type 1 (RYR1) inhibiting calcium release from sarcoplasmic reticulum halting hypermetabolic cascade. Clinical observations demonstrate blood pressure 128/76 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Direct binding to ryanodine receptor type 1 (ryr1) inhibiting calcium release from sarcoplasmic reticulum halting hypermetabolic cascade",
+        "explanation": "In accordance with accredited clinical practice guidelines, direct binding to ryanodine receptor type 1 (RYR1) inhibiting calcium release from sarcoplasmic reticulum halting hypermetabolic cascade represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, direct binding to ryanodine receptor type 1 (RYR1) inhibiting calcium release from sarcoplasmic reticulum halting hypermetabolic cascade represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote. In the clinical approach to Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dantrolene Ryanodine Receptor Blocker Sarcoplasmic Calcium Release Antidote."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5221",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency clinical assessment is performed for a 68-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with symptomatic deterioration from suspected Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone. Bedside evaluation demonstrates immediate IV dexamethasone before or with first dose of ceftriaxone plus vancomycin, adding ampicillin for Listeria in patients >= 50 years. Clinical observations demonstrate blood pressure 129/77 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate iv dexamethasone before or with first dose of ceftriaxone plus vancomycin, adding ampicillin for listeria in patients >= 50 years",
+        "explanation": "In accordance with accredited clinical practice guidelines, immediate IV dexamethasone before or with first dose of ceftriaxone plus vancomycin, adding ampicillin for Listeria in patients >= 50 years represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, immediate IV dexamethasone before or with first dose of ceftriaxone plus vancomycin, adding ampicillin for Listeria in patients >= 50 years represents the established gold standard mechanism, diagnostic confirmation, or management priority for Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone. In the clinical approach to Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Acute Bacterial Meningitis Adult Empiric Ceftriaxone, Vancomycin, Ampicillin, and Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "IDSA Clinical Practice Guidelines for Healthcare-Associated Meningitis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5222",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desens",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old female presents to the academic medical center tertiary emergency care pavilion with clinical and physical signs consistent with Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization. Molecular and microscopic evaluation confirms nicotinic receptor agonist causing sustained depolarization and fasciculations (Phase I) not reversed by cholinesterase inhibitors progressing to desensitization (Phase II). Clinical observations demonstrate blood pressure 130/78 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Nicotinic receptor agonist causing sustained depolarization and fasciculations (phase i) not reversed by cholinesterase inhibitors progressing to desensitization (phase ii)",
+        "explanation": "In accordance with accredited clinical practice guidelines, nicotinic receptor agonist causing sustained depolarization and fasciculations (Phase I) not reversed by cholinesterase inhibitors progressing to desensitization (Phase II) represents the established gold standard mechanism, diagnostic confirmation, or management priority for Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, nicotinic receptor agonist causing sustained depolarization and fasciculations (Phase I) not reversed by cholinesterase inhibitors progressing to desensitization (Phase II) represents the established gold standard mechanism, diagnostic confirmation, or management priority for Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization. In the clinical approach to Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Succinylcholine Depolarizing Neuromuscular Blocker Phase I and Phase II Desensitization."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5223",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency department evaluation is commenced for a 20-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with acute decompensation from Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir. Rapid triage confirms start high-dose IV acyclovir (10 mg/kg q8h) immediately upon clinical suspicion and obtain CSF PCR; do not delay for lumbar puncture or imaging. Clinical observations demonstrate blood pressure 131/79 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Start high-dose iv acyclovir (10 mg/kg q8h) immediately upon clinical suspicion and obtain csf pcr; do not delay for lumbar puncture or imaging",
+        "explanation": "In accordance with accredited clinical practice guidelines, start high-dose IV acyclovir (10 mg/kg q8h) immediately upon clinical suspicion and obtain CSF PCR; do not delay for lumbar puncture or imaging represents the established gold standard mechanism, diagnostic confirmation, or management priority for Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, start high-dose IV acyclovir (10 mg/kg q8h) immediately upon clinical suspicion and obtain CSF PCR; do not delay for lumbar puncture or imaging represents the established gold standard mechanism, diagnostic confirmation, or management priority for Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir. In the clinical approach to Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Herpes Simplex Encephalitis Temporal Lobe Edema Immediate Empiric Intravenous Acyclovir."
+    ],
+    "references": [
+      {
+        "label": "IDSA Guidelines on Encephalitis",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5224",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old female attends the comprehensive regional ambulatory and diagnostic health pavilion for targeted evaluation of suspected Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block. Detailed biochemical analysis demonstrates competitive antagonism at motor endplate nicotinic receptors reversed by acetylcholinesterase inhibitors (neostigmine) or sugammadex encapsulation. Clinical observations demonstrate blood pressure 132/80 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Competitive antagonism at motor endplate nicotinic receptors reversed by acetylcholinesterase inhibitors (neostigmine) or sugammadex encapsulation",
+        "explanation": "In accordance with accredited clinical practice guidelines, competitive antagonism at motor endplate nicotinic receptors reversed by acetylcholinesterase inhibitors (neostigmine) or sugammadex encapsulation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, competitive antagonism at motor endplate nicotinic receptors reversed by acetylcholinesterase inhibitors (neostigmine) or sugammadex encapsulation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block. In the clinical approach to Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Non-Depolarizing Neuromuscular Blockers Vecuronium and Rocuronium Competitive Nicotinic Block."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5225",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Me",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old male with acute destabilization attends the multidisciplinary continuity referral pavilion for targeted evaluation for definitive management of Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin. Rapid initial diagnostic workup identifies intravenous ceftriaxone plus metronidazole (anaerobic coverage) plus vancomycin (MRSA) and urgent neurosurgical aspiration for lesions > 2.5 cm. Clinical observations demonstrate blood pressure 133/81 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Intravenous ceftriaxone plus metronidazole (anaerobic coverage) plus vancomycin (mrsa) and urgent neurosurgical aspiration for lesions > 2.5 cm",
+        "explanation": "In accordance with accredited clinical practice guidelines, intravenous ceftriaxone plus metronidazole (anaerobic coverage) plus vancomycin (MRSA) and urgent neurosurgical aspiration for lesions > 2.5 cm represents the established gold standard mechanism, diagnostic confirmation, or management priority for Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intravenous ceftriaxone plus metronidazole (anaerobic coverage) plus vancomycin (MRSA) and urgent neurosurgical aspiration for lesions > 2.5 cm represents the established gold standard mechanism, diagnostic confirmation, or management priority for Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin. In the clinical approach to Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Brain Abscess Ring-Enhancing Lesion Empiric Third-Generation Cephalosporin, Metronidazole, Vancomycin."
+    ],
+    "references": [
+      {
+        "label": "IDSA Guidelines for Brain Abscess",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5226",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Diagnostic investigation is undertaken for a 76-year-old female who presents to the regional emergency receiving and resuscitation center presenting with features of Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation. Specialized laboratory testing reveals synthetic ring encapsulating steroidal neuromuscular blocking agents in 1:1 ratio forming stable inactive complex excreted in urine. Clinical observations demonstrate blood pressure 134/82 mm Hg, pulse 76/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Synthetic ring encapsulating steroidal neuromuscular blocking agents in 1:1 ratio forming stable inactive complex excreted in urine",
+        "explanation": "In accordance with accredited clinical practice guidelines, synthetic ring encapsulating steroidal neuromuscular blocking agents in 1:1 ratio forming stable inactive complex excreted in urine represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, synthetic ring encapsulating steroidal neuromuscular blocking agents in 1:1 ratio forming stable inactive complex excreted in urine represents the established gold standard mechanism, diagnostic confirmation, or management priority for Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation. In the clinical approach to Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Sugammadex Modified Gamma-Cyclodextrin Selective Rocuronium/Vecuronium Encapsulation."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5227",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is examined in the urgent ambulatory specialist clinic presenting with acute clinical manifestations indicative of Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI. Urgent physical examination demonstrates triad of spine pain, fever, and progressive weakness mandating immediate full-spine MRI with gadolinium and urgent decompressive laminectomy. Clinical observations demonstrate blood pressure 135/83 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Triad of spine pain, fever, and progressive weakness mandating immediate full-spine mri with gadolinium and urgent decompressive laminectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines, triad of spine pain, fever, and progressive weakness mandating immediate full-spine MRI with gadolinium and urgent decompressive laminectomy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, triad of spine pain, fever, and progressive weakness mandating immediate full-spine MRI with gadolinium and urgent decompressive laminectomy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI. In the clinical approach to Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Spinal Epidural Abscess Fever, Back Pain, Neurological Deficit Emergent Spine MRI."
+    ],
+    "references": [
+      {
+        "label": "IDSA Clinical Guidelines on Epidural Abscess",
+        "url": "https://www.idsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5228",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Clinical assessment is conducted for a 28-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center due to suspected Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium. Further laboratory investigation confirms phencyclidine derivative blocking phencyclidine site of NMDA receptor producing cataleptic dissociative state and bronchodilation with intact airway reflexes. Clinical observations demonstrate blood pressure 136/84 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Phencyclidine derivative blocking phencyclidine site of nmda receptor producing cataleptic dissociative state and bronchodilation with intact airway reflexes",
+        "explanation": "In accordance with accredited clinical practice guidelines, phencyclidine derivative blocking phencyclidine site of NMDA receptor producing cataleptic dissociative state and bronchodilation with intact airway reflexes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, phencyclidine derivative blocking phencyclidine site of NMDA receptor producing cataleptic dissociative state and bronchodilation with intact airway reflexes represents the established gold standard mechanism, diagnostic confirmation, or management priority for Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium. In the clinical approach to Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Ketamine Non-Competitive NMDA Receptor Antagonist Dissociative Anesthesia and Emergence Delirium."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5229",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous S",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old male presents to the academic medical center tertiary emergency care pavilion with acute presentation of Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan. Urgent bedside examination and point-of-care diagnostics demonstrate normobaric oxygen at 12-15 L/min for 15 minutes and subcutaneous sumatriptan 6 mg; oral verapamil first-line daily prophylactic therapy. Clinical observations demonstrate blood pressure 137/85 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Normobaric oxygen at 12-15 l/min for 15 minutes and subcutaneous sumatriptan 6 mg; oral verapamil first-line daily prophylactic therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, normobaric oxygen at 12-15 L/min for 15 minutes and subcutaneous sumatriptan 6 mg; oral verapamil first-line daily prophylactic therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, normobaric oxygen at 12-15 L/min for 15 minutes and subcutaneous sumatriptan 6 mg; oral verapamil first-line daily prophylactic therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan. In the clinical approach to Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute 100% High-Flow Non-Rebreather Oxygen and Subcutaneous Sumatriptan."
+    ],
+    "references": [
+      {
+        "label": "AHS/AAN Guidelines on Cluster Headache",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5230",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old female with progressive symptomatic dysfunction is evaluated in the specialized ambulatory procedural and diagnostic unit requiring evaluation for Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction. Pathological testing confirms lipophilic alkylphenol emulsion potentiating chloride conductance with rapid redistribution and hepatic clearance ideal for day-surgery procedures. Clinical observations demonstrate blood pressure 138/86 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Lipophilic alkylphenol emulsion potentiating chloride conductance with rapid redistribution and hepatic clearance ideal for day-surgery procedures",
+        "explanation": "In accordance with accredited clinical practice guidelines, lipophilic alkylphenol emulsion potentiating chloride conductance with rapid redistribution and hepatic clearance ideal for day-surgery procedures represents the established gold standard mechanism, diagnostic confirmation, or management priority for Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, lipophilic alkylphenol emulsion potentiating chloride conductance with rapid redistribution and hepatic clearance ideal for day-surgery procedures represents the established gold standard mechanism, diagnostic confirmation, or management priority for Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction. In the clinical approach to Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Propofol GABA-A Receptor Positive Allosteric Modulator Smooth Rapid Anesthetic Induction."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5231",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency clinical assessment is performed for a 20-year-old male who attends the comprehensive regional ambulatory and diagnostic health pavilion with symptomatic deterioration from suspected Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications. Bedside evaluation demonstrates oral 5-HT1B/1D receptor agonist (sumatriptan) combined with naproxen; strictly contraindicated in coronary artery disease, stroke, or uncontrolled hypertension. Clinical observations demonstrate blood pressure 139/87 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Oral 5-ht1b/1d receptor agonist (sumatriptan) combined with naproxen; strictly contraindicated in coronary artery disease, stroke, or uncontrolled hypertension",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral 5-HT1B/1D receptor agonist (sumatriptan) combined with naproxen; strictly contraindicated in coronary artery disease, stroke, or uncontrolled hypertension represents the established gold standard mechanism, diagnostic confirmation, or management priority for Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral 5-HT1B/1D receptor agonist (sumatriptan) combined with naproxen; strictly contraindicated in coronary artery disease, stroke, or uncontrolled hypertension represents the established gold standard mechanism, diagnostic confirmation, or management priority for Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications. In the clinical approach to Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Migraine Acute Abortive Therapy Triptans and NSAIDs Cardiovascular Contraindications."
+    ],
+    "references": [
+      {
+        "label": "AHS Guidelines for the Acute Treatment of Migraine",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5232",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old female attends the multidisciplinary continuity referral pavilion for targeted evaluation with clinical and physical signs consistent with Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression. Molecular and microscopic evaluation confirms sedative hypnotic devoid of cardiac depressant activity causing transient inhibition of 11-beta-hydroxylase suppressing cortisol synthesis. Clinical observations demonstrate blood pressure 116/72 mm Hg, pulse 82/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Sedative hypnotic devoid of cardiac depressant activity causing transient inhibition of 11-beta-hydroxylase suppressing cortisol synthesis",
+        "explanation": "In accordance with accredited clinical practice guidelines, sedative hypnotic devoid of cardiac depressant activity causing transient inhibition of 11-beta-hydroxylase suppressing cortisol synthesis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sedative hypnotic devoid of cardiac depressant activity causing transient inhibition of 11-beta-hydroxylase suppressing cortisol synthesis represents the established gold standard mechanism, diagnostic confirmation, or management priority for Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression. In the clinical approach to Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Etomidate Imidazole GABA-A Allosteric Modulator Hemodynamic Stability Adrenal Suppression."
+    ],
+    "references": [
+      {
+        "label": "Miller's Anesthesia Textbook",
+        "url": "https://www.us.elsevierhealth.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5233",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Leve",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Emergency department evaluation is commenced for a 36-year-old male who presents to the regional emergency receiving and resuscitation center with acute decompensation from Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring. Rapid triage confirms first-line voltage-gated sodium channel blocker carbamazepine or oxcarbazepine with baseline CBC and serum electrolytes monitoring for hyponatremia. Clinical observations demonstrate blood pressure 117/73 mm Hg, pulse 83/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "First-line voltage-gated sodium channel blocker carbamazepine or oxcarbazepine with baseline cbc and serum electrolytes monitoring for hyponatremia",
+        "explanation": "In accordance with accredited clinical practice guidelines, first-line voltage-gated sodium channel blocker carbamazepine or oxcarbazepine with baseline CBC and serum electrolytes monitoring for hyponatremia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, first-line voltage-gated sodium channel blocker carbamazepine or oxcarbazepine with baseline CBC and serum electrolytes monitoring for hyponatremia represents the established gold standard mechanism, diagnostic confirmation, or management priority for Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring. In the clinical approach to Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia Lancinating Paroxysmal Pain Carbamazepine and Sodium Level Monitoring."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameters on Trigeminal Neuralgia",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5234",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Resp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 76-year-old female is examined in the urgent ambulatory specialist clinic for targeted evaluation of suspected Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive. Detailed biochemical analysis demonstrates locus coeruleus alpha-2 adrenergic stimulation producing cooperative conscious sedation without respiratory depression or need for intubation. Clinical observations demonstrate blood pressure 118/74 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Locus coeruleus alpha-2 adrenergic stimulation producing cooperative conscious sedation without respiratory depression or need for intubation",
+        "explanation": "In accordance with accredited clinical practice guidelines, locus coeruleus alpha-2 adrenergic stimulation producing cooperative conscious sedation without respiratory depression or need for intubation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, locus coeruleus alpha-2 adrenergic stimulation producing cooperative conscious sedation without respiratory depression or need for intubation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive. In the clinical approach to Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Dexmedetomidine Selective Central Alpha-2 Agonist ICU Sedation Preserving Respiratory Drive."
+    ],
+    "references": [
+      {
+        "label": "SCCM Critical Care Guidelines",
+        "url": "https://www.sccm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5235",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 H",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 52-year-old male with acute destabilization is referred for subspecialty assessment in the tertiary ambulatory care center for definitive management of Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours. Rapid initial diagnostic workup identifies oral prednisone (60 mg daily for 7 days) initiated within 72 hours of onset significantly improving complete facial motor recovery rates. Clinical observations demonstrate blood pressure 119/75 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Oral prednisone (60 mg daily for 7 days) initiated within 72 hours of onset significantly improving complete facial motor recovery rates",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral prednisone (60 mg daily for 7 days) initiated within 72 hours of onset significantly improving complete facial motor recovery rates represents the established gold standard mechanism, diagnostic confirmation, or management priority for Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral prednisone (60 mg daily for 7 days) initiated within 72 hours of onset significantly improving complete facial motor recovery rates represents the established gold standard mechanism, diagnostic confirmation, or management priority for Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours. In the clinical approach to Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Bell Palsy Acute Idiopathic Facial Palsy High-Dose Oral Prednisone Within 72 Hours."
+    ],
+    "references": [
+      {
+        "label": "AAO-HNS Clinical Practice Guideline: Bell's Palsy",
+        "url": "https://www.entnet.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5236",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Aci",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Diagnostic investigation is undertaken for a 28-year-old female who presents to the academic medical center tertiary emergency care pavilion presenting with features of Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting. Specialized laboratory testing reveals competitive inhibition of apical URAT1 and basolateral OAT transporters in proximal convoluted tubule increasing urinary uric acid excretion. Clinical observations demonstrate blood pressure 120/76 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Competitive inhibition of apical urat1 and basolateral oat transporters in proximal convoluted tubule increasing urinary uric acid excretion",
+        "explanation": "In accordance with accredited clinical practice guidelines, competitive inhibition of apical URAT1 and basolateral OAT transporters in proximal convoluted tubule increasing urinary uric acid excretion represents the established gold standard mechanism, diagnostic confirmation, or management priority for Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, competitive inhibition of apical URAT1 and basolateral OAT transporters in proximal convoluted tubule increasing urinary uric acid excretion represents the established gold standard mechanism, diagnostic confirmation, or management priority for Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting. In the clinical approach to Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Probenecid Organic Anion Transporter (OAT) Inhibition Proximal Tubule Uric Acid Wasting."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5237",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Ag",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with acute clinical manifestations indicative of Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists. Urgent physical examination demonstrates levodopa-carbidopa most potent agent preferred in age >= 65; non-ergot dopamine agonists (pramipexole, ropinirole) considered in younger patients. Clinical observations demonstrate blood pressure 121/77 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Levodopa-carbidopa most potent agent preferred in age >= 65; non-ergot dopamine agonists (pramipexole, ropinirole) considered in younger patients",
+        "explanation": "In accordance with accredited clinical practice guidelines, levodopa-carbidopa most potent agent preferred in age >= 65; non-ergot dopamine agonists (pramipexole, ropinirole) considered in younger patients represents the established gold standard mechanism, diagnostic confirmation, or management priority for Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, levodopa-carbidopa most potent agent preferred in age >= 65; non-ergot dopamine agonists (pramipexole, ropinirole) considered in younger patients represents the established gold standard mechanism, diagnostic confirmation, or management priority for Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists. In the clinical approach to Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Parkinson Disease Initial Symptom Management Levodopa-Carbidopa vs Dopamine Agonists."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Parkinson Disease",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5238",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Clinical assessment is conducted for a 44-year-old female who attends the comprehensive regional ambulatory and diagnostic health pavilion due to suspected Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis. Further laboratory investigation confirms binding unpolymerized beta-tubulin dimers preventing microtubule assembly halting neutrophil extravasation and NLRP3 activation in acute gout. Clinical observations demonstrate blood pressure 122/78 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Binding unpolymerized beta-tubulin dimers preventing microtubule assembly halting neutrophil extravasation and nlrp3 activation in acute gout",
+        "explanation": "In accordance with accredited clinical practice guidelines, binding unpolymerized beta-tubulin dimers preventing microtubule assembly halting neutrophil extravasation and NLRP3 activation in acute gout represents the established gold standard mechanism, diagnostic confirmation, or management priority for Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, binding unpolymerized beta-tubulin dimers preventing microtubule assembly halting neutrophil extravasation and NLRP3 activation in acute gout represents the established gold standard mechanism, diagnostic confirmation, or management priority for Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis. In the clinical approach to Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Colchicine Tubulin Polymerization Inhibition Microtubule Spindle and Neutrophil Chemotaxis."
+    ],
+    "references": [
+      {
+        "label": "Goodman and Gilman Pharmacological Basis of Therapeutics",
+        "url": "https://accessmedicine.mhmedical.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5239",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 20-year-old male attends the multidisciplinary continuity referral pavilion for targeted evaluation with acute presentation of Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone. Urgent bedside examination and point-of-care diagnostics demonstrate addition of peripheral COMT inhibitor entacapone extending levodopa half-life to smooth out wearing-off phenomenon and motor end-of-dose deterioration. Clinical observations demonstrate blood pressure 123/79 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Addition of peripheral comt inhibitor entacapone extending levodopa half-life to smooth out wearing-off phenomenon and motor end-of-dose deterioration",
+        "explanation": "In accordance with accredited clinical practice guidelines, addition of peripheral COMT inhibitor entacapone extending levodopa half-life to smooth out wearing-off phenomenon and motor end-of-dose deterioration represents the established gold standard mechanism, diagnostic confirmation, or management priority for Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, addition of peripheral COMT inhibitor entacapone extending levodopa half-life to smooth out wearing-off phenomenon and motor end-of-dose deterioration represents the established gold standard mechanism, diagnostic confirmation, or management priority for Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone. In the clinical approach to Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Parkinson Disease Motor Fluctuations Off Episodes COMT Inhibitors Entacapone."
+    ],
+    "references": [
+      {
+        "label": "AAN Guidelines on Motor Fluctuations in PD",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5240",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive In",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 60-year-old female with progressive symptomatic dysfunction presents to the regional emergency receiving and resuscitation center requiring evaluation for Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition. Pathological testing confirms allopurinol purine analogue converted to oxypurinol blocking xanthine oxidase reducing conversion of hypoxanthine and xanthine to uric acid. Clinical observations demonstrate blood pressure 124/80 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 95%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Allopurinol purine analogue converted to oxypurinol blocking xanthine oxidase reducing conversion of hypoxanthine and xanthine to uric acid",
+        "explanation": "In accordance with accredited clinical practice guidelines, allopurinol purine analogue converted to oxypurinol blocking xanthine oxidase reducing conversion of hypoxanthine and xanthine to uric acid represents the established gold standard mechanism, diagnostic confirmation, or management priority for Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, allopurinol purine analogue converted to oxypurinol blocking xanthine oxidase reducing conversion of hypoxanthine and xanthine to uric acid represents the established gold standard mechanism, diagnostic confirmation, or management priority for Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition. In the clinical approach to Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Allopurinol and Febuxostat Xanthine Oxidase Competitive and Non-Competitive Inhibition."
+    ],
+    "references": [
+      {
+        "label": "ACR Guidelines for Management of Gout",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5241",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Prim",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Emergency clinical assessment is performed for a 36-year-old male who is examined in the urgent ambulatory specialist clinic with symptomatic deterioration from suspected Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone. Bedside evaluation demonstrates beta-blocker propranolol or anticonvulsant primidone reducing tremor amplitude; deep brain stimulation of VIM thalamus for medication-refractory tremor. Clinical observations demonstrate blood pressure 125/81 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Beta-blocker propranolol or anticonvulsant primidone reducing tremor amplitude; deep brain stimulation of vim thalamus for medication-refractory tremor",
+        "explanation": "In accordance with accredited clinical practice guidelines, beta-blocker propranolol or anticonvulsant primidone reducing tremor amplitude; deep brain stimulation of VIM thalamus for medication-refractory tremor represents the established gold standard mechanism, diagnostic confirmation, or management priority for Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, beta-blocker propranolol or anticonvulsant primidone reducing tremor amplitude; deep brain stimulation of VIM thalamus for medication-refractory tremor represents the established gold standard mechanism, diagnostic confirmation, or management priority for Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone. In the clinical approach to Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Essential Tremor Functional Kinetic Hand Tremor First-Line Propranolol or Primidone."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline on Essential Tremor",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5242",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center with clinical and physical signs consistent with Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin. Molecular and microscopic evaluation confirms mammalian enzyme absent in humans catalyzing conversion of insoluble uric acid to highly soluble allantoin in refractory tophaceous gout. Clinical observations demonstrate blood pressure 126/82 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Mammalian enzyme absent in humans catalyzing conversion of insoluble uric acid to highly soluble allantoin in refractory tophaceous gout",
+        "explanation": "In accordance with accredited clinical practice guidelines, mammalian enzyme absent in humans catalyzing conversion of insoluble uric acid to highly soluble allantoin in refractory tophaceous gout represents the established gold standard mechanism, diagnostic confirmation, or management priority for Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, mammalian enzyme absent in humans catalyzing conversion of insoluble uric acid to highly soluble allantoin in refractory tophaceous gout represents the established gold standard mechanism, diagnostic confirmation, or management priority for Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin. In the clinical approach to Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Pegloticase Recombinant Urate Oxidase Uric Acid Degradation to Soluble Allantoin."
+    ],
+    "references": [
+      {
+        "label": "ACR Practice Guidelines for Gout",
+        "url": "https://rheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5243",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Emergency department evaluation is commenced for a 52-year-old male who presents to the academic medical center tertiary emergency care pavilion with acute decompensation from Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine. Rapid triage confirms presynaptic vesicular monoamine transporter 2 inhibitor reducing choreiform movements requiring close monitoring for depression and suicidality. Clinical observations demonstrate blood pressure 127/83 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Presynaptic vesicular monoamine transporter 2 inhibitor reducing choreiform movements requiring close monitoring for depression and suicidality",
+        "explanation": "In accordance with accredited clinical practice guidelines, presynaptic vesicular monoamine transporter 2 inhibitor reducing choreiform movements requiring close monitoring for depression and suicidality represents the established gold standard mechanism, diagnostic confirmation, or management priority for Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, presynaptic vesicular monoamine transporter 2 inhibitor reducing choreiform movements requiring close monitoring for depression and suicidality represents the established gold standard mechanism, diagnostic confirmation, or management priority for Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine. In the clinical approach to Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Huntington Disease Chorea Management VMAT2 Inhibitors Tetrabenazine or Deutetrabenazine."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameters on Huntington Disease",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5244",
+    "exam": "Step 1",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Preve",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit for targeted evaluation of suspected Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention. Detailed biochemical analysis demonstrates rapidly metabolizing circulating uric acid into inert allantoin preventing acute uric acid nephropathy prior to cytotoxic induction therapy. Clinical observations demonstrate blood pressure 128/84 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the primary molecular defect, biochemical pathway alteration, or pharmacological target responsible for this condition?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Rapidly metabolizing circulating uric acid into inert allantoin preventing acute uric acid nephropathy prior to cytotoxic induction therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, rapidly metabolizing circulating uric acid into inert allantoin preventing acute uric acid nephropathy prior to cytotoxic induction therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, rapidly metabolizing circulating uric acid into inert allantoin preventing acute uric acid nephropathy prior to cytotoxic induction therapy represents the established gold standard mechanism, diagnostic confirmation, or management priority for Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention. In the clinical approach to Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Rasburicase Recombinant Urate Oxidase Tumor Lysis Syndrome Hyperuricemia Prevention."
+    ],
+    "references": [
+      {
+        "label": "ASCO Guidelines on Tumor Lysis Syndrome",
+        "url": "https://www.asco.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-5245",
+    "exam": "Step 2 CK",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old male with acute destabilization attends the comprehensive regional ambulatory and diagnostic health pavilion for definitive management of Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands. Rapid initial diagnostic workup identifies checking serum ferritin and supplementing iron if < 75 mcg/L; gabapentin or pregabalin preferred over dopamine agonists to avoid augmentation. Clinical observations demonstrate blood pressure 129/85 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 95%. Which of the following is the most appropriate next step in diagnostic evaluation or initial clinical management?",
+    "options": [
+      {
+        "text": "Checking serum ferritin and supplementing iron if < 75 mcg/l; gabapentin or pregabalin preferred over dopamine agonists to avoid augmentation",
+        "explanation": "In accordance with accredited clinical practice guidelines, checking serum ferritin and supplementing iron if < 75 mcg/L; gabapentin or pregabalin preferred over dopamine agonists to avoid augmentation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, checking serum ferritin and supplementing iron if < 75 mcg/L; gabapentin or pregabalin preferred over dopamine agonists to avoid augmentation represents the established gold standard mechanism, diagnostic confirmation, or management priority for Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands. In the clinical approach to Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands, thorough understanding of the pathophysiology, diagnostic staging, and guideline-directed interventions is critical to patient safety and evidence-based decision-making. Comprehensive evaluation prevents avoidable diagnostic delays and guides targeted therapy.",
+    "objective": "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands.",
+    "keyPoints": [
+      "Understand the core clinical mechanisms, diagnostic evaluation, and guideline-directed management of Restless Legs Syndrome Urge to Move at Rest Iron Saturation Check and Alpha-2-Delta Ligands."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidelines on Restless Legs Syndrome",
+        "url": "https://www.aan.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

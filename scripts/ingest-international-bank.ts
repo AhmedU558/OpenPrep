@@ -59,6 +59,11 @@ import { questions as bIntl55 } from '../content/bank/international/batch-intl-5
 import { questions as bIntl56 } from '../content/bank/international/batch-intl-56';
 import { questions as bIntl57 } from '../content/bank/international/batch-intl-57';
 import { questions as bIntl58 } from '../content/bank/international/batch-intl-58';
+import { questions as bIntl59 } from '../content/bank/international/batch-intl-59';
+import { questions as bIntl60 } from '../content/bank/international/batch-intl-60';
+import { questions as bIntl61 } from '../content/bank/international/batch-intl-61';
+import { questions as bIntl62 } from '../content/bank/international/batch-intl-62';
+import { questions as bIntl63 } from '../content/bank/international/batch-intl-63';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -76,6 +81,7 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl44, ...bIntl45, ...bIntl46, ...bIntl47, ...bIntl48,
   ...bIntl49, ...bIntl50, ...bIntl51, ...bIntl52, ...bIntl53,
   ...bIntl54, ...bIntl55, ...bIntl56, ...bIntl57, ...bIntl58,
+  ...bIntl59, ...bIntl60, ...bIntl61, ...bIntl62, ...bIntl63,
 ];
 
 interface IngestOptions {
