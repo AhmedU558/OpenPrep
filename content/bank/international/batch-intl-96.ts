@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-8673",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral. Clinical examination and investigative review confirm emergency same-day whole-spine MRI referral for bilateral sciatica, saddle anesthesia, and urinary retention. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Emergency same-day whole-spine mri referral for bilateral sciatica, saddle anesthesia, and urinary retention",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency same-day whole-spine MRI referral for bilateral sciatica, saddle anesthesia, and urinary retention represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency same-day whole-spine MRI referral for bilateral sciatica, saddle anesthesia, and urinary retention represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral. In the clinical management of Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Cauda Equina Syndrome Immediate MRI Whole Spine Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG59: Low back pain and sciatica",
+        "url": "https://www.nice.org.uk/guidance/ng59"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8674",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg. Clinical examination and investigative review confirm initiating oral prednisolone 60 mg daily immediately before temporal artery biopsy to prevent irreversible ischemic optic neuropathy. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 60 mg daily immediately before temporal artery biopsy to prevent irreversible ischemic optic neuropathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 60 mg daily immediately before temporal artery biopsy to prevent irreversible ischemic optic neuropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 60 mg daily immediately before temporal artery biopsy to prevent irreversible ischemic optic neuropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg. In the clinical management of Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Giant Cell Arteritis Immediate High-Dose Oral Prednisolone 60 mg."
+    ],
+    "references": [
+      {
+        "label": "BSR Guideline on Giant Cell Arteritis",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8675",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Unilateral Acute Red Eye Acute Angle-Closure Glaucoma",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Unilateral Acute Red Eye Acute Angle-Closure Glaucoma. Clinical examination and investigative review confirm urgent ophthalmology referral and immediate topical timolol, apraclonidine, and IV acetazolamide for fixed mid-dilated pupil. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent ophthalmology referral and immediate topical timolol, apraclonidine, and iv acetazolamide for fixed mid-dilated pupil",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent ophthalmology referral and immediate topical timolol, apraclonidine, and IV acetazolamide for fixed mid-dilated pupil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Unilateral Acute Red Eye Acute Angle-Closure Glaucoma.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent ophthalmology referral and immediate topical timolol, apraclonidine, and IV acetazolamide for fixed mid-dilated pupil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Unilateral Acute Red Eye Acute Angle-Closure Glaucoma. In the clinical management of Unilateral Acute Red Eye Acute Angle-Closure Glaucoma, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Unilateral Acute Red Eye Acute Angle-Closure Glaucoma.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Unilateral Acute Red Eye Acute Angle-Closure Glaucoma."
+    ],
+    "references": [
+      {
+        "label": "NICE CKS: Glaucoma",
+        "url": "https://cks.nice.org.uk/topics/glaucoma/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8676",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours. Clinical examination and investigative review confirm immediate oral aspirin 300 mg daily and urgent specialist assessment within 24 hours in secondary care TIA clinic. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Immediate oral aspirin 300 mg daily and urgent specialist assessment within 24 hours in secondary care tia clinic",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate oral aspirin 300 mg daily and urgent specialist assessment within 24 hours in secondary care TIA clinic represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate oral aspirin 300 mg daily and urgent specialist assessment within 24 hours in secondary care TIA clinic represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours. In the clinical management of Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Transient Ischemic Attack Emergency Assessment in TIA Clinic Within 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG128: Stroke and TIA",
+        "url": "https://www.nice.org.uk/guidance/ng128"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8677",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant. Clinical examination and investigative review confirm initiating DOAC (apixaban or edoxaban) for non-valvular AF in men with CHA2DS2-VASc >= 1 or women >= 2. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating doac (apixaban or edoxaban) for non-valvular af in men with cha2ds2-vasc >= 1 or women >= 2",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating DOAC (apixaban or edoxaban) for non-valvular AF in men with CHA2DS2-VASc >= 1 or women >= 2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating DOAC (apixaban or edoxaban) for non-valvular AF in men with CHA2DS2-VASc >= 1 or women >= 2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant. In the clinical management of Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atrial Fibrillation CHA2DS2-VASc Score >= 2 Direct Oral Anticoagulant."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG196: Atrial fibrillation",
+        "url": "https://www.nice.org.uk/guidance/ng196"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8678",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol. Clinical examination and investigative review confirm first-line symptom control with oral beta-blocker (bisoprolol 5-10 mg daily) or rate-limiting calcium channel blocker. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "First-line symptom control with oral beta-blocker (bisoprolol 5-10 mg daily) or rate-limiting calcium channel blocker",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, first-line symptom control with oral beta-blocker (bisoprolol 5-10 mg daily) or rate-limiting calcium channel blocker represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, first-line symptom control with oral beta-blocker (bisoprolol 5-10 mg daily) or rate-limiting calcium channel blocker represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol. In the clinical management of Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stable Angina First-Line Anti-Anginal Therapy Oral Bisoprolol."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG126: Stable angina",
+        "url": "https://www.nice.org.uk/guidance/cg126"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8679",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Suspected Heart Failure Serum NT-proBNP Measurement First-Line",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Suspected Heart Failure Serum NT-proBNP Measurement First-Line. Clinical examination and investigative review confirm checking serum NT-proBNP in primary care; referring for urgent transthoracic echocardiography within 2 weeks if > 2,000 pg/mL. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Checking serum nt-probnp in primary care; referring for urgent transthoracic echocardiography within 2 weeks if > 2,000 pg/ml",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, checking serum NT-proBNP in primary care; referring for urgent transthoracic echocardiography within 2 weeks if > 2,000 pg/mL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Heart Failure Serum NT-proBNP Measurement First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, checking serum NT-proBNP in primary care; referring for urgent transthoracic echocardiography within 2 weeks if > 2,000 pg/mL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Heart Failure Serum NT-proBNP Measurement First-Line. In the clinical management of Suspected Heart Failure Serum NT-proBNP Measurement First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Heart Failure Serum NT-proBNP Measurement First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Heart Failure Serum NT-proBNP Measurement First-Line."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG106: Chronic heart failure",
+        "url": "https://www.nice.org.uk/guidance/ng106"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8680",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation. Clinical examination and investigative review confirm offering 24-hour ambulatory blood pressure monitoring (ABPM) or home BP monitoring (HBPM) before establishing diagnosis. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Offering 24-hour ambulatory blood pressure monitoring (abpm) or home bp monitoring (hbpm) before establishing diagnosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, offering 24-hour ambulatory blood pressure monitoring (ABPM) or home BP monitoring (HBPM) before establishing diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, offering 24-hour ambulatory blood pressure monitoring (ABPM) or home BP monitoring (HBPM) before establishing diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation. In the clinical management of Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Stage 1 Clinic BP >= 140/90 Ambulatory BP Monitoring Confirmation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG136: Hypertension in adults",
+        "url": "https://www.nice.org.uk/guidance/ng136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8681",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril. Clinical examination and investigative review confirm initiating oral ramipril or ARB as first-line antihypertensive for adults under 55 without African or Caribbean family origin. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral ramipril or arb as first-line antihypertensive for adults under 55 without african or caribbean family origin",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral ramipril or ARB as first-line antihypertensive for adults under 55 without African or Caribbean family origin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral ramipril or ARB as first-line antihypertensive for adults under 55 without African or Caribbean family origin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril. In the clinical management of Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Step 1 Under 55 Non-Black ACE Inhibitor Ramipril."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG136",
+        "url": "https://www.nice.org.uk/guidance/ng136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8682",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine. Clinical examination and investigative review confirm initiating oral amlodipine 5 mg daily as first-line antihypertensive therapy for age >= 55 or black African/Caribbean origin. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral amlodipine 5 mg daily as first-line antihypertensive therapy for age >= 55 or black african/caribbean origin",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral amlodipine 5 mg daily as first-line antihypertensive therapy for age >= 55 or black African/Caribbean origin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral amlodipine 5 mg daily as first-line antihypertensive therapy for age >= 55 or black African/Caribbean origin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine. In the clinical management of Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypertension Step 1 Age >= 55 or Black African/Caribbean Origin CCB Amlodipine."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG136",
+        "url": "https://www.nice.org.uk/guidance/ng136"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8683",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes First-Line Metformin and Lifestyle Optimization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Type 2 Diabetes First-Line Metformin and Lifestyle Optimization. Clinical examination and investigative review confirm standard-release oral metformin titrated to 1 g bid plus individualized diet and exercise with HbA1c target 48 mmol/mol (6.5%). Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Standard-release oral metformin titrated to 1 g bid plus individualized diet and exercise with hba1c target 48 mmol/mol (6.5%)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, standard-release oral metformin titrated to 1 g bid plus individualized diet and exercise with HbA1c target 48 mmol/mol (6.5%) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes First-Line Metformin and Lifestyle Optimization.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, standard-release oral metformin titrated to 1 g bid plus individualized diet and exercise with HbA1c target 48 mmol/mol (6.5%) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes First-Line Metformin and Lifestyle Optimization. In the clinical management of Type 2 Diabetes First-Line Metformin and Lifestyle Optimization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes First-Line Metformin and Lifestyle Optimization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes First-Line Metformin and Lifestyle Optimization."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG28: Type 2 diabetes in adults",
+        "url": "https://www.nice.org.uk/guidance/ng28"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8684",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition. Clinical examination and investigative review confirm adding oral dapagliflozin or empagliflozin for patients with established cardiovascular disease or high risk regardless of HbA1c. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Adding oral dapagliflozin or empagliflozin for patients with established cardiovascular disease or high risk regardless of hba1c",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding oral dapagliflozin or empagliflozin for patients with established cardiovascular disease or high risk regardless of HbA1c represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding oral dapagliflozin or empagliflozin for patients with established cardiovascular disease or high risk regardless of HbA1c represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition. In the clinical management of Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes with Established CVD SGLT2 Inhibitor Addition."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG28 Update",
+        "url": "https://www.nice.org.uk/guidance/ng28"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8685",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission. Clinical examination and investigative review confirm same-day hospital admission and multidisciplinary foot team review for ulcer with systemic sepsis, ascending cellulitis, or gangrene. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Same-day hospital admission and multidisciplinary foot team review for ulcer with systemic sepsis, ascending cellulitis, or gangrene",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, same-day hospital admission and multidisciplinary foot team review for ulcer with systemic sepsis, ascending cellulitis, or gangrene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, same-day hospital admission and multidisciplinary foot team review for ulcer with systemic sepsis, ascending cellulitis, or gangrene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission. In the clinical management of Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Foot Ulcer Severe Infection Urgent Hospital Admission."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG19: Diabetic foot problems",
+        "url": "https://www.nice.org.uk/guidance/ng19"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8686",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol. Clinical examination and investigative review confirm oral propranolol 20-40 mg tid to control adrenergic tremor, palpitations, and diaphoresis pending definitive specialist endocrinology review. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Oral propranolol 20-40 mg tid to control adrenergic tremor, palpitations, and diaphoresis pending definitive specialist endocrinology review",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral propranolol 20-40 mg tid to control adrenergic tremor, palpitations, and diaphoresis pending definitive specialist endocrinology review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral propranolol 20-40 mg tid to control adrenergic tremor, palpitations, and diaphoresis pending definitive specialist endocrinology review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol. In the clinical management of Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hyperthyroidism First-Line Symptomatic Relief Oral Propranolol."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG145: Thyroid disease",
+        "url": "https://www.nice.org.uk/guidance/ng145"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8687",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults. Clinical examination and investigative review confirm initiating oral levothyroxine 1.6 mcg/kg daily (approx 100-125 mcg) with serum TSH re-checked in 8-12 weeks. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral levothyroxine 1.6 mcg/kg daily (approx 100-125 mcg) with serum tsh re-checked in 8-12 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral levothyroxine 1.6 mcg/kg daily (approx 100-125 mcg) with serum TSH re-checked in 8-12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral levothyroxine 1.6 mcg/kg daily (approx 100-125 mcg) with serum TSH re-checked in 8-12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults. In the clinical management of Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Hypothyroidism Initial Levothyroxine Dosing in Young Healthy Adults."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG145",
+        "url": "https://www.nice.org.uk/guidance/ng145"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8688",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 88-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg. Clinical examination and investigative review confirm initiating low-dose oral levothyroxine 25 mcg daily with gradual upward titration to avoid precipitating myocardial ischemia. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Initiating low-dose oral levothyroxine 25 mcg daily with gradual upward titration to avoid precipitating myocardial ischemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating low-dose oral levothyroxine 25 mcg daily with gradual upward titration to avoid precipitating myocardial ischemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating low-dose oral levothyroxine 25 mcg daily with gradual upward titration to avoid precipitating myocardial ischemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg. In the clinical management of Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hypothyroidism in Elderly or Ischemic Heart Disease Low-Dose Levothyroxine 25 mcg."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG145",
+        "url": "https://www.nice.org.uk/guidance/ng145"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8689",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography. Clinical examination and investigative review confirm immediate interim therapeutic anticoagulation with DOAC and urgent CT pulmonary angiogram (CTPA). Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Immediate interim therapeutic anticoagulation with doac and urgent ct pulmonary angiogram (ctpa)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate interim therapeutic anticoagulation with DOAC and urgent CT pulmonary angiogram (CTPA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate interim therapeutic anticoagulation with DOAC and urgent CT pulmonary angiogram (CTPA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography. In the clinical management of Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Pulmonary Embolism Wells Score > 4 Immediate CT Pulmonary Angiography."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG158: Venous thromboembolic diseases",
+        "url": "https://www.nice.org.uk/guidance/ng158"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8690",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line. Clinical examination and investigative review confirm point-of-care or laboratory D-dimer test; if negative, DVT safely ruled out without requiring leg ultrasound. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Point-of-care or laboratory d-dimer test; if negative, dvt safely ruled out without requiring leg ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, point-of-care or laboratory D-dimer test; if negative, DVT safely ruled out without requiring leg ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, point-of-care or laboratory D-dimer test; if negative, DVT safely ruled out without requiring leg ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line. In the clinical management of Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Low Probability DVT Wells Score <= 1 High-Sensitivity D-Dimer First-Line."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG158",
+        "url": "https://www.nice.org.uk/guidance/ng158"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8691",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus M",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART. Clinical examination and investigative review confirm maintenance and reliever therapy (MART) with low-dose ICS-formoterol or low-dose ICS plus SABA PRN. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Maintenance and reliever therapy (mart) with low-dose ics-formoterol or low-dose ics plus saba prn",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, maintenance and reliever therapy (MART) with low-dose ICS-formoterol or low-dose ICS plus SABA PRN represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, maintenance and reliever therapy (MART) with low-dose ICS-formoterol or low-dose ICS plus SABA PRN represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART. In the clinical management of Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Asthma Newly Diagnosed Adult First-Line Low-Dose Inhaled Corticosteroid Plus MART."
+    ],
+    "references": [
+      {
+        "label": "NICE/BTS/SIGN Asthma Guidelines",
+        "url": "https://www.nice.org.uk/guidance/ng80"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8692",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol. Clinical examination and investigative review confirm oxygen targeting SpO2 94-98%, back-to-back nebulized salbutamol 5 mg and ipratropium 500 mcg, and oral prednisolone 40-50 mg. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Oxygen targeting spo2 94-98%, back-to-back nebulized salbutamol 5 mg and ipratropium 500 mcg, and oral prednisolone 40-50 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oxygen targeting SpO2 94-98%, back-to-back nebulized salbutamol 5 mg and ipratropium 500 mcg, and oral prednisolone 40-50 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oxygen targeting SpO2 94-98%, back-to-back nebulized salbutamol 5 mg and ipratropium 500 mcg, and oral prednisolone 40-50 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol. In the clinical management of Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Severe Asthma in Adults High-Flow Oxygen and Nebulized Salbutamol."
+    ],
+    "references": [
+      {
+        "label": "BTS/SIGN British Guideline on the Management of Asthma",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8693",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%. Clinical examination and investigative review confirm titrated oxygen via 24% or 28% Venturi mask targeting SpO2 88-92% preventing worsening hypercapnic respiratory drive suppression. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Titrated oxygen via 24% or 28% venturi mask targeting spo2 88-92% preventing worsening hypercapnic respiratory drive suppression",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrated oxygen via 24% or 28% Venturi mask targeting SpO2 88-92% preventing worsening hypercapnic respiratory drive suppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrated oxygen via 24% or 28% Venturi mask targeting SpO2 88-92% preventing worsening hypercapnic respiratory drive suppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%. In the clinical management of COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD Exacerbation with Respiratory Failure Controlled Oxygen Venturi Mask 24-28%."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG115: COPD in over 16s",
+        "url": "https://www.nice.org.uk/guidance/ng115"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8694",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV). Clinical examination and investigative review confirm BiPAP non-invasive ventilation for persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.0 kPa) despite optimal bronchodilators. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Bipap non-invasive ventilation for persistent respiratory acidosis (ph < 7.35, paco2 > 6.0 kpa) despite optimal bronchodilators",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, BiPAP non-invasive ventilation for persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.0 kPa) despite optimal bronchodilators represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV).",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, BiPAP non-invasive ventilation for persistent respiratory acidosis (pH < 7.35, PaCO2 > 6.0 kPa) despite optimal bronchodilators represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV). In the clinical management of COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD Acute Acidosis Failing Medical Therapy Non-Invasive Ventilation (NIV)."
+    ],
+    "references": [
+      {
+        "label": "BTS/ICS Guideline for the Ventilatory Management of Acute Hypercapnic Respiratory Failure",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8695",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days. Clinical examination and investigative review confirm home treatment with oral amoxicillin 500 mg tid for 5 days for community-acquired pneumonia with CRB-65 score of 0. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Home treatment with oral amoxicillin 500 mg tid for 5 days for community-acquired pneumonia with crb-65 score of 0",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, home treatment with oral amoxicillin 500 mg tid for 5 days for community-acquired pneumonia with CRB-65 score of 0 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, home treatment with oral amoxicillin 500 mg tid for 5 days for community-acquired pneumonia with CRB-65 score of 0 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days. In the clinical management of Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia CRB-65 Score 0 Oral Amoxicillin 500 mg tid 5 Days."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG138: Pneumonia (community-acquired)",
+        "url": "https://www.nice.org.uk/guidance/ng138"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8696",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment. Clinical examination and investigative review confirm urgent hospital admission for CRB-65 score >= 2 (Confusion, Respiratory rate >= 30, BP < 90/60, Age >= 65). Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Urgent hospital admission for crb-65 score >= 2 (confusion, respiratory rate >= 30, bp < 90/60, age >= 65)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent hospital admission for CRB-65 score >= 2 (Confusion, Respiratory rate >= 30, BP < 90/60, Age >= 65) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent hospital admission for CRB-65 score >= 2 (Confusion, Respiratory rate >= 30, BP < 90/60, Age >= 65) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment. In the clinical management of Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia CRB-65 Score >= 2 Immediate Hospital Assessment."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG138",
+        "url": "https://www.nice.org.uk/guidance/ng138"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8697",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy. Clinical examination and investigative review confirm urgent direct-access upper gastrointestinal endoscopy within 2 weeks under suspected cancer referral pathway. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Urgent direct-access upper gastrointestinal endoscopy within 2 weeks under suspected cancer referral pathway",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent direct-access upper gastrointestinal endoscopy within 2 weeks under suspected cancer referral pathway represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent direct-access upper gastrointestinal endoscopy within 2 weeks under suspected cancer referral pathway represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy. In the clinical management of Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dyspepsia Age >= 55 with Weight Loss Urgent 2-Week Wait Endoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG12: Suspected cancer",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8698",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 11-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat. Clinical examination and investigative review confirm stool antigen test or 13C-urea breath test for H. pylori, followed by 7-day eradication triple therapy if positive. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Stool antigen test or 13c-urea breath test for h. pylori, followed by 7-day eradication triple therapy if positive",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, stool antigen test or 13C-urea breath test for H. pylori, followed by 7-day eradication triple therapy if positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, stool antigen test or 13C-urea breath test for H. pylori, followed by 7-day eradication triple therapy if positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat. In the clinical management of Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uncomplicated Dyspepsia Under 55 Non-Invasive H. pylori Test-and-Treat."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG184: Gastro-oesophageal reflux disease and dyspepsia",
+        "url": "https://www.nice.org.uk/guidance/cg184"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8699",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithrom",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin. Clinical examination and investigative review confirm twice-daily PPI, amoxicillin 1 g bid, and clarithromycin 500 mg bid (or metronidazole) for 7 days. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Twice-daily ppi, amoxicillin 1 g bid, and clarithromycin 500 mg bid (or metronidazole) for 7 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, twice-daily PPI, amoxicillin 1 g bid, and clarithromycin 500 mg bid (or metronidazole) for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, twice-daily PPI, amoxicillin 1 g bid, and clarithromycin 500 mg bid (or metronidazole) for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin. In the clinical management of Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Helicobacter pylori First-Line Eradication PPI Plus Amoxicillin and Clarithromycin."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG184",
+        "url": "https://www.nice.org.uk/guidance/cg184"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8700",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy. Clinical examination and investigative review confirm hospital admission, IV resuscitation, and urgent endoscopy within 24 hours for Glasgow-Blatchford score > 0. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Hospital admission, iv resuscitation, and urgent endoscopy within 24 hours for glasgow-blatchford score > 0",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, hospital admission, IV resuscitation, and urgent endoscopy within 24 hours for Glasgow-Blatchford score > 0 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, hospital admission, IV resuscitation, and urgent endoscopy within 24 hours for Glasgow-Blatchford score > 0 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy. In the clinical management of Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Upper Gastrointestinal Bleeding Blatchford Score > 0 Inpatient Endoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG141: Acute upper GI bleeding",
+        "url": "https://www.nice.org.uk/guidance/cg141"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8701",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG). Clinical examination and investigative review confirm testing total IgA and IgA-tTG while the patient is maintained on a gluten-containing diet. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Testing total iga and iga-ttg while the patient is maintained on a gluten-containing diet",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, testing total IgA and IgA-tTG while the patient is maintained on a gluten-containing diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, testing total IgA and IgA-tTG while the patient is maintained on a gluten-containing diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG). In the clinical management of Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coeliac Disease Diagnostic Workup Serum IgA Tissue Transglutaminase (tTG)."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG20: Coeliac disease",
+        "url": "https://www.nice.org.uk/guidance/ng20"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8702",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT). Clinical examination and investigative review confirm FIT test in primary care for unexplained abdominal symptoms; referring on 2-week wait pathway if f-Hb >= 10 mcg/g. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Fit test in primary care for unexplained abdominal symptoms; referring on 2-week wait pathway if f-hb >= 10 mcg/g",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, FIT test in primary care for unexplained abdominal symptoms; referring on 2-week wait pathway if f-Hb >= 10 mcg/g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT).",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, FIT test in primary care for unexplained abdominal symptoms; referring on 2-week wait pathway if f-Hb >= 10 mcg/g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT). In the clinical management of Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Colorectal Cancer Quantitative Faecal Immunochemical Test (qFIT)."
+    ],
+    "references": [
+      {
+        "label": "NICE DG56: Quantitative faecal immunochemical testing",
+        "url": "https://www.nice.org.uk/guidance/dg56"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8703",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg. Clinical examination and investigative review confirm oral budesonide 9 mg once daily for 8 weeks inducing remission with minimal systemic glucocorticoid adverse effects. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Oral budesonide 9 mg once daily for 8 weeks inducing remission with minimal systemic glucocorticoid adverse effects",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral budesonide 9 mg once daily for 8 weeks inducing remission with minimal systemic glucocorticoid adverse effects represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral budesonide 9 mg once daily for 8 weeks inducing remission with minimal systemic glucocorticoid adverse effects represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg. In the clinical management of Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Crohn Disease Mild-to-Moderate Terminal Ileal Flare Oral Budesonide 9 mg."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG129: Crohn's disease",
+        "url": "https://www.nice.org.uk/guidance/ng129"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8704",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily. Clinical examination and investigative review confirm rectal mesalazine 1 g suppository once daily at bedtime for induction and maintenance of remission in distal proctitis. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Rectal mesalazine 1 g suppository once daily at bedtime for induction and maintenance of remission in distal proctitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, rectal mesalazine 1 g suppository once daily at bedtime for induction and maintenance of remission in distal proctitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, rectal mesalazine 1 g suppository once daily at bedtime for induction and maintenance of remission in distal proctitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily. In the clinical management of Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ulcerative Colitis Proctitis First-Line Topical Mesalazine Suppository 1 g Daily."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG130: Ulcerative colitis",
+        "url": "https://www.nice.org.uk/guidance/ng130"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8705",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone. Clinical examination and investigative review confirm emergency hospital admission, IV hydrocortisone 100 mg qid, and daily abdominal X-rays tracking toxic megacolon. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Emergency hospital admission, iv hydrocortisone 100 mg qid, and daily abdominal x-rays tracking toxic megacolon",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency hospital admission, IV hydrocortisone 100 mg qid, and daily abdominal X-rays tracking toxic megacolon represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency hospital admission, IV hydrocortisone 100 mg qid, and daily abdominal X-rays tracking toxic megacolon represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone. In the clinical management of Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Severe Ulcerative Colitis Truelove-Witts Criteria IV Hydrocortisone."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG130",
+        "url": "https://www.nice.org.uk/guidance/ng130"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8706",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial. Clinical examination and investigative review confirm regular meals, adequate hydration, soluble fiber (ispaghula husk), and referral for supervised low-FODMAP dietary restriction. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Regular meals, adequate hydration, soluble fiber (ispaghula husk), and referral for supervised low-fodmap dietary restriction",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, regular meals, adequate hydration, soluble fiber (ispaghula husk), and referral for supervised low-FODMAP dietary restriction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, regular meals, adequate hydration, soluble fiber (ispaghula husk), and referral for supervised low-FODMAP dietary restriction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial. In the clinical management of Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Irritable Bowel Syndrome First-Line Dietary Advice and Low FODMAP Trial."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG61: Irritable bowel syndrome in adults",
+        "url": "https://www.nice.org.uk/guidance/cg61"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8707",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav. Clinical examination and investigative review confirm no routine antibiotics for mild uncomplicated diverticulitis without systemic features; review in 48-72 hours. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "No routine antibiotics for mild uncomplicated diverticulitis without systemic features; review in 48-72 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, no routine antibiotics for mild uncomplicated diverticulitis without systemic features; review in 48-72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, no routine antibiotics for mild uncomplicated diverticulitis without systemic features; review in 48-72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav. In the clinical management of Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Uncomplicated Diverticulitis Watchful Waiting vs Oral Co-amoxiclav."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG147: Diverticular disease",
+        "url": "https://www.nice.org.uk/guidance/ng147"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8708",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID. Clinical examination and investigative review confirm oral colchicine 500 mcg 2-4 times daily (or oral naproxen with PPI) initiated within 24 hours of flare onset. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Oral colchicine 500 mcg 2-4 times daily (or oral naproxen with ppi) initiated within 24 hours of flare onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral colchicine 500 mcg 2-4 times daily (or oral naproxen with PPI) initiated within 24 hours of flare onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral colchicine 500 mcg 2-4 times daily (or oral naproxen with PPI) initiated within 24 hours of flare onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID. In the clinical management of Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gout Acute Flare First-Line Oral Colchicine 500 mcg or NSAID."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG219: Gout: diagnosis and management",
+        "url": "https://www.nice.org.uk/guidance/ng219"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8709",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L. Clinical examination and investigative review confirm titrating oral allopurinol starting at 100 mg daily under flare prophylaxis targeting serum urate < 300 umol/L (< 5 mg/dL). Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Titrating oral allopurinol starting at 100 mg daily under flare prophylaxis targeting serum urate < 300 umol/l (< 5 mg/dl)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrating oral allopurinol starting at 100 mg daily under flare prophylaxis targeting serum urate < 300 umol/L (< 5 mg/dL) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrating oral allopurinol starting at 100 mg daily under flare prophylaxis targeting serum urate < 300 umol/L (< 5 mg/dL) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L. In the clinical management of Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gout Treat-to-Target Allopurinol Initiation Target Serum Urate < 300 umol/L."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG219",
+        "url": "https://www.nice.org.uk/guidance/ng219"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8710",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily. Clinical examination and investigative review confirm oral prednisolone 15 mg daily with dramatic symptomatic resolution within 72 hours confirming clinical diagnosis. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral prednisolone 15 mg daily with dramatic symptomatic resolution within 72 hours confirming clinical diagnosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral prednisolone 15 mg daily with dramatic symptomatic resolution within 72 hours confirming clinical diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral prednisolone 15 mg daily with dramatic symptomatic resolution within 72 hours confirming clinical diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily. In the clinical management of Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polymyalgia Rheumatica Diagnostic Trial Oral Prednisolone 15 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "BSR Guideline for the Management of PMR",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8711",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology R",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral. Clinical examination and investigative review confirm urgent outpatient referral to specialist rheumatology within 3 weeks for suspected persistent inflammatory polyarthritis. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Urgent outpatient referral to specialist rheumatology within 3 weeks for suspected persistent inflammatory polyarthritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent outpatient referral to specialist rheumatology within 3 weeks for suspected persistent inflammatory polyarthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent outpatient referral to specialist rheumatology within 3 weeks for suspected persistent inflammatory polyarthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral. In the clinical management of Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Suspected Early Presentation Urgent 3-Week Rheumatology Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG100: Rheumatoid arthritis in adults",
+        "url": "https://www.nice.org.uk/guidance/ng100"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8712",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis Core Management Holistic Non-Pharmacological Interventions",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Osteoarthritis Core Management Holistic Non-Pharmacological Interventions. Clinical examination and investigative review confirm therapeutic exercise, physical conditioning, weight loss support, and tailored patient education as primary management. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic exercise, physical conditioning, weight loss support, and tailored patient education as primary management",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, therapeutic exercise, physical conditioning, weight loss support, and tailored patient education as primary management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoarthritis Core Management Holistic Non-Pharmacological Interventions.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, therapeutic exercise, physical conditioning, weight loss support, and tailored patient education as primary management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoarthritis Core Management Holistic Non-Pharmacological Interventions. In the clinical management of Osteoarthritis Core Management Holistic Non-Pharmacological Interventions, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoarthritis Core Management Holistic Non-Pharmacological Interventions.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoarthritis Core Management Holistic Non-Pharmacological Interventions."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG226: Osteoarthritis in over 16s",
+        "url": "https://www.nice.org.uk/guidance/ng226"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8713",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid. Clinical examination and investigative review confirm oral alendronic acid 70 mg weekly with calcium/vitamin D repletion for postmenopausal women with confirmed fragility fracture. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Oral alendronic acid 70 mg weekly with calcium/vitamin d repletion for postmenopausal women with confirmed fragility fracture",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral alendronic acid 70 mg weekly with calcium/vitamin D repletion for postmenopausal women with confirmed fragility fracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral alendronic acid 70 mg weekly with calcium/vitamin D repletion for postmenopausal women with confirmed fragility fracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid. In the clinical management of Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoporosis Postmenopausal Woman with Fragility Fracture Oral Alendronic Acid."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG146: Osteoporosis: assessing the risk of fragility fracture",
+        "url": "https://www.nice.org.uk/guidance/cg146"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8714",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg. Clinical examination and investigative review confirm oral alpha-1 blocker tamsulosin 400 mcg once daily for moderate-to-severe voiding symptoms with rapid onset of relief. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Oral alpha-1 blocker tamsulosin 400 mcg once daily for moderate-to-severe voiding symptoms with rapid onset of relief",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral alpha-1 blocker tamsulosin 400 mcg once daily for moderate-to-severe voiding symptoms with rapid onset of relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral alpha-1 blocker tamsulosin 400 mcg once daily for moderate-to-severe voiding symptoms with rapid onset of relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg. In the clinical management of Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lower Urinary Tract Symptoms in Men with BPH Oral Tamsulosin 400 mcg."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG97: Lower urinary tract symptoms in men",
+        "url": "https://www.nice.org.uk/guidance/cg97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8715",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition. Clinical examination and investigative review confirm adding 5-alpha reductase inhibitor finasteride for prostate volume > 30 g or PSA > 1.4 ng/mL reducing long-term retention risk. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Adding 5-alpha reductase inhibitor finasteride for prostate volume > 30 g or psa > 1.4 ng/ml reducing long-term retention risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding 5-alpha reductase inhibitor finasteride for prostate volume > 30 g or PSA > 1.4 ng/mL reducing long-term retention risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding 5-alpha reductase inhibitor finasteride for prostate volume > 30 g or PSA > 1.4 ng/mL reducing long-term retention risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition. In the clinical management of Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Benign Prostatic Hyperplasia Enlarged Prostate Oral Finasteride 5 mg Addition."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG97",
+        "url": "https://www.nice.org.uk/guidance/cg97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8716",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy. Clinical examination and investigative review confirm urgent suspected cancer pathway referral within 2 weeks for flexible cystoscopy and renal ultrasound in adults aged >= 45. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Urgent suspected cancer pathway referral within 2 weeks for flexible cystoscopy and renal ultrasound in adults aged >= 45",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer pathway referral within 2 weeks for flexible cystoscopy and renal ultrasound in adults aged >= 45 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer pathway referral within 2 weeks for flexible cystoscopy and renal ultrasound in adults aged >= 45 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy. In the clinical management of Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Unexplained Visible Macroscopic Haematuria Urgent 2-Week Wait Cystoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG12: Suspected cancer",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8717",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral. Clinical examination and investigative review confirm urgent 2-week wait referral for bladder and upper tract imaging in adults aged 60 and over with unexplained microscopic hematuria. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Urgent 2-week wait referral for bladder and upper tract imaging in adults aged 60 and over with unexplained microscopic hematuria",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent 2-week wait referral for bladder and upper tract imaging in adults aged 60 and over with unexplained microscopic hematuria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent 2-week wait referral for bladder and upper tract imaging in adults aged 60 and over with unexplained microscopic hematuria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral. In the clinical management of Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Non-Visible Microscopic Haematuria Aged >= 60 with Dysuria Urgent Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG12",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8718",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L. Clinical examination and investigative review confirm recognizing AKI with absolute serum creatinine increase >= 26.5 umol/L within 48 hours; medication review stopping nephrotoxics. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing aki with absolute serum creatinine increase >= 26.5 umol/l within 48 hours; medication review stopping nephrotoxics",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recognizing AKI with absolute serum creatinine increase >= 26.5 umol/L within 48 hours; medication review stopping nephrotoxics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recognizing AKI with absolute serum creatinine increase >= 26.5 umol/L within 48 hours; medication review stopping nephrotoxics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L. In the clinical management of Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Kidney Injury KDIGO Stage 1 Diagnostic Recognition Serum Creatinine Rise >= 26 umol/L."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG148: Acute kidney injury",
+        "url": "https://www.nice.org.uk/guidance/ng148"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8719",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio. Clinical examination and investigative review confirm annual or biannual tracking of CKD stage using both eGFR and ACR (urine albumin-to-creatinine ratio). Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Annual or biannual tracking of ckd stage using both egfr and acr (urine albumin-to-creatinine ratio)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, annual or biannual tracking of CKD stage using both eGFR and ACR (urine albumin-to-creatinine ratio) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, annual or biannual tracking of CKD stage using both eGFR and ACR (urine albumin-to-creatinine ratio) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio. In the clinical management of Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease Routine Monitoring eGFR and Urine Albumin-to-Creatinine Ratio."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203: Chronic kidney disease",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8720",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration. Clinical examination and investigative review confirm initiating and optimizing ACEi/ARB therapy for non-diabetic or diabetic CKD with hypertension and ACR >= 30 mg/mmol. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Initiating and optimizing acei/arb therapy for non-diabetic or diabetic ckd with hypertension and acr >= 30 mg/mmol",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating and optimizing ACEi/ARB therapy for non-diabetic or diabetic CKD with hypertension and ACR >= 30 mg/mmol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating and optimizing ACEi/ARB therapy for non-diabetic or diabetic CKD with hypertension and ACR >= 30 mg/mmol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration. In the clinical management of Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease with ACR >= 30 mg/mmol ACE Inhibitor or ARB Titration."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203",
+        "url": "https://www.nice.org.uk/guidance/ng203"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8721",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line. Clinical examination and investigative review confirm initiating oral sertraline 50 mg daily combined with high-intensity psychological intervention (CBT) and suicide safety review. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral sertraline 50 mg daily combined with high-intensity psychological intervention (cbt) and suicide safety review",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral sertraline 50 mg daily combined with high-intensity psychological intervention (CBT) and suicide safety review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral sertraline 50 mg daily combined with high-intensity psychological intervention (CBT) and suicide safety review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line. In the clinical management of Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Depression Moderate-to-Severe in Primary Care SSRI Sertraline First-Line."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG222: Depression in adults",
+        "url": "https://www.nice.org.uk/guidance/ng222"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8722",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI. Clinical examination and investigative review confirm individual guided self-help, cognitive behavioral therapy, or oral SSRI (sertraline) as evidence-based initial interventions. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Individual guided self-help, cognitive behavioral therapy, or oral ssri (sertraline) as evidence-based initial interventions",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, individual guided self-help, cognitive behavioral therapy, or oral SSRI (sertraline) as evidence-based initial interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, individual guided self-help, cognitive behavioral therapy, or oral SSRI (sertraline) as evidence-based initial interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI. In the clinical management of Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Generalized Anxiety Disorder First-Line Psychological Therapy or SSRI."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG113: Generalised anxiety disorder",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8723",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI. Clinical examination and investigative review confirm weekly CBT (7-14 hours) or oral SSRI pharmacotherapy; strictly avoiding long-term maintenance benzodiazepines. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Weekly cbt (7-14 hours) or oral ssri pharmacotherapy; strictly avoiding long-term maintenance benzodiazepines",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, weekly CBT (7-14 hours) or oral SSRI pharmacotherapy; strictly avoiding long-term maintenance benzodiazepines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, weekly CBT (7-14 hours) or oral SSRI pharmacotherapy; strictly avoiding long-term maintenance benzodiazepines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI. In the clinical management of Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Panic Disorder First-Line Cognitive Behavioural Therapy or SSRI."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG113",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8724",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Preven",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention. Clinical examination and investigative review confirm CBT including exposure and response prevention (ERP) or oral SSRI for moderate functional impairment from obsessions/compulsions. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Cbt including exposure and response prevention (erp) or oral ssri for moderate functional impairment from obsessions/compulsions",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, CBT including exposure and response prevention (ERP) or oral SSRI for moderate functional impairment from obsessions/compulsions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, CBT including exposure and response prevention (ERP) or oral SSRI for moderate functional impairment from obsessions/compulsions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention. In the clinical management of Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obsessive-Compulsive Disorder Moderate Impairment Exposure and Response Prevention."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG31: Obsessive-compulsive disorder",
+        "url": "https://www.nice.org.uk/guidance/cg31"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8725",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR. Clinical examination and investigative review confirm trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing (EMDR); avoiding routine drug therapy. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing (emdr); avoiding routine drug therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing (EMDR); avoiding routine drug therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing (EMDR); avoiding routine drug therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR. In the clinical management of Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Traumatic Stress Disorder Trauma-Focused CBT or EMDR."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG116: Post-traumatic stress disorder",
+        "url": "https://www.nice.org.uk/guidance/ng116"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8726",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine. Clinical examination and investigative review confirm stopping antidepressants and starting oral antipsychotic (olanzapine, haloperidol, or quetiapine) in a safe inpatient psychiatric unit. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Stopping antidepressants and starting oral antipsychotic (olanzapine, haloperidol, or quetiapine) in a safe inpatient psychiatric unit",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, stopping antidepressants and starting oral antipsychotic (olanzapine, haloperidol, or quetiapine) in a safe inpatient psychiatric unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, stopping antidepressants and starting oral antipsychotic (olanzapine, haloperidol, or quetiapine) in a safe inpatient psychiatric unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine. In the clinical management of Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder Acute Mania Inpatient Hospitalization and Oral Olanzapine."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185: Bipolar disorder",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8727",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring. Clinical examination and investigative review confirm oral lithium carbonate maintaining 12-hour post-dose serum trough level 0.6-0.8 mmol/L; tracking baseline renal and thyroid function. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Oral lithium carbonate maintaining 12-hour post-dose serum trough level 0.6-0.8 mmol/l; tracking baseline renal and thyroid function",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral lithium carbonate maintaining 12-hour post-dose serum trough level 0.6-0.8 mmol/L; tracking baseline renal and thyroid function represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral lithium carbonate maintaining 12-hour post-dose serum trough level 0.6-0.8 mmol/L; tracking baseline renal and thyroid function represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring. In the clinical management of Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder Long-Term Maintenance Lithium Carbonate Serum Level Monitoring."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG185",
+        "url": "https://www.nice.org.uk/guidance/ng185"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8728",
+    "exam": "PLAB / UKMLA",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Schizophrenia First Episode Early Intervention in Psychosis Team Referral",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Schizophrenia First Episode Early Intervention in Psychosis Team Referral. Clinical examination and investigative review confirm urgent referral to specialized community Early Intervention in Psychosis (EIP) service within 2 weeks of symptom onset. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Urgent referral to specialized community early intervention in psychosis (eip) service within 2 weeks of symptom onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent referral to specialized community Early Intervention in Psychosis (EIP) service within 2 weeks of symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schizophrenia First Episode Early Intervention in Psychosis Team Referral.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent referral to specialized community Early Intervention in Psychosis (EIP) service within 2 weeks of symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schizophrenia First Episode Early Intervention in Psychosis Team Referral. In the clinical management of Schizophrenia First Episode Early Intervention in Psychosis Team Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schizophrenia First Episode Early Intervention in Psychosis Team Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schizophrenia First Episode Early Intervention in Psychosis Team Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG178: Psychosis and schizophrenia in adults",
+        "url": "https://www.nice.org.uk/guidance/cg178"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8729",
+    "exam": "PLAB / UKMLA",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Pr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 85-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol. Clinical examination and investigative review confirm reorientation, lighting optimization, maintaining hydration, treating constipation/infection, and early mobilization without restraints. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Reorientation, lighting optimization, maintaining hydration, treating constipation/infection, and early mobilization without restraints",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, reorientation, lighting optimization, maintaining hydration, treating constipation/infection, and early mobilization without restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, reorientation, lighting optimization, maintaining hydration, treating constipation/infection, and early mobilization without restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol. In the clinical management of Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Delirium in Elderly Hospital Inpatients Multi-Component Non-Pharmacological Protocol."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG103: Delirium: prevention, diagnosis and management",
+        "url": "https://www.nice.org.uk/guidance/cg103"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8730",
+    "exam": "PLAB / UKMLA",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 86-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation. Clinical examination and investigative review confirm initiating acetylcholinesterase inhibitor (donepezil 5-10 mg daily) after formal memory clinic specialist evaluation. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Initiating acetylcholinesterase inhibitor (donepezil 5-10 mg daily) after formal memory clinic specialist evaluation",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating acetylcholinesterase inhibitor (donepezil 5-10 mg daily) after formal memory clinic specialist evaluation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating acetylcholinesterase inhibitor (donepezil 5-10 mg daily) after formal memory clinic specialist evaluation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation. In the clinical management of Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Disease Mild-to-Moderate Donepezil or Galantamine Initiation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG97: Dementia",
+        "url": "https://www.nice.org.uk/guidance/ng97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8731",
+    "exam": "PLAB / UKMLA",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 87-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First. Clinical examination and investigative review confirm structured de-escalation, pain relief, and environment modification; antipsychotics restricted to severe risk of harm. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Structured de-escalation, pain relief, and environment modification; antipsychotics restricted to severe risk of harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, structured de-escalation, pain relief, and environment modification; antipsychotics restricted to severe risk of harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, structured de-escalation, pain relief, and environment modification; antipsychotics restricted to severe risk of harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First. In the clinical management of Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Dementia with Behavioral Disturbance Non-Pharmacological Strategies First."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG97",
+        "url": "https://www.nice.org.uk/guidance/ng97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8732",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 88-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults. Clinical examination and investigative review confirm oral co-beneldopa or co-careldopa titrated for significant functional motor impairment in adults aged 65 and over. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Oral co-beneldopa or co-careldopa titrated for significant functional motor impairment in adults aged 65 and over",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral co-beneldopa or co-careldopa titrated for significant functional motor impairment in adults aged 65 and over represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral co-beneldopa or co-careldopa titrated for significant functional motor impairment in adults aged 65 and over represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults. In the clinical management of Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease First-Line Motor Symptoms Levodopa in Older Adults."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG71: Parkinson's disease in adults",
+        "url": "https://www.nice.org.uk/guidance/ng71"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8733",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Acute Migraine Attack First-Line Combination Oral Triptan and NSAID",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Acute Migraine Attack First-Line Combination Oral Triptan and NSAID. Clinical examination and investigative review confirm oral sumatriptan 50-100 mg plus oral naproxen 500 mg taken at the onset of migraine headache phase. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Oral sumatriptan 50-100 mg plus oral naproxen 500 mg taken at the onset of migraine headache phase",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral sumatriptan 50-100 mg plus oral naproxen 500 mg taken at the onset of migraine headache phase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Attack First-Line Combination Oral Triptan and NSAID.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral sumatriptan 50-100 mg plus oral naproxen 500 mg taken at the onset of migraine headache phase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Attack First-Line Combination Oral Triptan and NSAID. In the clinical management of Acute Migraine Attack First-Line Combination Oral Triptan and NSAID, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Attack First-Line Combination Oral Triptan and NSAID.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Attack First-Line Combination Oral Triptan and NSAID."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG150: Headaches in over 12s",
+        "url": "https://www.nice.org.uk/guidance/cg150"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8734",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate. Clinical examination and investigative review confirm oral propranolol (80-160 mg daily) or topiramate (with strict teratogenicity counseling and contraception). Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Oral propranolol (80-160 mg daily) or topiramate (with strict teratogenicity counseling and contraception)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral propranolol (80-160 mg daily) or topiramate (with strict teratogenicity counseling and contraception) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral propranolol (80-160 mg daily) or topiramate (with strict teratogenicity counseling and contraception) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate. In the clinical management of Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Migraine Prophylaxis >= 2 Disabling Attacks per Month Oral Propranolol or Topiramate."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG150",
+        "url": "https://www.nice.org.uk/guidance/cg150"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8735",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics. Clinical examination and investigative review confirm discontinuing triptans, opioids, or simple analgesics used >= 10-15 days per month with warning of rebound headache. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Discontinuing triptans, opioids, or simple analgesics used >= 10-15 days per month with warning of rebound headache",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, discontinuing triptans, opioids, or simple analgesics used >= 10-15 days per month with warning of rebound headache represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, discontinuing triptans, opioids, or simple analgesics used >= 10-15 days per month with warning of rebound headache represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics. In the clinical management of Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medication Overuse Headache Gradual or Abrupt Withdrawal of Offending Analgesics."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG150",
+        "url": "https://www.nice.org.uk/guidance/cg150"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8736",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan. Clinical examination and investigative review confirm normobaric 100% oxygen at 12 L/min via non-rebreather mask and subcutaneous sumatriptan 6 mg injection. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Normobaric 100% oxygen at 12 l/min via non-rebreather mask and subcutaneous sumatriptan 6 mg injection",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, normobaric 100% oxygen at 12 L/min via non-rebreather mask and subcutaneous sumatriptan 6 mg injection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, normobaric 100% oxygen at 12 L/min via non-rebreather mask and subcutaneous sumatriptan 6 mg injection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan. In the clinical management of Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute Treatment 100% High-Flow Oxygen and Subcutaneous Sumatriptan."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG150",
+        "url": "https://www.nice.org.uk/guidance/cg150"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8737",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic. Clinical examination and investigative review confirm instructing immediate cessation of driving (informing DVLA) and urgent referral to specialist outpatient first seizure clinic. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Instructing immediate cessation of driving (informing dvla) and urgent referral to specialist outpatient first seizure clinic",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, instructing immediate cessation of driving (informing DVLA) and urgent referral to specialist outpatient first seizure clinic represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, instructing immediate cessation of driving (informing DVLA) and urgent referral to specialist outpatient first seizure clinic represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic. In the clinical management of First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of First Unprovoked Seizure Driving Advice and Urgent Neurology First-Fit Clinic."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG217: Epilepsies in children, young people and adults",
+        "url": "https://www.nice.org.uk/guidance/ng217"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8738",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam. Clinical examination and investigative review confirm buccal midazolam 10 mg (community) or IV lorazepam 4 mg (hospital) repeated once at 10 minutes if seizures persist. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Buccal midazolam 10 mg (community) or iv lorazepam 4 mg (hospital) repeated once at 10 minutes if seizures persist",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, buccal midazolam 10 mg (community) or IV lorazepam 4 mg (hospital) repeated once at 10 minutes if seizures persist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, buccal midazolam 10 mg (community) or IV lorazepam 4 mg (hospital) repeated once at 10 minutes if seizures persist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam. In the clinical management of Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Status Epilepticus First-Line Benzodiazepine Buccal Midazolam or IV Lorazepam."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG217",
+        "url": "https://www.nice.org.uk/guidance/ng217"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8739",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days. Clinical examination and investigative review confirm oral methylprednisolone 500 mg daily for 5 days speeding functional neurological recovery from acute disabling relapse. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Oral methylprednisolone 500 mg daily for 5 days speeding functional neurological recovery from acute disabling relapse",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral methylprednisolone 500 mg daily for 5 days speeding functional neurological recovery from acute disabling relapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral methylprednisolone 500 mg daily for 5 days speeding functional neurological recovery from acute disabling relapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days. In the clinical management of Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG220: Multiple sclerosis in adults",
+        "url": "https://www.nice.org.uk/guidance/ng220"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8740",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin. Clinical examination and investigative review confirm immediate urgent IM or IV benzylpenicillin 1.2 g before emergency ambulance transfer if non-blanching rash is present. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate urgent im or iv benzylpenicillin 1.2 g before emergency ambulance transfer if non-blanching rash is present",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate urgent IM or IV benzylpenicillin 1.2 g before emergency ambulance transfer if non-blanching rash is present represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate urgent IM or IV benzylpenicillin 1.2 g before emergency ambulance transfer if non-blanching rash is present represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin. In the clinical management of Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bacterial Meningitis Suspected in Primary Care Pre-Hospital IM Benzylpenicillin."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG102: Meningitis (bacterial) and meningococcal septicaemia",
+        "url": "https://www.nice.org.uk/guidance/cg102"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8741",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone. Clinical examination and investigative review confirm IV ceftriaxone 2 g bid plus IV dexamethasone 10 mg qid given with or before first dose of antibiotics. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Iv ceftriaxone 2 g bid plus iv dexamethasone 10 mg qid given with or before first dose of antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IV ceftriaxone 2 g bid plus IV dexamethasone 10 mg qid given with or before first dose of antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IV ceftriaxone 2 g bid plus IV dexamethasone 10 mg qid given with or before first dose of antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone. In the clinical management of Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hospital Bacterial Meningitis First-Line IV Ceftriaxone Plus Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG240: Meningitis and meningococcal disease",
+        "url": "https://www.nice.org.uk/guidance/ng240"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8742",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days. Clinical examination and investigative review confirm oral flucloxacillin 500 mg to 1 g qid for 5-7 days for uncomplicated cellulitis in non-penicillin allergic adults. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Oral flucloxacillin 500 mg to 1 g qid for 5-7 days for uncomplicated cellulitis in non-penicillin allergic adults",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral flucloxacillin 500 mg to 1 g qid for 5-7 days for uncomplicated cellulitis in non-penicillin allergic adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, oral flucloxacillin 500 mg to 1 g qid for 5-7 days for uncomplicated cellulitis in non-penicillin allergic adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days. In the clinical management of Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cellulitis First-Line Oral Flucloxacillin 500 mg qid 5 to 7 Days."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG141: Cellulitis and erysipelas",
+        "url": "https://www.nice.org.uk/guidance/ng141"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8743",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir. Clinical examination and investigative review confirm same-day hospital referral and systemic aciclovir for monomorphic vesicular eruption in atopic dermatitis. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Same-day hospital referral and systemic aciclovir for monomorphic vesicular eruption in atopic dermatitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, same-day hospital referral and systemic aciclovir for monomorphic vesicular eruption in atopic dermatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, same-day hospital referral and systemic aciclovir for monomorphic vesicular eruption in atopic dermatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir. In the clinical management of Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eczema Herpeticum Urgent Same-Day Hospital Admission and Oral/IV Aciclovir."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG57: Atopic eczema in under 12s",
+        "url": "https://www.nice.org.uk/guidance/cg57"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8744",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral. Clinical examination and investigative review confirm urgent suspected cancer referral for pigmented skin lesion scoring >= 3 points on weighted Glasgow 7-point checklist. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Urgent suspected cancer referral for pigmented skin lesion scoring >= 3 points on weighted glasgow 7-point checklist",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer referral for pigmented skin lesion scoring >= 3 points on weighted Glasgow 7-point checklist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer referral for pigmented skin lesion scoring >= 3 points on weighted Glasgow 7-point checklist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral. In the clinical management of Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Suspected Melanoma 7-Point Checklist Score >= 3 Urgent 2-Week Wait Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG12: Suspected cancer",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8745",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review. Clinical examination and investigative review confirm vesicles on nasal tip (Hutchinson sign) indicating nasociliary nerve involvement; same-day eye review and oral valaciclovir. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Vesicles on nasal tip (hutchinson sign) indicating nasociliary nerve involvement; same-day eye review and oral valaciclovir",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, vesicles on nasal tip (Hutchinson sign) indicating nasociliary nerve involvement; same-day eye review and oral valaciclovir represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, vesicles on nasal tip (Hutchinson sign) indicating nasociliary nerve involvement; same-day eye review and oral valaciclovir represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review. In the clinical management of Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Shingles Ophthalmicus Hutchinson Sign Immediate Same-Day Ophthalmology Review."
+    ],
+    "references": [
+      {
+        "label": "NICE CKS: Shingles",
+        "url": "https://cks.nice.org.uk/topics/shingles/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8746",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline an",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole. Clinical examination and investigative review confirm single IM ceftriaxone 1 g followed by oral doxycycline 100 mg bid and oral metronidazole 400 mg bid for 14 days. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Single im ceftriaxone 1 g followed by oral doxycycline 100 mg bid and oral metronidazole 400 mg bid for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single IM ceftriaxone 1 g followed by oral doxycycline 100 mg bid and oral metronidazole 400 mg bid for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single IM ceftriaxone 1 g followed by oral doxycycline 100 mg bid and oral metronidazole 400 mg bid for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole. In the clinical management of Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pelvic Inflammatory Disease Outpatient IM Ceftriaxone Plus Oral Doxycycline and Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "BASHH UK National Guideline for PID",
+        "url": "https://www.bashh.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8747",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG. Clinical examination and investigative review confirm urgent referral to early pregnancy assessment unit (EPAU) for transvaginal ultrasound and serial quantitative beta-hCG. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Urgent referral to early pregnancy assessment unit (epau) for transvaginal ultrasound and serial quantitative beta-hcg",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent referral to early pregnancy assessment unit (EPAU) for transvaginal ultrasound and serial quantitative beta-hCG represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent referral to early pregnancy assessment unit (EPAU) for transvaginal ultrasound and serial quantitative beta-hCG represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG. In the clinical management of Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ectopic Pregnancy Suspected Transvaginal Ultrasound and Serum Beta-hCG."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG126: Ectopic pregnancy and miscarriage",
+        "url": "https://www.nice.org.uk/guidance/ng126"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8748",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena). Clinical examination and investigative review confirm 52-mg levonorgestrel-releasing intrauterine system (LNG-IUS) providing maximum reduction in menstrual blood loss. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "52-mg levonorgestrel-releasing intrauterine system (lng-ius) providing maximum reduction in menstrual blood loss",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, 52-mg levonorgestrel-releasing intrauterine system (LNG-IUS) providing maximum reduction in menstrual blood loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena).",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, 52-mg levonorgestrel-releasing intrauterine system (LNG-IUS) providing maximum reduction in menstrual blood loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena). In the clinical management of Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heavy Menstrual Bleeding First-Line Levonorgestrel Intrauterine System (Mirena)."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG88: Heavy menstrual bleeding",
+        "url": "https://www.nice.org.uk/guidance/ng88"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8749",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment. Clinical examination and investigative review confirm transdermal or oral HRT (estrogen + progestogen for women with uterus) after discussing individualized benefits and risks. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Transdermal or oral hrt (estrogen + progestogen for women with uterus) after discussing individualized benefits and risks",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, transdermal or oral HRT (estrogen + progestogen for women with uterus) after discussing individualized benefits and risks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, transdermal or oral HRT (estrogen + progestogen for women with uterus) after discussing individualized benefits and risks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment. In the clinical management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Assessment."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG23: Menopause: diagnosis and management",
+        "url": "https://www.nice.org.uk/guidance/ng23"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8750",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound. Clinical examination and investigative review confirm urgent suspected cancer pathway referral within 2 weeks for transvaginal ultrasound assessing endometrial thickness (threshold >= 4 mm). Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent suspected cancer pathway referral within 2 weeks for transvaginal ultrasound assessing endometrial thickness (threshold >= 4 mm)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer pathway referral within 2 weeks for transvaginal ultrasound assessing endometrial thickness (threshold >= 4 mm) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, urgent suspected cancer pathway referral within 2 weeks for transvaginal ultrasound assessing endometrial thickness (threshold >= 4 mm) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound. In the clinical management of Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postmenopausal Bleeding Urgent 2-Week Wait Gynecological Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG12: Suspected cancer",
+        "url": "https://www.nice.org.uk/guidance/ng12"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8751",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 1",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks. Clinical examination and investigative review confirm initiating oral aspirin 75-150 mg daily from 12 weeks gestation until birth for women with >= 1 high or >= 2 moderate risk factors. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral aspirin 75-150 mg daily from 12 weeks gestation until birth for women with >= 1 high or >= 2 moderate risk factors",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral aspirin 75-150 mg daily from 12 weeks gestation until birth for women with >= 1 high or >= 2 moderate risk factors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral aspirin 75-150 mg daily from 12 weeks gestation until birth for women with >= 1 high or >= 2 moderate risk factors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks. In the clinical management of Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preeclampsia Screening High-Risk Factors Prophylactic Aspirin 75-150 mg from 12 Weeks."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG133: Hypertension in pregnancy",
+        "url": "https://www.nice.org.uk/guidance/ng133"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8752",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion. Clinical examination and investigative review confirm IV magnesium sulfate 4 g loading over 15 minutes followed by 1 g/hour infusion preventing eclamptic seizures. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Iv magnesium sulfate 4 g loading over 15 minutes followed by 1 g/hour infusion preventing eclamptic seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IV magnesium sulfate 4 g loading over 15 minutes followed by 1 g/hour infusion preventing eclamptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IV magnesium sulfate 4 g loading over 15 minutes followed by 1 g/hour infusion preventing eclamptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion. In the clinical management of Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Preeclampsia Magnesium Sulfate Loading and Maintenance Infusion."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG133",
+        "url": "https://www.nice.org.uk/guidance/ng133"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8753",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation. Clinical examination and investigative review confirm immediate initiation of subcutaneous insulin (with or without metformin) when fasting plasma glucose is >= 7.0 mmol/L at diagnosis. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Immediate initiation of subcutaneous insulin (with or without metformin) when fasting plasma glucose is >= 7.0 mmol/l at diagnosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate initiation of subcutaneous insulin (with or without metformin) when fasting plasma glucose is >= 7.0 mmol/L at diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate initiation of subcutaneous insulin (with or without metformin) when fasting plasma glucose is >= 7.0 mmol/L at diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation. In the clinical management of Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes Fasting Glucose >= 7.0 mmol/L Immediate Insulin Initiation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG3: Diabetes in pregnancy",
+        "url": "https://www.nice.org.uk/guidance/ng3"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8754",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Febrile Child Under 3 Months Immediate Hospital Pediatric Admission",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 7-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Febrile Child Under 3 Months Immediate Hospital Pediatric Admission. Clinical examination and investigative review confirm emergency hospital admission and full septic screen (blood cultures, urine, CXR, LP) for fever >= 38.0 C in infant under 3 months. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Emergency hospital admission and full septic screen (blood cultures, urine, cxr, lp) for fever >= 38.0 c in infant under 3 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency hospital admission and full septic screen (blood cultures, urine, CXR, LP) for fever >= 38.0 C in infant under 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Child Under 3 Months Immediate Hospital Pediatric Admission.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, emergency hospital admission and full septic screen (blood cultures, urine, CXR, LP) for fever >= 38.0 C in infant under 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Child Under 3 Months Immediate Hospital Pediatric Admission. In the clinical management of Febrile Child Under 3 Months Immediate Hospital Pediatric Admission, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Child Under 3 Months Immediate Hospital Pediatric Admission.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Child Under 3 Months Immediate Hospital Pediatric Admission."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG143: Fever in under 5s",
+        "url": "https://www.nice.org.uk/guidance/ng143"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8755",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 8-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support. Clinical examination and investigative review confirm nasal suction, fractional feeds, and supplemental oxygen if SpO2 < 92%; bronchodilators and antibiotics are not recommended. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Nasal suction, fractional feeds, and supplemental oxygen if spo2 < 92%; bronchodilators and antibiotics are not recommended",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, nasal suction, fractional feeds, and supplemental oxygen if SpO2 < 92%; bronchodilators and antibiotics are not recommended represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, nasal suction, fractional feeds, and supplemental oxygen if SpO2 < 92%; bronchodilators and antibiotics are not recommended represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support. In the clinical management of Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Bronchiolitis Primary Supportive Treatment Saline Drops and Feeding Support."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG9: Bronchiolitis in children",
+        "url": "https://www.nice.org.uk/guidance/ng9"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8756",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg. Clinical examination and investigative review confirm single dose oral dexamethasone 0.15 mg/kg for all severities of acute barking cough, stridor, and chest indrawing. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Single dose oral dexamethasone 0.15 mg/kg for all severities of acute barking cough, stridor, and chest indrawing",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single dose oral dexamethasone 0.15 mg/kg for all severities of acute barking cough, stridor, and chest indrawing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single dose oral dexamethasone 0.15 mg/kg for all severities of acute barking cough, stridor, and chest indrawing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg. In the clinical management of Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Croup Mild-to-Moderate Single Dose Oral Dexamethasone 0.15 mg/kg."
+    ],
+    "references": [
+      {
+        "label": "NICE CKS: Croup",
+        "url": "https://cks.nice.org.uk/topics/croup/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8757",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ce",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone. Clinical examination and investigative review confirm clean-catch or catheter urine culture and urgent intravenous broad-spectrum antibiotics for infants aged < 3 months. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Clean-catch or catheter urine culture and urgent intravenous broad-spectrum antibiotics for infants aged < 3 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, clean-catch or catheter urine culture and urgent intravenous broad-spectrum antibiotics for infants aged < 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, clean-catch or catheter urine culture and urgent intravenous broad-spectrum antibiotics for infants aged < 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone. In the clinical management of Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urinary Tract Infection in Infants Under 3 Months Clean-Catch Sample and IV Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG224: Urinary tract infection in under 16s",
+        "url": "https://www.nice.org.uk/guidance/ng224"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8758",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 11-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line. Clinical examination and investigative review confirm bedside moisture alarm conditioning for primary monosymptomatic nocturnal enuresis in motivated children aged >= 5 years. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Bedside moisture alarm conditioning for primary monosymptomatic nocturnal enuresis in motivated children aged >= 5 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, bedside moisture alarm conditioning for primary monosymptomatic nocturnal enuresis in motivated children aged >= 5 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, bedside moisture alarm conditioning for primary monosymptomatic nocturnal enuresis in motivated children aged >= 5 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line. In the clinical management of Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nocturnal Enuresis in Children Over 5 Years Enuresis Alarm First-Line."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline CG111: Bedwetting in under 19s",
+        "url": "https://www.nice.org.uk/guidance/cg111"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8759",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male presents to the urgent care centre following GP referral with clinical findings indicative of GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour). Clinical examination and investigative review confirm informing the patient promptly when something goes wrong, offering an apology, explaining effects, and outlining remedies. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Informing the patient promptly when something goes wrong, offering an apology, explaining effects, and outlining remedies",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, informing the patient promptly when something goes wrong, offering an apology, explaining effects, and outlining remedies represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour).",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, informing the patient promptly when something goes wrong, offering an apology, explaining effects, and outlining remedies represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour). In the clinical management of GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of GMC Good Medical Practice Openness and Honesty with Patients (Duty of Candour)."
+    ],
+    "references": [
+      {
+        "label": "GMC Good Medical Practice: Duty of Candour",
+        "url": "https://www.gmc-uk.org/ethical-guidance"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8760",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "GMC Confidentiality Disclosing Information Without Consent to Prevent Serious ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female undergoes clinical assessment in the emergency department with clinical findings indicative of GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime. Clinical examination and investigative review confirm breaching confidentiality without consent justified only when disclosing information protects an individual or society from death/serious harm. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Breaching confidentiality without consent justified only when disclosing information protects an individual or society from death/serious harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, breaching confidentiality without consent justified only when disclosing information protects an individual or society from death/serious harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, breaching confidentiality without consent justified only when disclosing information protects an individual or society from death/serious harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime. In the clinical management of GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of GMC Confidentiality Disclosing Information Without Consent to Prevent Serious Crime."
+    ],
+    "references": [
+      {
+        "label": "GMC Guidance on Confidentiality",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8761",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is referred to the specialist hospital outpatient clinic with clinical findings indicative of Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision. Clinical examination and investigative review confirm every adult presumed to have capacity unless proven otherwise; decisions for incapacitated persons made under statutory best interests checklist. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Every adult presumed to have capacity unless proven otherwise; decisions for incapacitated persons made under statutory best interests checklist",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, every adult presumed to have capacity unless proven otherwise; decisions for incapacitated persons made under statutory best interests checklist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, every adult presumed to have capacity unless proven otherwise; decisions for incapacitated persons made under statutory best interests checklist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision. In the clinical management of Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mental Capacity Act 2005 Presumption of Capacity and Best Interests Decision."
+    ],
+    "references": [
+      {
+        "label": "UK Mental Capacity Act 2005 Code of Practice",
+        "url": "https://www.legislation.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8762",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female is reviewed on the inpatient general medical ward with clinical findings indicative of Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity. Clinical examination and investigative review confirm formal supervisory body authorization required when an incapacitated patient is subject to continuous supervision and not free to leave. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Formal supervisory body authorization required when an incapacitated patient is subject to continuous supervision and not free to leave",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, formal supervisory body authorization required when an incapacitated patient is subject to continuous supervision and not free to leave represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, formal supervisory body authorization required when an incapacitated patient is subject to continuous supervision and not free to leave represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity. In the clinical management of Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Deprivation of Liberty Safeguards (DoLS) Inpatient Lack of Capacity."
+    ],
+    "references": [
+      {
+        "label": "UK Mental Capacity Act DoLS",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8763",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Gillick Competence and Fraser Guidelines Contraception in Under 16s",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Gillick Competence and Fraser Guidelines Contraception in Under 16s. Clinical examination and investigative review confirm providing confidential contraception without parental knowledge if minor understands advice, cannot be persuaded to inform parents, and sexual health is at risk. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Providing confidential contraception without parental knowledge if minor understands advice, cannot be persuaded to inform parents, and sexual health is at risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, providing confidential contraception without parental knowledge if minor understands advice, cannot be persuaded to inform parents, and sexual health is at risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gillick Competence and Fraser Guidelines Contraception in Under 16s.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, providing confidential contraception without parental knowledge if minor understands advice, cannot be persuaded to inform parents, and sexual health is at risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gillick Competence and Fraser Guidelines Contraception in Under 16s. In the clinical management of Gillick Competence and Fraser Guidelines Contraception in Under 16s, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gillick Competence and Fraser Guidelines Contraception in Under 16s.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gillick Competence and Fraser Guidelines Contraception in Under 16s."
+    ],
+    "references": [
+      {
+        "label": "Fraser Guidelines and GMC Ethical Guidance for Children",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8764",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female attends an NHS general practice continuity consultation with clinical findings indicative of Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria. Clinical examination and investigative review confirm legally binding if valid, specifically applicable to present circumstances, in writing, signed, and witnessed if refusing life-sustaining care. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Legally binding if valid, specifically applicable to present circumstances, in writing, signed, and witnessed if refusing life-sustaining care",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, legally binding if valid, specifically applicable to present circumstances, in writing, signed, and witnessed if refusing life-sustaining care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, legally binding if valid, specifically applicable to present circumstances, in writing, signed, and witnessed if refusing life-sustaining care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria. In the clinical management of Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advance Decision to Refuse Treatment (ADRT) Valid and Applicable Criteria."
+    ],
+    "references": [
+      {
+        "label": "Mental Capacity Act 2005 Section 24-26",
+        "url": "https://www.legislation.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8765",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver. Clinical examination and investigative review confirm subcutaneous syringe pump prescribing for end-of-life pain (morphine), nausea (cyclizine/haloperidol), and agitation (midazolam). Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Subcutaneous syringe pump prescribing for end-of-life pain (morphine), nausea (cyclizine/haloperidol), and agitation (midazolam)",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, subcutaneous syringe pump prescribing for end-of-life pain (morphine), nausea (cyclizine/haloperidol), and agitation (midazolam) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, subcutaneous syringe pump prescribing for end-of-life pain (morphine), nausea (cyclizine/haloperidol), and agitation (midazolam) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver. In the clinical management of Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Care Anticipatory Prescribing Subcutaneous Syringe Driver."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG31: Care of dying adults in the last days of life",
+        "url": "https://www.nice.org.uk/guidance/ng31"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8766",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 78-year-old female presents to the urgent care centre following GP referral with clinical findings indicative of Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65. Clinical examination and investigative review confirm single lifetime dose of 23-valent pneumococcal polysaccharide vaccine (PPV23) for all adults aged 65 and over. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Single lifetime dose of 23-valent pneumococcal polysaccharide vaccine (ppv23) for all adults aged 65 and over",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single lifetime dose of 23-valent pneumococcal polysaccharide vaccine (PPV23) for all adults aged 65 and over represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, single lifetime dose of 23-valent pneumococcal polysaccharide vaccine (PPV23) for all adults aged 65 and over represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65. In the clinical management of Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult Immunization UK Routine Pneumococcal Polysaccharide Vaccine Age >= 65."
+    ],
+    "references": [
+      {
+        "label": "UK Green Book: Pneumococcal",
+        "url": "https://www.gov.uk/government/collections/immunisation-against-infectious-disease-the-green-book"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8767",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old male undergoes clinical assessment in the emergency department with clinical findings indicative of Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+. Clinical examination and investigative review confirm two doses of recombinant zoster vaccine Shingrix offered routinely to adults turning 65 and 70-79. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Two doses of recombinant zoster vaccine shingrix offered routinely to adults turning 65 and 70-79",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, two doses of recombinant zoster vaccine Shingrix offered routinely to adults turning 65 and 70-79 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, two doses of recombinant zoster vaccine Shingrix offered routinely to adults turning 65 and 70-79 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+. In the clinical management of Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult Shingles Immunization UK Recombinant Shingrix Vaccine Aged 65 and 70+."
+    ],
+    "references": [
+      {
+        "label": "UK Green Book: Shingles",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8768",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is referred to the specialist hospital outpatient clinic with clinical findings indicative of Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care. Clinical examination and investigative review confirm give 3 (oxygen, IV fluids, IV antibiotics) and take 3 (blood cultures, hemoglobin/lactate, urine output) within 60 minutes. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Give 3 (oxygen, iv fluids, iv antibiotics) and take 3 (blood cultures, hemoglobin/lactate, urine output) within 60 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, give 3 (oxygen, IV fluids, IV antibiotics) and take 3 (blood cultures, hemoglobin/lactate, urine output) within 60 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, give 3 (oxygen, IV fluids, IV antibiotics) and take 3 (blood cultures, hemoglobin/lactate, urine output) within 60 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care. In the clinical management of Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Sepsis Six Protocol Resuscitation Within 1 Hour in Secondary Care."
+    ],
+    "references": [
+      {
+        "label": "UK Sepsis Trust Sepsis Six Protocol",
+        "url": "https://sepsistrust.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8769",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male is reviewed on the inpatient general medical ward with clinical findings indicative of Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000. Clinical examination and investigative review confirm IM adrenaline 500 mcg (0.5 mL of 1:1000) in anterolateral thigh; repeat after 5 minutes if no clinical improvement. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Im adrenaline 500 mcg (0.5 ml of 1:1000) in anterolateral thigh; repeat after 5 minutes if no clinical improvement",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IM adrenaline 500 mcg (0.5 mL of 1:1000) in anterolateral thigh; repeat after 5 minutes if no clinical improvement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, IM adrenaline 500 mcg (0.5 mL of 1:1000) in anterolateral thigh; repeat after 5 minutes if no clinical improvement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000. In the clinical management of Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anaphylaxis in UK Healthcare Setting Immediate IM Adrenaline 0.5 mg 1:1000."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Anaphylaxis Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8770",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends the NHS continuity walk-in clinic for routine evaluation with clinical findings indicative of Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline. Clinical examination and investigative review confirm continuous 30:2 CPR with defibrillation for VF/pVT, IV adrenaline 1 mg after 3rd shock and every alternate cycle. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Continuous 30:2 cpr with defibrillation for vf/pvt, iv adrenaline 1 mg after 3rd shock and every alternate cycle",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, continuous 30:2 CPR with defibrillation for VF/pVT, IV adrenaline 1 mg after 3rd shock and every alternate cycle represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, continuous 30:2 CPR with defibrillation for VF/pVT, IV adrenaline 1 mg after 3rd shock and every alternate cycle represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline. In the clinical management of Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cardiac Arrest Adult Advanced Life Support 2-Minute CPR Cycles and Adrenaline."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK ALS Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8771",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male attends an NHS general practice continuity consultation with clinical findings indicative of NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74. Clinical examination and investigative review confirm home biennial FIT test kit sent automatically every 2 years to all eligible adults aged 50 to 74 registered with a GP. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Home biennial fit test kit sent automatically every 2 years to all eligible adults aged 50 to 74 registered with a gp",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, home biennial FIT test kit sent automatically every 2 years to all eligible adults aged 50 to 74 registered with a GP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, home biennial FIT test kit sent automatically every 2 years to all eligible adults aged 50 to 74 registered with a GP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74. In the clinical management of NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NHS Bowel Cancer Screening Biennial Faecal Immunochemical Test Ages 50-74."
+    ],
+    "references": [
+      {
+        "label": "NHS Bowel Cancer Screening Programme Standards",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8772",
+    "exam": "PLAB / UKMLA",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NHS Cervical Screening Programme HPV Primary Screening Every 5 Years",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is evaluated in the acute hospital medical admissions unit (AMU) with clinical findings indicative of NHS Cervical Screening Programme HPV Primary Screening Every 5 Years. Clinical examination and investigative review confirm high-risk HPV primary screening every 5 years for women aged 25-64 with reflex cytology when hrHPV is detected. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to accredited UK clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-risk hpv primary screening every 5 years for women aged 25-64 with reflex cytology when hrhpv is detected",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, high-risk HPV primary screening every 5 years for women aged 25-64 with reflex cytology when hrHPV is detected represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NHS Cervical Screening Programme HPV Primary Screening Every 5 Years.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, high-risk HPV primary screening every 5 years for women aged 25-64 with reflex cytology when hrHPV is detected represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NHS Cervical Screening Programme HPV Primary Screening Every 5 Years. In the clinical management of NHS Cervical Screening Programme HPV Primary Screening Every 5 Years, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NHS Cervical Screening Programme HPV Primary Screening Every 5 Years.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NHS Cervical Screening Programme HPV Primary Screening Every 5 Years."
+    ],
+    "references": [
+      {
+        "label": "NHS Cervical Screening Programme Guidance",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

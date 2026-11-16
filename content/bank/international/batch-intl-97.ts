@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-8773",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment. Clinical examination and investigative review confirm assessing 5-year primary CVD risk using Aus-CVD calculator incorporating age, sex, lipids, BP, smoking, diabetes, and postcode. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Assessing 5-year primary cvd risk using aus-cvd calculator incorporating age, sex, lipids, bp, smoking, diabetes, and postcode",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, assessing 5-year primary CVD risk using Aus-CVD calculator incorporating age, sex, lipids, BP, smoking, diabetes, and postcode represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, assessing 5-year primary CVD risk using Aus-CVD calculator incorporating age, sex, lipids, BP, smoking, diabetes, and postcode represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment. In the clinical management of Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Cardiovascular Disease Risk Calculator New Aus-CVD Risk Assessment."
+    ],
+    "references": [
+      {
+        "label": "Australian Guideline for Assessing and Managing CVD Risk",
+        "url": "https://www.cvdcheck.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8774",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic. Clinical examination and investigative review confirm targeting systolic BP < 120 mm Hg on standardized automated office measurements for high-risk CVD patients. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Targeting systolic bp < 120 mm hg on standardized automated office measurements for high-risk cvd patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, targeting systolic BP < 120 mm Hg on standardized automated office measurements for high-risk CVD patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, targeting systolic BP < 120 mm Hg on standardized automated office measurements for high-risk CVD patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic. In the clinical management of RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Hypertension Target High-Risk CVD Patients < 120 mm Hg Systolic."
+    ],
+    "references": [
+      {
+        "label": "RACGP Guidelines for Preventive Activities in General Practice (Red Book)",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8775",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74. Clinical examination and investigative review confirm free biennial immunochemical faecal occult blood test (iFOBT) mailed to Australians aged 50 to 74. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Free biennial immunochemical faecal occult blood test (ifobt) mailed to australians aged 50 to 74",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, free biennial immunochemical faecal occult blood test (iFOBT) mailed to Australians aged 50 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, free biennial immunochemical faecal occult blood test (iFOBT) mailed to Australians aged 50 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74. In the clinical management of National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of National Bowel Cancer Screening Program Australia Biennial iFOBT Ages 50-74."
+    ],
+    "references": [
+      {
+        "label": "Australian National Bowel Cancer Screening Program",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8776",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25. Clinical examination and investigative review confirm cervical screening test (human papillomavirus DNA detection) every 5 years for asymptomatic women aged 25 to 74. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Cervical screening test (human papillomavirus dna detection) every 5 years for asymptomatic women aged 25 to 74",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, cervical screening test (human papillomavirus DNA detection) every 5 years for asymptomatic women aged 25 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, cervical screening test (human papillomavirus DNA detection) every 5 years for asymptomatic women aged 25 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25. In the clinical management of Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Screening Test Australia 5-Yearly HPV Test Starting at Age 25."
+    ],
+    "references": [
+      {
+        "label": "National Cervical Screening Program Australia",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8777",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy. Clinical examination and investigative review confirm complete full-thickness 2-mm margin excisional biopsy for suspicious pigmented lesions rather than partial shave biopsy. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Complete full-thickness 2-mm margin excisional biopsy for suspicious pigmented lesions rather than partial shave biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, complete full-thickness 2-mm margin excisional biopsy for suspicious pigmented lesions rather than partial shave biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, complete full-thickness 2-mm margin excisional biopsy for suspicious pigmented lesions rather than partial shave biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy. In the clinical management of Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Melanoma Early Detection Australia Clinical Dermoscopy and Excision Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Melanoma Clinical Practice Guidelines",
+        "url": "https://wiki.cancer.org.au/australia/Guidelines:Melanoma"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8778",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin. Clinical examination and investigative review confirm standard surgical excision with 4-mm clear clinical margin for well-defined nodular BCC on trunk and limbs. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Standard surgical excision with 4-mm clear clinical margin for well-defined nodular bcc on trunk and limbs",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, standard surgical excision with 4-mm clear clinical margin for well-defined nodular BCC on trunk and limbs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, standard surgical excision with 4-mm clear clinical margin for well-defined nodular BCC on trunk and limbs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin. In the clinical management of Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Basal Cell Carcinoma Australian Practice Primary Surgical Excision 4 mm Margin."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Keratinocyte Cancers Guidelines",
+        "url": "https://wiki.cancer.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8779",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB). Clinical examination and investigative review confirm broad elastic compression bandage applied over entire bitten limb at 50-70 mm Hg tension with rigid splinting and no washing/tourniquet. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Broad elastic compression bandage applied over entire bitten limb at 50-70 mm hg tension with rigid splinting and no washing/tourniquet",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, broad elastic compression bandage applied over entire bitten limb at 50-70 mm Hg tension with rigid splinting and no washing/tourniquet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB).",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, broad elastic compression bandage applied over entire bitten limb at 50-70 mm Hg tension with rigid splinting and no washing/tourniquet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB). In the clinical management of Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Venomous Snakebite in Australia Pressure Immobilisation Bandage (PIB)."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Toxicology and Toxinology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8780",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications. Clinical examination and investigative review confirm local ice pack and oral analgesia; reserving redback spider antivenom for severe persistent systemic envenomation or intractable pain. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Local ice pack and oral analgesia; reserving redback spider antivenom for severe persistent systemic envenomation or intractable pain",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, local ice pack and oral analgesia; reserving redback spider antivenom for severe persistent systemic envenomation or intractable pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, local ice pack and oral analgesia; reserving redback spider antivenom for severe persistent systemic envenomation or intractable pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications. In the clinical management of Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Redback Spider Bite Australia Symptomatic Ice Pack and IM Antivenom Indications."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council Guidelines: Spider Bites",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8781",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom. Clinical examination and investigative review confirm immediate PIB, zero limb movement, urgent ambulance transfer, and intravenous funnel-web spider antivenom in hospital ICU. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Immediate pib, zero limb movement, urgent ambulance transfer, and intravenous funnel-web spider antivenom in hospital icu",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate PIB, zero limb movement, urgent ambulance transfer, and intravenous funnel-web spider antivenom in hospital ICU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate PIB, zero limb movement, urgent ambulance transfer, and intravenous funnel-web spider antivenom in hospital ICU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom. In the clinical management of Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Funnel-Web Spider Bite Australia Immediate Pressure Immobilisation and Antivenom."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8782",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia. Clinical examination and investigative review confirm copious domestic vinegar application to inactivate nematocysts, immediate hospital transfer, and IV fentanyl plus magnesium for hypertension/pain. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Copious domestic vinegar application to inactivate nematocysts, immediate hospital transfer, and iv fentanyl plus magnesium for hypertension/pain",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, copious domestic vinegar application to inactivate nematocysts, immediate hospital transfer, and IV fentanyl plus magnesium for hypertension/pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, copious domestic vinegar application to inactivate nematocysts, immediate hospital transfer, and IV fentanyl plus magnesium for hypertension/pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia. In the clinical management of Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Irukandji Syndrome Marine Envenomation Vinegar and IV Opioid Analgesia."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council: Marine Envenomation",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8783",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antive",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom. Clinical examination and investigative review confirm dousing tentacles with vinegar for 30 seconds, urgent cardiorespiratory resuscitation, and IV box jellyfish antivenom for cardiac arrest. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Dousing tentacles with vinegar for 30 seconds, urgent cardiorespiratory resuscitation, and iv box jellyfish antivenom for cardiac arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, dousing tentacles with vinegar for 30 seconds, urgent cardiorespiratory resuscitation, and IV box jellyfish antivenom for cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, dousing tentacles with vinegar for 30 seconds, urgent cardiorespiratory resuscitation, and IV box jellyfish antivenom for cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom. In the clinical management of Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Box Jellyfish Envenomation Vinegar and Resuscitation with Box Jellyfish Antivenom."
+    ],
+    "references": [
+      {
+        "label": "ARC Guideline 9.4.5: Marine Envenomation",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8784",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion. Clinical examination and investigative review confirm ice water immersion or evaporative cooling targeting core body temperature < 38.5 C within 30 minutes and aggressive IV fluid resuscitation. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Ice water immersion or evaporative cooling targeting core body temperature < 38.5 c within 30 minutes and aggressive iv fluid resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, ice water immersion or evaporative cooling targeting core body temperature < 38.5 C within 30 minutes and aggressive IV fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, ice water immersion or evaporative cooling targeting core body temperature < 38.5 C within 30 minutes and aggressive IV fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion. In the clinical management of Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Heatstroke in Australian Remote Summer Rapid Whole-Body Water Immersion."
+    ],
+    "references": [
+      {
+        "label": "Sports Medicine Australia Heat Guidelines",
+        "url": "https://sma.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8785",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care. Clinical examination and investigative review confirm serum IgM and four-fold IgG rise demonstrating alphavirus infection; symptomatic NSAIDs for disabling symmetrical polyarthritis. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Serum igm and four-fold igg rise demonstrating alphavirus infection; symptomatic nsaids for disabling symmetrical polyarthritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, serum IgM and four-fold IgG rise demonstrating alphavirus infection; symptomatic NSAIDs for disabling symmetrical polyarthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, serum IgM and four-fold IgG rise demonstrating alphavirus infection; symptomatic NSAIDs for disabling symmetrical polyarthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care. In the clinical management of Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ross River Virus Infection Polyarthritis Serology IgM and Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "Australian Department of Health Ross River Virus Guidance",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8786",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance. Clinical examination and investigative review confirm supportive paracetamol/NSAID therapy and reassurance that chronic joint destruction does not occur in alphaviral arthritis. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Supportive paracetamol/nsaid therapy and reassurance that chronic joint destruction does not occur in alphaviral arthritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, supportive paracetamol/NSAID therapy and reassurance that chronic joint destruction does not occur in alphaviral arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, supportive paracetamol/NSAID therapy and reassurance that chronic joint destruction does not occur in alphaviral arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance. In the clinical management of Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Barmah Forest Virus Infection Self-Limiting Arthralgia and Patient Reassurance."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8787",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline. Clinical examination and investigative review confirm oral doxycycline 100 mg bid for 14 days initiated early for livestock-exposed abattoir workers with acute febrile illness and hepatitis. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral doxycycline 100 mg bid for 14 days initiated early for livestock-exposed abattoir workers with acute febrile illness and hepatitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral doxycycline 100 mg bid for 14 days initiated early for livestock-exposed abattoir workers with acute febrile illness and hepatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral doxycycline 100 mg bid for 14 days initiated early for livestock-exposed abattoir workers with acute febrile illness and hepatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline. In the clinical management of Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Q Fever Outpatient Diagnosis Coxiella burnetii Serology Oral Doxycycline."
+    ],
+    "references": [
+      {
+        "label": "Australian Immunisation Handbook: Q Fever",
+        "url": "https://immunisationhandbook.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8788",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Is",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check. Clinical examination and investigative review confirm comprehensive annual MBS item 715 health check assessing chronic disease risk, ear health, trachoma, and social determinants. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Comprehensive annual mbs item 715 health check assessing chronic disease risk, ear health, trachoma, and social determinants",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, comprehensive annual MBS item 715 health check assessing chronic disease risk, ear health, trachoma, and social determinants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, comprehensive annual MBS item 715 health check assessing chronic disease risk, ear health, trachoma, and social determinants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check. In the clinical management of Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Indigenous Health 715 Health Assessment Annual Aboriginal and Torres Strait Islander Check."
+    ],
+    "references": [
+      {
+        "label": "RACGP National Guide to a Preventive Health Assessment for Aboriginal and Torres Strait Islander People",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8789",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy. Clinical examination and investigative review confirm Surgery for trichiasis, Antibiotics (single-dose azithromycin), Facial cleanliness, and Environmental improvement in endemic remote communities. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Surgery for trichiasis, antibiotics (single-dose azithromycin), facial cleanliness, and environmental improvement in endemic remote communities",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, Surgery for trichiasis, Antibiotics (single-dose azithromycin), Facial cleanliness, and Environmental improvement in endemic remote communities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, Surgery for trichiasis, Antibiotics (single-dose azithromycin), Facial cleanliness, and Environmental improvement in endemic remote communities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy. In the clinical management of Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trachoma Screening Remote Indigenous Communities Annual SAFE Strategy."
+    ],
+    "references": [
+      {
+        "label": "National Trachoma Surveillance and Reporting Unit Australia",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8790",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days. Clinical examination and investigative review confirm intramuscular benzathine penicillin G 1.2 million units every 21-28 days for at least 10 years or until age 21 to prevent recurrences. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intramuscular benzathine penicillin g 1.2 million units every 21-28 days for at least 10 years or until age 21 to prevent recurrences",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, intramuscular benzathine penicillin G 1.2 million units every 21-28 days for at least 10 years or until age 21 to prevent recurrences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, intramuscular benzathine penicillin G 1.2 million units every 21-28 days for at least 10 years or until age 21 to prevent recurrences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days. In the clinical management of Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatic Heart Disease Secondary Antibiotic Prophylaxis Every 21-28 Days."
+    ],
+    "references": [
+      {
+        "label": "RHDAustralia National Guidelines for Acute Rheumatic Fever and Rheumatic Heart Disease",
+        "url": "https://www.rhdaustralia.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8791",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 4-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin. Clinical examination and investigative review confirm oral high-dose amoxicillin (90 mg/kg/day) for 7-14 days and prompt audiology review preventing permanent hearing loss. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral high-dose amoxicillin (90 mg/kg/day) for 7-14 days and prompt audiology review preventing permanent hearing loss",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral high-dose amoxicillin (90 mg/kg/day) for 7-14 days and prompt audiology review preventing permanent hearing loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral high-dose amoxicillin (90 mg/kg/day) for 7-14 days and prompt audiology review preventing permanent hearing loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin. In the clinical management of Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Otitis Media with Perforation in Indigenous Children Oral Amoxicillin."
+    ],
+    "references": [
+      {
+        "label": "RACGP National Guide: Ear Health",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8792",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Screening Indigenous Australians Starting at Age 18",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Type 2 Diabetes Screening Indigenous Australians Starting at Age 18. Clinical examination and investigative review confirm screening fasting plasma glucose or HbA1c every 1-2 years starting at age 18 for Aboriginal and Torres Strait Islander adults. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Screening fasting plasma glucose or hba1c every 1-2 years starting at age 18 for aboriginal and torres strait islander adults",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, screening fasting plasma glucose or HbA1c every 1-2 years starting at age 18 for Aboriginal and Torres Strait Islander adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Screening Indigenous Australians Starting at Age 18.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, screening fasting plasma glucose or HbA1c every 1-2 years starting at age 18 for Aboriginal and Torres Strait Islander adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Screening Indigenous Australians Starting at Age 18. In the clinical management of Type 2 Diabetes Screening Indigenous Australians Starting at Age 18, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Screening Indigenous Australians Starting at Age 18.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Screening Indigenous Australians Starting at Age 18."
+    ],
+    "references": [
+      {
+        "label": "RACGP National Guide to Preventive Health",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8793",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 83-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime. Clinical examination and investigative review confirm initial intensive IV ceftazidime 2 g q8h for >= 10-14 days followed by oral eradication with co-trimoxazole for 3-6 months. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Initial intensive iv ceftazidime 2 g q8h for >= 10-14 days followed by oral eradication with co-trimoxazole for 3-6 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initial intensive IV ceftazidime 2 g q8h for >= 10-14 days followed by oral eradication with co-trimoxazole for 3-6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initial intensive IV ceftazidime 2 g q8h for >= 10-14 days followed by oral eradication with co-trimoxazole for 3-6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime. In the clinical management of Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Melioidosis Burkholderia pseudomallei Top End Wet Season IV Ceftazidime."
+    ],
+    "references": [
+      {
+        "label": "Darwin Prospective Melioidosis Study Guidelines",
+        "url": "https://www.health.nt.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8794",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules. Clinical examination and investigative review confirm ensuring patient meets strict statutory PBS restriction criteria before prescribing subsidized biologics or novel oral anticoagulants. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Ensuring patient meets strict statutory pbs restriction criteria before prescribing subsidized biologics or novel oral anticoagulants",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, ensuring patient meets strict statutory PBS restriction criteria before prescribing subsidized biologics or novel oral anticoagulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, ensuring patient meets strict statutory PBS restriction criteria before prescribing subsidized biologics or novel oral anticoagulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules. In the clinical management of Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Pharmaceutical Benefits Scheme (PBS) Authority Prescribing Rules."
+    ],
+    "references": [
+      {
+        "label": "PBS Schedule and Prescribing Guide Australia",
+        "url": "https://www.pbs.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8795",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring. Clinical examination and investigative review confirm mandatory checking of real-time database (SafeScript/QScript) before prescribing monitored opioids, benzodiazepines, or stimulants. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Mandatory checking of real-time database (safescript/qscript) before prescribing monitored opioids, benzodiazepines, or stimulants",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, mandatory checking of real-time database (SafeScript/QScript) before prescribing monitored opioids, benzodiazepines, or stimulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, mandatory checking of real-time database (SafeScript/QScript) before prescribing monitored opioids, benzodiazepines, or stimulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring. In the clinical management of Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Prescription Shopping Program (SafeScript) Real-Time Prescription Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Australian Department of Health Prescription Monitoring",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8796",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Driving Assessment Australia Austroads Assessing Fitness to Drive Standards",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Driving Assessment Australia Austroads Assessing Fitness to Drive Standards. Clinical examination and investigative review confirm applying statutory commercial and private driving disqualification periods following acute coronary syndromes or epileptic seizures. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Applying statutory commercial and private driving disqualification periods following acute coronary syndromes or epileptic seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying statutory commercial and private driving disqualification periods following acute coronary syndromes or epileptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Driving Assessment Australia Austroads Assessing Fitness to Drive Standards.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying statutory commercial and private driving disqualification periods following acute coronary syndromes or epileptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Driving Assessment Australia Austroads Assessing Fitness to Drive Standards. In the clinical management of Driving Assessment Australia Austroads Assessing Fitness to Drive Standards, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Driving Assessment Australia Austroads Assessing Fitness to Drive Standards.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Driving Assessment Australia Austroads Assessing Fitness to Drive Standards."
+    ],
+    "references": [
+      {
+        "label": "Austroads Assessing Fitness to Drive Guidelines",
+        "url": "https://austroads.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8797",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Mandatory Notification AHPRA Registered Health Practitioner Impairment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Mandatory Notification AHPRA Registered Health Practitioner Impairment. Clinical examination and investigative review confirm statutory mandatory notification to AHPRA when a colleague practices under intoxication, engages in sexual misconduct, or causes substantial harm. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Statutory mandatory notification to ahpra when a colleague practices under intoxication, engages in sexual misconduct, or causes substantial harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, statutory mandatory notification to AHPRA when a colleague practices under intoxication, engages in sexual misconduct, or causes substantial harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mandatory Notification AHPRA Registered Health Practitioner Impairment.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, statutory mandatory notification to AHPRA when a colleague practices under intoxication, engages in sexual misconduct, or causes substantial harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mandatory Notification AHPRA Registered Health Practitioner Impairment. In the clinical management of Mandatory Notification AHPRA Registered Health Practitioner Impairment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mandatory Notification AHPRA Registered Health Practitioner Impairment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mandatory Notification AHPRA Registered Health Practitioner Impairment."
+    ],
+    "references": [
+      {
+        "label": "AHPRA Guidelines for Mandatory Notifications",
+        "url": "https://www.ahpra.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8798",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Australian Privacy Act 1988 Notifiable Data Breaches Scheme",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Australian Privacy Act 1988 Notifiable Data Breaches Scheme. Clinical examination and investigative review confirm notifying the Australian Information Commissioner and affected individuals when unauthorized health data exposure carries serious risk of harm. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Notifying the australian information commissioner and affected individuals when unauthorized health data exposure carries serious risk of harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying the Australian Information Commissioner and affected individuals when unauthorized health data exposure carries serious risk of harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Privacy Act 1988 Notifiable Data Breaches Scheme.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying the Australian Information Commissioner and affected individuals when unauthorized health data exposure carries serious risk of harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Australian Privacy Act 1988 Notifiable Data Breaches Scheme. In the clinical management of Australian Privacy Act 1988 Notifiable Data Breaches Scheme, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Privacy Act 1988 Notifiable Data Breaches Scheme.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Australian Privacy Act 1988 Notifiable Data Breaches Scheme."
+    ],
+    "references": [
+      {
+        "label": "Office of the Australian Information Commissioner (OAIC)",
+        "url": "https://www.oaic.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8799",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Informed Financial Consent in Australia Medical Practice Billing Transparency",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Informed Financial Consent in Australia Medical Practice Billing Transparency. Clinical examination and investigative review confirm providing clear written disclosure of anticipated medical fees, out-of-pocket costs, and gap payments prior to elective procedures. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Providing clear written disclosure of anticipated medical fees, out-of-pocket costs, and gap payments prior to elective procedures",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, providing clear written disclosure of anticipated medical fees, out-of-pocket costs, and gap payments prior to elective procedures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Informed Financial Consent in Australia Medical Practice Billing Transparency.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, providing clear written disclosure of anticipated medical fees, out-of-pocket costs, and gap payments prior to elective procedures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Informed Financial Consent in Australia Medical Practice Billing Transparency. In the clinical management of Informed Financial Consent in Australia Medical Practice Billing Transparency, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Informed Financial Consent in Australia Medical Practice Billing Transparency.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Informed Financial Consent in Australia Medical Practice Billing Transparency."
+    ],
+    "references": [
+      {
+        "label": "AMA Australia Position Statement: Informed Financial Consent",
+        "url": "https://www.ama.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8800",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications. Clinical examination and investigative review confirm patient must have decision-making capacity, advanced incurable disease causing intolerable suffering, and prognosis < 6 months (12 mo for neuro). Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Patient must have decision-making capacity, advanced incurable disease causing intolerable suffering, and prognosis < 6 months (12 mo for neuro)",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, patient must have decision-making capacity, advanced incurable disease causing intolerable suffering, and prognosis < 6 months (12 mo for neuro) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, patient must have decision-making capacity, advanced incurable disease causing intolerable suffering, and prognosis < 6 months (12 mo for neuro) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications. In the clinical management of Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Voluntary Assisted Dying (VAD) Legislation in Australian States Qualifications."
+    ],
+    "references": [
+      {
+        "label": "Australian State VAD Statutory Review",
+        "url": "https://www.health.vic.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8801",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment. Clinical examination and investigative review confirm formal appointment of legally recognized MTDM possessing authority to make medical decisions if patient becomes incapacitated. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Formal appointment of legally recognized mtdm possessing authority to make medical decisions if patient becomes incapacitated",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, formal appointment of legally recognized MTDM possessing authority to make medical decisions if patient becomes incapacitated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, formal appointment of legally recognized MTDM possessing authority to make medical decisions if patient becomes incapacitated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment. In the clinical management of Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advance Care Planning Medical Treatment Decision Maker (MTDM) Appointment."
+    ],
+    "references": [
+      {
+        "label": "Advance Care Planning Australia",
+        "url": "https://www.advancecareplanning.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8802",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Child Abuse Mandatory Reporting to Australian State Child Protection Authorities",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Child Abuse Mandatory Reporting to Australian State Child Protection Authorities. Clinical examination and investigative review confirm mandatory statutory reporting by medical practitioners upon forming a reasonable belief that a child is in need of protection. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Mandatory statutory reporting by medical practitioners upon forming a reasonable belief that a child is in need of protection",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, mandatory statutory reporting by medical practitioners upon forming a reasonable belief that a child is in need of protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Child Abuse Mandatory Reporting to Australian State Child Protection Authorities.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, mandatory statutory reporting by medical practitioners upon forming a reasonable belief that a child is in need of protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Child Abuse Mandatory Reporting to Australian State Child Protection Authorities. In the clinical management of Child Abuse Mandatory Reporting to Australian State Child Protection Authorities, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Child Abuse Mandatory Reporting to Australian State Child Protection Authorities.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Child Abuse Mandatory Reporting to Australian State Child Protection Authorities."
+    ],
+    "references": [
+      {
+        "label": "Australian Institute of Family Studies Mandatory Reporting",
+        "url": "https://aifs.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8803",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "RACGP Asthma Cycle of Care and Written Asthma Action Plan",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of RACGP Asthma Cycle of Care and Written Asthma Action Plan. Clinical examination and investigative review confirm providing every patient with an individualized written action plan outlining baseline therapy, step-up triggers, and emergency contacts. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Providing every patient with an individualized written action plan outlining baseline therapy, step-up triggers, and emergency contacts",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, providing every patient with an individualized written action plan outlining baseline therapy, step-up triggers, and emergency contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Asthma Cycle of Care and Written Asthma Action Plan.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, providing every patient with an individualized written action plan outlining baseline therapy, step-up triggers, and emergency contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Asthma Cycle of Care and Written Asthma Action Plan. In the clinical management of RACGP Asthma Cycle of Care and Written Asthma Action Plan, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Asthma Cycle of Care and Written Asthma Action Plan.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Asthma Cycle of Care and Written Asthma Action Plan."
+    ],
+    "references": [
+      {
+        "label": "National Asthma Council Australia Guidelines",
+        "url": "https://www.nationalasthma.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8804",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP). Clinical examination and investigative review confirm formulating Medicare-subsidized GPMP (item 721) and Team Care Arrangements (TCA item 723) accessing allied health services. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Formulating medicare-subsidized gpmp (item 721) and team care arrangements (tca item 723) accessing allied health services",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, formulating Medicare-subsidized GPMP (item 721) and Team Care Arrangements (TCA item 723) accessing allied health services represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP).",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, formulating Medicare-subsidized GPMP (item 721) and Team Care Arrangements (TCA item 723) accessing allied health services represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP). In the clinical management of RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Chronic Disease Management (CDM) General Practice Management Plan (GPMP)."
+    ],
+    "references": [
+      {
+        "label": "Australian Department of Health MBS Chronic Disease Items",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8805",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients. Clinical examination and investigative review confirm initiating combination LAMA/LABA (e.g., tiotropium/olodaterol) for persistent dyspnea and exercise limitation in COPD. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Initiating combination lama/laba (e.g., tiotropium/olodaterol) for persistent dyspnea and exercise limitation in copd",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating combination LAMA/LABA (e.g., tiotropium/olodaterol) for persistent dyspnea and exercise limitation in COPD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating combination LAMA/LABA (e.g., tiotropium/olodaterol) for persistent dyspnea and exercise limitation in COPD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients. In the clinical management of COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of COPD First-Line Dual Bronchodilator LAMA/LABA in Symptomatic Australian Patients."
+    ],
+    "references": [
+      {
+        "label": "COPD-X Australian and New Zealand Guidelines",
+        "url": "https://copdx.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8806",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin. Clinical examination and investigative review confirm oral amoxicillin 1 g tid (or oral doxycycline 100 mg bid) for 5 days as empirical first-line therapy in Australian outpatients. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral amoxicillin 1 g tid (or oral doxycycline 100 mg bid) for 5 days as empirical first-line therapy in australian outpatients",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral amoxicillin 1 g tid (or oral doxycycline 100 mg bid) for 5 days as empirical first-line therapy in Australian outpatients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral amoxicillin 1 g tid (or oral doxycycline 100 mg bid) for 5 days as empirical first-line therapy in Australian outpatients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin. In the clinical management of Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia Mild Outpatient Therapeutic Guidelines Oral Amoxicillin."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Antibiotic",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8807",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days. Clinical examination and investigative review confirm oral azithromycin 500 mg day 1, then 250 mg daily days 2-5 reducing infectiousness during catarrhal and early paroxysmal stage. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral azithromycin 500 mg day 1, then 250 mg daily days 2-5 reducing infectiousness during catarrhal and early paroxysmal stage",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral azithromycin 500 mg day 1, then 250 mg daily days 2-5 reducing infectiousness during catarrhal and early paroxysmal stage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral azithromycin 500 mg day 1, then 250 mg daily days 2-5 reducing infectiousness during catarrhal and early paroxysmal stage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days. In the clinical management of Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pertussis Outpatient Presentation Whooping Cough Oral Azithromycin 5 Days."
+    ],
+    "references": [
+      {
+        "label": "Australian Immunisation Handbook: Pertussis",
+        "url": "https://immunisationhandbook.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8808",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding. Clinical examination and investigative review confirm bidirectional endoscopy (gastroscopy and colonoscopy) indicated for all adult men and postmenopausal women with confirmed iron deficiency. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Bidirectional endoscopy (gastroscopy and colonoscopy) indicated for all adult men and postmenopausal women with confirmed iron deficiency",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, bidirectional endoscopy (gastroscopy and colonoscopy) indicated for all adult men and postmenopausal women with confirmed iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, bidirectional endoscopy (gastroscopy and colonoscopy) indicated for all adult men and postmenopausal women with confirmed iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding. In the clinical management of Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Iron Deficiency Anemia in Adults Exclusion of Occult Gastrointestinal Bleeding."
+    ],
+    "references": [
+      {
+        "label": "Gastroenterological Society of Australia (GESA) Guidelines",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8809",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Barrett Esophagus Endoscopic Surveillance Interval in Australia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Barrett Esophagus Endoscopic Surveillance Interval in Australia. Clinical examination and investigative review confirm high-definition surveillance gastroscopy every 3-5 years for non-dysplastic Barrett esophagus segment >= 3 cm. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "High-definition surveillance gastroscopy every 3-5 years for non-dysplastic barrett esophagus segment >= 3 cm",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, high-definition surveillance gastroscopy every 3-5 years for non-dysplastic Barrett esophagus segment >= 3 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Barrett Esophagus Endoscopic Surveillance Interval in Australia.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, high-definition surveillance gastroscopy every 3-5 years for non-dysplastic Barrett esophagus segment >= 3 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Barrett Esophagus Endoscopic Surveillance Interval in Australia. In the clinical management of Barrett Esophagus Endoscopic Surveillance Interval in Australia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Barrett Esophagus Endoscopic Surveillance Interval in Australia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Barrett Esophagus Endoscopic Surveillance Interval in Australia."
+    ],
+    "references": [
+      {
+        "label": "GESA Clinical Guidelines for Barrett's Oesophagus",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8810",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA. Clinical examination and investigative review confirm monitoring quantitative HBV DNA, ALT, and elastography (FibroScan); initiating entecavir or tenofovir for active phase. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Monitoring quantitative hbv dna, alt, and elastography (fibroscan); initiating entecavir or tenofovir for active phase",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, monitoring quantitative HBV DNA, ALT, and elastography (FibroScan); initiating entecavir or tenofovir for active phase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, monitoring quantitative HBV DNA, ALT, and elastography (FibroScan); initiating entecavir or tenofovir for active phase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA. In the clinical management of Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatitis B Chronic Infection Phase Assessment Australia Serum HBV DNA."
+    ],
+    "references": [
+      {
+        "label": "GESA Australian Recommendations for the Management of Hepatitis B",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8811",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velp",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir. Clinical examination and investigative review confirm pangenotypic 12-week oral DAA therapy achieving > 95% sustained virological response (SVR12) in primary care. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Pangenotypic 12-week oral daa therapy achieving > 95% sustained virological response (svr12) in primary care",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, pangenotypic 12-week oral DAA therapy achieving > 95% sustained virological response (SVR12) in primary care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, pangenotypic 12-week oral DAA therapy achieving > 95% sustained virological response (SVR12) in primary care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir. In the clinical management of Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatitis C Direct-Acting Antiviral (DAA) Universal PBS Access Sofosbuvir/Velpatasvir."
+    ],
+    "references": [
+      {
+        "label": "Australian Recommendations for the Management of Hepatitis C Virus Infection",
+        "url": "https://www.hepcguidelines.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8812",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification. Clinical examination and investigative review confirm calculating FIB-4 score using age, AST, ALT, and platelets; referring high-risk scores (> 2.67) for liver stiffness measurement. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Calculating fib-4 score using age, ast, alt, and platelets; referring high-risk scores (> 2.67) for liver stiffness measurement",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating FIB-4 score using age, AST, ALT, and platelets; referring high-risk scores (> 2.67) for liver stiffness measurement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating FIB-4 score using age, AST, ALT, and platelets; referring high-risk scores (> 2.67) for liver stiffness measurement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification. In the clinical management of Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Non-Alcoholic Fatty Liver Disease (NAFLD) FIB-4 Primary Care Risk Stratification."
+    ],
+    "references": [
+      {
+        "label": "GESA Guidelines on NAFLD",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8813",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Chronic Heart Failure Quadruple Medical Therapy in Australia",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Chronic Heart Failure Quadruple Medical Therapy in Australia. Clinical examination and investigative review confirm ARNI (sacubitril/valsartan), evidence-based beta-blocker, MRA (spironolactone), and SGLT2 inhibitor (dapagliflozin/empagliflozin). Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Arni (sacubitril/valsartan), evidence-based beta-blocker, mra (spironolactone), and sglt2 inhibitor (dapagliflozin/empagliflozin)",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, ARNI (sacubitril/valsartan), evidence-based beta-blocker, MRA (spironolactone), and SGLT2 inhibitor (dapagliflozin/empagliflozin) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Heart Failure Quadruple Medical Therapy in Australia.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, ARNI (sacubitril/valsartan), evidence-based beta-blocker, MRA (spironolactone), and SGLT2 inhibitor (dapagliflozin/empagliflozin) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Heart Failure Quadruple Medical Therapy in Australia. In the clinical management of Chronic Heart Failure Quadruple Medical Therapy in Australia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Heart Failure Quadruple Medical Therapy in Australia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Heart Failure Quadruple Medical Therapy in Australia."
+    ],
+    "references": [
+      {
+        "label": "National Heart Foundation of Australia and CSANZ Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8814",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Lipid Lowering Australia Statin Intolerance Ezetimibe Addition",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Lipid Lowering Australia Statin Intolerance Ezetimibe Addition. Clinical examination and investigative review confirm oral ezetimibe 10 mg daily added to low-dose or alternate-day statin to achieve target LDL-C < 1.4 mmol/L in secondary prevention. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Oral ezetimibe 10 mg daily added to low-dose or alternate-day statin to achieve target ldl-c < 1.4 mmol/l in secondary prevention",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral ezetimibe 10 mg daily added to low-dose or alternate-day statin to achieve target LDL-C < 1.4 mmol/L in secondary prevention represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lipid Lowering Australia Statin Intolerance Ezetimibe Addition.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral ezetimibe 10 mg daily added to low-dose or alternate-day statin to achieve target LDL-C < 1.4 mmol/L in secondary prevention represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lipid Lowering Australia Statin Intolerance Ezetimibe Addition. In the clinical management of Lipid Lowering Australia Statin Intolerance Ezetimibe Addition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lipid Lowering Australia Statin Intolerance Ezetimibe Addition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lipid Lowering Australia Statin Intolerance Ezetimibe Addition."
+    ],
+    "references": [
+      {
+        "label": "Heart Foundation Australia Lipid Management Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8815",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30). Clinical examination and investigative review confirm starting metformin 500 mg daily with food; maximum dose 1000 mg daily for eGFR 30-44, and absolute contraindication for eGFR < 30. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Starting metformin 500 mg daily with food; maximum dose 1000 mg daily for egfr 30-44, and absolute contraindication for egfr < 30",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, starting metformin 500 mg daily with food; maximum dose 1000 mg daily for eGFR 30-44, and absolute contraindication for eGFR < 30 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30).",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, starting metformin 500 mg daily with food; maximum dose 1000 mg daily for eGFR 30-44, and absolute contraindication for eGFR < 30 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30). In the clinical management of Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Metformin Starting Dose and Renal Clearance Rules (eGFR < 30)."
+    ],
+    "references": [
+      {
+        "label": "Australian Diabetes Society (ADS) Guidelines",
+        "url": "https://diabetessociety.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8816",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers. Clinical examination and investigative review confirm immediate cessation of commercial driving after a severe hypoglycemic episode; mandatory specialist endocrinologist clearance. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Immediate cessation of commercial driving after a severe hypoglycemic episode; mandatory specialist endocrinologist clearance",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate cessation of commercial driving after a severe hypoglycemic episode; mandatory specialist endocrinologist clearance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate cessation of commercial driving after a severe hypoglycemic episode; mandatory specialist endocrinologist clearance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers. In the clinical management of Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 2 Diabetes Hypoglycemia Driving Laws Commercial vs Private Drivers."
+    ],
+    "references": [
+      {
+        "label": "Austroads Diabetes and Driving Regulations",
+        "url": "https://austroads.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8817",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years. Clinical examination and investigative review confirm biennial dilated fundus examination or retinal photography for diabetic patients without existing retinopathy (annual if high risk). Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Biennial dilated fundus examination or retinal photography for diabetic patients without existing retinopathy (annual if high risk)",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, biennial dilated fundus examination or retinal photography for diabetic patients without existing retinopathy (annual if high risk) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, biennial dilated fundus examination or retinal photography for diabetic patients without existing retinopathy (annual if high risk) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years. In the clinical management of Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Retinopathy NHMRC Screening Guidelines Every 2 Years."
+    ],
+    "references": [
+      {
+        "label": "NHMRC Guidelines for the Management of Diabetic Retinopathy",
+        "url": "https://www.nhmrc.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8818",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab. Clinical examination and investigative review confirm subcutaneous denosumab 60 mg every 6 months for confirmed osteoporosis following fragility fracture or age >= 70 with T-score <= -2.5. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous denosumab 60 mg every 6 months for confirmed osteoporosis following fragility fracture or age >= 70 with t-score <= -2.5",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, subcutaneous denosumab 60 mg every 6 months for confirmed osteoporosis following fragility fracture or age >= 70 with T-score <= -2.5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, subcutaneous denosumab 60 mg every 6 months for confirmed osteoporosis following fragility fracture or age >= 70 with T-score <= -2.5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab. In the clinical management of Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoporosis Diagnosis T-Score <= -2.5 PBS Subsidy Criteria for Denosumab."
+    ],
+    "references": [
+      {
+        "label": "Osteoporosis Australia / RACGP Clinical Guidelines",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8819",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy. Clinical examination and investigative review confirm same-day high-dose oral steroids, urgent vascular ultrasound demonstrating 'halo sign', and temporal artery biopsy. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Same-day high-dose oral steroids, urgent vascular ultrasound demonstrating 'halo sign', and temporal artery biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, same-day high-dose oral steroids, urgent vascular ultrasound demonstrating 'halo sign', and temporal artery biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, same-day high-dose oral steroids, urgent vascular ultrasound demonstrating 'halo sign', and temporal artery biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy. In the clinical management of Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giant Cell Arteritis Australian Referral Immediate Temporal Artery Ultrasound or Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Australian Rheumatology Association (ARA) Guidelines",
+        "url": "https://rheumatology.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8820",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy. Clinical examination and investigative review confirm oral methotrexate weekly with folate, stepping up to combination methotrexate, sulfasalazine, and hydroxychloroquine if inadequate response. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Oral methotrexate weekly with folate, stepping up to combination methotrexate, sulfasalazine, and hydroxychloroquine if inadequate response",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methotrexate weekly with folate, stepping up to combination methotrexate, sulfasalazine, and hydroxychloroquine if inadequate response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methotrexate weekly with folate, stepping up to combination methotrexate, sulfasalazine, and hydroxychloroquine if inadequate response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy. In the clinical management of Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Early Methotrexate Initiation and Triple DMARD Therapy."
+    ],
+    "references": [
+      {
+        "label": "ARA Clinical Practice Guidelines for RA",
+        "url": "https://rheumatology.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8821",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Depression Antidepressant Selection First-Line Escitalopram or Sertraline",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Depression Antidepressant Selection First-Line Escitalopram or Sertraline. Clinical examination and investigative review confirm oral SSRI with low drug-interaction profile combined with GP Mental Health Treatment Plan (MBS item 2715) for psychology referral. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral ssri with low drug-interaction profile combined with gp mental health treatment plan (mbs item 2715) for psychology referral",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral SSRI with low drug-interaction profile combined with GP Mental Health Treatment Plan (MBS item 2715) for psychology referral represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Depression Antidepressant Selection First-Line Escitalopram or Sertraline.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral SSRI with low drug-interaction profile combined with GP Mental Health Treatment Plan (MBS item 2715) for psychology referral represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Depression Antidepressant Selection First-Line Escitalopram or Sertraline. In the clinical management of Depression Antidepressant Selection First-Line Escitalopram or Sertraline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Depression Antidepressant Selection First-Line Escitalopram or Sertraline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Depression Antidepressant Selection First-Line Escitalopram or Sertraline."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Clinical Practice Guidelines for Mood Disorders",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8822",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Schizophrenia Metabolic Syndrome Monitoring Annual Assessment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Schizophrenia Metabolic Syndrome Monitoring Annual Assessment. Clinical examination and investigative review confirm tracking fasting glucose, lipids, blood pressure, and waist circumference every 3-6 months for patients on second-generation antipsychotics. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Tracking fasting glucose, lipids, blood pressure, and waist circumference every 3-6 months for patients on second-generation antipsychotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, tracking fasting glucose, lipids, blood pressure, and waist circumference every 3-6 months for patients on second-generation antipsychotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schizophrenia Metabolic Syndrome Monitoring Annual Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, tracking fasting glucose, lipids, blood pressure, and waist circumference every 3-6 months for patients on second-generation antipsychotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Schizophrenia Metabolic Syndrome Monitoring Annual Assessment. In the clinical management of Schizophrenia Metabolic Syndrome Monitoring Annual Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schizophrenia Metabolic Syndrome Monitoring Annual Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Schizophrenia Metabolic Syndrome Monitoring Annual Assessment."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Schizophrenia Guidelines",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8823",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice. Clinical examination and investigative review confirm oral lithium carbonate maintaining serum level 0.6-0.8 mmol/L with baseline eGFR, ECG, and thyroid function tests. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral lithium carbonate maintaining serum level 0.6-0.8 mmol/l with baseline egfr, ecg, and thyroid function tests",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral lithium carbonate maintaining serum level 0.6-0.8 mmol/L with baseline eGFR, ECG, and thyroid function tests represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral lithium carbonate maintaining serum level 0.6-0.8 mmol/L with baseline eGFR, ECG, and thyroid function tests represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice. In the clinical management of Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Disorder First-Line Mood Stabilizer Lithium in Australian Practice."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Mood Disorders Clinical Guidelines",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8824",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia. Clinical examination and investigative review confirm symptom-triggered oral diazepam (10-20 mg) every 1-2 hours until CIWA-Ar score < 10 with high-dose IM thiamine. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Symptom-triggered oral diazepam (10-20 mg) every 1-2 hours until ciwa-ar score < 10 with high-dose im thiamine",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, symptom-triggered oral diazepam (10-20 mg) every 1-2 hours until CIWA-Ar score < 10 with high-dose IM thiamine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, symptom-triggered oral diazepam (10-20 mg) every 1-2 hours until CIWA-Ar score < 10 with high-dose IM thiamine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia. In the clinical management of Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Withdrawal Syndrome CIWA-Ar Protocol Diazepam in Australia."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Addiction",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8825",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine. Clinical examination and investigative review confirm sublingual buprenorphine/naloxone or monthly subcutaneous depot buprenorphine as first-line OAT. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Sublingual buprenorphine/naloxone or monthly subcutaneous depot buprenorphine as first-line oat",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, sublingual buprenorphine/naloxone or monthly subcutaneous depot buprenorphine as first-line OAT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, sublingual buprenorphine/naloxone or monthly subcutaneous depot buprenorphine as first-line OAT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine. In the clinical management of Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Dependence Pharmacotherapy Opioid Agonist Treatment (OAT) Buprenorphine."
+    ],
+    "references": [
+      {
+        "label": "Australian National Guidelines for Medication-Assisted Treatment of Opioid Dependence",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8826",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line. Clinical examination and investigative review confirm oral varenicline titrated to 1 mg bid for 12 weeks combined with multi-session behavioral counseling. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral varenicline titrated to 1 mg bid for 12 weeks combined with multi-session behavioral counseling",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral varenicline titrated to 1 mg bid for 12 weeks combined with multi-session behavioral counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral varenicline titrated to 1 mg bid for 12 weeks combined with multi-session behavioral counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line. In the clinical management of RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Tobacco Smoking Cessation Pharmacotherapy Varenicline First-Line."
+    ],
+    "references": [
+      {
+        "label": "RACGP Supporting Smoking Cessation: A Guide for Health Professionals",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8827",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Domestic and Family Violence Australian General Practice Multi-Agency Support",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Domestic and Family Violence Australian General Practice Multi-Agency Support. Clinical examination and investigative review confirm sensitive non-judgmental risk inquiry, safety planning, and warm referral to 1800RESPECT national domestic violence helpline. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Sensitive non-judgmental risk inquiry, safety planning, and warm referral to 1800respect national domestic violence helpline",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, sensitive non-judgmental risk inquiry, safety planning, and warm referral to 1800RESPECT national domestic violence helpline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Domestic and Family Violence Australian General Practice Multi-Agency Support.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, sensitive non-judgmental risk inquiry, safety planning, and warm referral to 1800RESPECT national domestic violence helpline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Domestic and Family Violence Australian General Practice Multi-Agency Support. In the clinical management of Domestic and Family Violence Australian General Practice Multi-Agency Support, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Domestic and Family Violence Australian General Practice Multi-Agency Support.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Domestic and Family Violence Australian General Practice Multi-Agency Support."
+    ],
+    "references": [
+      {
+        "label": "RACGP Abuse and Violence: Working with our Patients in General Practice (White Book)",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8828",
+    "exam": "AMC",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review. Clinical examination and investigative review confirm Timed Up and Go (TUG) test (> 12 seconds indicates high risk), medication review, and occupational therapy home audit. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Timed up and go (tug) test (> 12 seconds indicates high risk), medication review, and occupational therapy home audit",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, Timed Up and Go (TUG) test (> 12 seconds indicates high risk), medication review, and occupational therapy home audit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, Timed Up and Go (TUG) test (> 12 seconds indicates high risk), medication review, and occupational therapy home audit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review. In the clinical management of RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RACGP Older Adult Fall Risk Assessment Mobility and Home Hazards Review."
+    ],
+    "references": [
+      {
+        "label": "RACGP Red Book: Falls Prevention in Older People",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8829",
+    "exam": "AMC",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Delirium in Australian Hospitalized Elderly Confusion Assessment Method",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 75-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Delirium in Australian Hospitalized Elderly Confusion Assessment Method. Clinical examination and investigative review confirm non-pharmacological reorientation, early mobilization, hydration, and treating occult UTI or urinary retention without physical restraints. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Non-pharmacological reorientation, early mobilization, hydration, and treating occult uti or urinary retention without physical restraints",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, non-pharmacological reorientation, early mobilization, hydration, and treating occult UTI or urinary retention without physical restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Delirium in Australian Hospitalized Elderly Confusion Assessment Method.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, non-pharmacological reorientation, early mobilization, hydration, and treating occult UTI or urinary retention without physical restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Delirium in Australian Hospitalized Elderly Confusion Assessment Method. In the clinical management of Delirium in Australian Hospitalized Elderly Confusion Assessment Method, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Delirium in Australian Hospitalized Elderly Confusion Assessment Method.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Delirium in Australian Hospitalized Elderly Confusion Assessment Method."
+    ],
+    "references": [
+      {
+        "label": "Australian Commission on Safety and Quality in Health Care (ACSQHC) Delirium Standard",
+        "url": "https://www.safetyandquality.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8830",
+    "exam": "AMC",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment o",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition. Clinical examination and investigative review confirm administering GPCOG or standardized Mini-Mental State Examination, with routine bloods excluding hypothyroidism and B12 deficiency. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Administering gpcog or standardized mini-mental state examination, with routine bloods excluding hypothyroidism and b12 deficiency",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering GPCOG or standardized Mini-Mental State Examination, with routine bloods excluding hypothyroidism and B12 deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering GPCOG or standardized Mini-Mental State Examination, with routine bloods excluding hypothyroidism and B12 deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition. In the clinical management of Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dementia Mild Cognitive Impairment SMMSE and General Practitioner Assessment of Cognition."
+    ],
+    "references": [
+      {
+        "label": "RACGP Dementia Management in General Practice",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8831",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Austra",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians. Clinical examination and investigative review confirm oral levodopa/benserazide (Madopar) or levodopa/carbidopa titrated for functional motor impairment in adults > 65. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral levodopa/benserazide (madopar) or levodopa/carbidopa titrated for functional motor impairment in adults > 65",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral levodopa/benserazide (Madopar) or levodopa/carbidopa titrated for functional motor impairment in adults > 65 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral levodopa/benserazide (Madopar) or levodopa/carbidopa titrated for functional motor impairment in adults > 65 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians. In the clinical management of Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Initial Pharmacotherapy Levodopa-Benserazide in Older Australians."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Neurology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8832",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h. Clinical examination and investigative review confirm IV tenecteplase (0.25 mg/kg) or alteplase within 4.5 hours of symptom onset after ruling out hemorrhage on non-contrast CT. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Iv tenecteplase (0.25 mg/kg) or alteplase within 4.5 hours of symptom onset after ruling out hemorrhage on non-contrast ct",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV tenecteplase (0.25 mg/kg) or alteplase within 4.5 hours of symptom onset after ruling out hemorrhage on non-contrast CT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV tenecteplase (0.25 mg/kg) or alteplase within 4.5 hours of symptom onset after ruling out hemorrhage on non-contrast CT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h. In the clinical management of Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Ischemic Stroke Australian Thrombolysis Window IV Tenecteplase Within 4.5h."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Clinical Guidelines for Stroke Management",
+        "url": "https://informme.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8833",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h. Clinical examination and investigative review confirm mechanical thrombectomy for anterior circulation large vessel occlusion (ICA, M1) within 6 hours (up to 24h with perfusion mismatch). Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Mechanical thrombectomy for anterior circulation large vessel occlusion (ica, m1) within 6 hours (up to 24h with perfusion mismatch)",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, mechanical thrombectomy for anterior circulation large vessel occlusion (ICA, M1) within 6 hours (up to 24h with perfusion mismatch) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, mechanical thrombectomy for anterior circulation large vessel occlusion (ICA, M1) within 6 hours (up to 24h with perfusion mismatch) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h. In the clinical management of Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endovascular Thrombectomy in Large Vessel Occlusion Australian Criteria Within 24h."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Guidelines",
+        "url": "https://informme.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8834",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Parace",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol. Clinical examination and investigative review confirm oral sumatriptan 50 mg combined with soluble paracetamol 1000 mg and metoclopramide 10 mg taken at attack onset. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Oral sumatriptan 50 mg combined with soluble paracetamol 1000 mg and metoclopramide 10 mg taken at attack onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral sumatriptan 50 mg combined with soluble paracetamol 1000 mg and metoclopramide 10 mg taken at attack onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral sumatriptan 50 mg combined with soluble paracetamol 1000 mg and metoclopramide 10 mg taken at attack onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol. In the clinical management of Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Management Therapeutic Guidelines Sumatriptan 50 mg Plus Paracetamol."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Headache",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8835",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification. Clinical examination and investigative review confirm statutory 6-month non-driving period for private vehicle licenses following an isolated unprovoked seizure in Australia. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Statutory 6-month non-driving period for private vehicle licenses following an isolated unprovoked seizure in australia",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, statutory 6-month non-driving period for private vehicle licenses following an isolated unprovoked seizure in Australia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, statutory 6-month non-driving period for private vehicle licenses following an isolated unprovoked seizure in Australia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification. In the clinical management of Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epilepsy First Unprovoked Seizure Driving Guidelines 6-Month Disqualification."
+    ],
+    "references": [
+      {
+        "label": "Austroads Assessing Fitness to Drive",
+        "url": "https://austroads.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8836",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days. Clinical examination and investigative review confirm oral methylprednisolone 500 mg daily for 5 days speeding neurological recovery in acute disabling MS relapse. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral methylprednisolone 500 mg daily for 5 days speeding neurological recovery in acute disabling ms relapse",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methylprednisolone 500 mg daily for 5 days speeding neurological recovery in acute disabling MS relapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methylprednisolone 500 mg daily for 5 days speeding neurological recovery in acute disabling MS relapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days. In the clinical management of Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Relapse High-Dose Oral Methylprednisolone 500 mg 5 Days."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Neurology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8837",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary C",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care. Clinical examination and investigative review confirm oral prednisolone 50-60 mg daily for 5 days with 5-day taper and artificial tears to protect cornea from exposure keratitis. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral prednisolone 50-60 mg daily for 5 days with 5-day taper and artificial tears to protect cornea from exposure keratitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral prednisolone 50-60 mg daily for 5 days with 5-day taper and artificial tears to protect cornea from exposure keratitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral prednisolone 50-60 mg daily for 5 days with 5-day taper and artificial tears to protect cornea from exposure keratitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care. In the clinical management of Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bell Palsy Immediate Oral Prednisolone Within 72 Hours in Australian Primary Care."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Neurology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8838",
+    "exam": "AMC",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine. Clinical examination and investigative review confirm oral carbamazepine starting at 100 mg bid titrated to 400-800 mg daily with baseline sodium and liver function monitoring. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral carbamazepine starting at 100 mg bid titrated to 400-800 mg daily with baseline sodium and liver function monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral carbamazepine starting at 100 mg bid titrated to 400-800 mg daily with baseline sodium and liver function monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral carbamazepine starting at 100 mg bid titrated to 400-800 mg daily with baseline sodium and liver function monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine. In the clinical management of Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia First-Line Pharmacotherapy Carbamazepine."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8839",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylp",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin. Clinical examination and investigative review confirm IV benzylpenicillin 1.2 g q6h plus oral doxycycline 100 mg bid for hospitalized moderate-severity CAP in Australian wards. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Iv benzylpenicillin 1.2 g q6h plus oral doxycycline 100 mg bid for hospitalized moderate-severity cap in australian wards",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV benzylpenicillin 1.2 g q6h plus oral doxycycline 100 mg bid for hospitalized moderate-severity CAP in Australian wards represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV benzylpenicillin 1.2 g q6h plus oral doxycycline 100 mg bid for hospitalized moderate-severity CAP in Australian wards represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin. In the clinical management of Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Community-Acquired Pneumonia Moderate Inpatient Therapeutic Guidelines Benzylpenicillin."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Antibiotic",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8840",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin. Clinical examination and investigative review confirm IV ceftriaxone 2 g daily plus IV azithromycin 500 mg daily for SMART-COP score >= 3 requiring ICU or high-dependency admission. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Iv ceftriaxone 2 g daily plus iv azithromycin 500 mg daily for smart-cop score >= 3 requiring icu or high-dependency admission",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV ceftriaxone 2 g daily plus IV azithromycin 500 mg daily for SMART-COP score >= 3 requiring ICU or high-dependency admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, IV ceftriaxone 2 g daily plus IV azithromycin 500 mg daily for SMART-COP score >= 3 requiring ICU or high-dependency admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin. In the clinical management of Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Community-Acquired Pneumonia IV Ceftriaxone Plus Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Respiratory Infections",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8841",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral. Clinical examination and investigative review confirm referral to structured multidisciplinary 8-week outpatient pulmonary rehabilitation program improving exercise tolerance and dyspnea. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Referral to structured multidisciplinary 8-week outpatient pulmonary rehabilitation program improving exercise tolerance and dyspnea",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, referral to structured multidisciplinary 8-week outpatient pulmonary rehabilitation program improving exercise tolerance and dyspnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, referral to structured multidisciplinary 8-week outpatient pulmonary rehabilitation program improving exercise tolerance and dyspnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral. In the clinical management of Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Obstructive Pulmonary Disease Pulmonary Rehabilitation Referral."
+    ],
+    "references": [
+      {
+        "label": "Lung Foundation Australia COPD Guidelines",
+        "url": "https://lungfoundation.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8842",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone. Clinical examination and investigative review confirm oral prednisolone 40-50 mg daily for 5 days in adults, with high-dose nebulized salbutamol/ipratropium and continuous pulse oximetry. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral prednisolone 40-50 mg daily for 5 days in adults, with high-dose nebulized salbutamol/ipratropium and continuous pulse oximetry",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral prednisolone 40-50 mg daily for 5 days in adults, with high-dose nebulized salbutamol/ipratropium and continuous pulse oximetry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral prednisolone 40-50 mg daily for 5 days in adults, with high-dose nebulized salbutamol/ipratropium and continuous pulse oximetry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone. In the clinical management of Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Asthma Severe Flare RACGP/National Asthma Council Burst Oral Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "National Asthma Council Australian Asthma Handbook",
+        "url": "https://www.asthmahandbook.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8843",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR. Clinical examination and investigative review confirm first morning spot urine albumin-to-creatinine ratio (uACR); persistent microalbuminuria (ACR 2.5-30 mg/mmol) prompts ACEi/ARB. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "First morning spot urine albumin-to-creatinine ratio (uacr); persistent microalbuminuria (acr 2.5-30 mg/mmol) prompts acei/arb",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, first morning spot urine albumin-to-creatinine ratio (uACR); persistent microalbuminuria (ACR 2.5-30 mg/mmol) prompts ACEi/ARB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, first morning spot urine albumin-to-creatinine ratio (uACR); persistent microalbuminuria (ACR 2.5-30 mg/mmol) prompts ACEi/ARB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR. In the clinical management of Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Kidney Disease Albuminuria Assessment First Morning Urine ACR."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia Caring for Australians with Renal Impairment (CARI) Guidelines",
+        "url": "https://kidney.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8844",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80. Clinical examination and investigative review confirm strict blood pressure control < 120/80 with ACE inhibitors, high water intake (> 3 L/day), and tolvaptan for rapid progressors. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Strict blood pressure control < 120/80 with ace inhibitors, high water intake (> 3 l/day), and tolvaptan for rapid progressors",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, strict blood pressure control < 120/80 with ACE inhibitors, high water intake (> 3 L/day), and tolvaptan for rapid progressors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, strict blood pressure control < 120/80 with ACE inhibitors, high water intake (> 3 L/day), and tolvaptan for rapid progressors represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80. In the clinical management of Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Kidney Disease Autosomal Dominant Blood Pressure Target < 120/80."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia ADPKD Guidelines",
+        "url": "https://kidney.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8845",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin. Clinical examination and investigative review confirm oral selective alpha-1A blocker tamsulosin 0.4 mg daily preferred due to lower incidence of postural hypotension compared to non-selective agents. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Oral selective alpha-1a blocker tamsulosin 0.4 mg daily preferred due to lower incidence of postural hypotension compared to non-selective agents",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral selective alpha-1A blocker tamsulosin 0.4 mg daily preferred due to lower incidence of postural hypotension compared to non-selective agents represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral selective alpha-1A blocker tamsulosin 0.4 mg daily preferred due to lower incidence of postural hypotension compared to non-selective agents represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin. In the clinical management of Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lower Urinary Tract Symptoms Alpha-1 Blocker Prazosin vs Tamsulosin."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Urology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8846",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast. Clinical examination and investigative review confirm low-dose unenhanced non-contrast CT KUB as gold standard imaging identifying stone size, location, and secondary hydronephrosis. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Low-dose unenhanced non-contrast ct kub as gold standard imaging identifying stone size, location, and secondary hydronephrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, low-dose unenhanced non-contrast CT KUB as gold standard imaging identifying stone size, location, and secondary hydronephrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, low-dose unenhanced non-contrast CT KUB as gold standard imaging identifying stone size, location, and secondary hydronephrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast. In the clinical management of Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Renal Colic Acute Presentation CT Kidney Ureter Bladder (CT KUB) Non-Contrast."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Urology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8847",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male is admitted to the inpatient intermediate care unit with clinical findings indicative of Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone. Clinical examination and investigative review confirm oral methotrexate 15-20 mg weekly with folic acid 5 mg weekly and bridging oral prednisolone tapering over 8-12 weeks. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate 15-20 mg weekly with folic acid 5 mg weekly and bridging oral prednisolone tapering over 8-12 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methotrexate 15-20 mg weekly with folic acid 5 mg weekly and bridging oral prednisolone tapering over 8-12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral methotrexate 15-20 mg weekly with folic acid 5 mg weekly and bridging oral prednisolone tapering over 8-12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone. In the clinical management of Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatoid Arthritis Remission Target Methotrexate Plus Low-Dose Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "Australian Rheumatology Association Guidelines",
+        "url": "https://rheumatology.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8848",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy. Clinical examination and investigative review confirm continuous full-dose oral NSAID therapy (naproxen or celecoxib) plus daily spinal extension exercises, escalating to TNF inhibitors if refractory. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Continuous full-dose oral nsaid therapy (naproxen or celecoxib) plus daily spinal extension exercises, escalating to tnf inhibitors if refractory",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, continuous full-dose oral NSAID therapy (naproxen or celecoxib) plus daily spinal extension exercises, escalating to TNF inhibitors if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, continuous full-dose oral NSAID therapy (naproxen or celecoxib) plus daily spinal extension exercises, escalating to TNF inhibitors if refractory represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy. In the clinical management of Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ankylosing Spondylitis First-Line NSAIDs and Dedicated Physiotherapy."
+    ],
+    "references": [
+      {
+        "label": "ARA Guidelines for Spondyloarthritis",
+        "url": "https://rheumatology.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8849",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline. Clinical examination and investigative review confirm structured aerobic exercise, sleep hygiene, and low-dose oral amitriptyline 10-25 mg nocte; avoiding long-term opioids. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Structured aerobic exercise, sleep hygiene, and low-dose oral amitriptyline 10-25 mg nocte; avoiding long-term opioids",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, structured aerobic exercise, sleep hygiene, and low-dose oral amitriptyline 10-25 mg nocte; avoiding long-term opioids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, structured aerobic exercise, sleep hygiene, and low-dose oral amitriptyline 10-25 mg nocte; avoiding long-term opioids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline. In the clinical management of Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fibromyalgia Management Graded Exercise and Low-Dose Amitriptyline."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Rheumatology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8850",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later. Clinical examination and investigative review confirm low-dose colchicine regimen (1 mg stat, then 500 mcg 1 hour later) minimizing gastrointestinal diarrhea while providing rapid pain relief. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Low-dose colchicine regimen (1 mg stat, then 500 mcg 1 hour later) minimizing gastrointestinal diarrhea while providing rapid pain relief",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, low-dose colchicine regimen (1 mg stat, then 500 mcg 1 hour later) minimizing gastrointestinal diarrhea while providing rapid pain relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, low-dose colchicine regimen (1 mg stat, then 500 mcg 1 hour later) minimizing gastrointestinal diarrhea while providing rapid pain relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later. In the clinical management of Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Gouty Arthritis Colchicine 1 mg Followed by 500 mcg 1 Hour Later."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Gout",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8851",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise. Clinical examination and investigative review confirm supervised land-based strength training, walking programs, and weight management as foundational disease-modifying interventions. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Supervised land-based strength training, walking programs, and weight management as foundational disease-modifying interventions",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, supervised land-based strength training, walking programs, and weight management as foundational disease-modifying interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, supervised land-based strength training, walking programs, and weight management as foundational disease-modifying interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise. In the clinical management of Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteoarthritis Hip and Knee RACGP Recommended First-Line Land-Based Exercise."
+    ],
+    "references": [
+      {
+        "label": "RACGP Guideline for the Management of Knee and Hip Osteoarthritis",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8852",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin. Clinical examination and investigative review confirm topical mupirocin 2% ointment for localized lesions (< 3 lesions); oral cefalexin 500 mg tid for widespread bullous impetigo. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Topical mupirocin 2% ointment for localized lesions (< 3 lesions); oral cefalexin 500 mg tid for widespread bullous impetigo",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical mupirocin 2% ointment for localized lesions (< 3 lesions); oral cefalexin 500 mg tid for widespread bullous impetigo represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical mupirocin 2% ointment for localized lesions (< 3 lesions); oral cefalexin 500 mg tid for widespread bullous impetigo represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin. In the clinical management of Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Impetigo in Australian Schoolchildren Topical Mupirocin 2% vs Oral Cefalexin."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Dermatology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8853",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Scabies Australian Outpatient Treatment 5% Permethrin Cream Application",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Scabies Australian Outpatient Treatment 5% Permethrin Cream Application. Clinical examination and investigative review confirm topical 5% permethrin cream applied from neck to toes overnight, washed off after 8-14 hours, and repeated in 7 days with household contacts. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Topical 5% permethrin cream applied from neck to toes overnight, washed off after 8-14 hours, and repeated in 7 days with household contacts",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical 5% permethrin cream applied from neck to toes overnight, washed off after 8-14 hours, and repeated in 7 days with household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Scabies Australian Outpatient Treatment 5% Permethrin Cream Application.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical 5% permethrin cream applied from neck to toes overnight, washed off after 8-14 hours, and repeated in 7 days with household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Scabies Australian Outpatient Treatment 5% Permethrin Cream Application. In the clinical management of Scabies Australian Outpatient Treatment 5% Permethrin Cream Application, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Scabies Australian Outpatient Treatment 5% Permethrin Cream Application.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Scabies Australian Outpatient Treatment 5% Permethrin Cream Application."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Australia: Dermatology",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8854",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcip",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol. Clinical examination and investigative review confirm topical combination betamethasone/calcipotriol gel or foam applied once daily for up to 4 weeks inducing rapid remission. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Topical combination betamethasone/calcipotriol gel or foam applied once daily for up to 4 weeks inducing rapid remission",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical combination betamethasone/calcipotriol gel or foam applied once daily for up to 4 weeks inducing rapid remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, topical combination betamethasone/calcipotriol gel or foam applied once daily for up to 4 weeks inducing rapid remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol. In the clinical management of Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Psoriasis Plaque Form First-Line Combination Betamethasone Dipropionate/Calcipotriol."
+    ],
+    "references": [
+      {
+        "label": "Australasian College of Dermatologists Psoriasis Guidelines",
+        "url": "https://www.dermcoll.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8855",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment. Clinical examination and investigative review confirm mometasone furoate 0.1% or methylprednisolone aceponate ointment once daily to active red excoriated plaques plus liberal bland emollients. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Mometasone furoate 0.1% or methylprednisolone aceponate ointment once daily to active red excoriated plaques plus liberal bland emollients",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, mometasone furoate 0.1% or methylprednisolone aceponate ointment once daily to active red excoriated plaques plus liberal bland emollients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, mometasone furoate 0.1% or methylprednisolone aceponate ointment once daily to active red excoriated plaques plus liberal bland emollients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment. In the clinical management of Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atopic Dermatitis Flare Management Potent Topical Corticosteroid Ointment."
+    ],
+    "references": [
+      {
+        "label": "Australasian College of Dermatologists Eczema Guidelines",
+        "url": "https://www.dermcoll.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8856",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Contraception Australian General Practice Depot Medroxyprogesterone Acetate (D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA). Clinical examination and investigative review confirm intramuscular DMPA 150 mg every 12 weeks with counseling on irregular bleeding, amenorrhea, and potential bone mineral density reduction. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Intramuscular dmpa 150 mg every 12 weeks with counseling on irregular bleeding, amenorrhea, and potential bone mineral density reduction",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, intramuscular DMPA 150 mg every 12 weeks with counseling on irregular bleeding, amenorrhea, and potential bone mineral density reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, intramuscular DMPA 150 mg every 12 weeks with counseling on irregular bleeding, amenorrhea, and potential bone mineral density reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA). In the clinical management of Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contraception Australian General Practice Depot Medroxyprogesterone Acetate (DMPA)."
+    ],
+    "references": [
+      {
+        "label": "Sexual Health and Family Planning Australia (SHFPA) Guidelines",
+        "url": "https://www.shfpa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8857",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus. Clinical examination and investigative review confirm single dose oral ulipristal acetate 30 mg effective up to 5 days after unprotected intercourse, superior to levonorgestrel in higher BMI. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Single dose oral ulipristal acetate 30 mg effective up to 5 days after unprotected intercourse, superior to levonorgestrel in higher bmi",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, single dose oral ulipristal acetate 30 mg effective up to 5 days after unprotected intercourse, superior to levonorgestrel in higher BMI represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, single dose oral ulipristal acetate 30 mg effective up to 5 days after unprotected intercourse, superior to levonorgestrel in higher BMI represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus. In the clinical management of Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Emergency Contraception Ulipristal Acetate 30 mg up to 120 Hours Post-Coitus."
+    ],
+    "references": [
+      {
+        "label": "SHFPA Emergency Contraception Clinical Guidance",
+        "url": "https://www.shfpa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8858",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks. Clinical examination and investigative review confirm maternal serum PAPP-A, free beta-hCG, and fetal nuchal translucency ultrasound (or non-invasive prenatal testing NIPT) assessing aneuploidy. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Maternal serum papp-a, free beta-hcg, and fetal nuchal translucency ultrasound (or non-invasive prenatal testing nipt) assessing aneuploidy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, maternal serum PAPP-A, free beta-hCG, and fetal nuchal translucency ultrasound (or non-invasive prenatal testing NIPT) assessing aneuploidy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, maternal serum PAPP-A, free beta-hCG, and fetal nuchal translucency ultrasound (or non-invasive prenatal testing NIPT) assessing aneuploidy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks. In the clinical management of Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Antenatal Care First Trimester Combined Screening at 11-13+6 Weeks."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Prenatal Screening Guidelines",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8859",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w. Clinical examination and investigative review confirm universal 75-g 2-hour fasting OGTT with IADPSG diagnostic criteria (fasting >= 5.1, 1h >= 10.0, 2h >= 8.5 mmol/L). Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Universal 75-g 2-hour fasting ogtt with iadpsg diagnostic criteria (fasting >= 5.1, 1h >= 10.0, 2h >= 8.5 mmol/l)",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, universal 75-g 2-hour fasting OGTT with IADPSG diagnostic criteria (fasting >= 5.1, 1h >= 10.0, 2h >= 8.5 mmol/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, universal 75-g 2-hour fasting OGTT with IADPSG diagnostic criteria (fasting >= 5.1, 1h >= 10.0, 2h >= 8.5 mmol/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w. In the clinical management of Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes Screening Australia 75-g Oral Glucose Tolerance Test at 24-28w."
+    ],
+    "references": [
+      {
+        "label": "ADIPS Consensus Guidelines for the Testing and Diagnosis of GDM in Australia",
+        "url": "https://www.adips.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8860",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks. Clinical examination and investigative review confirm initiating prophylactic low-dose aspirin 100-150 mg nocte prior to 16 weeks gestation for high-risk obstetric patients. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Initiating prophylactic low-dose aspirin 100-150 mg nocte prior to 16 weeks gestation for high-risk obstetric patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating prophylactic low-dose aspirin 100-150 mg nocte prior to 16 weeks gestation for high-risk obstetric patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating prophylactic low-dose aspirin 100-150 mg nocte prior to 16 weeks gestation for high-risk obstetric patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks. In the clinical management of Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preeclampsia Prophylaxis in Australia Oral Aspirin 100-150 mg Daily Before 16 Weeks."
+    ],
+    "references": [
+      {
+        "label": "SOMANZ Guidelines for the Management of Hypertensive Disorders of Pregnancy",
+        "url": "https://somanz.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8861",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU. Clinical examination and investigative review confirm routine prophylactic intramuscular oxytocin 10 units administered with delivery of the anterior shoulder to prevent uterine atony. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic intramuscular oxytocin 10 units administered with delivery of the anterior shoulder to prevent uterine atony",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, routine prophylactic intramuscular oxytocin 10 units administered with delivery of the anterior shoulder to prevent uterine atony represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, routine prophylactic intramuscular oxytocin 10 units administered with delivery of the anterior shoulder to prevent uterine atony represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU. In the clinical management of Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postpartum Hemorrhage Active Management of Third Stage IM Oxytocin 10 IU."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Management of Postpartum Haemorrhage",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8862",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female attends an Australian accredited general practice clinic with clinical findings indicative of Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth. Clinical examination and investigative review confirm single intramuscular dose of phytomenadione (vitamin K1) 1 mg within 4 hours of birth preventing late vitamin K deficiency bleeding. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Single intramuscular dose of phytomenadione (vitamin k1) 1 mg within 4 hours of birth preventing late vitamin k deficiency bleeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, single intramuscular dose of phytomenadione (vitamin K1) 1 mg within 4 hours of birth preventing late vitamin K deficiency bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, single intramuscular dose of phytomenadione (vitamin K1) 1 mg within 4 hours of birth preventing late vitamin K deficiency bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth. In the clinical management of Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Vitamin K Prophylaxis Australia IM Phytomenadione 1 mg at Birth."
+    ],
+    "references": [
+      {
+        "label": "NHMRC Joint Statement on Vitamin K Administration to Newborn Infants",
+        "url": "https://www.nhmrc.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8863",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old male is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg. Clinical examination and investigative review confirm immediate IM adrenaline (1:1000, 0.01 mL/kg up to max 0.5 mL) into outer mid-thigh with patient lying flat or recovery position. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Immediate im adrenaline (1:1000, 0.01 ml/kg up to max 0.5 ml) into outer mid-thigh with patient lying flat or recovery position",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate IM adrenaline (1:1000, 0.01 mL/kg up to max 0.5 mL) into outer mid-thigh with patient lying flat or recovery position represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, immediate IM adrenaline (1:1000, 0.01 mL/kg up to max 0.5 mL) into outer mid-thigh with patient lying flat or recovery position represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg. In the clinical management of Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Anaphylaxis Australia ASCIA Action Plan IM Adrenaline 10 mcg/kg."
+    ],
+    "references": [
+      {
+        "label": "Australasian Society of Clinical Immunology and Allergy (ASCIA) Guidelines",
+        "url": "https://www.allergy.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8864",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Childhood Immunization Australian National Immunisation Program Schedule at 2 ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old female attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Childhood Immunization Australian National Immunisation Program Schedule at 2 Months. Clinical examination and investigative review confirm hexavalent DTPa-hepB-IPV-Hib, 13-valent pneumococcal conjugate (13vPCV), and oral rotavirus vaccine administered at 6-8 weeks. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Hexavalent dtpa-hepb-ipv-hib, 13-valent pneumococcal conjugate (13vpcv), and oral rotavirus vaccine administered at 6-8 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, hexavalent DTPa-hepB-IPV-Hib, 13-valent pneumococcal conjugate (13vPCV), and oral rotavirus vaccine administered at 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Childhood Immunization Australian National Immunisation Program Schedule at 2 Months.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, hexavalent DTPa-hepB-IPV-Hib, 13-valent pneumococcal conjugate (13vPCV), and oral rotavirus vaccine administered at 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Childhood Immunization Australian National Immunisation Program Schedule at 2 Months. In the clinical management of Childhood Immunization Australian National Immunisation Program Schedule at 2 Months, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Childhood Immunization Australian National Immunisation Program Schedule at 2 Months.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Childhood Immunization Australian National Immunisation Program Schedule at 2 Months."
+    ],
+    "references": [
+      {
+        "label": "Australian National Immunisation Program Schedule",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8865",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old male presents to the district hospital acute assessment unit with clinical findings indicative of Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags. Clinical examination and investigative review confirm reassurance that simple generalized seizures < 15 minutes do not cause structural brain damage, with education on fever management and positioning. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Reassurance that simple generalized seizures < 15 minutes do not cause structural brain damage, with education on fever management and positioning",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, reassurance that simple generalized seizures < 15 minutes do not cause structural brain damage, with education on fever management and positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, reassurance that simple generalized seizures < 15 minutes do not cause structural brain damage, with education on fever management and positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags. In the clinical management of Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Febrile Convulsion Simple Under 6 Years Parental Reassurance and Red Flags."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Clinical Practice Guidelines: Febrile Convulsion",
+        "url": "https://www.rch.org.au/clinicalguide/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8866",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old female undergoes consultative assessment in the outpatient specialist department with clinical findings indicative of Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement. Clinical examination and investigative review confirm frequent small sips (5 mL every 5 minutes) of commercial oral rehydration salts solution over 4 hours replacing fluid deficit. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Frequent small sips (5 ml every 5 minutes) of commercial oral rehydration salts solution over 4 hours replacing fluid deficit",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, frequent small sips (5 mL every 5 minutes) of commercial oral rehydration salts solution over 4 hours replacing fluid deficit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, frequent small sips (5 mL every 5 minutes) of commercial oral rehydration salts solution over 4 hours replacing fluid deficit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement. In the clinical management of Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Gastroenteritis Oral Rehydration Solution Low Osmolarity Replacement."
+    ],
+    "references": [
+      {
+        "label": "RCH Melbourne Guidelines: Dehydration",
+        "url": "https://www.rch.org.au/clinicalguide/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8867",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrog",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old male attends the rural continuity medical pavilion for scheduled follow-up with clinical findings indicative of Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol). Clinical examination and investigative review confirm oral macrogol 3350 with electrolytes titrated to produce 1-2 soft painless bowel motions daily for at least 2-3 months. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Oral macrogol 3350 with electrolytes titrated to produce 1-2 soft painless bowel motions daily for at least 2-3 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral macrogol 3350 with electrolytes titrated to produce 1-2 soft painless bowel motions daily for at least 2-3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol).",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, oral macrogol 3350 with electrolytes titrated to produce 1-2 soft painless bowel motions daily for at least 2-3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol). In the clinical management of Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Constipation First-Line Osmotic Laxative Polyethylene Glycol (Macrogol)."
+    ],
+    "references": [
+      {
+        "label": "RCH Melbourne Guidelines: Constipation",
+        "url": "https://www.rch.org.au/clinicalguide/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8868",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female is admitted to the inpatient intermediate care unit with clinical findings indicative of Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin. Clinical examination and investigative review confirm fever >= 5 days plus 4 of 5 features treated with IVIG 2 g/kg single infusion plus oral aspirin (30-50 mg/kg/day) preventing coronary aneurysms. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Fever >= 5 days plus 4 of 5 features treated with ivig 2 g/kg single infusion plus oral aspirin (30-50 mg/kg/day) preventing coronary aneurysms",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, fever >= 5 days plus 4 of 5 features treated with IVIG 2 g/kg single infusion plus oral aspirin (30-50 mg/kg/day) preventing coronary aneurysms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, fever >= 5 days plus 4 of 5 features treated with IVIG 2 g/kg single infusion plus oral aspirin (30-50 mg/kg/day) preventing coronary aneurysms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin. In the clinical management of Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kawasaki Disease Diagnostic Criteria IV Immunoglobulin and High-Dose Aspirin."
+    ],
+    "references": [
+      {
+        "label": "National Heart Foundation of Australia Kawasaki Disease Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8869",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male attends an Australian accredited general practice clinic with clinical findings indicative of Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres. Clinical examination and investigative review confirm routine screening at every infant check up to 6 months; hip ultrasound at 6 weeks for breech presentation or positive family history. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine screening at every infant check up to 6 months; hip ultrasound at 6 weeks for breech presentation or positive family history",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, routine screening at every infant check up to 6 months; hip ultrasound at 6 weeks for breech presentation or positive family history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres.",
+        "correct": true
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, routine screening at every infant check up to 6 months; hip ultrasound at 6 weeks for breech presentation or positive family history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres. In the clinical management of Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Developmental Dysplasia of the Hip Clinical Ortolani and Barlow Manoeuvres."
+    ],
+    "references": [
+      {
+        "label": "RCH Melbourne Guidelines: DDH",
+        "url": "https://www.rch.org.au/clinicalguide/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8870",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 3-year-old female is evaluated in the emergency receiving department of a regional base hospital with clinical findings indicative of Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x. Clinical examination and investigative review confirm biopsy-sparing pathway: IgA-tTG >= 10 times upper limit of normal confirmed with positive endomysial antibody (EMA) on second sample. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Biopsy-sparing pathway: iga-ttg >= 10 times upper limit of normal confirmed with positive endomysial antibody (ema) on second sample",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, biopsy-sparing pathway: IgA-tTG >= 10 times upper limit of normal confirmed with positive endomysial antibody (EMA) on second sample represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, biopsy-sparing pathway: IgA-tTG >= 10 times upper limit of normal confirmed with positive endomysial antibody (EMA) on second sample represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x. In the clinical management of Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coeliac Disease Pediatric ESPGHAN/Coeliac Australia Criteria Transglutaminase > 10x."
+    ],
+    "references": [
+      {
+        "label": "Coeliac Australia / ESPGHAN Pediatric Guidelines",
+        "url": "https://www.coeliac.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8871",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 4-year-old male attends an Aboriginal Community Controlled Health Service (ACCHS) for check-up with clinical findings indicative of Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate. Clinical examination and investigative review confirm cautious fluid deficit replacement over 48 hours with normal saline, avoiding hypotonic boluses to prevent fatal cerebral edema. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Cautious fluid deficit replacement over 48 hours with normal saline, avoiding hypotonic boluses to prevent fatal cerebral edema",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, cautious fluid deficit replacement over 48 hours with normal saline, avoiding hypotonic boluses to prevent fatal cerebral edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, cautious fluid deficit replacement over 48 hours with normal saline, avoiding hypotonic boluses to prevent fatal cerebral edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate. In the clinical management of Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Type 1 Diabetes Presentation Pediatric DKA IV Fluid Resuscitation Rate."
+    ],
+    "references": [
+      {
+        "label": "Australasian Paediatric Endocrine Group (APEG) DKA Guidelines",
+        "url": "https://apeg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8872",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female presents to the district hospital acute assessment unit with clinical findings indicative of Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis. Clinical examination and investigative review confirm palpable purpura on buttocks/lower limbs requiring serial BP and weekly urinalysis for 6 months tracking glomerulonephritis. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most appropriate diagnostic test or immediate management indicated for this patient in Australian practice?",
+    "options": [
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Palpable purpura on buttocks/lower limbs requiring serial bp and weekly urinalysis for 6 months tracking glomerulonephritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, palpable purpura on buttocks/lower limbs requiring serial BP and weekly urinalysis for 6 months tracking glomerulonephritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis.",
+        "correct": true
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, palpable purpura on buttocks/lower limbs requiring serial BP and weekly urinalysis for 6 months tracking glomerulonephritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis. In the clinical management of Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Henoch-Schonlein Purpura (IgA Vasculitis) Monitoring Blood Pressure and Urinalysis."
+    ],
+    "references": [
+      {
+        "label": "RCH Melbourne Guidelines: HSP",
+        "url": "https://www.rch.org.au/clinicalguide/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
