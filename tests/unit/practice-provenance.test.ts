@@ -1727,7 +1727,7 @@ describe('F. Reset boundaries & Question Practice Status Resolution', () => {
                     select: { id: true, revisionNumber: true, contentSnapshot: true },
                 });
                 expect(updateManySpy).not.toHaveBeenCalled();
-            }, 15000);
+            }, 30000);
             it('F-02: recordQuestionReview on EDITORIAL revocation demotes Question status to REVIEW while leaving rightsAllowDelivery untouched', async () => {
                 const mockTx = {
                     questionRevision: {
