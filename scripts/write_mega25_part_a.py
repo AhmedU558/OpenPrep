@@ -1,0 +1,313 @@
+# scripts/write_mega25_part_a.py
+"""
+Generates scripts/mega25_part_a.py with 250 high-yield clinical topics:
+- 100 MRCP (batch-intl-111, intl-10173 to intl-10272)
+- 100 FCPS (batch-intl-112, intl-10273 to intl-10372)
+- 50 NLE Part 1 (batch-intl-113, intl-10373 to intl-10422)
+"""
+
+content = '''# scripts/mega25_part_a.py
+# 250 clinically authentic topics for Mega-Batch 25 (Part A)
+# Covers: MRCP (100), FCPS (100), NLE Part 1 (50)
+
+TOPICS_PART_A = [
+    # -------------------------------------------------------------------------
+    # MRCP (100 questions: intl-10173 to intl-10272)
+    # Royal Colleges of Physicians UK Part 1 & 2 Clinical Medicine Focus
+    # -------------------------------------------------------------------------
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Cardiac amyloidosis diagnosis with 99mTc-DPD scintigraphy and tafamidis indication"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Bicuspid aortic valve aortopathy screening thresholds for prophylactic surgical replacement"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Refractory vasospastic angina refractory to calcium antagonists treated with nicorandil"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "High-output heart failure secondary to systemic arteriovenous malformation"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Non-compaction cardiomyopathy thromboembolic prophylaxis indications"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Post-pericardiotomy syndrome refractory to NSAIDs managed with colchicine and corticosteroids"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Eisenmenger syndrome management and avoidance of systemic vasodilators in pregnancy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Coronary artery dissection in young females without atherosclerotic risk factors"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Carcinoid heart disease with tricuspid regurgitation and somatostatin analogue therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Cardiovascular", "topic": "Hypertrophic obstructive cardiomyopathy outflow gradient reduction with mavacamten"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Idiopathic pulmonary fibrosis monitoring with HRCT and antifibrotic nintedanib initiation"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Allergic bronchopulmonary aspergillosis staging and itraconazole-corticosteroid therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Severe alpha-1 antitrypsin deficiency with basilar panacinar emphysema and augmentation therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Pulmonary alveolar proteinosis diagnosis via bronchoalveolar lavage and whole-lung lavage therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Churg-Strauss eosinophilic granulomatosis with polyangiitis ANCA-negative asthma phenotype"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Extrinsic allergic alveolitis bird fancier lung avoidance and high-dose corticosteroid taper"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Pulmonary Langerhans cell histiocytosis smoking cessation and HRCT cystic nodular progression"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Non-tuberculous mycobacterial lung disease Mycobacterium avium complex triple-drug regimen"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Malignant pleural mesothelioma diagnostic thoracoscopy and cisplatin-pemetrexed systemic protocol"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Respiratory", "topic": "Obesity hypoventilation syndrome diagnostic criteria and nocturnal non-invasive ventilation titration"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Autoimmune pancreatitis type 1 IgG4-related disease imaging features and steroid response"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Primary sclerosing cholangitis surveillance for cholangiocarcinoma with CA 19-9 and MRCP"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Celiac disease refractory type II with aberrant intraepithelial lymphocytes and lymphoma risk"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Hereditary hemochromatosis C282Y homozygosity venesection target ferritin levels"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Wilson disease neurologic presentation urinary copper 24h collection and trientine therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Microscopic colitis budesonide oral induction therapy and drug trigger cessation"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Severe refractory ulcerative colitis acute admission rescue rescue infliximab vs cyclosporine"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Small intestinal bacterial overgrowth hydrogen breath test interpretation and rifaximin"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Eosinophilic esophagitis topical swallowed fluticasone slurry vs elimination diet"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Gastric antral vascular ectasia watermelon stomach endoscopic argon plasma coagulation"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Membranous nephropathy anti-PLA2R antibody titers guiding rituximab vs cyclophosphamide"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "IgA nephropathy high-risk progression targeted release budesonide and SGLT2 inhibitor"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Atypical hemolytic uremic syndrome complement alternative pathway dysregulation and eculizumab"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Autosomal dominant polycystic kidney disease rapid progressor criteria and tolvaptan monitoring"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Type 1 distal renal tubular acidosis nephrocalcinosis and systemic potassium-bicarbonate replacement"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Type 2 proximal renal tubular acidosis Fanconi syndrome urinary phosphorus wasting"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Type 4 hyperkalemic renal tubular acidosis hyporeninemic hypoaldosteronism management"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Acute interstitial nephritis drug-induced sterile pyuria eosinophiluria and drug withdrawal"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Focal segmental glomerulosclerosis collapsing variant in APOL1 risk allele context"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Renal", "topic": "Cardiorenal syndrome type 1 diuresis optimization with stepped loop diuretic and metolazone"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Pheochromocytoma preoperative alpha-blockade with phenoxybenzamine prior to beta-blocker"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Primary aldosteronism adrenal venous sampling lateralization guiding unilateral adrenalectomy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Multiple endocrine neoplasia type 1 pancreatic neuroendocrine tumor surveillance protocol"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Multiple endocrine neoplasia type 2A RET proto-oncogene prophylactic thyroidectomy timing"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Subacute granulomatous thyroiditis de Quervain triphasic course and NSAID vs steroid therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Riedel thyroiditis invasive fibrous struma IgG4 association and tamoxifen response"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Syndrome of inappropriate ADH secretion due to carbamazepine water restriction vs vaptans"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Acromegaly post-transsphenoidal surgical monitoring with IGF-1 and oral glucose GH suppression"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Addisonian crisis emergency hydrocortisone bolus and volume re-expansion without waiting for synacthen"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Endocrine", "topic": "Hypercalcemia of malignancy bisphosphonate vs denosumab in severe renal impairment"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Axial spondyloarthritis active sacroiliitis on MRI refractory to NSAIDs treated with TNF-inhibitor"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Systemic sclerosis renal crisis ACE-inhibitor immediate initiation and avoidance of corticosteroids"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Granulomatosis with polyangiitis c-ANCA PR3 refractory disease induction with rituximab"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Microscopic polyangiitis p-ANCA MPO rapidly progressive glomerulonephritis induction protocol"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Adult-onset Still disease diagnostic Yamaguchi criteria ferritin elevation and IL-1 blockade"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Behcet disease uveitis and oral/genital aphthae azathioprine vs anti-TNF biologic therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Polymyositis vs dermatomyositis autoantibody profiles Anti-Jo1 anti-Mi2 and malignancy screening"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Relapsing polychondritis auricular chondritis nasal bridge saddle deformity and methotrexate"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "CPPD pseudogout rhomboid positively birefringent crystals acute intra-articular steroid injection"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Musculoskeletal", "topic": "Gout allopurinol titration with HLA-B*5801 screening in high-risk ethnic groups"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Thrombotic thrombocytopenic purpura ADAMTS13 activity deficiency and emergent plasma exchange"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Paroxysmal nocturnal hemoglobinuria flow cytometry CD55/CD59 deficiency and terminal complement inhibition"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Heparin-induced thrombocytopenia 4T score calculation and immediate switch to argatroban"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Warm autoimmune hemolytic anemia IgG Coombs positive first-line corticosteroid taper"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Cold agglutinin disease IgM-mediated thermal avoidance and rituximab monotherapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Polycythemia vera JAK2 V617F mutation phlebotomy hematocrit target under 45 percent and aspirin"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Essential thrombocythemia CALR vs JAK2 mutation and cytoreductive hydroxyurea criteria"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Primary myelofibrosis teardrop poikilocytosis dry tap bone marrow and ruxolitinib for splenomegaly"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Aplastic anemia severe presentation bone marrow biopsy cellularity under 25 percent and ATG-cyclosporine"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Hematology", "topic": "Multiple myeloma CRAB criteria bone marrow clonal plasma cells over 10 percent and VRd induction"},
+
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Myasthenia gravis crisis vs cholinergic crisis edrophonium test caution and IVIG/plasma exchange"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Lambert-Eaton myasthenic syndrome voltage-gated calcium channel antibodies and 3,4-diaminopyridine"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Guillain-Barre syndrome Miller Fisher variant anti-GQ1b antibodies triad of ataxia, areflexia, ophthalmoplegia"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Multiple sclerosis oligoclonal bands in CSF and dimethyl fumarate disease-modifying protocol"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Neuromyelitis optica spectrum disorder anti-AQP4 IgG positivity and avoidance of MS beta-interferons"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Amyotrophic lateral sclerosis riluzole survival benefit and non-invasive ventilation indication"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Normal pressure hydrocephalus Hakim triad and high-volume lumbar puncture tap test response"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Status epilepticus refractory to benzodiazepine and levetiracetam escalated to propofol or midazolam"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Idiopathic intracranial hypertension lumbar puncture opening pressure over 25 cmH2O and acetazolamide"},
+    {"exam": "mrcp", "subject": "Neurology", "system": "Nervous System", "topic": "Creutzfeldt-Jakob disease 14-3-3 protein RT-QuIC positivity and characteristic periodic sharp wave EEG"},
+
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Infective endocarditis Duke criteria blood culture timing and targeted ampicillin-ceftriaxone for Enterococcus"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Lyme disease neuroborreliosis Lyme serology confirmation and intravenous ceftriaxone duration"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Pneumocystis jirovecii pneumonia in non-HIV immunosuppression high-dose co-trimoxazole and steroids"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Invasive aspergillosis galactomannan antigen positivity voriconazole therapeutic drug monitoring"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Cryptococcal meningitis in advanced immunocompromise amphotericin B plus flucytosine induction"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Clostridioides difficile severe colitis oral fidaxomicin vs oral vancomycin guidelines"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Melioidosis Burkholderia pseudomallei endemic exposure and prolonged ceftazidime eradication therapy"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Cytomegalovirus reactivation in organ transplant recipients quantitative PCR and valganciclovir"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Brucellosis chronic osteoarticular presentation doxycycline plus rifampin dual therapy for 6 weeks"},
+    {"exam": "mrcp", "subject": "Microbiology", "system": "General Principles", "topic": "Leptospirosis severe Weil disease jaundice, renal failure, hemorrhage and penicillin G therapy"},
+
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Pyoderma gangrenosum association with inflammatory bowel disease and systemic corticosteroid therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Sweet syndrome acute febrile neutrophilic dermatosis histologic dermal infiltrate and steroid response"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Bullous pemphigoid vs pemphigus vulgaris direct immunofluorescence basement membrane vs intercellular"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Erythema multiforme major vs Stevens-Johnson syndrome mucosal involvement percentage threshold"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Necrolytic migratory erythema as a hallmark cutaneous sign of glucagonoma syndrome"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Dermatitis herpetiformis granular IgA dermal papillae deposits and strict gluten-free diet with dapsone"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Porphyria cutanea tarda uroporphyrin decarboxylase deficiency phlebotomy and low-dose chloroquine"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Severe plaque psoriasis biologic therapy anti-IL17 vs anti-IL23 prior screening for tuberculosis"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Calciphylaxis in end-stage renal disease biopsy features and intravenous sodium thiosulfate therapy"},
+    {"exam": "mrcp", "subject": "Medicine", "system": "Dermatology", "topic": "Leukocytoclastic vasculitis palpable purpura skin punch biopsy timing within 24 hours of lesion onset"},
+
+    # -------------------------------------------------------------------------
+    # FCPS (100 questions: intl-10273 to intl-10372)
+    # College of Physicians and Surgeons Pakistan Fellowship Specialist Focus
+    # -------------------------------------------------------------------------
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Acute pancreatitis Atlanta classification severe necrotizing infected necrosis step-up necrosectomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Choledocholithiasis with acute cholangitis Tokyo guidelines grade II emergent ERCP sphincterotomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Hydatid liver cyst Echinococcus granulosus PAIR technique vs albendazole-covered cystectomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Amebic liver abscess Entamoeba histolytica serology metronidazole vs percutaneous aspiration indications"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Obstructive jaundice due to periampullary adenocarcinoma Whipple pancreaticoduodenectomy resectability"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Perforated peptic ulcer Graham patch omentopexy and perioperative resuscitation protocol"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Sigmoid volvulus flexible sigmoidoscopic derotation vs emergency Hartmann procedure for gangrene"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Mesenteric ischemia acute superior mesenteric artery embolus emergent surgical embolectomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Gastric cancer adenocarcinoma Lauren intestinal vs diffuse type D2 radical gastrectomy margins"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Gastrointestinal", "topic": "Enterocutaneous fistula high-output nutritional stabilization somatostatin analogue and operative timing"},
+
+    {"exam": "fcps", "subject": "Surgery", "system": "Cardiovascular", "topic": "Abdominal aortic aneurysm ruptured presentation permissive hypotension and urgent EVAR vs open repair"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Cardiovascular", "topic": "Acute limb ischemia Rutherford classification category IIb emergent surgical catheter embolectomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Cardiovascular", "topic": "Carotid artery stenosis symptomatic 70-99 percent urgent carotid endarterectomy within 14 days"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Cardiovascular", "topic": "Chronic venous insufficiency CEAP clinical classification C6 active ulcer compression therapy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Cardiovascular", "topic": "Deep vein thrombosis iliofemoral phlegmasia cerulea dolens catheter-directed thrombolysis"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Acute compartment syndrome anterior leg compartment intracompartmental pressure emergent fasciotomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Open fracture Gustilo-Anderson grade IIIB debridement intravenous antibiotics and soft tissue coverage"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Septic arthritis knee joint urgent arthroscopic drainage and targeted parenteral antibiotics"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Developmental dysplasia of the hip infant 3 months Pavlik harness application and ultrasound follow-up"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Cauda equina syndrome acute central disc herniation emergent MRI and decompression within 48 hours"},
+
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Severe pre-eclampsia magnesium sulfate Pritchard vs Zuspan protocol for eclamptic seizure prevention"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Postpartum hemorrhage refractory to oxytocin and ergometrine uterine balloon tamponade and B-Lynch suture"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Placenta accreta spectrum antenatal ultrasound color Doppler scoring and planned Cesarean hysterectomy"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Obstetric cholestasis elevated serum bile acids ursodeoxycholic acid therapy and delivery timing"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Ruptured ectopic pregnancy in ampullary region hemodynamic collapse and emergency laparoscopy/laparotomy"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Preterm premature rupture of membranes at 32 weeks latency antibiotics antenatal betamethasone and magnesium"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Intrahepatic cholestasis of pregnancy stillbirth risk stratification based on fasting total bile acids"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Uterine rupture previous lower segment Cesarean section cardiotocography bradycardia and urgent laparotomy"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Gestational trophoblastic neoplasia complete hydatidiform mole suction evacuation and beta-hCG follow-up"},
+    {"exam": "fcps", "subject": "Obstetrics", "system": "Pregnancy", "topic": "Shoulder dystocia obstetric emergency HELPERR mnemonic and McRoberts maneuver execution"},
+
+    {"exam": "fcps", "subject": "Pediatrics", "system": "General Principles", "topic": "Severe acute malnutrition WHO protocol F-75 formula stabilization and cautious rehydration avoiding sodium"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Nervous System", "topic": "Acute bacterial meningitis in infants under 3 months ampicillin plus cefotaxime covering Listeria and GBS"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Gastrointestinal", "topic": "Intussusception ileocolic target sign on ultrasound pneumatic or hydrostatic enema reduction criteria"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Gastrointestinal", "topic": "Congenital hypertrophic pyloric stenosis hypochloremic hypokalemic metabolic alkalosis preoperative correction"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Respiratory", "topic": "Severe acute bronchiolitis in 6-month-old high-flow nasal cannula oxygen and supportive hydration"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Hematology", "topic": "Beta-thalassemia major regular packed red cell transfusion regimen and deferasirox iron chelation therapy"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Cardiovascular", "topic": "Kawasaki disease diagnostic criteria intravenous immunoglobulin and high-dose aspirin for aneurysm prevention"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Renal", "topic": "Post-streptococcal glomerulonephritis in school-aged child low complement C3 and fluid-sodium restriction"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Endocrine", "topic": "Congenital adrenal hyperplasia 21-hydroxylase deficiency salt-wasting crisis hydrocortisone and fludrocortisone"},
+    {"exam": "fcps", "subject": "Pediatrics", "system": "Behavioral Health", "topic": "Autism spectrum disorder early developmental screening red flags at 18 months and speech intervention"},
+
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Typhoid enteric fever multidrug-resistant Salmonella enterica serotype Typhi ceftriaxone vs azithromycin"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Extensively drug-resistant XDR typhoid fever meropenem plus azithromycin inpatient protocol"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Hematology", "topic": "Dengue hemorrhagic fever plasma leakage phase hematocrit monitoring and judicious fluid resuscitation"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Severe Plasmodium falciparum malaria cerebral presentation intravenous artesunate weight-based dosing"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Tuberculous meningitis British Medical Research Council staging and dexamethasone adjunctive therapy"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Multidrug-resistant pulmonary tuberculosis bedaquiline-containing all-oral short regimen WHO 2024"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Crimean-Congo hemorrhagic fever tick bite exposure ribavirin early administration and barrier nursing"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Rabies category III dog bite exposure immediate thorough wound washing rabies vaccine and immunoglobulin"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Tetanus severe clinical presentation human tetanus immunoglobulin wound debridement and metronidazole"},
+    {"exam": "fcps", "subject": "Medicine", "system": "General Principles", "topic": "Cutaneous leishmaniasis Leishmania tropica intramusclar vs intralesional meglumine antimoniate"},
+
+    {"exam": "fcps", "subject": "Medicine", "system": "Cardiovascular", "topic": "Rheumatic mitral stenosis valve area calculation Wilkins score suitability for percutaneous balloon commissurotomy"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Cardiovascular", "topic": "Secondary prophylaxis of acute rheumatic fever benzathine penicillin G intramuscular every 3 to 4 weeks"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Cardiovascular", "topic": "Hypertensive emergency with acute pulmonary edema intravenous nitroglycerin and clevidipine titration"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Cardiovascular", "topic": "Complete atrioventricular block syncope transcutaneous temporary pacing bridging to permanent pacemaker"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Cardiovascular", "topic": "Aortic dissection Stanford Type A emergent open surgical repair vs Type B medical blood pressure lowering"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Respiratory", "topic": "Chronic obstructive pulmonary disease acute exacerbation severe non-invasive positive pressure ventilation criteria"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Respiratory", "topic": "Massive hemoptysis bronchial artery embolization vs rigid bronchoscopy balloon tamponade"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Respiratory", "topic": "Loculated parapneumonic effusion light criteria thoracic ultrasound and intrapleural tPA/DNase vs VATS"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Respiratory", "topic": "Occupational silicosis progressive massive fibrosis high-resolution CT findings and tuberculosis screening"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Respiratory", "topic": "Acute respiratory distress syndrome Berlin definition low tidal volume lung-protective ventilation 6 mL/kg"},
+
+    {"exam": "fcps", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Cirrhosis acute esophageal variceal bleed terlipressin endoscopic band ligation and prophylactic ceftriaxone"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Spontaneous bacterial peritonitis ascitic neutrophil count over 250 and third-generation cephalosporin with albumin"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Hepatorenal syndrome diagnostic criteria terlipressin plus intravenous albumin infusion"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Hepatic encephalopathy West Haven criteria lactulose titration to 2-3 soft stools and rifaximin add-on"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Gastrointestinal", "topic": "Hepatocellular carcinoma Milan criteria for orthotopic liver transplantation vs transarterial chemoembolization"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Endocrine", "topic": "Diabetic ketoacidosis fluid rehydration protocol regular insulin infusion and potassium repletion thresholds"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Endocrine", "topic": "Hyperosmolar hyperglycemic state severe dehydration serum osmolality over 320 and cautious hypotonic saline"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Endocrine", "topic": "Thyroid storm Burch-Wartofsky score over 45 propylthiouracil beta-blocker potassium iodide and hydrocortisone"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Endocrine", "topic": "Myxedema coma hypothermia hypoventilation intravenous levothyroxine loading and hydrocortisone coverage"},
+    {"exam": "fcps", "subject": "Medicine", "system": "Endocrine", "topic": "Cushing syndrome high-dose dexamethasone suppression test and petrosal sinus sampling ACTH localization"},
+
+    {"exam": "fcps", "subject": "Neurology", "system": "Nervous System", "topic": "Acute ischemic stroke intravenous alteplase window within 4.5 hours and mechanical thrombectomy within 24 hours"},
+    {"exam": "fcps", "subject": "Neurology", "system": "Nervous System", "topic": "Spontaneous intracerebral hemorrhage blood pressure lowering systolic target 140 and reversal of anticoagulation"},
+    {"exam": "fcps", "subject": "Neurology", "system": "Nervous System", "topic": "Subarachnoid hemorrhage Hunt and Hess grading cerebral angiography and nimodipine for vasospasm prevention"},
+    {"exam": "fcps", "subject": "Neurology", "system": "Nervous System", "topic": "Cerebral venous sinus thrombosis postpartum hypercoagulability MRI venography and therapeutic low molecular heparin"},
+    {"exam": "fcps", "subject": "Neurology", "system": "Nervous System", "topic": "Parkinson disease motor fluctuations wearing-off phenomenon entacapone addition vs dopamine agonist"},
+    {"exam": "fcps", "subject": "Pathology", "system": "Hematology", "topic": "Acute lymphoblastic leukemia bone marrow blast count flow cytometry CD10, CD19 precursor B-cell markers"},
+    {"exam": "fcps", "subject": "Pathology", "system": "Hematology", "topic": "Acute promyelocytic leukemia t(15;17) PML-RARA emergent all-trans retinoic acid and arsenic trioxide"},
+    {"exam": "fcps", "subject": "Pathology", "system": "Hematology", "topic": "Chronic lymphocytic leukemia Rai staging 17p deletion TP53 mutation ibrutinib targeted therapy"},
+    {"exam": "fcps", "subject": "Pathology", "system": "Hematology", "topic": "Hodgkin lymphoma Reed-Sternberg cells CD15 CD30 positivity ABVD regimen vs brentuximab vedotin"},
+    {"exam": "fcps", "subject": "Pathology", "system": "General Principles", "topic": "Fine needle aspiration cytology Bethesda system for reporting thyroid cytopathology indeterminate nodules"},
+
+    {"exam": "fcps", "subject": "Surgery", "system": "Nervous System", "topic": "Acute angle-closure glaucoma intravenous acetazolamide topical timolol apraclonidine and definitive laser peripheral iridotomy"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Respiratory", "topic": "Ludwig angina aggressive airway protection intravenous piperacillin-tazobactam and emergent surgical decompression"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Respiratory", "topic": "Tracheostomy early accidental decannulation within 7 days bag-valve mask ventilation and emergent orotracheal intubation"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Musculoskeletal", "topic": "Malignant hyperthermia volatile anesthetic exposure ryanodine receptor RYR1 mutation and emergent intravenous dantrolene"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "Nervous System", "topic": "Suxamethonium apnoea plasma pseudocholinesterase deficiency prolonged neuromuscular blockade and mechanical ventilation"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "Cardiovascular", "topic": "Local anesthetic systemic toxicity LAST accidental intravascular bupivacaine cardiac arrest and 20 percent lipid emulsion"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Respiratory", "topic": "Severe refractory posterior epistaxis sphenopalatine artery ligation vs endovascular embolization"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Nervous System", "topic": "Orbital cellulitis subperiosteal abscess on CT orbit intravenous ceftriaxone plus metronidazole and surgical drainage"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Respiratory", "topic": "Foreign body aspiration right main bronchus monophonic wheeze and urgent rigid bronchoscopy removal"},
+    {"exam": "fcps", "subject": "Surgery", "system": "Nervous System", "topic": "Retinal detachment rhegmatogenous horseshoe tear flashes and curtain-like field defect urgent pneumatic retinopexy"},
+
+    {"exam": "fcps", "subject": "Pharmacology", "system": "General Principles", "topic": "Organophosphate poisoning muscarinic and nicotinic toxidrome intravenous atropine doubling and pralidoxime"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "General Principles", "topic": "Paracetamol acetaminophen toxicity Rumack-Matthew nomogram intravenous N-acetylcysteine protocol"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "General Principles", "topic": "Snake envenomation hemotoxic Russell viper 20-minute whole blood clotting test and polyvalent antivenom"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "General Principles", "topic": "Methanol intoxication anion gap metabolic acidosis osmolar gap fomepizole vs ethanol and emergent hemodialysis"},
+    {"exam": "fcps", "subject": "Pharmacology", "system": "General Principles", "topic": "Beta-blocker toxicity bradycardia and shock high-dose insulin euglycemia therapy and glucagon"},
+    {"exam": "fcps", "subject": "Ethics", "system": "General Principles", "topic": "Brain death clinical determination apnea test preconditions and legal requirements for organ donation"},
+    {"exam": "fcps", "subject": "Ethics", "system": "General Principles", "topic": "Informed consent in emergency life-saving procedures when surrogate decision-maker is unreachable"},
+    {"exam": "fcps", "subject": "Ethics", "system": "General Principles", "topic": "Breaking bad news SPIKES protocol in advanced oncological diagnosis to patient and family"},
+    {"exam": "fcps", "subject": "Biostatistics", "system": "General Principles", "topic": "Sensitivity, specificity, positive predictive value calculation in disease prevalence variation"},
+    {"exam": "fcps", "subject": "Biostatistics", "system": "General Principles", "topic": "Number needed to treat NNT calculation from absolute risk reduction in clinical trials"},
+
+    # -------------------------------------------------------------------------
+    # NLE Part 1 (50 questions: intl-10373 to intl-10422)
+    # Pakistan National Licensing Examination Step 1 Basic & Clinical Integration
+    # -------------------------------------------------------------------------
+    {"exam": "nle", "subject": "Anatomy", "system": "Cardiovascular", "topic": "Coronary circulation dominance posterior descending artery origin from right coronary vs circumflex"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Gastrointestinal", "topic": "Epiploic foramen of Winslow boundaries portal triad anteriorly and inferior vena cava posteriorly"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Musculoskeletal", "topic": "Femoral triangle contents and relations nerve, artery, vein, lymphatics from lateral to medial"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Musculoskeletal", "topic": "Rotator cuff muscles supraspinatus tear physical examination drop arm test and empty can test"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Nervous System", "topic": "Brachial plexus upper trunk Erb-Duchenne palsy waiter tip deformity C5-C6 roots"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Nervous System", "topic": "Brachial plexus lower trunk Klumpke palsy claw hand deformity C8-T1 roots"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Nervous System", "topic": "Radial nerve injury at humeral midshaft spiral groove fracture wrist drop and sensory sparing"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Nervous System", "topic": "Common peroneal nerve injury fibular neck fracture foot drop and loss of sensation over dorsum"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Renal", "topic": "Ureter anatomical course water under the bridge relationship to uterine artery during hysterectomy"},
+    {"exam": "nle", "subject": "Anatomy", "system": "Respiratory", "topic": "Thoracocentesis safe needle insertion site midaxillary line superior margin of rib below"},
+
+    {"exam": "nle", "subject": "Physiology", "system": "Cardiovascular", "topic": "Cardiac output Frank-Starling curve shifts in inotropy and afterload"},
+    {"exam": "nle", "subject": "Physiology", "system": "Cardiovascular", "topic": "Arterial baroreceptor reflex carotid sinus glossopharyngeal nerve response to acute hypotension"},
+    {"exam": "nle", "subject": "Physiology", "system": "Respiratory", "topic": "Oxygen-hemoglobin dissociation curve Bohr effect right shift factors CO2, acid, 2,3-BPG, temperature"},
+    {"exam": "nle", "subject": "Physiology", "system": "Respiratory", "topic": "Ventilation-perfusion mismatch dead space vs shunt in pulmonary embolism and atelectasis"},
+    {"exam": "nle", "subject": "Physiology", "system": "Renal", "topic": "Glomerular filtration rate autoregulation myogenic mechanism and tubuloglomerular feedback"},
+    {"exam": "nle", "subject": "Physiology", "system": "Renal", "topic": "Renin-angiotensin-aldosterone system juxtaglomerular apparatus macula densa sodium sensing"},
+    {"exam": "nle", "subject": "Physiology", "system": "Gastrointestinal", "topic": "Gastric acid secretion parietal cell regulation histamine H2, gastrin CCK-B, acetylcholine M3"},
+    {"exam": "nle", "subject": "Physiology", "system": "Endocrine", "topic": "Thyroid hormone synthesis thyroglobulin iodination thyroid peroxidase coupling and T3/T4 release"},
+    {"exam": "nle", "subject": "Physiology", "system": "Endocrine", "topic": "Calcium homeostasis parathyroid hormone 1,25-dihydroxycholecalciferol and calcitonin actions"},
+    {"exam": "nle", "subject": "Physiology", "system": "Nervous System", "topic": "Action potential generation voltage-gated sodium channels and potassium repolarization dynamics"},
+
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Glycolysis key regulatory enzymes hexokinase, phosphofructokinase-1, and pyruvate kinase"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Gluconeogenesis bypass reactions pyruvate carboxylase and PEPCK induction in fasting state"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Glycogen storage disease type I Von Gierke glucose-6-phosphatase deficiency severe fasting hypoglycemia"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Phenylketonuria phenylalanine hydroxylase deficiency screening and dietary restriction of phenylalanine"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Maple syrup urine disease branched-chain alpha-keto acid dehydrogenase deficiency leucine restriction"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "G6PD deficiency hexose monophosphate shunt NADPH generation and primaquine/fava bean hemolysis"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Urea cycle disorder ornithine transcarbamylase deficiency X-linked orotic aciduria and hyperammonemia"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Vitamin B12 cobalamin vs folate deficiency methylmalonic acid and homocysteine elevation pattern"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Vitamin D deficiency rickets epiphyseal cupping and fraying defective mineralization of osteoid"},
+    {"exam": "nle", "subject": "Biochemistry", "system": "General Principles", "topic": "Familial hypercholesterolemia type IIa LDL receptor defect tendon xanthomas and premature CAD"},
+
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Cellular adaptation atrophy, hypertrophy, hyperplasia, metaplasia, dysplasia definitions and examples"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Necrosis patterns coagulative, liquefactive, caseous, gangrenous, fat, and fibrinoid characteristics"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Apoptosis intrinsic mitochondrial cytochrome c release vs extrinsic Fas-FasL death receptor pathways"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Acute inflammation vascular permeability changes leukocyte rolling, adhesion, transmigration, chemotaxis"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Chronic inflammation granuloma formation epithelioid histiocytes multinucleated Langhans giant cells"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Wound healing primary vs secondary intention granulation tissue formation and myofibroblast contraction"},
+    {"exam": "nle", "subject": "Pathology", "system": "Hematology", "topic": "Iron deficiency anemia microcytic hypochromic red cells low ferritin high total iron-binding capacity"},
+    {"exam": "nle", "subject": "Pathology", "system": "Hematology", "topic": "Thalassemia trait vs iron deficiency Mentzer index MCV/RBC count under 13 indicating thalassemia"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Malignant neoplasia Hallmarks of cancer sustained proliferative signaling and evasion of growth suppressors"},
+    {"exam": "nle", "subject": "Pathology", "system": "General Principles", "topic": "Tumor staging TNM classification vs tumor grading differentiation importance for prognosis"},
+
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Gram-positive cocci Staphylococcus aureus coagulase positive vs Staphylococcus epidermidis novobiocin sensitive"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Streptococcus pneumoniae bile solubility optochin sensitivity vs viridans streptococci resistance"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Gram-negative diplococci Neisseria meningitidis chocolate agar Thayer-Martin medium and ceftriaxone"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Corynebacterium diphtheriae metachromatic granules Loeffler slant tellurite agar and antitoxin"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Clostridium tetani terminal spores drumstick appearance tetanospasmin GABA/glycine release blockade"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Vibrio cholerae comma-shaped motile rod alkaline peptone water rice water stool and oral rehydration"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Helicobacter pylori urease production breath test gastric antral biopsy and quadruple eradication therapy"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Mycobacterium tuberculosis acid-fast Ziehl-Neelsen stain Lowenstein-Jensen medium growth characteristics"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Hepatitis B virus serology HBsAg, anti-HBs, anti-HBc IgM vs IgG interpretation in clinical stages"},
+    {"exam": "nle", "subject": "Microbiology", "system": "General Principles", "topic": "Human immunodeficiency virus CD4 T-cell count staging opportunistic infection prophylaxis thresholds"}
+]
+
+if __name__ == '__main__':
+    print(f"Total topics in Mega-Batch 25 Part A: {len(TOPICS_PART_A)}")
+    exam_counts = {}
+    for t in TOPICS_PART_A:
+        exam_counts[t['exam']] = exam_counts.get(t['exam'], 0) + 1
+    print("Breakdown by exam:", exam_counts)
+'''
+
+with open('scripts/mega25_part_a.py', 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print("Successfully regenerated scripts/mega25_part_a.py")
