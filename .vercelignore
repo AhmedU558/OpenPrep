@@ -12,3 +12,7 @@ __pycache__
 *.pyc
 tests
 e2e
+content/bank/international/generated
+content/bank/international/reports
+scripts/*.py
+*.py
