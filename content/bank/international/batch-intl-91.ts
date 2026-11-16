@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-8246",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Acute Migraine Attack Oral Triptan and NSAID Combination Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 52-year-old female who presents to the academic primary care continuity and preventive medicine clinic presenting with features of Acute Migraine Attack Oral Triptan and NSAID Combination Therapy. Outpatient diagnostic review reveals unilateral throbbing headache with photophobia/nausea; oral sumatriptan 100 mg paired with oral naproxen sodium 500 mg achieving superior 2-hour pain freedom. Clinical observations demonstrate blood pressure 136/78 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Unilateral throbbing headache with photophobia/nausea; oral sumatriptan 100 mg paired with oral naproxen sodium 500 mg achieving superior 2-hour pain freedom",
+        "explanation": "In accordance with accredited clinical practice guidelines, unilateral throbbing headache with photophobia/nausea; oral sumatriptan 100 mg paired with oral naproxen sodium 500 mg achieving superior 2-hour pain freedom represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Attack Oral Triptan and NSAID Combination Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, unilateral throbbing headache with photophobia/nausea; oral sumatriptan 100 mg paired with oral naproxen sodium 500 mg achieving superior 2-hour pain freedom represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Migraine Attack Oral Triptan and NSAID Combination Therapy. In the clinical approach to Acute Migraine Attack Oral Triptan and NSAID Combination Therapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Attack Oral Triptan and NSAID Combination Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Migraine Attack Oral Triptan and NSAID Combination Therapy."
+    ],
+    "references": [
+      {
+        "label": "AHS Position Statement on Acute Treatment of Migraine",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.13459"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8247",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit for routine longitudinal evaluation and management of Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant). Review of systems and clinical assessment confirms triptans contraindicated in ischemic coronary disease or stroke; oral small-molecule CGRP antagonist (gepant) providing safe, effective acute vasoconstriction-free relief. Clinical observations demonstrate blood pressure 137/79 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Triptans contraindicated in ischemic coronary disease or stroke; oral small-molecule cgrp antagonist (gepant) providing safe, effective acute vasoconstriction-free relief",
+        "explanation": "In accordance with accredited clinical practice guidelines, triptans contraindicated in ischemic coronary disease or stroke; oral small-molecule CGRP antagonist (gepant) providing safe, effective acute vasoconstriction-free relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant).",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, triptans contraindicated in ischemic coronary disease or stroke; oral small-molecule CGRP antagonist (gepant) providing safe, effective acute vasoconstriction-free relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant). In the clinical approach to Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Migraine with Triptan Contraindications Oral CGRP Antagonist (Rimegepant)."
+    ],
+    "references": [
+      {
+        "label": "AHS Consensus on CGRP Pathway Antagonists",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.13459"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8248",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 68-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation with active concerns related to Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab). Focused review demonstrates monthly subcutaneous erenumab (anti-CGRP receptor) or fremanezumab reducing monthly headache days in chronic migraine (>= 15 days/month). Clinical observations demonstrate blood pressure 138/80 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Monthly subcutaneous erenumab (anti-cgrp receptor) or fremanezumab reducing monthly headache days in chronic migraine (>= 15 days/month)",
+        "explanation": "In accordance with accredited clinical practice guidelines, monthly subcutaneous erenumab (anti-CGRP receptor) or fremanezumab reducing monthly headache days in chronic migraine (>= 15 days/month) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab).",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, monthly subcutaneous erenumab (anti-CGRP receptor) or fremanezumab reducing monthly headache days in chronic migraine (>= 15 days/month) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab). In the clinical approach to Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Migraine Prophylaxis Subcutaneous CGRP Monoclonal Antibody (Erenumab)."
+    ],
+    "references": [
+      {
+        "label": "AHS Position Statement on CGRP Monoclonal Antibodies",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.13459"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8249",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male attends the continuity family medicine pavilion for targeted follow-up requiring guideline-directed evaluation for Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis. Clinical examination and laboratory assessment confirm headache >= 15 days/month in patient using triptans or combination analgesics >= 10-15 days/month; gradual withdrawal and simultaneous preventive initiation. Clinical observations demonstrate blood pressure 139/81 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Headache >= 15 days/month in patient using triptans or combination analgesics >= 10-15 days/month; gradual withdrawal and simultaneous preventive initiation",
+        "explanation": "In accordance with accredited clinical practice guidelines, headache >= 15 days/month in patient using triptans or combination analgesics >= 10-15 days/month; gradual withdrawal and simultaneous preventive initiation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, headache >= 15 days/month in patient using triptans or combination analgesics >= 10-15 days/month; gradual withdrawal and simultaneous preventive initiation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis. In the clinical approach to Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medication Overuse Headache Weaning Offending Analgesics and Bridge Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "ICHD-3 Diagnostic Criteria for Medication Overuse Headache",
+        "url": "https://ichd-3.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8250",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old female presents to the regional emergency receiving and diagnostic resuscitation center for specialized continuity follow-up regarding Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min). Initial investigative workup demonstrates excruciating unilateral periorbital boring pain with ipsilateral lacrimation/rhinorrhea; 100% normobaric oxygen via non-rebreather mask for 15 minutes. Clinical observations demonstrate blood pressure 118/82 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Excruciating unilateral periorbital boring pain with ipsilateral lacrimation/rhinorrhea; 100% normobaric oxygen via non-rebreather mask for 15 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines, excruciating unilateral periorbital boring pain with ipsilateral lacrimation/rhinorrhea; 100% normobaric oxygen via non-rebreather mask for 15 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min).",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, excruciating unilateral periorbital boring pain with ipsilateral lacrimation/rhinorrhea; 100% normobaric oxygen via non-rebreather mask for 15 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min). In the clinical approach to Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Acute Inhalation of 100% High-Flow Oxygen (12-15 L/min)."
+    ],
+    "references": [
+      {
+        "label": "AHS Guidelines for the Treatment of Cluster Headache",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/doi/10.1111/head.12869"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8251",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Cardiovascular",
+    "topic": "Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 60-year-old male who is examined in the urgent ambulatory specialist clinic presenting with features of Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil. Outpatient diagnostic review reveals short-term oral prednisone taper bridge paired with high-dose oral verapamil (240-480 mg daily with baseline and titration ECG monitoring for PR prolongation). Clinical observations demonstrate blood pressure 119/83 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Short-term oral prednisone taper bridge paired with high-dose oral verapamil (240-480 mg daily with baseline and titration ecg monitoring for pr prolongation)",
+        "explanation": "In accordance with accredited clinical practice guidelines, short-term oral prednisone taper bridge paired with high-dose oral verapamil (240-480 mg daily with baseline and titration ECG monitoring for PR prolongation) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, short-term oral prednisone taper bridge paired with high-dose oral verapamil (240-480 mg daily with baseline and titration ECG monitoring for PR prolongation) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil. In the clinical approach to Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cluster Headache Transitional and Maintenance Prophylaxis with Verapamil."
+    ],
+    "references": [
+      {
+        "label": "AHS Guidelines on Cluster Headache Management",
+        "url": "https://headachejournal.onlinelibrary.wiley.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8252",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center for routine longitudinal evaluation and management of Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs. Review of systems and clinical assessment confirms paroxysmal electric shock-like facial pain triggered by chewing or brushing teeth; oral carbamazepine 100-200 mg bid titrated; checking baseline CBC for aplastic anemia. Clinical observations demonstrate blood pressure 120/84 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Paroxysmal electric shock-like facial pain triggered by chewing or brushing teeth; oral carbamazepine 100-200 mg bid titrated; checking baseline cbc for aplastic anemia",
+        "explanation": "In accordance with accredited clinical practice guidelines, paroxysmal electric shock-like facial pain triggered by chewing or brushing teeth; oral carbamazepine 100-200 mg bid titrated; checking baseline CBC for aplastic anemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, paroxysmal electric shock-like facial pain triggered by chewing or brushing teeth; oral carbamazepine 100-200 mg bid titrated; checking baseline CBC for aplastic anemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs. In the clinical approach to Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trigeminal Neuralgia Oral Carbamazepine Titration and Baseline CBC/LFTs."
+    ],
+    "references": [
+      {
+        "label": "AAN/EAN Practice Guideline: Trigeminal Neuralgia",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8253",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 76-year-old male who presents to the academic primary care continuity and preventive medicine clinic with active concerns related to Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression. Focused review demonstrates MRI showing superior cerebellar artery neurovascular compression of trigeminal nerve root entry zone; surgical microvascular decompression (Jannetta procedure). Clinical observations demonstrate blood pressure 121/85 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Mri showing superior cerebellar artery neurovascular compression of trigeminal nerve root entry zone; surgical microvascular decompression (jannetta procedure)",
+        "explanation": "In accordance with accredited clinical practice guidelines, MRI showing superior cerebellar artery neurovascular compression of trigeminal nerve root entry zone; surgical microvascular decompression (Jannetta procedure) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, MRI showing superior cerebellar artery neurovascular compression of trigeminal nerve root entry zone; surgical microvascular decompression (Jannetta procedure) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression. In the clinical approach to Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Refractory Trigeminal Neuralgia Posterior Fossa Microvascular Decompression."
+    ],
+    "references": [
+      {
+        "label": "AAN/EAN Guidelines for Trigeminal Neuralgia",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8254",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Ope",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit requiring guideline-directed evaluation for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25. Clinical examination and laboratory assessment confirm obese female with papilledema, pulsatile tinnitus, and visual field constrictions; opening pressure > 250 mm H2O on LP with normal CSF; oral acetazolamide and weight loss. Clinical observations demonstrate blood pressure 122/86 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Obese female with papilledema, pulsatile tinnitus, and visual field constrictions; opening pressure > 250 mm h2o on lp with normal csf; oral acetazolamide and weight loss",
+        "explanation": "In accordance with accredited clinical practice guidelines, obese female with papilledema, pulsatile tinnitus, and visual field constrictions; opening pressure > 250 mm H2O on LP with normal CSF; oral acetazolamide and weight loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, obese female with papilledema, pulsatile tinnitus, and visual field constrictions; opening pressure > 250 mm H2O on LP with normal CSF; oral acetazolamide and weight loss represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25. In the clinical approach to Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Idiopathic Intracranial Hypertension (Pseudotumor Cerebri) Lumbar Puncture Opening Pressure > 25."
+    ],
+    "references": [
+      {
+        "label": "AAO/NANOS Consensus on Idiopathic Intracranial Hypertension",
+        "url": "https://www.nanosweb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8255",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation for specialized continuity follow-up regarding Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone. Initial investigative workup demonstrates painful monocular vision loss with afferent pupillary defect; IV methylprednisolone 1,000 mg daily for 3 days accelerating recovery (oral prednisone monotherapy worsens recurrence). Clinical observations demonstrate blood pressure 123/87 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Painful monocular vision loss with afferent pupillary defect; iv methylprednisolone 1,000 mg daily for 3 days accelerating recovery (oral prednisone monotherapy worsens recurrence)",
+        "explanation": "In accordance with accredited clinical practice guidelines, painful monocular vision loss with afferent pupillary defect; IV methylprednisolone 1,000 mg daily for 3 days accelerating recovery (oral prednisone monotherapy worsens recurrence) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, painful monocular vision loss with afferent pupillary defect; IV methylprednisolone 1,000 mg daily for 3 days accelerating recovery (oral prednisone monotherapy worsens recurrence) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone. In the clinical approach to Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Acute Optic Neuritis High-Dose IV Methylprednisolone."
+    ],
+    "references": [
+      {
+        "label": "ONTT Practice Recommendations for Optic Neuritis",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8256",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 68-year-old female who attends the continuity family medicine pavilion for targeted follow-up presenting with features of Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab). Outpatient diagnostic review reveals intravenous ocrelizumab (humanized anti-CD20 monoclonal) depleting B-cells and dramatically reducing clinical relapse rate and MRI lesion accrual. Clinical observations demonstrate blood pressure 124/72 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous ocrelizumab (humanized anti-cd20 monoclonal) depleting b-cells and dramatically reducing clinical relapse rate and mri lesion accrual",
+        "explanation": "In accordance with accredited clinical practice guidelines, intravenous ocrelizumab (humanized anti-CD20 monoclonal) depleting B-cells and dramatically reducing clinical relapse rate and MRI lesion accrual represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intravenous ocrelizumab (humanized anti-CD20 monoclonal) depleting B-cells and dramatically reducing clinical relapse rate and MRI lesion accrual represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab). In the clinical approach to Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Relapsing-Remitting Multiple Sclerosis High-Efficacy Anti-CD20 (Ocrelizumab)."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline: Disease-Modifying Therapies for MS",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8257",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old male presents to the regional emergency receiving and diagnostic resuscitation center for routine longitudinal evaluation and management of Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy. Review of systems and clinical assessment confirms painful spasticity and hyperreflexia managed with oral baclofen (GABA-B agonist) or tizanidine (alpha-2 agonist) titrated slowly to avoid excess weakness. Clinical observations demonstrate blood pressure 125/73 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Painful spasticity and hyperreflexia managed with oral baclofen (gaba-b agonist) or tizanidine (alpha-2 agonist) titrated slowly to avoid excess weakness",
+        "explanation": "In accordance with accredited clinical practice guidelines, painful spasticity and hyperreflexia managed with oral baclofen (GABA-B agonist) or tizanidine (alpha-2 agonist) titrated slowly to avoid excess weakness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, painful spasticity and hyperreflexia managed with oral baclofen (GABA-B agonist) or tizanidine (alpha-2 agonist) titrated slowly to avoid excess weakness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy. In the clinical approach to Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multiple Sclerosis Spasticity Oral Baclofen and Tizanidine Pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter on Symptomatic Management in MS",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8258",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 20-year-old female who is examined in the urgent ambulatory specialist clinic with active concerns related to Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management. Focused review demonstrates adding oral entacapone (COMT inhibitor) or rasagiline (MAO-B inhibitor) to carbidopa-levodopa to extend active dopamine half-life and reduce daily off-time. Clinical observations demonstrate blood pressure 126/74 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Adding oral entacapone (comt inhibitor) or rasagiline (mao-b inhibitor) to carbidopa-levodopa to extend active dopamine half-life and reduce daily off-time",
+        "explanation": "In accordance with accredited clinical practice guidelines, adding oral entacapone (COMT inhibitor) or rasagiline (MAO-B inhibitor) to carbidopa-levodopa to extend active dopamine half-life and reduce daily off-time represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, adding oral entacapone (COMT inhibitor) or rasagiline (MAO-B inhibitor) to carbidopa-levodopa to extend active dopamine half-life and reduce daily off-time represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management. In the clinical approach to Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Motor Fluctuations End-of-Dose Wearing-Off Management."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter: Parkinson Disease with Motor Fluctuations",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8259",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Behavioral Health",
+    "topic": "Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center requiring guideline-directed evaluation for Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening. Clinical examination and laboratory assessment confirm pathological gambling, hypersexuality, and compulsive shopping induced by pramipexole or ropinirole requiring immediate dose reduction and transition to levodopa. Clinical observations demonstrate blood pressure 127/75 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Pathological gambling, hypersexuality, and compulsive shopping induced by pramipexole or ropinirole requiring immediate dose reduction and transition to levodopa",
+        "explanation": "In accordance with accredited clinical practice guidelines, pathological gambling, hypersexuality, and compulsive shopping induced by pramipexole or ropinirole requiring immediate dose reduction and transition to levodopa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, pathological gambling, hypersexuality, and compulsive shopping induced by pramipexole or ropinirole requiring immediate dose reduction and transition to levodopa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening. In the clinical approach to Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Parkinson Disease Dopamine Agonist Impulse Control Disorders Screening."
+    ],
+    "references": [
+      {
+        "label": "MDS Evidence-Based Review: Non-Motor Symptoms in Parkinson's Disease",
+        "url": "https://www.movementdisorders.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8260",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old female presents to the academic primary care continuity and preventive medicine clinic for specialized continuity follow-up regarding Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor. Initial investigative workup demonstrates bilateral action and postural hand tremor improving with alcohol; treated first-line with long-acting oral propranolol or primidone titrated to reduce tremor amplitude. Clinical observations demonstrate blood pressure 128/76 mm Hg, pulse 70/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Bilateral action and postural hand tremor improving with alcohol; treated first-line with long-acting oral propranolol or primidone titrated to reduce tremor amplitude",
+        "explanation": "In accordance with accredited clinical practice guidelines, bilateral action and postural hand tremor improving with alcohol; treated first-line with long-acting oral propranolol or primidone titrated to reduce tremor amplitude represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bilateral action and postural hand tremor improving with alcohol; treated first-line with long-acting oral propranolol or primidone titrated to reduce tremor amplitude represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor. In the clinical approach to Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Essential Tremor First-Line Propranolol or Primidone for Functional Kinetic Tremor."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter: Treatment of Essential Tremor",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8261",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 76-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with features of Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion. Outpatient diagnostic review reveals creepy-crawly nocturnal leg dysesthesias relieved by movement; checking serum ferritin and repleting oral iron if ferritin < 75 ng/mL before starting prescription medications. Clinical observations demonstrate blood pressure 129/77 mm Hg, pulse 71/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Creepy-crawly nocturnal leg dysesthesias relieved by movement; checking serum ferritin and repleting oral iron if ferritin < 75 ng/ml before starting prescription medications",
+        "explanation": "In accordance with accredited clinical practice guidelines, creepy-crawly nocturnal leg dysesthesias relieved by movement; checking serum ferritin and repleting oral iron if ferritin < 75 ng/mL before starting prescription medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, creepy-crawly nocturnal leg dysesthesias relieved by movement; checking serum ferritin and repleting oral iron if ferritin < 75 ng/mL before starting prescription medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion. In the clinical approach to Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Restless Legs Syndrome (RLS) Serum Ferritin Screening and Iron Repletion."
+    ],
+    "references": [
+      {
+        "label": "AASM Clinical Practice Guideline for the Treatment of RLS",
+        "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8262",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 52-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation for routine longitudinal evaluation and management of RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists. Review of systems and clinical assessment confirms oral pregabalin or gabapentin enacarbil preferred over dopamine agonists (pramipexole) to avoid medication-induced augmentation syndrome (earlier onset of worse symptoms). Clinical observations demonstrate blood pressure 130/78 mm Hg, pulse 72/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Oral pregabalin or gabapentin enacarbil preferred over dopamine agonists (pramipexole) to avoid medication-induced augmentation syndrome (earlier onset of worse symptoms)",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral pregabalin or gabapentin enacarbil preferred over dopamine agonists (pramipexole) to avoid medication-induced augmentation syndrome (earlier onset of worse symptoms) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral pregabalin or gabapentin enacarbil preferred over dopamine agonists (pramipexole) to avoid medication-induced augmentation syndrome (earlier onset of worse symptoms) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists. In the clinical approach to RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of RLS First-Line Alpha-2-Delta Ligands (Pregabalin) Over Dopamine Agonists."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline: Treatment of Restless Legs Syndrome",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8263",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 28-year-old male who attends the continuity family medicine pavilion for targeted follow-up with active concerns related to Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency. Focused review demonstrates excessive daytime sleepiness, hypnagogic hallucinations, and emotion-triggered cataplexy; multiple sleep latency test showing SOREMPs; treated with modafinil and sodium oxybate. Clinical observations demonstrate blood pressure 131/79 mm Hg, pulse 73/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Excessive daytime sleepiness, hypnagogic hallucinations, and emotion-triggered cataplexy; multiple sleep latency test showing soremps; treated with modafinil and sodium oxybate",
+        "explanation": "In accordance with accredited clinical practice guidelines, excessive daytime sleepiness, hypnagogic hallucinations, and emotion-triggered cataplexy; multiple sleep latency test showing SOREMPs; treated with modafinil and sodium oxybate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, excessive daytime sleepiness, hypnagogic hallucinations, and emotion-triggered cataplexy; multiple sleep latency test showing SOREMPs; treated with modafinil and sodium oxybate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency. In the clinical approach to Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Narcolepsy Type 1 Cataplexy and CSF Hypocretin-1 (Orexin) Deficiency."
+    ],
+    "references": [
+      {
+        "label": "AASM Clinical Practice Guideline for Central Disorders of Hypersomnolence",
+        "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8264",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old female presents to the regional emergency receiving and diagnostic resuscitation center requiring guideline-directed evaluation for REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association. Clinical examination and laboratory assessment confirm acting out violent dreams during REM sleep with loss of normal muscle atonia; high risk of developing Parkinson disease or Lewy body dementia; treated with oral melatonin or clonazepam. Clinical observations demonstrate blood pressure 132/80 mm Hg, pulse 74/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Acting out violent dreams during rem sleep with loss of normal muscle atonia; high risk of developing parkinson disease or lewy body dementia; treated with oral melatonin or clonazepam",
+        "explanation": "In accordance with accredited clinical practice guidelines, acting out violent dreams during REM sleep with loss of normal muscle atonia; high risk of developing Parkinson disease or Lewy body dementia; treated with oral melatonin or clonazepam represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, acting out violent dreams during REM sleep with loss of normal muscle atonia; high risk of developing Parkinson disease or Lewy body dementia; treated with oral melatonin or clonazepam represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association. In the clinical approach to REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of REM Sleep Behavior Disorder Melatonin First-Line and Synucleinopathy Association."
+    ],
+    "references": [
+      {
+        "label": "AASM Clinical Practice Guideline for REM Sleep Behavior Disorder",
+        "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8265",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Stand",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old male is examined in the urgent ambulatory specialist clinic for specialized continuity follow-up regarding Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard. Initial investigative workup demonstrates daytime somnolence, loud snoring, and witnessed apneas; in-lab or home sleep study confirming AHI >= 15; treated with nocturnal continuous positive airway pressure. Clinical observations demonstrate blood pressure 133/81 mm Hg, pulse 75/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Daytime somnolence, loud snoring, and witnessed apneas; in-lab or home sleep study confirming ahi >= 15; treated with nocturnal continuous positive airway pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines, daytime somnolence, loud snoring, and witnessed apneas; in-lab or home sleep study confirming AHI >= 15; treated with nocturnal continuous positive airway pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, daytime somnolence, loud snoring, and witnessed apneas; in-lab or home sleep study confirming AHI >= 15; treated with nocturnal continuous positive airway pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard. In the clinical approach to Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructive Sleep Apnea Auto-Titrating Nocturnal CPAP as First-Line Gold Standard."
+    ],
+    "references": [
+      {
+        "label": "AASM Clinical Practice Guideline for OSA",
+        "url": "https://aasm.org/clinical-resources/practice-standards/practice-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8266",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 20-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center presenting with features of Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin. Outpatient diagnostic review reveals bilateral burning foot paresthesias; oral duloxetine 60 mg daily (SNRI) or pregabalin 150-300 mg daily (avoiding opioid analgesics). Clinical observations demonstrate blood pressure 134/82 mm Hg, pulse 76/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral burning foot paresthesias; oral duloxetine 60 mg daily (snri) or pregabalin 150-300 mg daily (avoiding opioid analgesics)",
+        "explanation": "In accordance with accredited clinical practice guidelines, bilateral burning foot paresthesias; oral duloxetine 60 mg daily (SNRI) or pregabalin 150-300 mg daily (avoiding opioid analgesics) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bilateral burning foot paresthesias; oral duloxetine 60 mg daily (SNRI) or pregabalin 150-300 mg daily (avoiding opioid analgesics) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin. In the clinical approach to Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Diabetic Distal Symmetric Polyneuropathy First-Line Duloxetine or Pregabalin."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline: Painful Diabetic Neuropathy",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8267",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 60-year-old male presents to the academic primary care continuity and preventive medicine clinic for routine longitudinal evaluation and management of Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation. Review of systems and clinical assessment confirms allodynia and burning dermatomal pain persisting > 3 months after acute herpes zoster; topical 5% lidocaine patch and oral gabapentin titrated to 1,800 mg daily. Clinical observations demonstrate blood pressure 135/83 mm Hg, pulse 77/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Allodynia and burning dermatomal pain persisting > 3 months after acute herpes zoster; topical 5% lidocaine patch and oral gabapentin titrated to 1,800 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines, allodynia and burning dermatomal pain persisting > 3 months after acute herpes zoster; topical 5% lidocaine patch and oral gabapentin titrated to 1,800 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, allodynia and burning dermatomal pain persisting > 3 months after acute herpes zoster; topical 5% lidocaine patch and oral gabapentin titrated to 1,800 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation. In the clinical approach to Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postherpetic Neuralgia Topical 5% Lidocaine Patch and Gabapentinoid Escalation."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter: Postherpetic Neuralgia",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8268",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 36-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit with active concerns related to Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours. Focused review demonstrates acute complete unilateral facial weakness involving forehead; oral prednisone 60 mg daily for 7 days initiated within 72 hours plus artificial tears and eye taping. Clinical observations demonstrate blood pressure 136/84 mm Hg, pulse 78/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Acute complete unilateral facial weakness involving forehead; oral prednisone 60 mg daily for 7 days initiated within 72 hours plus artificial tears and eye taping",
+        "explanation": "In accordance with accredited clinical practice guidelines, acute complete unilateral facial weakness involving forehead; oral prednisone 60 mg daily for 7 days initiated within 72 hours plus artificial tears and eye taping represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, acute complete unilateral facial weakness involving forehead; oral prednisone 60 mg daily for 7 days initiated within 72 hours plus artificial tears and eye taping represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours. In the clinical approach to Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bell Palsy (Idiopathic Facial Nerve Paralysis) Oral Prednisone within 72 Hours."
+    ],
+    "references": [
+      {
+        "label": "AAO-HNS Clinical Practice Guideline: Bell's Palsy",
+        "url": "https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599813505967"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8269",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation requiring guideline-directed evaluation for Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line. Clinical examination and laboratory assessment confirm fluctuating fatigable ptosis, diplopia, and proximal weakness; anti-AChR antibodies; oral pyridostigmine 60 mg 3-4 times daily enhancing neuromuscular junction ACh. Clinical observations demonstrate blood pressure 137/85 mm Hg, pulse 79/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Fluctuating fatigable ptosis, diplopia, and proximal weakness; anti-achr antibodies; oral pyridostigmine 60 mg 3-4 times daily enhancing neuromuscular junction ach",
+        "explanation": "In accordance with accredited clinical practice guidelines, fluctuating fatigable ptosis, diplopia, and proximal weakness; anti-AChR antibodies; oral pyridostigmine 60 mg 3-4 times daily enhancing neuromuscular junction ACh represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, fluctuating fatigable ptosis, diplopia, and proximal weakness; anti-AChR antibodies; oral pyridostigmine 60 mg 3-4 times daily enhancing neuromuscular junction ACh represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line. In the clinical approach to Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Acetylcholinesterase Inhibitor (Pyridostigmine) First-Line."
+    ],
+    "references": [
+      {
+        "label": "International Consensus Guidance for Management of Myasthenia Gravis",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000002790"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8270",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old female attends the continuity family medicine pavilion for targeted follow-up for specialized continuity follow-up regarding Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy. Initial investigative workup demonstrates contrast chest CT screening for thymoma in all patients with AChR-positive MG; transsternal/robotic thymectomy improving clinical remission even in non-thymomatous disease. Clinical observations demonstrate blood pressure 138/86 mm Hg, pulse 80/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Contrast chest ct screening for thymoma in all patients with achr-positive mg; transsternal/robotic thymectomy improving clinical remission even in non-thymomatous disease",
+        "explanation": "In accordance with accredited clinical practice guidelines, contrast chest CT screening for thymoma in all patients with AChR-positive MG; transsternal/robotic thymectomy improving clinical remission even in non-thymomatous disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, contrast chest CT screening for thymoma in all patients with AChR-positive MG; transsternal/robotic thymectomy improving clinical remission even in non-thymomatous disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy. In the clinical approach to Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myasthenia Gravis Chest CT Screening for Thymoma and Elective Thymectomy."
+    ],
+    "references": [
+      {
+        "label": "MGTX Randomized Trial and International Consensus Guidance",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1602489"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8271",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 28-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center presenting with features of Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care. Outpatient diagnostic review reveals upper and lower motor neuron signs with fasciculations; oral riluzole (glutamate antagonist) prolonging survival by 2-3 months plus non-invasive ventilation. Clinical observations demonstrate blood pressure 139/87 mm Hg, pulse 81/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Upper and lower motor neuron signs with fasciculations; oral riluzole (glutamate antagonist) prolonging survival by 2-3 months plus non-invasive ventilation",
+        "explanation": "In accordance with accredited clinical practice guidelines, upper and lower motor neuron signs with fasciculations; oral riluzole (glutamate antagonist) prolonging survival by 2-3 months plus non-invasive ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, upper and lower motor neuron signs with fasciculations; oral riluzole (glutamate antagonist) prolonging survival by 2-3 months plus non-invasive ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care. In the clinical approach to Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amyotrophic Lateral Sclerosis Disease-Slowing Riluzole and Multidisciplinary Care."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter: Care of the Patient with Amyotrophic Lateral Sclerosis",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8272",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Reposition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old female is examined in the urgent ambulatory specialist clinic for routine longitudinal evaluation and management of Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning. Review of systems and clinical assessment confirms brief episodic rotational vertigo triggered by head turns with torsional upbeat geotropic nystagmus on Dix-Hallpike; treated with single-session Epley maneuver. Clinical observations demonstrate blood pressure 118/72 mm Hg, pulse 82/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Brief episodic rotational vertigo triggered by head turns with torsional upbeat geotropic nystagmus on dix-hallpike; treated with single-session epley maneuver",
+        "explanation": "In accordance with accredited clinical practice guidelines, brief episodic rotational vertigo triggered by head turns with torsional upbeat geotropic nystagmus on Dix-Hallpike; treated with single-session Epley maneuver represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, brief episodic rotational vertigo triggered by head turns with torsional upbeat geotropic nystagmus on Dix-Hallpike; treated with single-session Epley maneuver represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning. In the clinical approach to Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Benign Paroxysmal Positional Vertigo Posterior Canal Epley Canalith Repositioning."
+    ],
+    "references": [
+      {
+        "label": "AAO-HNS Clinical Practice Guideline: BPPV",
+        "url": "https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599816689667"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8273",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 44-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with active concerns related to Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance. Focused review demonstrates episodic vertigo, fluctuating low-frequency sensorineural hearing loss, and roaring tinnitus; low-salt diet (< 2 g/day), alcohol/caffeine avoidance, and oral hydrochlorothiazide. Clinical observations demonstrate blood pressure 119/73 mm Hg, pulse 83/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Episodic vertigo, fluctuating low-frequency sensorineural hearing loss, and roaring tinnitus; low-salt diet (< 2 g/day), alcohol/caffeine avoidance, and oral hydrochlorothiazide",
+        "explanation": "In accordance with accredited clinical practice guidelines, episodic vertigo, fluctuating low-frequency sensorineural hearing loss, and roaring tinnitus; low-salt diet (< 2 g/day), alcohol/caffeine avoidance, and oral hydrochlorothiazide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, episodic vertigo, fluctuating low-frequency sensorineural hearing loss, and roaring tinnitus; low-salt diet (< 2 g/day), alcohol/caffeine avoidance, and oral hydrochlorothiazide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance. In the clinical approach to Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meniere Disease Dietary Sodium Restriction and Thiazide Diuretic Maintenance."
+    ],
+    "references": [
+      {
+        "label": "AAO-HNS Clinical Practice Guideline: Meniere's Disease",
+        "url": "https://aao-hnsfjournals.onlinelibrary.wiley.com/doi/10.1177/0194599820909438"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8274",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 20-year-old female presents to the academic primary care continuity and preventive medicine clinic requiring guideline-directed evaluation for Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab. Clinical examination and laboratory assessment confirm acute persistent vertigo, spontaneous horizontal nystagmus with normal hearing and positive head impulse test; short 48-hr vestibular suppressants and early ambulation. Clinical observations demonstrate blood pressure 120/74 mm Hg, pulse 84/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Acute persistent vertigo, spontaneous horizontal nystagmus with normal hearing and positive head impulse test; short 48-hr vestibular suppressants and early ambulation",
+        "explanation": "In accordance with accredited clinical practice guidelines, acute persistent vertigo, spontaneous horizontal nystagmus with normal hearing and positive head impulse test; short 48-hr vestibular suppressants and early ambulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, acute persistent vertigo, spontaneous horizontal nystagmus with normal hearing and positive head impulse test; short 48-hr vestibular suppressants and early ambulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab. In the clinical approach to Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vestibular Neuritis Acute Symptomatic Antihistamines and Early Vestibular Rehab."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter on Acute Vestibular Syndrome",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8275",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 60-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit for specialized continuity follow-up regarding Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI. Initial investigative workup demonstrates asymmetric high-frequency sensorineural hearing loss and poor speech discrimination; internal auditory canal MRI with gadolinium showing cerebellopontine angle mass. Clinical observations demonstrate blood pressure 121/75 mm Hg, pulse 85/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Asymmetric high-frequency sensorineural hearing loss and poor speech discrimination; internal auditory canal mri with gadolinium showing cerebellopontine angle mass",
+        "explanation": "In accordance with accredited clinical practice guidelines, asymmetric high-frequency sensorineural hearing loss and poor speech discrimination; internal auditory canal MRI with gadolinium showing cerebellopontine angle mass represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, asymmetric high-frequency sensorineural hearing loss and poor speech discrimination; internal auditory canal MRI with gadolinium showing cerebellopontine angle mass represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI. In the clinical approach to Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vestibular Schwannoma (Acoustic Neuroma) Unilateral Sensorimotor Loss and MRI."
+    ],
+    "references": [
+      {
+        "label": "AANS/CNS Guidelines for Management of Patients with Vestibular Schwannoma",
+        "url": "https://www.cns.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8276",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 36-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation presenting with features of Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care. Outpatient diagnostic review reveals neck pain radiating down arm in dermatomal distribution; positive Spurling test; initial trial of oral NSAIDs, short oral steroid taper, and physical therapy. Clinical observations demonstrate blood pressure 122/76 mm Hg, pulse 86/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Neck pain radiating down arm in dermatomal distribution; positive spurling test; initial trial of oral nsaids, short oral steroid taper, and physical therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, neck pain radiating down arm in dermatomal distribution; positive Spurling test; initial trial of oral NSAIDs, short oral steroid taper, and physical therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, neck pain radiating down arm in dermatomal distribution; positive Spurling test; initial trial of oral NSAIDs, short oral steroid taper, and physical therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care. In the clinical approach to Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Radiculopathy Spurling Maneuver and Initial 6-Week Conservative Care."
+    ],
+    "references": [
+      {
+        "label": "NASS Clinical Guidelines for Diagnosis and Treatment of Cervical Radiculopathy",
+        "url": "https://www.spine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8277",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old male attends the continuity family medicine pavilion for targeted follow-up for routine longitudinal evaluation and management of Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief. Review of systems and clinical assessment confirms bilateral buttock and leg pain exacerbated by walking and lumbar extension relieved by sitting or leaning forward on shopping cart; MRI showing canal narrowing. Clinical observations demonstrate blood pressure 123/77 mm Hg, pulse 87/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral buttock and leg pain exacerbated by walking and lumbar extension relieved by sitting or leaning forward on shopping cart; mri showing canal narrowing",
+        "explanation": "In accordance with accredited clinical practice guidelines, bilateral buttock and leg pain exacerbated by walking and lumbar extension relieved by sitting or leaning forward on shopping cart; MRI showing canal narrowing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bilateral buttock and leg pain exacerbated by walking and lumbar extension relieved by sitting or leaning forward on shopping cart; MRI showing canal narrowing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief. In the clinical approach to Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lumbar Spinal Stenosis Neurogenic Claudication Flexion Posture Relief."
+    ],
+    "references": [
+      {
+        "label": "NASS Clinical Guidelines on Degenerative Lumbar Spinal Stenosis",
+        "url": "https://www.spine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8278",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 52-year-old female who presents to the regional emergency receiving and diagnostic resuscitation center with active concerns related to Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial. Focused review demonstrates initiating oral escitalopram 10 mg or sertraline 50 mg daily, counseling on 2-4 week delayed onset, and maintaining therapeutic dose for 6-8 weeks before modifying therapy. Clinical observations demonstrate blood pressure 124/78 mm Hg, pulse 88/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral escitalopram 10 mg or sertraline 50 mg daily, counseling on 2-4 week delayed onset, and maintaining therapeutic dose for 6-8 weeks before modifying therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines, initiating oral escitalopram 10 mg or sertraline 50 mg daily, counseling on 2-4 week delayed onset, and maintaining therapeutic dose for 6-8 weeks before modifying therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, initiating oral escitalopram 10 mg or sertraline 50 mg daily, counseling on 2-4 week delayed onset, and maintaining therapeutic dose for 6-8 weeks before modifying therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial. In the clinical approach to Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Major Depressive Disorder First-Line SSRI Titration and 6-8 Week Full Trial."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for the Treatment of Patients with Major Depressive Disorder",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8279",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 28-year-old male is examined in the urgent ambulatory specialist clinic requiring guideline-directed evaluation for Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole). Clinical examination and laboratory assessment confirm inadequate response despite two optimized antidepressant trials; augmenting with low-dose oral aripiprazole 2-5 mg daily or bupropion XL. Clinical observations demonstrate blood pressure 125/79 mm Hg, pulse 89/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Inadequate response despite two optimized antidepressant trials; augmenting with low-dose oral aripiprazole 2-5 mg daily or bupropion xl",
+        "explanation": "In accordance with accredited clinical practice guidelines, inadequate response despite two optimized antidepressant trials; augmenting with low-dose oral aripiprazole 2-5 mg daily or bupropion XL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole).",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inadequate response despite two optimized antidepressant trials; augmenting with low-dose oral aripiprazole 2-5 mg daily or bupropion XL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole). In the clinical approach to Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Treatment-Resistant Depression Atypical Antipsychotic Augmentation (Aripiprazole)."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline on MDD",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8280",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center for specialized continuity follow-up regarding Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium. Initial investigative workup demonstrates oral lithium carbonate maintaining therapeutic trough 0.8-1.0 mEq/L with baseline and 6-month monitoring of serum creatinine, BUN, and TSH. Clinical observations demonstrate blood pressure 126/80 mm Hg, pulse 90/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Oral lithium carbonate maintaining therapeutic trough 0.8-1.0 meq/l with baseline and 6-month monitoring of serum creatinine, bun, and tsh",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral lithium carbonate maintaining therapeutic trough 0.8-1.0 mEq/L with baseline and 6-month monitoring of serum creatinine, BUN, and TSH represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral lithium carbonate maintaining therapeutic trough 0.8-1.0 mEq/L with baseline and 6-month monitoring of serum creatinine, BUN, and TSH represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium. In the clinical approach to Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar I Disorder Maintenance Mood Stabilizer Monotherapy with Lithium."
+    ],
+    "references": [
+      {
+        "label": "CANMAT Guidelines for the Management of Adults with Bipolar Disorder",
+        "url": "https://bipolarsummit.org/canmat-guidelines/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8281",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 44-year-old male who presents to the academic primary care continuity and preventive medicine clinic presenting with features of Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy. Outpatient diagnostic review reveals oral lurasidone (taken with >= 350 kcal meal) or quetiapine for acute depressive episode in bipolar disorder (antidepressant monotherapy contraindicated). Clinical observations demonstrate blood pressure 127/81 mm Hg, pulse 91/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Oral lurasidone (taken with >= 350 kcal meal) or quetiapine for acute depressive episode in bipolar disorder (antidepressant monotherapy contraindicated)",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral lurasidone (taken with >= 350 kcal meal) or quetiapine for acute depressive episode in bipolar disorder (antidepressant monotherapy contraindicated) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral lurasidone (taken with >= 350 kcal meal) or quetiapine for acute depressive episode in bipolar disorder (antidepressant monotherapy contraindicated) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy. In the clinical approach to Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bipolar Depression First-Line Lurasidone or Quetiapine Monotherapy."
+    ],
+    "references": [
+      {
+        "label": "CANMAT Bipolar Disorder Guidelines",
+        "url": "https://bipolarsummit.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8282",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 20-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit for routine longitudinal evaluation and management of Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT. Review of systems and clinical assessment confirms persistent excessive worry >= 6 months; oral escitalopram or sertraline combined with cognitive behavioral therapy (avoiding long-term PRN benzodiazepines). Clinical observations demonstrate blood pressure 128/82 mm Hg, pulse 92/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Persistent excessive worry >= 6 months; oral escitalopram or sertraline combined with cognitive behavioral therapy (avoiding long-term prn benzodiazepines)",
+        "explanation": "In accordance with accredited clinical practice guidelines, persistent excessive worry >= 6 months; oral escitalopram or sertraline combined with cognitive behavioral therapy (avoiding long-term PRN benzodiazepines) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, persistent excessive worry >= 6 months; oral escitalopram or sertraline combined with cognitive behavioral therapy (avoiding long-term PRN benzodiazepines) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT. In the clinical approach to Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Generalized Anxiety Disorder SSRI Pharmacotherapy and Structured CBT."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guideline on Generalized Anxiety Disorder",
+        "url": "https://www.nice.org.uk/guidance/cg113"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8283",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 60-year-old male who attends the comprehensive regional ambulatory healthcare center for evaluation with active concerns related to Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy. Focused review demonstrates recurrent unexpected panic attacks with fear of subsequent attacks; scheduled oral paroxetine or sertraline and interoceptive exposure exercises. Clinical observations demonstrate blood pressure 129/83 mm Hg, pulse 93/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Recurrent unexpected panic attacks with fear of subsequent attacks; scheduled oral paroxetine or sertraline and interoceptive exposure exercises",
+        "explanation": "In accordance with accredited clinical practice guidelines, recurrent unexpected panic attacks with fear of subsequent attacks; scheduled oral paroxetine or sertraline and interoceptive exposure exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, recurrent unexpected panic attacks with fear of subsequent attacks; scheduled oral paroxetine or sertraline and interoceptive exposure exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy. In the clinical approach to Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Panic Disorder Scheduled SSRI Maintenance and Interoceptive Exposure Therapy."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for the Treatment of Patients with Panic Disorder",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8284",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old female attends the continuity family medicine pavilion for targeted follow-up requiring guideline-directed evaluation for Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares. Clinical examination and laboratory assessment confirm intrusive re-experiencing and hyperarousal following trauma; trauma-focused exposure therapy, oral sertraline, and low-dose oral prazosin for distressing nightmares. Clinical observations demonstrate blood pressure 130/84 mm Hg, pulse 94/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Intrusive re-experiencing and hyperarousal following trauma; trauma-focused exposure therapy, oral sertraline, and low-dose oral prazosin for distressing nightmares",
+        "explanation": "In accordance with accredited clinical practice guidelines, intrusive re-experiencing and hyperarousal following trauma; trauma-focused exposure therapy, oral sertraline, and low-dose oral prazosin for distressing nightmares represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intrusive re-experiencing and hyperarousal following trauma; trauma-focused exposure therapy, oral sertraline, and low-dose oral prazosin for distressing nightmares represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares. In the clinical approach to Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Traumatic Stress Disorder Trauma-Focused CBT and Prazosin for Nightmares."
+    ],
+    "references": [
+      {
+        "label": "VA/DoD Clinical Practice Guideline for Management of PTSD",
+        "url": "https://www.healthquality.va.gov/guidelines/MH/ptsd/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8285",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevent",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 76-year-old male presents to the regional emergency receiving and diagnostic resuscitation center for specialized continuity follow-up regarding Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention. Initial investigative workup demonstrates intrusive obsessions with neutralizing compulsions; manualized ERP behavioral therapy combined with high-dose SSRI (sertraline up to 200 mg daily). Clinical observations demonstrate blood pressure 131/85 mm Hg, pulse 95/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Intrusive obsessions with neutralizing compulsions; manualized erp behavioral therapy combined with high-dose ssri (sertraline up to 200 mg daily)",
+        "explanation": "In accordance with accredited clinical practice guidelines, intrusive obsessions with neutralizing compulsions; manualized ERP behavioral therapy combined with high-dose SSRI (sertraline up to 200 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, intrusive obsessions with neutralizing compulsions; manualized ERP behavioral therapy combined with high-dose SSRI (sertraline up to 200 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention. In the clinical approach to Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obsessive-Compulsive Disorder High-Dose SSRI and Exposure and Response Prevention."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for the Treatment of Patients with OCD",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8286",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 52-year-old female who is examined in the urgent ambulatory specialist clinic presenting with features of Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation. Outpatient diagnostic review reveals chronic inattention and executive dysfunction; once-daily extended-release methylphenidate or mixed amphetamine salts with baseline blood pressure and cardiac check. Clinical observations demonstrate blood pressure 132/86 mm Hg, pulse 96/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Chronic inattention and executive dysfunction; once-daily extended-release methylphenidate or mixed amphetamine salts with baseline blood pressure and cardiac check",
+        "explanation": "In accordance with accredited clinical practice guidelines, chronic inattention and executive dysfunction; once-daily extended-release methylphenidate or mixed amphetamine salts with baseline blood pressure and cardiac check represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, chronic inattention and executive dysfunction; once-daily extended-release methylphenidate or mixed amphetamine salts with baseline blood pressure and cardiac check represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation. In the clinical approach to Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adult ADHD Long-Acting Stimulant Therapy and Baseline Cardiovascular Evaluation."
+    ],
+    "references": [
+      {
+        "label": "AAP/AACAP Clinical Guidance on ADHD in Adults",
+        "url": "https://www.aacap.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8287",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center for routine longitudinal evaluation and management of Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I). Review of systems and clinical assessment confirms sleep restriction, stimulus control, sleep hygiene, and cognitive restructuring as first-line therapy over hypnotic medications (zolpidem). Clinical observations demonstrate blood pressure 133/87 mm Hg, pulse 97/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Sleep restriction, stimulus control, sleep hygiene, and cognitive restructuring as first-line therapy over hypnotic medications (zolpidem)",
+        "explanation": "In accordance with accredited clinical practice guidelines, sleep restriction, stimulus control, sleep hygiene, and cognitive restructuring as first-line therapy over hypnotic medications (zolpidem) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I).",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sleep restriction, stimulus control, sleep hygiene, and cognitive restructuring as first-line therapy over hypnotic medications (zolpidem) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I). In the clinical approach to Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Insomnia First-Line Cognitive Behavioral Therapy for Insomnia (CBT-I)."
+    ],
+    "references": [
+      {
+        "label": "ACP Clinical Practice Guideline on Chronic Insomnia Disorder",
+        "url": "https://www.acponline.org/clinical-information/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8288",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 68-year-old female who presents to the academic primary care continuity and preventive medicine clinic with active concerns related to Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients. Focused review demonstrates oral acamprosate 666 mg tid modulating NMDA transmission to reduce cravings and maintain abstinence in patients with normal renal function (safe in liver disease). Clinical observations demonstrate blood pressure 134/72 mm Hg, pulse 70/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Oral acamprosate 666 mg tid modulating nmda transmission to reduce cravings and maintain abstinence in patients with normal renal function (safe in liver disease)",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral acamprosate 666 mg tid modulating NMDA transmission to reduce cravings and maintain abstinence in patients with normal renal function (safe in liver disease) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral acamprosate 666 mg tid modulating NMDA transmission to reduce cravings and maintain abstinence in patients with normal renal function (safe in liver disease) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients. In the clinical approach to Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Use Disorder Relapse Prevention Oral Acamprosate in Abstinent Patients."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for Pharmacological Treatment of Alcohol Use Disorder",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8289",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit requiring guideline-directed evaluation for Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers. Clinical examination and laboratory assessment confirm oral naltrexone 50 mg daily (mu-opioid antagonist) reducing heavy drinking days and euphoria in patients actively consuming alcohol (contraindicated in acute hepatitis/opioid use). Clinical observations demonstrate blood pressure 135/73 mm Hg, pulse 71/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Oral naltrexone 50 mg daily (mu-opioid antagonist) reducing heavy drinking days and euphoria in patients actively consuming alcohol (contraindicated in acute hepatitis/opioid use)",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral naltrexone 50 mg daily (mu-opioid antagonist) reducing heavy drinking days and euphoria in patients actively consuming alcohol (contraindicated in acute hepatitis/opioid use) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral naltrexone 50 mg daily (mu-opioid antagonist) reducing heavy drinking days and euphoria in patients actively consuming alcohol (contraindicated in acute hepatitis/opioid use) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers. In the clinical approach to Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alcohol Use Disorder Relapse Prevention Oral Naltrexone in Active Drinkers."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline on Alcohol Use Disorder",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8290",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 20-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation for specialized continuity follow-up regarding Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone. Initial investigative workup demonstrates sublingual buprenorphine-naloxone partial mu-agonist maintenance reducing illicit opioid use, overdose mortality, and transmission of bloodborne viruses. Clinical observations demonstrate blood pressure 136/74 mm Hg, pulse 72/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Sublingual buprenorphine-naloxone partial mu-agonist maintenance reducing illicit opioid use, overdose mortality, and transmission of bloodborne viruses",
+        "explanation": "In accordance with accredited clinical practice guidelines, sublingual buprenorphine-naloxone partial mu-agonist maintenance reducing illicit opioid use, overdose mortality, and transmission of bloodborne viruses represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, sublingual buprenorphine-naloxone partial mu-agonist maintenance reducing illicit opioid use, overdose mortality, and transmission of bloodborne viruses represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone. In the clinical approach to Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Use Disorder Maintenance Sublingual Buprenorphine-Naloxone."
+    ],
+    "references": [
+      {
+        "label": "ASAM National Practice Guideline for Treatment of Opioid Use Disorder",
+        "url": "https://www.asam.org/quality-care/clinical-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8291",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 60-year-old male who attends the continuity family medicine pavilion for targeted follow-up presenting with features of Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy. Outpatient diagnostic review reveals bingeing and purging with salivary gland enlargement and enamel erosion; oral fluoxetine 60 mg daily (FDA-approved) combined with manualized CBT. Clinical observations demonstrate blood pressure 137/75 mm Hg, pulse 73/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Bingeing and purging with salivary gland enlargement and enamel erosion; oral fluoxetine 60 mg daily (fda-approved) combined with manualized cbt",
+        "explanation": "In accordance with accredited clinical practice guidelines, bingeing and purging with salivary gland enlargement and enamel erosion; oral fluoxetine 60 mg daily (FDA-approved) combined with manualized CBT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, bingeing and purging with salivary gland enlargement and enamel erosion; oral fluoxetine 60 mg daily (FDA-approved) combined with manualized CBT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy. In the clinical approach to Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bulimia Nervosa High-Dose Fluoxetine 60 mg and Cognitive Behavioral Therapy."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for the Treatment of Patients with Eating Disorders",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8292",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female presents to the regional emergency receiving and diagnostic resuscitation center for routine longitudinal evaluation and management of Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40). Review of systems and clinical assessment confirms inpatient admission indicated for heart rate < 40 bpm, systolic BP < 80 mm Hg, hypothermia < 35 C, or severe electrolyte derangements to prevent refeeding syndrome. Clinical observations demonstrate blood pressure 138/76 mm Hg, pulse 74/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Inpatient admission indicated for heart rate < 40 bpm, systolic bp < 80 mm hg, hypothermia < 35 c, or severe electrolyte derangements to prevent refeeding syndrome",
+        "explanation": "In accordance with accredited clinical practice guidelines, inpatient admission indicated for heart rate < 40 bpm, systolic BP < 80 mm Hg, hypothermia < 35 C, or severe electrolyte derangements to prevent refeeding syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40).",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, inpatient admission indicated for heart rate < 40 bpm, systolic BP < 80 mm Hg, hypothermia < 35 C, or severe electrolyte derangements to prevent refeeding syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40). In the clinical approach to Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anorexia Nervosa Medical Hospitalization Criteria (BMI < 15 or Bradycardia < 40)."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline on Eating Disorders",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8293",
+    "exam": "Step 3",
+    "subject": "Neurology",
+    "system": "Behavioral Health",
+    "topic": "Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 76-year-old male who is examined in the urgent ambulatory specialist clinic with active concerns related to Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy. Focused review demonstrates incongruent neurological deficits with Hoover sign or positive tremor entrainment; empathic delivery of diagnosis, multidisciplinary physical therapy, and CBT. Clinical observations demonstrate blood pressure 139/77 mm Hg, pulse 75/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Incongruent neurological deficits with hoover sign or positive tremor entrainment; empathic delivery of diagnosis, multidisciplinary physical therapy, and cbt",
+        "explanation": "In accordance with accredited clinical practice guidelines, incongruent neurological deficits with Hoover sign or positive tremor entrainment; empathic delivery of diagnosis, multidisciplinary physical therapy, and CBT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, incongruent neurological deficits with Hoover sign or positive tremor entrainment; empathic delivery of diagnosis, multidisciplinary physical therapy, and CBT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy. In the clinical approach to Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Functional Neurological Disorder (Conversion Disorder) Early Physical Therapy."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guidance on Functional Neurological Disorders",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8294",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center requiring guideline-directed evaluation for Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits. Clinical examination and laboratory assessment confirm regularly scheduled 4-6 week brief outpatient visits focused on coping and functional goals, avoiding unnecessary diagnostic procedures or specialist referrals. Clinical observations demonstrate blood pressure 118/78 mm Hg, pulse 76/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Regularly scheduled 4-6 week brief outpatient visits focused on coping and functional goals, avoiding unnecessary diagnostic procedures or specialist referrals",
+        "explanation": "In accordance with accredited clinical practice guidelines, regularly scheduled 4-6 week brief outpatient visits focused on coping and functional goals, avoiding unnecessary diagnostic procedures or specialist referrals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, regularly scheduled 4-6 week brief outpatient visits focused on coping and functional goals, avoiding unnecessary diagnostic procedures or specialist referrals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits. In the clinical approach to Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Somatic Symptom Disorder Regularly Scheduled Brief Outpatient Follow-Up Visits."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline on Somatic Symptom Disorders",
+        "url": "https://www.psychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8295",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 28-year-old male presents to the academic primary care continuity and preventive medicine clinic for specialized continuity follow-up regarding Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance. Initial investigative workup demonstrates preoccupation with having serious undiagnosed illness despite negative evaluations; manualized CBT, validating anxiety, and setting firm limits on diagnostic testing. Clinical observations demonstrate blood pressure 119/79 mm Hg, pulse 77/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Preoccupation with having serious undiagnosed illness despite negative evaluations; manualized cbt, validating anxiety, and setting firm limits on diagnostic testing",
+        "explanation": "In accordance with accredited clinical practice guidelines, preoccupation with having serious undiagnosed illness despite negative evaluations; manualized CBT, validating anxiety, and setting firm limits on diagnostic testing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, preoccupation with having serious undiagnosed illness despite negative evaluations; manualized CBT, validating anxiety, and setting firm limits on diagnostic testing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance. In the clinical approach to Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Illness Anxiety Disorder Cognitive Behavioral Therapy and Structured Reassurance."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline on Anxiety and Related Disorders",
+        "url": "https://www.psychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8296",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 68-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with features of Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring. Outpatient diagnostic review reveals MoCA score < 26 with preserved functional independence (ADLs); regular 6-month cognitive tracking and vascular risk control. Clinical observations demonstrate blood pressure 120/80 mm Hg, pulse 78/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Moca score < 26 with preserved functional independence (adls); regular 6-month cognitive tracking and vascular risk control",
+        "explanation": "In accordance with accredited clinical practice guidelines, MoCA score < 26 with preserved functional independence (ADLs); regular 6-month cognitive tracking and vascular risk control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, MoCA score < 26 with preserved functional independence (ADLs); regular 6-month cognitive tracking and vascular risk control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring. In the clinical approach to Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mild Cognitive Impairment MoCA Screening and Longitudinal Monitoring."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline: Mild Cognitive Impairment",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8297",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 71-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation for routine longitudinal evaluation and management of Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling. Review of systems and clinical assessment confirms oral donepezil 5-10 mg daily with counseling on modest cognitive stabilization and common cholinergic nausea/diarrhea. Clinical observations demonstrate blood pressure 121/81 mm Hg, pulse 79/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Oral donepezil 5-10 mg daily with counseling on modest cognitive stabilization and common cholinergic nausea/diarrhea",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral donepezil 5-10 mg daily with counseling on modest cognitive stabilization and common cholinergic nausea/diarrhea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral donepezil 5-10 mg daily with counseling on modest cognitive stabilization and common cholinergic nausea/diarrhea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling. In the clinical approach to Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Dementia Cholinesterase Inhibitor Donepezil Titration and Counseling."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for the Treatment of Patients with Alzheimer's Disease",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8298",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 72-year-old female who attends the continuity family medicine pavilion for targeted follow-up with active concerns related to Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil. Focused review demonstrates oral memantine (NMDA receptor antagonist) 10 mg bid added to donepezil for MMSE <= 14 slowing decline in activities of daily living. Clinical observations demonstrate blood pressure 122/82 mm Hg, pulse 80/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Oral memantine (nmda receptor antagonist) 10 mg bid added to donepezil for mmse <= 14 slowing decline in activities of daily living",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral memantine (NMDA receptor antagonist) 10 mg bid added to donepezil for MMSE <= 14 slowing decline in activities of daily living represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral memantine (NMDA receptor antagonist) 10 mg bid added to donepezil for MMSE <= 14 slowing decline in activities of daily living represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil. In the clinical approach to Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Moderate-to-Severe Alzheimer Disease Memantine Addition to Donepezil."
+    ],
+    "references": [
+      {
+        "label": "APA Guideline on Alzheimer's Disease",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8299",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male presents to the regional emergency receiving and diagnostic resuscitation center requiring guideline-directed evaluation for Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring. Clinical examination and laboratory assessment confirm IV lecanemab for early symptomatic AD with mandatory baseline APOE-e4 genotyping and serial MRI tracking amyloid-related imaging abnormalities. Clinical observations demonstrate blood pressure 123/83 mm Hg, pulse 81/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Iv lecanemab for early symptomatic ad with mandatory baseline apoe-e4 genotyping and serial mri tracking amyloid-related imaging abnormalities",
+        "explanation": "In accordance with accredited clinical practice guidelines, IV lecanemab for early symptomatic AD with mandatory baseline APOE-e4 genotyping and serial MRI tracking amyloid-related imaging abnormalities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, IV lecanemab for early symptomatic AD with mandatory baseline APOE-e4 genotyping and serial MRI tracking amyloid-related imaging abnormalities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring. In the clinical approach to Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Alzheimer Disease Amyloid Monoclonal Antibody Lecanemab and ARIA-E Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Appropriate Use Recommendations for Lecanemab",
+        "url": "https://www.alz.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8300",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Cardiovascular",
+    "topic": "Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old female is examined in the urgent ambulatory specialist clinic for specialized continuity follow-up regarding Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control. Initial investigative workup demonstrates stepwise deterioration with focal neurological signs and subcortical white matter ischemic changes; aggressive BP target < 130/80 and statins. Clinical observations demonstrate blood pressure 124/84 mm Hg, pulse 82/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Stepwise deterioration with focal neurological signs and subcortical white matter ischemic changes; aggressive bp target < 130/80 and statins",
+        "explanation": "In accordance with accredited clinical practice guidelines, stepwise deterioration with focal neurological signs and subcortical white matter ischemic changes; aggressive BP target < 130/80 and statins represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, stepwise deterioration with focal neurological signs and subcortical white matter ischemic changes; aggressive BP target < 130/80 and statins represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control. In the clinical approach to Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vascular Dementia Stepwise Cognitive Decline and Strict Blood Pressure Control."
+    ],
+    "references": [
+      {
+        "label": "AHA/ASA Scientific Statement: Vascular Dementia",
+        "url": "https://www.ahajournals.org/doi/10.1161/STR.0b013e3182299496"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8301",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensiti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 75-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center presenting with features of Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity. Outpatient diagnostic review reveals visual hallucinations, cognitive fluctuations, and parkinsonism treated with donepezil; strictly avoiding typical neuroleptics (fatal sensitivity). Clinical observations demonstrate blood pressure 125/85 mm Hg, pulse 83/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Visual hallucinations, cognitive fluctuations, and parkinsonism treated with donepezil; strictly avoiding typical neuroleptics (fatal sensitivity)",
+        "explanation": "In accordance with accredited clinical practice guidelines, visual hallucinations, cognitive fluctuations, and parkinsonism treated with donepezil; strictly avoiding typical neuroleptics (fatal sensitivity) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, visual hallucinations, cognitive fluctuations, and parkinsonism treated with donepezil; strictly avoiding typical neuroleptics (fatal sensitivity) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity. In the clinical approach to Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lewy Body Dementia Vivid Visual Hallucinations and Extreme Haloperidol Sensitivity."
+    ],
+    "references": [
+      {
+        "label": "DLB Consortium Diagnosis and Management Consensus",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000004058"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8302",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 76-year-old female presents to the academic primary care continuity and preventive medicine clinic for routine longitudinal evaluation and management of Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy. Review of systems and clinical assessment confirms early loss of decorum, apathy, and hyperorality with bilateral frontal/temporal atrophy; managed with SSRIs (cholinesterase inhibitors worsen). Clinical observations demonstrate blood pressure 126/86 mm Hg, pulse 84/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Early loss of decorum, apathy, and hyperorality with bilateral frontal/temporal atrophy; managed with ssris (cholinesterase inhibitors worsen)",
+        "explanation": "In accordance with accredited clinical practice guidelines, early loss of decorum, apathy, and hyperorality with bilateral frontal/temporal atrophy; managed with SSRIs (cholinesterase inhibitors worsen) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, early loss of decorum, apathy, and hyperorality with bilateral frontal/temporal atrophy; managed with SSRIs (cholinesterase inhibitors worsen) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy. In the clinical approach to Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Frontotemporal Dementia Early Social Disinhibition and SSRI Pharmacotherapy."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Parameter: Frontotemporal Dementia",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8303",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 28-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit with active concerns related to Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test. Focused review demonstrates triad of gait apraxia, urge incontinence, and memory loss; 30-50 mL CSF removal demonstrating objective gait speed improvement. Clinical observations demonstrate blood pressure 127/87 mm Hg, pulse 85/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Triad of gait apraxia, urge incontinence, and memory loss; 30-50 ml csf removal demonstrating objective gait speed improvement",
+        "explanation": "In accordance with accredited clinical practice guidelines, triad of gait apraxia, urge incontinence, and memory loss; 30-50 mL CSF removal demonstrating objective gait speed improvement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, triad of gait apraxia, urge incontinence, and memory loss; 30-50 mL CSF removal demonstrating objective gait speed improvement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test. In the clinical approach to Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Normal Pressure Hydrocephalus Magnetic Gait Lumbar Puncture CSF Tap Test."
+    ],
+    "references": [
+      {
+        "label": "AAN Guideline on Shunting in NPH",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8304",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 78-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation requiring guideline-directed evaluation for Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation. Clinical examination and laboratory assessment confirm acute onset, inattention, disorganized thinking, and altered level of consciousness; non-pharmacological reorientation and early mobility. Clinical observations demonstrate blood pressure 128/72 mm Hg, pulse 86/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Acute onset, inattention, disorganized thinking, and altered level of consciousness; non-pharmacological reorientation and early mobility",
+        "explanation": "In accordance with accredited clinical practice guidelines, acute onset, inattention, disorganized thinking, and altered level of consciousness; non-pharmacological reorientation and early mobility represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, acute onset, inattention, disorganized thinking, and altered level of consciousness; non-pharmacological reorientation and early mobility represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation. In the clinical approach to Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Delirium Confusion Assessment Method (CAM) and Reorientation."
+    ],
+    "references": [
+      {
+        "label": "AGS Clinical Practice Guideline for Postoperative Delirium",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8305",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old male attends the continuity family medicine pavilion for targeted follow-up for specialized continuity follow-up regarding Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review. Initial investigative workup demonstrates quiet lethargy and withdrawal triggered by occult UTI, fecal impaction, or sedatives; avoiding physical restraints and reviewing medications. Clinical observations demonstrate blood pressure 129/73 mm Hg, pulse 87/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Quiet lethargy and withdrawal triggered by occult uti, fecal impaction, or sedatives; avoiding physical restraints and reviewing medications",
+        "explanation": "In accordance with accredited clinical practice guidelines, quiet lethargy and withdrawal triggered by occult UTI, fecal impaction, or sedatives; avoiding physical restraints and reviewing medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, quiet lethargy and withdrawal triggered by occult UTI, fecal impaction, or sedatives; avoiding physical restraints and reviewing medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review. In the clinical approach to Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Hypoactive Delirium Diagnostic Recognition and Medication Review."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline on Delirium: Diagnosis and Prevention",
+        "url": "https://www.nice.org.uk/guidance/cg103"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8306",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "AGS Beers Criteria Deprescribing Anticholinergics in Older Adults",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 80-year-old female who presents to the regional emergency receiving and diagnostic resuscitation center presenting with features of AGS Beers Criteria Deprescribing Anticholinergics in Older Adults. Outpatient diagnostic review reveals stopping diphenhydramine and hydroxyzine to prevent acute urinary retention, worsening cognitive impairment, constipation, and fall injuries. Clinical observations demonstrate blood pressure 130/74 mm Hg, pulse 88/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Stopping diphenhydramine and hydroxyzine to prevent acute urinary retention, worsening cognitive impairment, constipation, and fall injuries",
+        "explanation": "In accordance with accredited clinical practice guidelines, stopping diphenhydramine and hydroxyzine to prevent acute urinary retention, worsening cognitive impairment, constipation, and fall injuries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AGS Beers Criteria Deprescribing Anticholinergics in Older Adults.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, stopping diphenhydramine and hydroxyzine to prevent acute urinary retention, worsening cognitive impairment, constipation, and fall injuries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AGS Beers Criteria Deprescribing Anticholinergics in Older Adults. In the clinical approach to AGS Beers Criteria Deprescribing Anticholinergics in Older Adults, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AGS Beers Criteria Deprescribing Anticholinergics in Older Adults.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AGS Beers Criteria Deprescribing Anticholinergics in Older Adults."
+    ],
+    "references": [
+      {
+        "label": "AGS Beers Criteria for Potentially Inappropriate Medication Use in Older Adults",
+        "url": "https://geriatricscareonline.org/toc/american-geriatrics-society-updated-beers-criteria/CL010"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8307",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old male is examined in the urgent ambulatory specialist clinic for routine longitudinal evaluation and management of Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly. Review of systems and clinical assessment confirms gradual tapering of diazepam/alprazolam to reduce excessive daytime sedation, psychomotor ataxia, motor vehicle collisions, and hip fractures. Clinical observations demonstrate blood pressure 131/75 mm Hg, pulse 89/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Gradual tapering of diazepam/alprazolam to reduce excessive daytime sedation, psychomotor ataxia, motor vehicle collisions, and hip fractures",
+        "explanation": "In accordance with accredited clinical practice guidelines, gradual tapering of diazepam/alprazolam to reduce excessive daytime sedation, psychomotor ataxia, motor vehicle collisions, and hip fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, gradual tapering of diazepam/alprazolam to reduce excessive daytime sedation, psychomotor ataxia, motor vehicle collisions, and hip fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly. In the clinical approach to Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Discontinuing Long-Term Benzodiazepines in Elderly."
+    ],
+    "references": [
+      {
+        "label": "AGS Beers Criteria Guidelines",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8308",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine)",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 82-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center with active concerns related to Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine). Focused review demonstrates deprescribing cyclobenzaprine and methocarbamol due to strong anticholinergic properties, sedation, and elevated fall risk in older adults. Clinical observations demonstrate blood pressure 132/76 mm Hg, pulse 90/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Deprescribing cyclobenzaprine and methocarbamol due to strong anticholinergic properties, sedation, and elevated fall risk in older adults",
+        "explanation": "In accordance with accredited clinical practice guidelines, deprescribing cyclobenzaprine and methocarbamol due to strong anticholinergic properties, sedation, and elevated fall risk in older adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine).",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, deprescribing cyclobenzaprine and methocarbamol due to strong anticholinergic properties, sedation, and elevated fall risk in older adults represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine). In the clinical approach to Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Avoiding Skeletal Muscle Relaxants (Cyclobenzaprine)."
+    ],
+    "references": [
+      {
+        "label": "AGS Beers Criteria Guidelines",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8309",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Endocrine",
+    "topic": "Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 83-year-old male presents to the academic primary care continuity and preventive medicine clinic requiring guideline-directed evaluation for Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care. Clinical examination and laboratory assessment confirm discontinuing sliding-scale regular insulin monotherapy due to higher risk of severe hypoglycemia without improving long-term glycemic control. Clinical observations demonstrate blood pressure 133/77 mm Hg, pulse 91/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Discontinuing sliding-scale regular insulin monotherapy due to higher risk of severe hypoglycemia without improving long-term glycemic control",
+        "explanation": "In accordance with accredited clinical practice guidelines, discontinuing sliding-scale regular insulin monotherapy due to higher risk of severe hypoglycemia without improving long-term glycemic control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, discontinuing sliding-scale regular insulin monotherapy due to higher risk of severe hypoglycemia without improving long-term glycemic control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care. In the clinical approach to Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beers Criteria Avoiding Sliding-Scale Regular Insulin in Long-Term Care."
+    ],
+    "references": [
+      {
+        "label": "AGS Beers Criteria Guidelines",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8310",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 84-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit for specialized continuity follow-up regarding Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds. Initial investigative workup demonstrates TUG score > 12 seconds indicating high fall risk; physical therapy referral for balance/gait training, home safety evaluation, and medication review. Clinical observations demonstrate blood pressure 134/78 mm Hg, pulse 92/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Tug score > 12 seconds indicating high fall risk; physical therapy referral for balance/gait training, home safety evaluation, and medication review",
+        "explanation": "In accordance with accredited clinical practice guidelines, TUG score > 12 seconds indicating high fall risk; physical therapy referral for balance/gait training, home safety evaluation, and medication review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, TUG score > 12 seconds indicating high fall risk; physical therapy referral for balance/gait training, home safety evaluation, and medication review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds. In the clinical approach to Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Fall Risk Timed Up and Go (TUG) Test > 12 Seconds."
+    ],
+    "references": [
+      {
+        "label": "CDC STEADI Algorithm for Fall Risk Assessment",
+        "url": "https://www.cdc.gov/steadi/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8311",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 85-year-old male who attends the comprehensive regional ambulatory healthcare center for evaluation presenting with features of Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise. Outpatient diagnostic review reveals loss of muscle mass and grip strength managed with progressive resistance strength training and protein intake 1.2-1.5 g/kg/day. Clinical observations demonstrate blood pressure 135/79 mm Hg, pulse 93/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Loss of muscle mass and grip strength managed with progressive resistance strength training and protein intake 1.2-1.5 g/kg/day",
+        "explanation": "In accordance with accredited clinical practice guidelines, loss of muscle mass and grip strength managed with progressive resistance strength training and protein intake 1.2-1.5 g/kg/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, loss of muscle mass and grip strength managed with progressive resistance strength training and protein intake 1.2-1.5 g/kg/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise. In the clinical approach to Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Sarcopenia High-Protein Dietary Density and Resistance Exercise."
+    ],
+    "references": [
+      {
+        "label": "EWGSOP2 Consensus on Sarcopenia",
+        "url": "https://academic.oup.com/ageing/article/48/1/16/5126428"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8312",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Renal",
+    "topic": "Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old female attends the continuity family medicine pavilion for targeted follow-up for routine longitudinal evaluation and management of Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics. Review of systems and clinical assessment confirms oral mirabegron 25-50 mg daily preferred over oxybutynin in older adults to avoid central anticholinergic cognitive impairment and dry mouth. Clinical observations demonstrate blood pressure 136/80 mm Hg, pulse 94/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Oral mirabegron 25-50 mg daily preferred over oxybutynin in older adults to avoid central anticholinergic cognitive impairment and dry mouth",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral mirabegron 25-50 mg daily preferred over oxybutynin in older adults to avoid central anticholinergic cognitive impairment and dry mouth represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral mirabegron 25-50 mg daily preferred over oxybutynin in older adults to avoid central anticholinergic cognitive impairment and dry mouth represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics. In the clinical approach to Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urge Urinary Incontinence Mirabegron Beta-3 Agonist over Antimuscarinics."
+    ],
+    "references": [
+      {
+        "label": "AUA/SUFU Guideline on Overactive Bladder",
+        "url": "https://www.auanet.org/guidelines-and-quality/guidelines/overactive-bladder-(oab)-guideline"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8313",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Renal",
+    "topic": "Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels)",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 44-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center with active concerns related to Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels). Focused review demonstrates involuntary urine leakage with coughing or sneezing; 12 weeks of supervised pelvic floor physiotherapy and midurethral sling for refractory cases. Clinical observations demonstrate blood pressure 137/81 mm Hg, pulse 95/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Involuntary urine leakage with coughing or sneezing; 12 weeks of supervised pelvic floor physiotherapy and midurethral sling for refractory cases",
+        "explanation": "In accordance with accredited clinical practice guidelines, involuntary urine leakage with coughing or sneezing; 12 weeks of supervised pelvic floor physiotherapy and midurethral sling for refractory cases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels).",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, involuntary urine leakage with coughing or sneezing; 12 weeks of supervised pelvic floor physiotherapy and midurethral sling for refractory cases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels). In the clinical approach to Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stress Urinary Incontinence Supervised Pelvic Floor Muscle Training (Kegels)."
+    ],
+    "references": [
+      {
+        "label": "ACOG/AUGS Practice Bulletin: Urinary Incontinence",
+        "url": "https://www.acog.org/clinical/clinical-guidance"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8314",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Cardiovascular",
+    "topic": "Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 88-year-old female is examined in the urgent ambulatory specialist clinic requiring guideline-directed evaluation for Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine. Clinical examination and laboratory assessment confirm fall in SBP >= 20 or DBP >= 10 mm Hg on standing; waist-high compression stockings, abdominal binder, bolus water, and oral midodrine 5-10 mg tid. Clinical observations demonstrate blood pressure 138/82 mm Hg, pulse 96/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Fall in sbp >= 20 or dbp >= 10 mm hg on standing; waist-high compression stockings, abdominal binder, bolus water, and oral midodrine 5-10 mg tid",
+        "explanation": "In accordance with accredited clinical practice guidelines, fall in SBP >= 20 or DBP >= 10 mm Hg on standing; waist-high compression stockings, abdominal binder, bolus water, and oral midodrine 5-10 mg tid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, fall in SBP >= 20 or DBP >= 10 mm Hg on standing; waist-high compression stockings, abdominal binder, bolus water, and oral midodrine 5-10 mg tid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine. In the clinical approach to Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Neurogenic Orthostatic Hypotension Waist-High Compression and Midodrine."
+    ],
+    "references": [
+      {
+        "label": "AAN/AAS Consensus Statement on Neurogenic Orthostatic Hypotension",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8315",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Dermatology",
+    "topic": "Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 60-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center for specialized continuity follow-up regarding Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings. Initial investigative workup demonstrates shallow open ulcer with red-pink wound bed without slough; moist wound healing with hydrocolloid or semipermeable film dressing and pressure relief. Clinical observations demonstrate blood pressure 139/83 mm Hg, pulse 97/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Shallow open ulcer with red-pink wound bed without slough; moist wound healing with hydrocolloid or semipermeable film dressing and pressure relief",
+        "explanation": "In accordance with accredited clinical practice guidelines, shallow open ulcer with red-pink wound bed without slough; moist wound healing with hydrocolloid or semipermeable film dressing and pressure relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, shallow open ulcer with red-pink wound bed without slough; moist wound healing with hydrocolloid or semipermeable film dressing and pressure relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings. In the clinical approach to Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pressure Injury Stage 2 Partial-Thickness Skin Loss Hydrocolloid Dressings."
+    ],
+    "references": [
+      {
+        "label": "NPUAP/EPUAP Guidelines on Pressure Injury",
+        "url": "https://www.npiap.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8316",
+    "exam": "Step 3",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 36-year-old female who presents to the academic primary care continuity and preventive medicine clinic presenting with features of Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement. Outpatient diagnostic review reveals exposed bone, tendon, or muscle with slough/eschar; surgical sharp debridement of non-viable tissue, negative pressure therapy, and nutritional support. Clinical observations demonstrate blood pressure 118/84 mm Hg, pulse 70/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Exposed bone, tendon, or muscle with slough/eschar; surgical sharp debridement of non-viable tissue, negative pressure therapy, and nutritional support",
+        "explanation": "In accordance with accredited clinical practice guidelines, exposed bone, tendon, or muscle with slough/eschar; surgical sharp debridement of non-viable tissue, negative pressure therapy, and nutritional support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, exposed bone, tendon, or muscle with slough/eschar; surgical sharp debridement of non-viable tissue, negative pressure therapy, and nutritional support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement. In the clinical approach to Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pressure Injury Stage 4 Full-Thickness Tissue Loss Surgical Sharp Debridement."
+    ],
+    "references": [
+      {
+        "label": "NPUAP/EPUAP/PPPIA Clinical Practice Guideline on Pressure Ulcers",
+        "url": "https://www.npiap.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8317",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Refe",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit for routine longitudinal evaluation and management of Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral. Review of systems and clinical assessment confirms evaluating clock-drawing, visual fields, and neck rotation; counseling driving retirement or formal occupational therapy driving rehabilitation. Clinical observations demonstrate blood pressure 119/85 mm Hg, pulse 71/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating clock-drawing, visual fields, and neck rotation; counseling driving retirement or formal occupational therapy driving rehabilitation",
+        "explanation": "In accordance with accredited clinical practice guidelines, evaluating clock-drawing, visual fields, and neck rotation; counseling driving retirement or formal occupational therapy driving rehabilitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, evaluating clock-drawing, visual fields, and neck rotation; counseling driving retirement or formal occupational therapy driving rehabilitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral. In the clinical approach to Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Geriatric Driving Evaluation Clinical Assessment and Specialist Road Test Referral."
+    ],
+    "references": [
+      {
+        "label": "AGS Clinician's Guide to Assessing Older Drivers",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8318",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 52-year-old female who attends the comprehensive regional ambulatory healthcare center for evaluation with active concerns related to Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT. Focused review demonstrates symptoms of congestion and dyspnea at rest despite quadruple GDMT, recurrent hospitalizations, and declining inotrope/LVAD/transplant options. Clinical observations demonstrate blood pressure 120/86 mm Hg, pulse 72/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Symptoms of congestion and dyspnea at rest despite quadruple gdmt, recurrent hospitalizations, and declining inotrope/lvad/transplant options",
+        "explanation": "In accordance with accredited clinical practice guidelines, symptoms of congestion and dyspnea at rest despite quadruple GDMT, recurrent hospitalizations, and declining inotrope/LVAD/transplant options represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, symptoms of congestion and dyspnea at rest despite quadruple GDMT, recurrent hospitalizations, and declining inotrope/LVAD/transplant options represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT. In the clinical approach to Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advanced Heart Failure Hospice Criteria NYHA Class IV Despite Optimal GDMT."
+    ],
+    "references": [
+      {
+        "label": "CMS Hospice Coverage Guidelines: Heart Disease",
+        "url": "https://www.cms.gov/medicare-coverage-database/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8319",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 71-year-old male attends the continuity family medicine pavilion for targeted follow-up requiring guideline-directed evaluation for End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications. Clinical examination and laboratory assessment confirm loss of speech (< 6 words), ambulatory dependence, and severe complications (aspiration pneumonia, multiple stage 3-4 ulcers, weight loss > 10%). Clinical observations demonstrate blood pressure 121/87 mm Hg, pulse 73/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Loss of speech (< 6 words), ambulatory dependence, and severe complications (aspiration pneumonia, multiple stage 3-4 ulcers, weight loss > 10%)",
+        "explanation": "In accordance with accredited clinical practice guidelines, loss of speech (< 6 words), ambulatory dependence, and severe complications (aspiration pneumonia, multiple stage 3-4 ulcers, weight loss > 10%) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, loss of speech (< 6 words), ambulatory dependence, and severe complications (aspiration pneumonia, multiple stage 3-4 ulcers, weight loss > 10%) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications. In the clinical approach to End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of End-Stage Dementia Hospice Criteria FAST Stage 7C and Complications."
+    ],
+    "references": [
+      {
+        "label": "CMS Hospice Criteria: End-Stage Dementia",
+        "url": "https://www.cms.gov/medicare-coverage-database/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8320",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old female presents to the regional emergency receiving and diagnostic resuscitation center for specialized continuity follow-up regarding End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen. Initial investigative workup demonstrates disabling dyspnea at rest, FEV1 < 30% predicted, resting room-air PaO2 <= 55 mm Hg, and recurrent acute respiratory hospitalizations. Clinical observations demonstrate blood pressure 122/72 mm Hg, pulse 74/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Disabling dyspnea at rest, fev1 < 30% predicted, resting room-air pao2 <= 55 mm hg, and recurrent acute respiratory hospitalizations",
+        "explanation": "In accordance with accredited clinical practice guidelines, disabling dyspnea at rest, FEV1 < 30% predicted, resting room-air PaO2 <= 55 mm Hg, and recurrent acute respiratory hospitalizations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, disabling dyspnea at rest, FEV1 < 30% predicted, resting room-air PaO2 <= 55 mm Hg, and recurrent acute respiratory hospitalizations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen. In the clinical approach to End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of End-Stage COPD Hospice Criteria Disabling Dyspnea and Hypoxemia on Oxygen."
+    ],
+    "references": [
+      {
+        "label": "CMS Hospice Criteria: COPD",
+        "url": "https://www.cms.gov/medicare-coverage-database/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8321",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 73-year-old male who is examined in the urgent ambulatory specialist clinic presenting with features of Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness. Outpatient diagnostic review reveals oral liquid morphine 5-10 mg every 2-4 hours as needed reducing breathlessness sensation and respiratory panic without clinical hypercapnia. Clinical observations demonstrate blood pressure 123/73 mm Hg, pulse 75/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Oral liquid morphine 5-10 mg every 2-4 hours as needed reducing breathlessness sensation and respiratory panic without clinical hypercapnia",
+        "explanation": "In accordance with accredited clinical practice guidelines, oral liquid morphine 5-10 mg every 2-4 hours as needed reducing breathlessness sensation and respiratory panic without clinical hypercapnia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, oral liquid morphine 5-10 mg every 2-4 hours as needed reducing breathlessness sensation and respiratory panic without clinical hypercapnia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness. In the clinical approach to Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Dyspnea Low-Dose Oral Morphine Protocol for Breathlessness."
+    ],
+    "references": [
+      {
+        "label": "ATS Clinical Practice Guideline on Palliative Dyspnea",
+        "url": "https://www.atsjournals.org/doi/10.1164/rccm.201402-0268ST"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8322",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old female is referred for subspecialty assessment in the tertiary ambulatory care center for routine longitudinal evaluation and management of Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation. Review of systems and clinical assessment confirms handheld cool fan directed toward face stimulating trigeminal nerve V2/V3 cutaneous mechanoreceptors, providing immediate non-drug relief. Clinical observations demonstrate blood pressure 124/74 mm Hg, pulse 76/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Handheld cool fan directed toward face stimulating trigeminal nerve v2/v3 cutaneous mechanoreceptors, providing immediate non-drug relief",
+        "explanation": "In accordance with accredited clinical practice guidelines, handheld cool fan directed toward face stimulating trigeminal nerve V2/V3 cutaneous mechanoreceptors, providing immediate non-drug relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, handheld cool fan directed toward face stimulating trigeminal nerve V2/V3 cutaneous mechanoreceptors, providing immediate non-drug relief represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation. In the clinical approach to Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Dyspnea Facial Cool Fan Airflow Mechanoreceptor Stimulation."
+    ],
+    "references": [
+      {
+        "label": "ATS Guideline on Dyspnea Palliative Care",
+        "url": "https://www.atsjournals.org/doi/10.1164/rccm.201402-0268ST"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8323",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 60-year-old male who presents to the academic primary care continuity and preventive medicine clinic with active concerns related to Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing. Focused review demonstrates scheduled oral morphine or oxycodone around the clock with 10-15% total daily dose prescribed every 1-2 hours PRN for breakthrough pain. Clinical observations demonstrate blood pressure 125/75 mm Hg, pulse 77/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Scheduled oral morphine or oxycodone around the clock with 10-15% total daily dose prescribed every 1-2 hours prn for breakthrough pain",
+        "explanation": "In accordance with accredited clinical practice guidelines, scheduled oral morphine or oxycodone around the clock with 10-15% total daily dose prescribed every 1-2 hours PRN for breakthrough pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, scheduled oral morphine or oxycodone around the clock with 10-15% total daily dose prescribed every 1-2 hours PRN for breakthrough pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing. In the clinical approach to Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cancer Pain WHO Step 3 Scheduled Strong Opioids with Breakthrough PRN Dosing."
+    ],
+    "references": [
+      {
+        "label": "WHO Guidelines for Cancer Pain Management",
+        "url": "https://www.who.int/publications/i/item/9789241550451"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8324",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG)",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 36-year-old female is evaluated in the specialized ambulatory procedural and diagnostic unit requiring guideline-directed evaluation for Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG). Clinical examination and laboratory assessment confirm co-prescribing daily oral senna or bisacodyl plus polyethylene glycol when starting chronic opioids to prevent severe fecal impaction. Clinical observations demonstrate blood pressure 126/76 mm Hg, pulse 78/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Co-prescribing daily oral senna or bisacodyl plus polyethylene glycol when starting chronic opioids to prevent severe fecal impaction",
+        "explanation": "In accordance with accredited clinical practice guidelines, co-prescribing daily oral senna or bisacodyl plus polyethylene glycol when starting chronic opioids to prevent severe fecal impaction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG).",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, co-prescribing daily oral senna or bisacodyl plus polyethylene glycol when starting chronic opioids to prevent severe fecal impaction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG). In the clinical approach to Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG), thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Opioid Initiation Mandatory Co-Prescription of Stimulant Laxatives (Senna/PEG)."
+    ],
+    "references": [
+      {
+        "label": "NCCN Practice Guidelines in Oncology: Palliative Care",
+        "url": "https://www.nccn.org/guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8325",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 76-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation for specialized continuity follow-up regarding Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone. Initial investigative workup demonstrates subcutaneous methylnaltrexone (PAMORA) selectively blocking peripheral GI mu receptors, inducing rapid defecation without reversing analgesia. Clinical observations demonstrate blood pressure 127/77 mm Hg, pulse 79/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Subcutaneous methylnaltrexone (pamora) selectively blocking peripheral gi mu receptors, inducing rapid defecation without reversing analgesia",
+        "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous methylnaltrexone (PAMORA) selectively blocking peripheral GI mu receptors, inducing rapid defecation without reversing analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous methylnaltrexone (PAMORA) selectively blocking peripheral GI mu receptors, inducing rapid defecation without reversing analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone. In the clinical approach to Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Refractory Opioid-Induced Constipation Peripheral Mu Antagonist Methylnaltrexone."
+    ],
+    "references": [
+      {
+        "label": "AGA Clinical Practice Guideline on Opioid-Induced Constipation",
+        "url": "https://www.gastrojournal.org/article/S0016-5085(18)35222-2/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8326",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 52-year-old female who attends the continuity family medicine pavilion for targeted follow-up presenting with features of Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning. Outpatient diagnostic review reveals subcutaneous glycopyrrolate (quaternary amine not crossing blood-brain barrier) or atropine ophthalmic drops sublingually reducing salivary secretions. Clinical observations demonstrate blood pressure 128/78 mm Hg, pulse 80/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous glycopyrrolate (quaternary amine not crossing blood-brain barrier) or atropine ophthalmic drops sublingually reducing salivary secretions",
+        "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous glycopyrrolate (quaternary amine not crossing blood-brain barrier) or atropine ophthalmic drops sublingually reducing salivary secretions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous glycopyrrolate (quaternary amine not crossing blood-brain barrier) or atropine ophthalmic drops sublingually reducing salivary secretions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning. In the clinical approach to Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Terminal Respiratory Secretions Subcutaneous Glycopyrrolate and Repositioning."
+    ],
+    "references": [
+      {
+        "label": "EAPC Guidelines on Management of End-of-Life Secretions",
+        "url": "https://www.eapcnet.eu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8327",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old male presents to the regional emergency receiving and diagnostic resuscitation center for routine longitudinal evaluation and management of Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases. Review of systems and clinical assessment confirms single-fraction 8 Gy radiation therapy providing rapid, durable analgesia non-inferior to 10-fraction courses for uncomplicated bone metastases. Clinical observations demonstrate blood pressure 129/79 mm Hg, pulse 81/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Single-fraction 8 gy radiation therapy providing rapid, durable analgesia non-inferior to 10-fraction courses for uncomplicated bone metastases",
+        "explanation": "In accordance with accredited clinical practice guidelines, single-fraction 8 Gy radiation therapy providing rapid, durable analgesia non-inferior to 10-fraction courses for uncomplicated bone metastases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, single-fraction 8 Gy radiation therapy providing rapid, durable analgesia non-inferior to 10-fraction courses for uncomplicated bone metastases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases. In the clinical approach to Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Single-Fraction 8 Gy External Beam Radiation for Bone Metastases."
+    ],
+    "references": [
+      {
+        "label": "ASTRO Clinical Practice Guideline on Bone Metastases",
+        "url": "https://www.astro.org/clinical-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8328",
+    "exam": "Step 3",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 68-year-old female who is examined in the urgent ambulatory specialist clinic with active concerns related to Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide. Focused review demonstrates subcutaneous octreotide (somatostatin analogue) suppressing GI luminal hypersecretion, reducing nausea and nasogastric decompression needs. Clinical observations demonstrate blood pressure 130/80 mm Hg, pulse 82/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous octreotide (somatostatin analogue) suppressing gi luminal hypersecretion, reducing nausea and nasogastric decompression needs",
+        "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous octreotide (somatostatin analogue) suppressing GI luminal hypersecretion, reducing nausea and nasogastric decompression needs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, subcutaneous octreotide (somatostatin analogue) suppressing GI luminal hypersecretion, reducing nausea and nasogastric decompression needs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide. In the clinical approach to Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malignant Inoperable Bowel Obstruction Continuous Subcutaneous Octreotide."
+    ],
+    "references": [
+      {
+        "label": "MASCC/ESMO Guideline on Malignant Bowel Obstruction",
+        "url": "https://www.annalsofoncology.org/article/S0923-7534(21)04880-9/fulltext"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8329",
+    "exam": "Step 3",
+    "subject": "Geriatrics",
+    "system": "Gastrointestinal",
+    "topic": "Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old male is referred for subspecialty assessment in the tertiary ambulatory care center requiring guideline-directed evaluation for Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit. Clinical examination and laboratory assessment confirm counseling families that percutaneous endoscopic gastrostomy (PEG) in advanced dementia does not prolong life, prevent aspiration, or heal ulcers. Clinical observations demonstrate blood pressure 131/81 mm Hg, pulse 83/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Counseling families that percutaneous endoscopic gastrostomy (peg) in advanced dementia does not prolong life, prevent aspiration, or heal ulcers",
+        "explanation": "In accordance with accredited clinical practice guidelines, counseling families that percutaneous endoscopic gastrostomy (PEG) in advanced dementia does not prolong life, prevent aspiration, or heal ulcers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, counseling families that percutaneous endoscopic gastrostomy (PEG) in advanced dementia does not prolong life, prevent aspiration, or heal ulcers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit. In the clinical approach to Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Advanced Dementia Tube Feeding Counseling on Absence of Clinical Benefit."
+    ],
+    "references": [
+      {
+        "label": "AGS Position Statement on Feeding Tubes in Advanced Dementia",
+        "url": "https://geriatricscareonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8330",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 82-year-old female presents to the academic primary care continuity and preventive medicine clinic for specialized continuity follow-up regarding Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion. Initial investigative workup demonstrates continuous subcutaneous or IV midazolam infusion to relieve refractory physical or existential distress when all targeted treatments have failed. Clinical observations demonstrate blood pressure 132/82 mm Hg, pulse 84/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Continuous subcutaneous or iv midazolam infusion to relieve refractory physical or existential distress when all targeted treatments have failed",
+        "explanation": "In accordance with accredited clinical practice guidelines, continuous subcutaneous or IV midazolam infusion to relieve refractory physical or existential distress when all targeted treatments have failed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, continuous subcutaneous or IV midazolam infusion to relieve refractory physical or existential distress when all targeted treatments have failed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion. In the clinical approach to Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Palliative Sedation for Refractory Intractable Suffering Midazolam Infusion."
+    ],
+    "references": [
+      {
+        "label": "EAPC Framework for Palliative Sedation",
+        "url": "https://www.eapcnet.eu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8331",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Principle of Double Effect in Palliative Opioid and Sedative Administration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Comprehensive clinical assessment is performed for a 83-year-old male who is evaluated in the specialized ambulatory procedural and diagnostic unit presenting with features of Principle of Double Effect in Palliative Opioid and Sedative Administration. Outpatient diagnostic review reveals administering necessary opioids with intention to relieve pain, even if foreseeable secondary effect may be respiratory depression. Clinical observations demonstrate blood pressure 133/83 mm Hg, pulse 85/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering necessary opioids with intention to relieve pain, even if foreseeable secondary effect may be respiratory depression",
+        "explanation": "In accordance with accredited clinical practice guidelines, administering necessary opioids with intention to relieve pain, even if foreseeable secondary effect may be respiratory depression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Principle of Double Effect in Palliative Opioid and Sedative Administration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, administering necessary opioids with intention to relieve pain, even if foreseeable secondary effect may be respiratory depression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Principle of Double Effect in Palliative Opioid and Sedative Administration. In the clinical approach to Principle of Double Effect in Palliative Opioid and Sedative Administration, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Principle of Double Effect in Palliative Opioid and Sedative Administration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Principle of Double Effect in Palliative Opioid and Sedative Administration."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: End of Life Care",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8332",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Decision-Making Capacity Assessment Four Essential Clinical Elements",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 36-year-old female attends the comprehensive regional ambulatory healthcare center for evaluation for routine longitudinal evaluation and management of Decision-Making Capacity Assessment Four Essential Clinical Elements. Review of systems and clinical assessment confirms demonstrating patient ability to understand information, appreciate consequences, reason through choices, and communicate a consistent decision. Clinical observations demonstrate blood pressure 134/84 mm Hg, pulse 86/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating patient ability to understand information, appreciate consequences, reason through choices, and communicate a consistent decision",
+        "explanation": "In accordance with accredited clinical practice guidelines, demonstrating patient ability to understand information, appreciate consequences, reason through choices, and communicate a consistent decision represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Decision-Making Capacity Assessment Four Essential Clinical Elements.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, demonstrating patient ability to understand information, appreciate consequences, reason through choices, and communicate a consistent decision represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Decision-Making Capacity Assessment Four Essential Clinical Elements. In the clinical approach to Decision-Making Capacity Assessment Four Essential Clinical Elements, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Decision-Making Capacity Assessment Four Essential Clinical Elements.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Decision-Making Capacity Assessment Four Essential Clinical Elements."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Decision-Making Capacity",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8333",
+    "exam": "Step 3",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 76-year-old male who attends the continuity family medicine pavilion for targeted follow-up with active concerns related to Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat. Focused review demonstrates emergency psychiatric detention and safety observation for acute suicidal intent with a lethal plan (overriding autonomous refusal). Clinical observations demonstrate blood pressure 135/85 mm Hg, pulse 87/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Emergency psychiatric detention and safety observation for acute suicidal intent with a lethal plan (overriding autonomous refusal)",
+        "explanation": "In accordance with accredited clinical practice guidelines, emergency psychiatric detention and safety observation for acute suicidal intent with a lethal plan (overriding autonomous refusal) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, emergency psychiatric detention and safety observation for acute suicidal intent with a lethal plan (overriding autonomous refusal) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat. In the clinical approach to Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Involuntary Psychiatric Hold 72-Hour Detention for Explicit Suicide Threat."
+    ],
+    "references": [
+      {
+        "label": "APA Practice Guideline for Suicide Risk Assessment",
+        "url": "https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8334",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 52-year-old female presents to the regional emergency receiving and diagnostic resuscitation center requiring guideline-directed evaluation for Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders. Clinical examination and laboratory assessment confirm translating end-of-life care preferences into actionable medical orders (CPR, medical interventions, feeding tubes) across care settings. Clinical observations demonstrate blood pressure 136/86 mm Hg, pulse 88/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 98%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Translating end-of-life care preferences into actionable medical orders (cpr, medical interventions, feeding tubes) across care settings",
+        "explanation": "In accordance with accredited clinical practice guidelines, translating end-of-life care preferences into actionable medical orders (CPR, medical interventions, feeding tubes) across care settings represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, translating end-of-life care preferences into actionable medical orders (CPR, medical interventions, feeding tubes) across care settings represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders. In the clinical approach to Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Physician Orders for Life-Sustaining Treatment (POLST) Actionable EMS Orders."
+    ],
+    "references": [
+      {
+        "label": "National POLST Paradigm Consensus Guidelines",
+        "url": "https://polst.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8335",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is examined in the urgent ambulatory specialist clinic for specialized continuity follow-up regarding Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard. Initial investigative workup demonstrates following designated healthcare power of attorney; deciding what the incapacitated patient would have chosen based on known values. Clinical observations demonstrate blood pressure 137/87 mm Hg, pulse 89/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 99%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Following designated healthcare power of attorney; deciding what the incapacitated patient would have chosen based on known values",
+        "explanation": "In accordance with accredited clinical practice guidelines, following designated healthcare power of attorney; deciding what the incapacitated patient would have chosen based on known values represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, following designated healthcare power of attorney; deciding what the incapacitated patient would have chosen based on known values represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard. In the clinical approach to Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Surrogate Decision-Making Legal Hierarchy and Substituted Judgment Standard."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Surrogate Decision Making",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8336",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Musculoskeletal",
+    "topic": "Competent Adult Refusal of Life-Saving Surgical Amputation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "Comprehensive clinical assessment is performed for a 68-year-old female who is referred for subspecialty assessment in the tertiary ambulatory care center presenting with features of Competent Adult Refusal of Life-Saving Surgical Amputation. Outpatient diagnostic review reveals respecting autonomous informed refusal of amputation in a competent adult with wet gangrene, even when outcome is predictable fatal sepsis. Clinical observations demonstrate blood pressure 138/72 mm Hg, pulse 90/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 96%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Respecting autonomous informed refusal of amputation in a competent adult with wet gangrene, even when outcome is predictable fatal sepsis",
+        "explanation": "In accordance with accredited clinical practice guidelines, respecting autonomous informed refusal of amputation in a competent adult with wet gangrene, even when outcome is predictable fatal sepsis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Competent Adult Refusal of Life-Saving Surgical Amputation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, respecting autonomous informed refusal of amputation in a competent adult with wet gangrene, even when outcome is predictable fatal sepsis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Competent Adult Refusal of Life-Saving Surgical Amputation. In the clinical approach to Competent Adult Refusal of Life-Saving Surgical Amputation, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Competent Adult Refusal of Life-Saving Surgical Amputation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Competent Adult Refusal of Life-Saving Surgical Amputation."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Refusal of Treatment",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8337",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Hematology",
+    "topic": "Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old male presents to the academic primary care continuity and preventive medicine clinic for routine longitudinal evaluation and management of Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols. Review of systems and clinical assessment confirms respecting refusal of PRBCs; utilizing cell salvage, tranexamic acid, erythropoietin, and intravenous iron to support erythropoiesis. Clinical observations demonstrate blood pressure 139/73 mm Hg, pulse 91/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 97%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Respecting refusal of prbcs; utilizing cell salvage, tranexamic acid, erythropoietin, and intravenous iron to support erythropoiesis",
+        "explanation": "In accordance with accredited clinical practice guidelines, respecting refusal of PRBCs; utilizing cell salvage, tranexamic acid, erythropoietin, and intravenous iron to support erythropoiesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, respecting refusal of PRBCs; utilizing cell salvage, tranexamic acid, erythropoietin, and intravenous iron to support erythropoiesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols. In the clinical approach to Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Jehovah Witness Autonomous Blood Refusal and Non-Blood Conservation Protocols."
+    ],
+    "references": [
+      {
+        "label": "AABB Guidelines on Blood Alternatives",
+        "url": "https://www.aabb.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8338",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Confidentiality Breach Justification Imminent Identifiable Third-Party Threat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 20-year-old female who is evaluated in the specialized ambulatory procedural and diagnostic unit with active concerns related to Confidentiality Breach Justification Imminent Identifiable Third-Party Threat. Focused review demonstrates Tarasoff duty to warn and protect requiring direct warning to identified victim and law enforcement when explicit lethal threat is made. Clinical observations demonstrate blood pressure 118/74 mm Hg, pulse 92/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 98%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Tarasoff duty to warn and protect requiring direct warning to identified victim and law enforcement when explicit lethal threat is made",
+        "explanation": "In accordance with accredited clinical practice guidelines, Tarasoff duty to warn and protect requiring direct warning to identified victim and law enforcement when explicit lethal threat is made represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Confidentiality Breach Justification Imminent Identifiable Third-Party Threat.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, Tarasoff duty to warn and protect requiring direct warning to identified victim and law enforcement when explicit lethal threat is made represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Confidentiality Breach Justification Imminent Identifiable Third-Party Threat. In the clinical approach to Confidentiality Breach Justification Imminent Identifiable Third-Party Threat, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Confidentiality Breach Justification Imminent Identifiable Third-Party Threat.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Confidentiality Breach Justification Imminent Identifiable Third-Party Threat."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Confidentiality",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8339",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 60-year-old male attends the comprehensive regional ambulatory healthcare center for evaluation requiring guideline-directed evaluation for Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse. Clinical examination and laboratory assessment confirm immediate confidential notification of Adult Protective Services (APS) based on reasonable suspicion without requiring caregiver consent. Clinical observations demonstrate blood pressure 119/75 mm Hg, pulse 93/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 99%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Immediate confidential notification of adult protective services (aps) based on reasonable suspicion without requiring caregiver consent",
+        "explanation": "In accordance with accredited clinical practice guidelines, immediate confidential notification of Adult Protective Services (APS) based on reasonable suspicion without requiring caregiver consent represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, immediate confidential notification of Adult Protective Services (APS) based on reasonable suspicion without requiring caregiver consent represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse. In the clinical approach to Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mandatory Reporting Suspected Elder Neglect and Caregiver Abuse."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Reporting Abuse",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8340",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Truthful Disclosure of Medical Error and Institutional Apology",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female attends the continuity family medicine pavilion for targeted follow-up for specialized continuity follow-up regarding Truthful Disclosure of Medical Error and Institutional Apology. Initial investigative workup demonstrates prompt honest disclosure of preventable harm to patient/family, sincere apology, explanation of corrective steps, and root cause analysis. Clinical observations demonstrate blood pressure 120/76 mm Hg, pulse 94/min, respiratory rate 14/min, and pulse oximetry oxygen saturation 96%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Prompt honest disclosure of preventable harm to patient/family, sincere apology, explanation of corrective steps, and root cause analysis",
+        "explanation": "In accordance with accredited clinical practice guidelines, prompt honest disclosure of preventable harm to patient/family, sincere apology, explanation of corrective steps, and root cause analysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Truthful Disclosure of Medical Error and Institutional Apology.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, prompt honest disclosure of preventable harm to patient/family, sincere apology, explanation of corrective steps, and root cause analysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Truthful Disclosure of Medical Error and Institutional Apology. In the clinical approach to Truthful Disclosure of Medical Error and Institutional Apology, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Truthful Disclosure of Medical Error and Institutional Apology.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Truthful Disclosure of Medical Error and Institutional Apology."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Disclosing Errors",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8341",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Behavioral Health",
+    "topic": "Physician Health Program Confidential Referral for Clinical Substance Impairment",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "Comprehensive clinical assessment is performed for a 76-year-old male who presents to the regional emergency receiving and diagnostic resuscitation center presenting with features of Physician Health Program Confidential Referral for Clinical Substance Impairment. Outpatient diagnostic review reveals reporting colleague with signs of alcohol or substance impairment on duty to state Physician Health Program (PHP) to protect patient safety. Clinical observations demonstrate blood pressure 121/77 mm Hg, pulse 95/min, respiratory rate 15/min, and pulse oximetry oxygen saturation 97%. What is the most guideline-directed long-term maintenance strategy or inpatient management step indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Reporting colleague with signs of alcohol or substance impairment on duty to state physician health program (php) to protect patient safety",
+        "explanation": "In accordance with accredited clinical practice guidelines, reporting colleague with signs of alcohol or substance impairment on duty to state Physician Health Program (PHP) to protect patient safety represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Physician Health Program Confidential Referral for Clinical Substance Impairment.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, reporting colleague with signs of alcohol or substance impairment on duty to state Physician Health Program (PHP) to protect patient safety represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Physician Health Program Confidential Referral for Clinical Substance Impairment. In the clinical approach to Physician Health Program Confidential Referral for Clinical Substance Impairment, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Physician Health Program Confidential Referral for Clinical Substance Impairment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Physician Health Program Confidential Referral for Clinical Substance Impairment."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Physician Impairment",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8342",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Pharmaceutical Industry Promotional Gifts Ethical Rejection",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 52-year-old female is examined in the urgent ambulatory specialist clinic for routine longitudinal evaluation and management of Pharmaceutical Industry Promotional Gifts Ethical Rejection. Review of systems and clinical assessment confirms refusing personal gifts, paid meals, and branded promotional items from pharmaceutical representatives to protect clinical impartiality. Clinical observations demonstrate blood pressure 122/78 mm Hg, pulse 96/min, respiratory rate 16/min, and pulse oximetry oxygen saturation 98%. What is the most appropriate diagnostic test or therapeutic plan to optimize outcomes for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Refusing personal gifts, paid meals, and branded promotional items from pharmaceutical representatives to protect clinical impartiality",
+        "explanation": "In accordance with accredited clinical practice guidelines, refusing personal gifts, paid meals, and branded promotional items from pharmaceutical representatives to protect clinical impartiality represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pharmaceutical Industry Promotional Gifts Ethical Rejection.",
+        "correct": true
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, refusing personal gifts, paid meals, and branded promotional items from pharmaceutical representatives to protect clinical impartiality represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pharmaceutical Industry Promotional Gifts Ethical Rejection. In the clinical approach to Pharmaceutical Industry Promotional Gifts Ethical Rejection, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pharmaceutical Industry Promotional Gifts Ethical Rejection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pharmaceutical Industry Promotional Gifts Ethical Rejection."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Industry Gifts",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8343",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Hospital Ethics Consultation for Medically Inappropriate CPR Conflict",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "Longitudinal outpatient evaluation is conducted for a 28-year-old male who is referred for subspecialty assessment in the tertiary ambulatory care center with active concerns related to Hospital Ethics Consultation for Medically Inappropriate CPR Conflict. Focused review demonstrates convening multidisciplinary ethics committee and institutional resolution process when family demands CPR in refractory multi-organ failure. Clinical observations demonstrate blood pressure 123/79 mm Hg, pulse 97/min, respiratory rate 17/min, and pulse oximetry oxygen saturation 99%. Which of the following represents the most appropriate initial evaluation or preventive intervention for this patient?",
+    "options": [
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Convening multidisciplinary ethics committee and institutional resolution process when family demands cpr in refractory multi-organ failure",
+        "explanation": "In accordance with accredited clinical practice guidelines, convening multidisciplinary ethics committee and institutional resolution process when family demands CPR in refractory multi-organ failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hospital Ethics Consultation for Medically Inappropriate CPR Conflict.",
+        "correct": true
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, convening multidisciplinary ethics committee and institutional resolution process when family demands CPR in refractory multi-organ failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hospital Ethics Consultation for Medically Inappropriate CPR Conflict. In the clinical approach to Hospital Ethics Consultation for Medically Inappropriate CPR Conflict, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hospital Ethics Consultation for Medically Inappropriate CPR Conflict.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hospital Ethics Consultation for Medically Inappropriate CPR Conflict."
+    ],
+    "references": [
+      {
+        "label": "AMA Code of Medical Ethics: Ineffective Interventions",
+        "url": "https://code-medical-ethics.ama-assn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8344",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "Nervous System",
+    "topic": "Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 68-year-old female presents to the academic primary care continuity and preventive medicine clinic requiring guideline-directed evaluation for Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg. Clinical examination and laboratory assessment confirm pre-oxygenation with 100% FiO2, disconnecting ventilator for 8-10 minutes, observing for respiratory efforts, and confirming PaCO2 >= 60 mm Hg. Clinical observations demonstrate blood pressure 124/80 mm Hg, pulse 70/min, respiratory rate 18/min, and pulse oximetry oxygen saturation 96%. Which of the following is the most appropriate next step in ambulatory management, screening, or clinical decision-making?",
+    "options": [
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      },
+      {
+        "text": "Pre-oxygenation with 100% fio2, disconnecting ventilator for 8-10 minutes, observing for respiratory efforts, and confirming paco2 >= 60 mm hg",
+        "explanation": "In accordance with accredited clinical practice guidelines, pre-oxygenation with 100% FiO2, disconnecting ventilator for 8-10 minutes, observing for respiratory efforts, and confirming PaCO2 >= 60 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, pre-oxygenation with 100% FiO2, disconnecting ventilator for 8-10 minutes, observing for respiratory efforts, and confirming PaCO2 >= 60 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg. In the clinical approach to Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Brain Death Apnea Testing Confirmation PaCO2 >= 60 mm Hg."
+    ],
+    "references": [
+      {
+        "label": "AAN Practice Guideline: Determining Brain Death",
+        "url": "https://www.aan.com/Guidelines"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-8345",
+    "exam": "Step 3",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Deceased Organ Donation Early Notification of Organ Procurement Organization",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is evaluated in the specialized ambulatory procedural and diagnostic unit for specialized continuity follow-up regarding Deceased Organ Donation Early Notification of Organ Procurement Organization. Initial investigative workup demonstrates mandatory early referral to regional OPO before discussing organ donation with surrogate family members to preserve donor viability. Clinical observations demonstrate blood pressure 125/81 mm Hg, pulse 71/min, respiratory rate 19/min, and pulse oximetry oxygen saturation 97%. Which of the following clinical actions best aligns with current evidence-based practice guidelines for this condition?",
+    "options": [
+      {
+        "text": "Mandatory early referral to regional opo before discussing organ donation with surrogate family members to preserve donor viability",
+        "explanation": "In accordance with accredited clinical practice guidelines, mandatory early referral to regional OPO before discussing organ donation with surrogate family members to preserve donor viability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Deceased Organ Donation Early Notification of Organ Procurement Organization.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines, mandatory early referral to regional OPO before discussing organ donation with surrogate family members to preserve donor viability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Deceased Organ Donation Early Notification of Organ Procurement Organization. In the clinical approach to Deceased Organ Donation Early Notification of Organ Procurement Organization, thorough understanding of the underlying pathophysiology, evidence-based diagnostic staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes longitudinal outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Deceased Organ Donation Early Notification of Organ Procurement Organization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Deceased Organ Donation Early Notification of Organ Procurement Organization."
+    ],
+    "references": [
+      {
+        "label": "UNOS/CMS Guidelines on Organ Donation Referral",
+        "url": "https://unos.org/community/policies/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
