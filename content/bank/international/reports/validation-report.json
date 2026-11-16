@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-16T15:37:36.867Z",
-  "totalQuestions": 11172,
+  "validatedAt": "2026-11-16T16:42:21.800Z",
+  "totalQuestions": 11672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -721,6 +721,36 @@
       "count": 100,
       "digest": "2fcdb9cffe430ca1952bdda14cad3d0ab700321cb76056f50fb09e41f21e2355",
       "errors": []
+    },
+    {
+      "name": "batch-intl-121",
+      "count": 100,
+      "digest": "cee31b7316ad21a91e86c99cd0540ed54c2279af589667b37c9f14fe4fae4e3d",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-122",
+      "count": 100,
+      "digest": "c349236a519530566ad9fe1016d129d39594f3ce49f335604e55f319a86e13e5",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-123",
+      "count": 100,
+      "digest": "607fa25f0dcd23d44ff4e8c5dd948fe37679cb1b72b94e10c4403ed9c546e83a",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-124",
+      "count": 100,
+      "digest": "88ef16244c840291ed7cc385b41eca3d0bf95b29d55c5f689d27bd55cb345b57",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-125",
+      "count": 100,
+      "digest": "c412c8e1f4b3c2f311c0e842b85804d2deb929f75d5b552ec5601a986484c307",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -740,23 +770,23 @@
     "UHS MBBS"
   ],
   "subjectsCovered": {
-    "Anatomy": 101,
+    "Anatomy": 104,
     "Biochemistry": 183,
     "Biostatistics": 119,
-    "Ethics": 240,
+    "Ethics": 245,
     "Genetics": 350,
-    "Geriatrics": 108,
+    "Geriatrics": 115,
     "Immunology": 202,
-    "Medicine": 4486,
+    "Medicine": 4718,
     "Microbiology": 246,
-    "Neurology": 273,
-    "Obstetrics": 589,
-    "Pathology": 719,
-    "Pediatrics": 847,
+    "Neurology": 307,
+    "Obstetrics": 627,
+    "Pathology": 725,
+    "Pediatrics": 900,
     "Pharmacology": 565,
     "Physiology": 413,
-    "Psychiatry": 340,
-    "Surgery": 1391
+    "Psychiatry": 362,
+    "Surgery": 1491
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
