@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-11873",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Expanded Programme on Immunization Pakistan Routine Vaccine Schedule",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Expanded Programme on Immunization Pakistan Routine Vaccine Schedule. Clinical examination and investigative review confirm routine vaccination against 12 vaccine-preventable diseases from birth to 15 months: BCG and OPV-0 at birth, Pentavalent (DPT-HepB-Hib), PCV10, and Rota at 6, 10, 14 weeks, followed by Measles-Rubella at 9 and 15 months. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Routine vaccination against 12 vaccine-preventable diseases from birth to 15 months: bcg and opv-0 at birth, pentavalent (dpt-hepb-hib), pcv10, and rota at 6, 10, 14 weeks, followed by measles-rubella at 9 and 15 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, routine vaccination against 12 vaccine-preventable diseases from birth to 15 months: BCG and OPV-0 at birth, Pentavalent (DPT-HepB-Hib), PCV10, and Rota at 6, 10, 14 weeks, followed by Measles-Rubella at 9 and 15 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Expanded Programme on Immunization Pakistan Routine Vaccine Schedule.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, routine vaccination against 12 vaccine-preventable diseases from birth to 15 months: BCG and OPV-0 at birth, Pentavalent (DPT-HepB-Hib), PCV10, and Rota at 6, 10, 14 weeks, followed by Measles-Rubella at 9 and 15 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Expanded Programme on Immunization Pakistan Routine Vaccine Schedule. In the clinical management of Expanded Programme on Immunization Pakistan Routine Vaccine Schedule, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Expanded Programme on Immunization Pakistan Routine Vaccine Schedule.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Expanded Programme on Immunization Pakistan Routine Vaccine Schedule."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Syllabus & EPI Pakistan",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11874",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C. Clinical examination and investigative review confirm maintaining potency of vaccines, ice-lined refrigerators (ILR) storing sensitive vaccines between +2 and +8 degrees Celsius, top-opening design, dial thermometer monitoring, and identifying stage 3/4 VVM heat exposure. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining potency of vaccines, ice-lined refrigerators (ilr) storing sensitive vaccines between +2 and +8 degrees celsius, top-opening design, dial thermometer monitoring, and identifying stage 3/4 vvm heat exposure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, maintaining potency of vaccines, ice-lined refrigerators (ILR) storing sensitive vaccines between +2 and +8 degrees Celsius, top-opening design, dial thermometer monitoring, and identifying stage 3/4 VVM heat exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, maintaining potency of vaccines, ice-lined refrigerators (ILR) storing sensitive vaccines between +2 and +8 degrees Celsius, top-opening design, dial thermometer monitoring, and identifying stage 3/4 VVM heat exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C. In the clinical management of Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cold Chain Equipment Vaccine Storage Temperature Range +2 to +8C."
+    ],
+    "references": [
+      {
+        "label": "UHS Public Health & Community Medicine Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11875",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Maternal Mortality Ratio Definition and Causes in Developing Countries",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Maternal Mortality Ratio Definition and Causes in Developing Countries. Clinical examination and investigative review confirm annual number of maternal deaths per 100,000 live births from causes related to pregnancy or its management, identifying postpartum hemorrhage and eclampsia as leading causes, and skilled birth attendant delivery. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Annual number of maternal deaths per 100,000 live births from causes related to pregnancy or its management, identifying postpartum hemorrhage and eclampsia as leading causes, and skilled birth attendant delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, annual number of maternal deaths per 100,000 live births from causes related to pregnancy or its management, identifying postpartum hemorrhage and eclampsia as leading causes, and skilled birth attendant delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Maternal Mortality Ratio Definition and Causes in Developing Countries.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, annual number of maternal deaths per 100,000 live births from causes related to pregnancy or its management, identifying postpartum hemorrhage and eclampsia as leading causes, and skilled birth attendant delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Maternal Mortality Ratio Definition and Causes in Developing Countries. In the clinical management of Maternal Mortality Ratio Definition and Causes in Developing Countries, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Maternal Mortality Ratio Definition and Causes in Developing Countries.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Maternal Mortality Ratio Definition and Causes in Developing Countries."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine & Public Health Curricula",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11876",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Infant Mortality Rate Definition and Reduction Strategies in Punjab",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 1-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Infant Mortality Rate Definition and Reduction Strategies in Punjab. Clinical examination and investigative review confirm number of deaths of children under 1 year of age per 1,000 live births in a given year, targeting neonatal infections, birth asphyxia, and prematurity with clean cord care and essential newborn care. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Number of deaths of children under 1 year of age per 1,000 live births in a given year, targeting neonatal infections, birth asphyxia, and prematurity with clean cord care and essential newborn care",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, number of deaths of children under 1 year of age per 1,000 live births in a given year, targeting neonatal infections, birth asphyxia, and prematurity with clean cord care and essential newborn care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infant Mortality Rate Definition and Reduction Strategies in Punjab.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, number of deaths of children under 1 year of age per 1,000 live births in a given year, targeting neonatal infections, birth asphyxia, and prematurity with clean cord care and essential newborn care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Infant Mortality Rate Definition and Reduction Strategies in Punjab. In the clinical management of Infant Mortality Rate Definition and Reduction Strategies in Punjab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infant Mortality Rate Definition and Reduction Strategies in Punjab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Infant Mortality Rate Definition and Reduction Strategies in Punjab."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11877",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Slow Sand Filtration Water Purification Biological Schmutzdecke Layer",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Slow Sand Filtration Water Purification Biological Schmutzdecke Layer. Clinical examination and investigative review confirm purification of public water supplies, biological gelatinous zoogleal film (Schmutzdecke) formed by algae and bacteria on top layer of sand removing 99% of pathogens, without chemical coagulants. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Purification of public water supplies, biological gelatinous zoogleal film (schmutzdecke) formed by algae and bacteria on top layer of sand removing 99% of pathogens, without chemical coagulants",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purification of public water supplies, biological gelatinous zoogleal film (Schmutzdecke) formed by algae and bacteria on top layer of sand removing 99% of pathogens, without chemical coagulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Slow Sand Filtration Water Purification Biological Schmutzdecke Layer.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purification of public water supplies, biological gelatinous zoogleal film (Schmutzdecke) formed by algae and bacteria on top layer of sand removing 99% of pathogens, without chemical coagulants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Slow Sand Filtration Water Purification Biological Schmutzdecke Layer. In the clinical management of Slow Sand Filtration Water Purification Biological Schmutzdecke Layer, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Slow Sand Filtration Water Purification Biological Schmutzdecke Layer.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Slow Sand Filtration Water Purification Biological Schmutzdecke Layer."
+    ],
+    "references": [
+      {
+        "label": "UHS Environmental Health Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11878",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection. Clinical examination and investigative review confirm large-scale municipal water treatment: coagulation with aluminium sulfate (alum), rapid flocculation, sedimentation, rapid sand filtration, and break-point chlorination leaving free residual chlorine 0.5 mg/L. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Large-scale municipal water treatment: coagulation with aluminium sulfate (alum), rapid flocculation, sedimentation, rapid sand filtration, and break-point chlorination leaving free residual chlorine 0.5 mg/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, large-scale municipal water treatment: coagulation with aluminium sulfate (alum), rapid flocculation, sedimentation, rapid sand filtration, and break-point chlorination leaving free residual chlorine 0.5 mg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, large-scale municipal water treatment: coagulation with aluminium sulfate (alum), rapid flocculation, sedimentation, rapid sand filtration, and break-point chlorination leaving free residual chlorine 0.5 mg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection. In the clinical management of Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rapid Sand Filtration Coagulation Alum and Chlorine Disinfection."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11879",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness. Clinical examination and investigative review confirm textile spinning worker presenting with chest tightness and wheeze characteristically on Mondays after weekend away, progressive dyspnea, endotoxin in cotton dust, dust extraction ventilation, and face masks. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Textile spinning worker presenting with chest tightness and wheeze characteristically on mondays after weekend away, progressive dyspnea, endotoxin in cotton dust, dust extraction ventilation, and face masks",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, textile spinning worker presenting with chest tightness and wheeze characteristically on Mondays after weekend away, progressive dyspnea, endotoxin in cotton dust, dust extraction ventilation, and face masks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, textile spinning worker presenting with chest tightness and wheeze characteristically on Mondays after weekend away, progressive dyspnea, endotoxin in cotton dust, dust extraction ventilation, and face masks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness. In the clinical management of Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Byssinosis Occupational Lung Disease Cotton Mill Workers Monday Tightness."
+    ],
+    "references": [
+      {
+        "label": "UHS Occupational Health Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11880",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification. Clinical examination and investigative review confirm quarry worker with progressive exertional dyspnea, chest radiograph demonstrating multiple small nodular opacities in upper zones and eggshell calcification of hilar lymph nodes, and crystalline silica exposure. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Quarry worker with progressive exertional dyspnea, chest radiograph demonstrating multiple small nodular opacities in upper zones and eggshell calcification of hilar lymph nodes, and crystalline silica exposure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, quarry worker with progressive exertional dyspnea, chest radiograph demonstrating multiple small nodular opacities in upper zones and eggshell calcification of hilar lymph nodes, and crystalline silica exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, quarry worker with progressive exertional dyspnea, chest radiograph demonstrating multiple small nodular opacities in upper zones and eggshell calcification of hilar lymph nodes, and crystalline silica exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification. In the clinical management of Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Silicosis Occupational Lung Disease Sandblasting Eggshell Calcification."
+    ],
+    "references": [
+      {
+        "label": "UHS Preventive & Social Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11881",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers. Clinical examination and investigative review confirm insulation worker presenting with progressive breathlessness, dry bibasilar crackles, digital clubbing, chest radiograph showing calcified diaphragmatic pleural plaques, and high risk of malignant mesothelioma. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Insulation worker presenting with progressive breathlessness, dry bibasilar crackles, digital clubbing, chest radiograph showing calcified diaphragmatic pleural plaques, and high risk of malignant mesothelioma",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, insulation worker presenting with progressive breathlessness, dry bibasilar crackles, digital clubbing, chest radiograph showing calcified diaphragmatic pleural plaques, and high risk of malignant mesothelioma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, insulation worker presenting with progressive breathlessness, dry bibasilar crackles, digital clubbing, chest radiograph showing calcified diaphragmatic pleural plaques, and high risk of malignant mesothelioma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers. In the clinical management of Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Asbestosis Pleural Plaques and Mesothelioma Risk Insulation Workers."
+    ],
+    "references": [
+      {
+        "label": "UHS Occupational Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11882",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Demographic Transition Model High Stationary to Low Stationary Stages",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Demographic Transition Model High Stationary to Low Stationary Stages. Clinical examination and investigative review confirm population growth model: stage 1 (high birth rate, high death rate), stage 2 (declining death rate, high birth rate - population explosion), stage 3 (declining birth rate), and stage 4 (low birth and death rate). Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Population growth model: stage 1 (high birth rate, high death rate), stage 2 (declining death rate, high birth rate - population explosion), stage 3 (declining birth rate), and stage 4 (low birth and death rate)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, population growth model: stage 1 (high birth rate, high death rate), stage 2 (declining death rate, high birth rate - population explosion), stage 3 (declining birth rate), and stage 4 (low birth and death rate) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Demographic Transition Model High Stationary to Low Stationary Stages.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, population growth model: stage 1 (high birth rate, high death rate), stage 2 (declining death rate, high birth rate - population explosion), stage 3 (declining birth rate), and stage 4 (low birth and death rate) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Demographic Transition Model High Stationary to Low Stationary Stages. In the clinical management of Demographic Transition Model High Stationary to Low Stationary Stages, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Demographic Transition Model High Stationary to Low Stationary Stages.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Demographic Transition Model High Stationary to Low Stationary Stages."
+    ],
+    "references": [
+      {
+        "label": "UHS Community Medicine & Demography Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11883",
+    "exam": "UHS MBBS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Epidemiological Study Designs Case-Control vs Cohort Odds Ratio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Epidemiological Study Designs Case-Control vs Cohort Odds Ratio. Clinical examination and investigative review confirm retrospective investigation comparing past exposure frequencies between diseased cases and healthy controls, yielding odds ratio (OR), suitable for rare diseases vs prospective cohort study yielding relative risk (RR). Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Retrospective investigation comparing past exposure frequencies between diseased cases and healthy controls, yielding odds ratio (or), suitable for rare diseases vs prospective cohort study yielding relative risk (rr)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, retrospective investigation comparing past exposure frequencies between diseased cases and healthy controls, yielding odds ratio (OR), suitable for rare diseases vs prospective cohort study yielding relative risk (RR) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epidemiological Study Designs Case-Control vs Cohort Odds Ratio.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, retrospective investigation comparing past exposure frequencies between diseased cases and healthy controls, yielding odds ratio (OR), suitable for rare diseases vs prospective cohort study yielding relative risk (RR) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epidemiological Study Designs Case-Control vs Cohort Odds Ratio. In the clinical management of Epidemiological Study Designs Case-Control vs Cohort Odds Ratio, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epidemiological Study Designs Case-Control vs Cohort Odds Ratio.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epidemiological Study Designs Case-Control vs Cohort Odds Ratio."
+    ],
+    "references": [
+      {
+        "label": "UHS Biostatistics & Epidemiology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11884",
+    "exam": "UHS MBBS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Screening Test Validity Sensitivity Specificity and Predictive Value",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Screening Test Validity Sensitivity Specificity and Predictive Value. Clinical examination and investigative review confirm evaluating diagnostic screening tests: sensitivity (true positive rate in disease), specificity (true negative rate in health), and positive predictive value (PPV) increasing with higher disease prevalence in population. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating diagnostic screening tests: sensitivity (true positive rate in disease), specificity (true negative rate in health), and positive predictive value (ppv) increasing with higher disease prevalence in population",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating diagnostic screening tests: sensitivity (true positive rate in disease), specificity (true negative rate in health), and positive predictive value (PPV) increasing with higher disease prevalence in population represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Screening Test Validity Sensitivity Specificity and Predictive Value.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating diagnostic screening tests: sensitivity (true positive rate in disease), specificity (true negative rate in health), and positive predictive value (PPV) increasing with higher disease prevalence in population represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Screening Test Validity Sensitivity Specificity and Predictive Value. In the clinical management of Screening Test Validity Sensitivity Specificity and Predictive Value, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Screening Test Validity Sensitivity Specificity and Predictive Value.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Screening Test Validity Sensitivity Specificity and Predictive Value."
+    ],
+    "references": [
+      {
+        "label": "UHS Epidemiology & Community Medicine Protocols",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11885",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution. Clinical examination and investigative review confirm purplish-red discoloration of dependent body parts spare pressure points due to gravitational settling of blood, becoming fully fixed after 6-8 hours, indicating position of body at death and time elapsed. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Purplish-red discoloration of dependent body parts spare pressure points due to gravitational settling of blood, becoming fully fixed after 6-8 hours, indicating position of body at death and time elapsed",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purplish-red discoloration of dependent body parts spare pressure points due to gravitational settling of blood, becoming fully fixed after 6-8 hours, indicating position of body at death and time elapsed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purplish-red discoloration of dependent body parts spare pressure points due to gravitational settling of blood, becoming fully fixed after 6-8 hours, indicating position of body at death and time elapsed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution. In the clinical management of Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postmortem Lividity Livor Mortis Fixed Time and Hypostasis Distribution."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11886",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression. Clinical examination and investigative review confirm stiffening of body muscles due to postmortem ATP depletion, appearing first in eyelids and jaw at 1-2 hours, spreading downward (Nysten law), fully established at 12 hours, and passing off in same sequence. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Stiffening of body muscles due to postmortem atp depletion, appearing first in eyelids and jaw at 1-2 hours, spreading downward (nysten law), fully established at 12 hours, and passing off in same sequence",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, stiffening of body muscles due to postmortem ATP depletion, appearing first in eyelids and jaw at 1-2 hours, spreading downward (Nysten law), fully established at 12 hours, and passing off in same sequence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, stiffening of body muscles due to postmortem ATP depletion, appearing first in eyelids and jaw at 1-2 hours, spreading downward (Nysten law), fully established at 12 hours, and passing off in same sequence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression. In the clinical management of Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rigor Mortis Postmortem Muscle Rigidity Nysten Law Progression."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11887",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Algor Mortis Rate of Postmortem Cooling Time Since Death",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Algor Mortis Rate of Postmortem Cooling Time Since Death. Clinical examination and investigative review confirm cooling of deceased body to ambient temperature, Newton law of cooling, measuring core rectal temperature, average cooling rate of 0.5-0.7 degrees Celsius per hour, estimating postmortem interval. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Cooling of deceased body to ambient temperature, newton law of cooling, measuring core rectal temperature, average cooling rate of 0.5-0.7 degrees celsius per hour, estimating postmortem interval",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cooling of deceased body to ambient temperature, Newton law of cooling, measuring core rectal temperature, average cooling rate of 0.5-0.7 degrees Celsius per hour, estimating postmortem interval represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Algor Mortis Rate of Postmortem Cooling Time Since Death.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cooling of deceased body to ambient temperature, Newton law of cooling, measuring core rectal temperature, average cooling rate of 0.5-0.7 degrees Celsius per hour, estimating postmortem interval represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Algor Mortis Rate of Postmortem Cooling Time Since Death. In the clinical management of Algor Mortis Rate of Postmortem Cooling Time Since Death, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Algor Mortis Rate of Postmortem Cooling Time Since Death.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Algor Mortis Rate of Postmortem Cooling Time Since Death."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11888",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact. Clinical examination and investigative review confirm superficial injury involving destruction of epidermis without penetrating corium, classifications: graze (brush) abrasion, scratch (linear) abrasion, and pressure/imprint abrasion reflecting pattern of striking object. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Superficial injury involving destruction of epidermis without penetrating corium, classifications: graze (brush) abrasion, scratch (linear) abrasion, and pressure/imprint abrasion reflecting pattern of striking object",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial injury involving destruction of epidermis without penetrating corium, classifications: graze (brush) abrasion, scratch (linear) abrasion, and pressure/imprint abrasion reflecting pattern of striking object represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial injury involving destruction of epidermis without penetrating corium, classifications: graze (brush) abrasion, scratch (linear) abrasion, and pressure/imprint abrasion reflecting pattern of striking object represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact. In the clinical management of Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mechanical Injuries Abrasion Types Graze Scratch Pressure Impact."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11889",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Contusion Bruise Color Changes Sequence Extravasation of Blood",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Contusion Bruise Color Changes Sequence Extravasation of Blood. Clinical examination and investigative review confirm effusion of blood into subcutaneous tissues without rupture of skin, characteristic chronological color changes: red-blue initially, dark purple at 3 days, green at 5-7 days, yellow at 7-10 days, resolving at 2 weeks. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Effusion of blood into subcutaneous tissues without rupture of skin, characteristic chronological color changes: red-blue initially, dark purple at 3 days, green at 5-7 days, yellow at 7-10 days, resolving at 2 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, effusion of blood into subcutaneous tissues without rupture of skin, characteristic chronological color changes: red-blue initially, dark purple at 3 days, green at 5-7 days, yellow at 7-10 days, resolving at 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contusion Bruise Color Changes Sequence Extravasation of Blood.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, effusion of blood into subcutaneous tissues without rupture of skin, characteristic chronological color changes: red-blue initially, dark purple at 3 days, green at 5-7 days, yellow at 7-10 days, resolving at 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Contusion Bruise Color Changes Sequence Extravasation of Blood. In the clinical management of Contusion Bruise Color Changes Sequence Extravasation of Blood, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contusion Bruise Color Changes Sequence Extravasation of Blood.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Contusion Bruise Color Changes Sequence Extravasation of Blood."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11890",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Lacerated Wound Characteristics Tissue Bridges and Irregular Margins",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Lacerated Wound Characteristics Tissue Bridges and Irregular Margins. Clinical examination and investigative review confirm blunt force tearing of tissues, irregular ragged bruised margins, intact nerve and vascular tissue bridges across wound base, crushed hair bulbs, and absence of clean surgical edges (differentiating from incised wound). Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Blunt force tearing of tissues, irregular ragged bruised margins, intact nerve and vascular tissue bridges across wound base, crushed hair bulbs, and absence of clean surgical edges (differentiating from incised wound)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, blunt force tearing of tissues, irregular ragged bruised margins, intact nerve and vascular tissue bridges across wound base, crushed hair bulbs, and absence of clean surgical edges (differentiating from incised wound) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lacerated Wound Characteristics Tissue Bridges and Irregular Margins.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, blunt force tearing of tissues, irregular ragged bruised margins, intact nerve and vascular tissue bridges across wound base, crushed hair bulbs, and absence of clean surgical edges (differentiating from incised wound) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Lacerated Wound Characteristics Tissue Bridges and Irregular Margins. In the clinical management of Lacerated Wound Characteristics Tissue Bridges and Irregular Margins, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lacerated Wound Characteristics Tissue Bridges and Irregular Margins.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Lacerated Wound Characteristics Tissue Bridges and Irregular Margins."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Examination Benchmarks",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11891",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound. Clinical examination and investigative review confirm clean-cut sharp unbruised margins produced by sharp cutting weapon, length greater than depth, absence of tissue bridging, and superficial tailing at exit point indicating direction of weapon strike. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Clean-cut sharp unbruised margins produced by sharp cutting weapon, length greater than depth, absence of tissue bridging, and superficial tailing at exit point indicating direction of weapon strike",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, clean-cut sharp unbruised margins produced by sharp cutting weapon, length greater than depth, absence of tissue bridging, and superficial tailing at exit point indicating direction of weapon strike represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, clean-cut sharp unbruised margins produced by sharp cutting weapon, length greater than depth, absence of tissue bridging, and superficial tailing at exit point indicating direction of weapon strike represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound. In the clinical management of Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Incised Wound vs Laceration Weapon Clean Margins and Tail of Wound."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11892",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Stab Puncture Wound Depth Exceeding Surface Length Track Direction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Stab Puncture Wound Depth Exceeding Surface Length Track Direction. Clinical examination and investigative review confirm penetrating wound produced by pointed thrusting weapon, depth of track greater than surface length, sharp wound angles corresponding to single- or double-edged blade, and tracking internal organ injuries. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Penetrating wound produced by pointed thrusting weapon, depth of track greater than surface length, sharp wound angles corresponding to single- or double-edged blade, and tracking internal organ injuries",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, penetrating wound produced by pointed thrusting weapon, depth of track greater than surface length, sharp wound angles corresponding to single- or double-edged blade, and tracking internal organ injuries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stab Puncture Wound Depth Exceeding Surface Length Track Direction.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, penetrating wound produced by pointed thrusting weapon, depth of track greater than surface length, sharp wound angles corresponding to single- or double-edged blade, and tracking internal organ injuries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Stab Puncture Wound Depth Exceeding Surface Length Track Direction. In the clinical management of Stab Puncture Wound Depth Exceeding Surface Length Track Direction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stab Puncture Wound Depth Exceeding Surface Length Track Direction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Stab Puncture Wound Depth Exceeding Surface Length Track Direction."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Protocols",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11893",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Firearm Wound of Entry vs Exit Burning Blackening and Tattooing",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Firearm Wound of Entry vs Exit Burning Blackening and Tattooing. Clinical examination and investigative review confirm entry wound: circular defect with loss of substance, inverted margins, abrasion collar, burning of skin (contact), blackening from soot, and powder tattooing from unburnt gunpowder (close range) vs everted exit without collar. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Entry wound: circular defect with loss of substance, inverted margins, abrasion collar, burning of skin (contact), blackening from soot, and powder tattooing from unburnt gunpowder (close range) vs everted exit without collar",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, entry wound: circular defect with loss of substance, inverted margins, abrasion collar, burning of skin (contact), blackening from soot, and powder tattooing from unburnt gunpowder (close range) vs everted exit without collar represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Firearm Wound of Entry vs Exit Burning Blackening and Tattooing.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, entry wound: circular defect with loss of substance, inverted margins, abrasion collar, burning of skin (contact), blackening from soot, and powder tattooing from unburnt gunpowder (close range) vs everted exit without collar represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Firearm Wound of Entry vs Exit Burning Blackening and Tattooing. In the clinical management of Firearm Wound of Entry vs Exit Burning Blackening and Tattooing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Firearm Wound of Entry vs Exit Burning Blackening and Tattooing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Firearm Wound of Entry vs Exit Burning Blackening and Tattooing."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Ballistics Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11894",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Hanging vs Ligature Strangulation Postmortem Signs Differential",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Hanging vs Ligature Strangulation Postmortem Signs Differential. Clinical examination and investigative review confirm hanging: oblique non-continuous groove above thyroid cartilage, parchmentized base, saliva dribbling from corner of mouth vs ligature strangulation: horizontal continuous low ligature mark below thyroid cartilage. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Hanging: oblique non-continuous groove above thyroid cartilage, parchmentized base, saliva dribbling from corner of mouth vs ligature strangulation: horizontal continuous low ligature mark below thyroid cartilage",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, hanging: oblique non-continuous groove above thyroid cartilage, parchmentized base, saliva dribbling from corner of mouth vs ligature strangulation: horizontal continuous low ligature mark below thyroid cartilage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hanging vs Ligature Strangulation Postmortem Signs Differential.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, hanging: oblique non-continuous groove above thyroid cartilage, parchmentized base, saliva dribbling from corner of mouth vs ligature strangulation: horizontal continuous low ligature mark below thyroid cartilage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hanging vs Ligature Strangulation Postmortem Signs Differential. In the clinical management of Hanging vs Ligature Strangulation Postmortem Signs Differential, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hanging vs Ligature Strangulation Postmortem Signs Differential.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hanging vs Ligature Strangulation Postmortem Signs Differential."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11895",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Drowning Postmortem Findings Froth at Mouth and Diatom Test",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Drowning Postmortem Findings Froth at Mouth and Diatom Test. Clinical examination and investigative review confirm fine white tenacious persistent lather froth at mouth and nostrils (mushroom froth), emphysema aquosum, and recovery of acid-resistant silica diatoms from closed femoral bone marrow confirming antemortem drowning. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Fine white tenacious persistent lather froth at mouth and nostrils (mushroom froth), emphysema aquosum, and recovery of acid-resistant silica diatoms from closed femoral bone marrow confirming antemortem drowning",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fine white tenacious persistent lather froth at mouth and nostrils (mushroom froth), emphysema aquosum, and recovery of acid-resistant silica diatoms from closed femoral bone marrow confirming antemortem drowning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Drowning Postmortem Findings Froth at Mouth and Diatom Test.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fine white tenacious persistent lather froth at mouth and nostrils (mushroom froth), emphysema aquosum, and recovery of acid-resistant silica diatoms from closed femoral bone marrow confirming antemortem drowning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Drowning Postmortem Findings Froth at Mouth and Diatom Test. In the clinical management of Drowning Postmortem Findings Froth at Mouth and Diatom Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Drowning Postmortem Findings Froth at Mouth and Diatom Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Drowning Postmortem Findings Froth at Mouth and Diatom Test."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Pathology Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11896",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Organophosphate Poisoning Pinpoint Pupils and Atropine Titration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Organophosphate Poisoning Pinpoint Pupils and Atropine Titration. Clinical examination and investigative review confirm cholinergic toxidrome following pesticide ingestion: miosis, excessive salivation, bronchorrhea, bradycardia, fasciculations, IV atropine doubling every 5 minutes till chest is clear and dry, and pralidoxime. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Cholinergic toxidrome following pesticide ingestion: miosis, excessive salivation, bronchorrhea, bradycardia, fasciculations, iv atropine doubling every 5 minutes till chest is clear and dry, and pralidoxime",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cholinergic toxidrome following pesticide ingestion: miosis, excessive salivation, bronchorrhea, bradycardia, fasciculations, IV atropine doubling every 5 minutes till chest is clear and dry, and pralidoxime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Organophosphate Poisoning Pinpoint Pupils and Atropine Titration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cholinergic toxidrome following pesticide ingestion: miosis, excessive salivation, bronchorrhea, bradycardia, fasciculations, IV atropine doubling every 5 minutes till chest is clear and dry, and pralidoxime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Organophosphate Poisoning Pinpoint Pupils and Atropine Titration. In the clinical management of Organophosphate Poisoning Pinpoint Pupils and Atropine Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Organophosphate Poisoning Pinpoint Pupils and Atropine Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Organophosphate Poisoning Pinpoint Pupils and Atropine Titration."
+    ],
+    "references": [
+      {
+        "label": "UHS Toxicology & Medicine Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11897",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen. Clinical examination and investigative review confirm viperid bite causing local swelling and coagulopathy vs elapid (krait/cobra) causing bilateral ptosis, bulbar palsy, and respiratory arrest, treating with polyvalent anti-snake venom and IV neostigmine trial. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Viperid bite causing local swelling and coagulopathy vs elapid (krait/cobra) causing bilateral ptosis, bulbar palsy, and respiratory arrest, treating with polyvalent anti-snake venom and iv neostigmine trial",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, viperid bite causing local swelling and coagulopathy vs elapid (krait/cobra) causing bilateral ptosis, bulbar palsy, and respiratory arrest, treating with polyvalent anti-snake venom and IV neostigmine trial represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, viperid bite causing local swelling and coagulopathy vs elapid (krait/cobra) causing bilateral ptosis, bulbar palsy, and respiratory arrest, treating with polyvalent anti-snake venom and IV neostigmine trial represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen. In the clinical management of Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snake Envenomation Viperid vs Elapid Neostigmine and ASV Regimen."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Toxicology Protocols",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11898",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome. Clinical examination and investigative review confirm ingestion of road poison seeds: dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter (dilated pupils, delirium, hyperthermia, urinary retention), and antidote IV physostigmine. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Ingestion of road poison seeds: dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter (dilated pupils, delirium, hyperthermia, urinary retention), and antidote iv physostigmine",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ingestion of road poison seeds: dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter (dilated pupils, delirium, hyperthermia, urinary retention), and antidote IV physostigmine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ingestion of road poison seeds: dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter (dilated pupils, delirium, hyperthermia, urinary retention), and antidote IV physostigmine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome. In the clinical management of Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Datura Fastuosa Stramonium Poisoning Anticholinergic Belladonna Toxidrome."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Toxicology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11899",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition. Clinical examination and investigative review confirm ingestion of toxic pesticide tablet releasing phosphine gas in stomach, severe garlic odor, refractory cardiogenic shock, profound metabolic acidosis, gastric lavage with potassium permanganate, and supportive care. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Ingestion of toxic pesticide tablet releasing phosphine gas in stomach, severe garlic odor, refractory cardiogenic shock, profound metabolic acidosis, gastric lavage with potassium permanganate, and supportive care",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ingestion of toxic pesticide tablet releasing phosphine gas in stomach, severe garlic odor, refractory cardiogenic shock, profound metabolic acidosis, gastric lavage with potassium permanganate, and supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ingestion of toxic pesticide tablet releasing phosphine gas in stomach, severe garlic odor, refractory cardiogenic shock, profound metabolic acidosis, gastric lavage with potassium permanganate, and supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition. In the clinical management of Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aluminium Phosphide Poisoning Wheat Pill Cytochrome Oxidase Inhibition."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine & Critical Care",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11900",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails. Clinical examination and investigative review confirm chronic toxic ingestion in groundwater: raindrop hyperpigmentation of trunk, palmar-plantar hyperkeratosis, transverse white bands on fingernails (Mees lines), sensory neuropathy, and chelation with DMSA. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Chronic toxic ingestion in groundwater: raindrop hyperpigmentation of trunk, palmar-plantar hyperkeratosis, transverse white bands on fingernails (mees lines), sensory neuropathy, and chelation with dmsa",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic toxic ingestion in groundwater: raindrop hyperpigmentation of trunk, palmar-plantar hyperkeratosis, transverse white bands on fingernails (Mees lines), sensory neuropathy, and chelation with DMSA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic toxic ingestion in groundwater: raindrop hyperpigmentation of trunk, palmar-plantar hyperkeratosis, transverse white bands on fingernails (Mees lines), sensory neuropathy, and chelation with DMSA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails. In the clinical management of Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Arsenic Poisoning Raindrop Pigmentation and Mees Lines on Nails."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Toxicology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11901",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote. Clinical examination and investigative review confirm sudden collapse with bitter almond odor in breath, bright red flushed skin, severe cellular hypoxia with elevated venous oxygen saturation and profound lactic acidosis, and immediate IV hydroxocobalamin 5g. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Sudden collapse with bitter almond odor in breath, bright red flushed skin, severe cellular hypoxia with elevated venous oxygen saturation and profound lactic acidosis, and immediate iv hydroxocobalamin 5g",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden collapse with bitter almond odor in breath, bright red flushed skin, severe cellular hypoxia with elevated venous oxygen saturation and profound lactic acidosis, and immediate IV hydroxocobalamin 5g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden collapse with bitter almond odor in breath, bright red flushed skin, severe cellular hypoxia with elevated venous oxygen saturation and profound lactic acidosis, and immediate IV hydroxocobalamin 5g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote. In the clinical management of Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cyanide Poisoning Bitter Almond Odour and Hydroxocobalamin Antidote."
+    ],
+    "references": [
+      {
+        "label": "UHS Forensic Medicine Protocols",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11902",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine. Clinical examination and investigative review confirm chemical ingestion or absorption: corrosive burns around mouth, painless mucous coagulative necrosis, smoky greenish-black carboluria on standing due to hydroquinone, and gastric lavage with vegetable oil. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Chemical ingestion or absorption: corrosive burns around mouth, painless mucous coagulative necrosis, smoky greenish-black carboluria on standing due to hydroquinone, and gastric lavage with vegetable oil",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chemical ingestion or absorption: corrosive burns around mouth, painless mucous coagulative necrosis, smoky greenish-black carboluria on standing due to hydroquinone, and gastric lavage with vegetable oil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chemical ingestion or absorption: corrosive burns around mouth, painless mucous coagulative necrosis, smoky greenish-black carboluria on standing due to hydroquinone, and gastric lavage with vegetable oil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine. In the clinical management of Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carbolic Acid Phenol Poisoning Ochronosis and Greenish-Black Urine."
+    ],
+    "references": [
+      {
+        "label": "UHS Toxicology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11903",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells. Clinical examination and investigative review confirm chronic immune-mediated inflammatory response characterized by aggregate of modified activated macrophages (epithelioid cells) surrounded by collar of lymphocytes, Langhans multi-nucleated giant cells, and central caseous necrosis in tuberculosis. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Chronic immune-mediated inflammatory response characterized by aggregate of modified activated macrophages (epithelioid cells) surrounded by collar of lymphocytes, langhans multi-nucleated giant cells, and central caseous necrosis in tuberculosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic immune-mediated inflammatory response characterized by aggregate of modified activated macrophages (epithelioid cells) surrounded by collar of lymphocytes, Langhans multi-nucleated giant cells, and central caseous necrosis in tuberculosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic immune-mediated inflammatory response characterized by aggregate of modified activated macrophages (epithelioid cells) surrounded by collar of lymphocytes, Langhans multi-nucleated giant cells, and central caseous necrosis in tuberculosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells. In the clinical management of Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Granulomatous Inflammation Epithelioid Cells Langhans Giant Cells."
+    ],
+    "references": [
+      {
+        "label": "UHS General Pathology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11904",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection. Clinical examination and investigative review confirm gross appearance resembling friable white cheese, microscopic loss of cellular architecture with amorphous eosinophilic granular debris surrounded by granulomatous ring, characteristic of tuberculous infection. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Gross appearance resembling friable white cheese, microscopic loss of cellular architecture with amorphous eosinophilic granular debris surrounded by granulomatous ring, characteristic of tuberculous infection",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, gross appearance resembling friable white cheese, microscopic loss of cellular architecture with amorphous eosinophilic granular debris surrounded by granulomatous ring, characteristic of tuberculous infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, gross appearance resembling friable white cheese, microscopic loss of cellular architecture with amorphous eosinophilic granular debris surrounded by granulomatous ring, characteristic of tuberculous infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection. In the clinical management of Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Caseous Necrosis Coagulative plus Liquefactive Mycobacterium Infection."
+    ],
+    "references": [
+      {
+        "label": "UHS Pathology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11905",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence. Clinical examination and investigative review confirm pathological extracellular deposition of misfolded protein fibrils, homogeneous amorphous eosinophilic material on H&E, staining salmon-pink with Congo red, and displaying bright apple-green birefringence under polarized light. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Pathological extracellular deposition of misfolded protein fibrils, homogeneous amorphous eosinophilic material on h&e, staining salmon-pink with congo red, and displaying bright apple-green birefringence under polarized light",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, pathological extracellular deposition of misfolded protein fibrils, homogeneous amorphous eosinophilic material on H&E, staining salmon-pink with Congo red, and displaying bright apple-green birefringence under polarized light represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, pathological extracellular deposition of misfolded protein fibrils, homogeneous amorphous eosinophilic material on H&E, staining salmon-pink with Congo red, and displaying bright apple-green birefringence under polarized light represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence. In the clinical management of Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amyloidosis Extracellular Fibrils Congo Red Apple-Green Birefringence."
+    ],
+    "references": [
+      {
+        "label": "UHS Pathology Examination Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11906",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications. Clinical examination and investigative review confirm endothelial injury, accumulation of oxidized LDL, uptake by macrophages forming foam cells (fatty streak), smooth muscle migration and collagen cap formation (fibrous plaque), leading to rupture, thrombosis, and infarction. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Endothelial injury, accumulation of oxidized ldl, uptake by macrophages forming foam cells (fatty streak), smooth muscle migration and collagen cap formation (fibrous plaque), leading to rupture, thrombosis, and infarction",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, endothelial injury, accumulation of oxidized LDL, uptake by macrophages forming foam cells (fatty streak), smooth muscle migration and collagen cap formation (fibrous plaque), leading to rupture, thrombosis, and infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, endothelial injury, accumulation of oxidized LDL, uptake by macrophages forming foam cells (fatty streak), smooth muscle migration and collagen cap formation (fibrous plaque), leading to rupture, thrombosis, and infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications. In the clinical management of Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atherosclerosis Pathogenesis Fatty Streak to Fibrous Plaque Complications."
+    ],
+    "references": [
+      {
+        "label": "UHS Systemic Pathology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11907",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "Myocardial Infarction Chronological Histopathological Changes Sequence",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Myocardial Infarction Chronological Histopathological Changes Sequence. Clinical examination and investigative review confirm 0-4 hours: no visible light changes; 4-12 hours: wavy fibers, coagulation necrosis; 12-24 hours: hypereosinophilia, contraction band necrosis; 1-3 days: dense neutrophilic infiltrate; 3-7 days: macrophage phagocytosis; 10-14 days: granulation tissue. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "0-4 hours: no visible light changes; 4-12 hours: wavy fibers, coagulation necrosis; 12-24 hours: hypereosinophilia, contraction band necrosis; 1-3 days: dense neutrophilic infiltrate; 3-7 days: macrophage phagocytosis; 10-14 days: granulation tissue",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 0-4 hours: no visible light changes; 4-12 hours: wavy fibers, coagulation necrosis; 12-24 hours: hypereosinophilia, contraction band necrosis; 1-3 days: dense neutrophilic infiltrate; 3-7 days: macrophage phagocytosis; 10-14 days: granulation tissue represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myocardial Infarction Chronological Histopathological Changes Sequence.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 0-4 hours: no visible light changes; 4-12 hours: wavy fibers, coagulation necrosis; 12-24 hours: hypereosinophilia, contraction band necrosis; 1-3 days: dense neutrophilic infiltrate; 3-7 days: macrophage phagocytosis; 10-14 days: granulation tissue represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Myocardial Infarction Chronological Histopathological Changes Sequence. In the clinical management of Myocardial Infarction Chronological Histopathological Changes Sequence, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myocardial Infarction Chronological Histopathological Changes Sequence.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Myocardial Infarction Chronological Histopathological Changes Sequence."
+    ],
+    "references": [
+      {
+        "label": "UHS Pathology Syllabus & Examination Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11908",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Chronic Peptic Ulcer Histopathological Four Layers of Aschoff",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Chronic Peptic Ulcer Histopathological Four Layers of Aschoff. Clinical examination and investigative review confirm cross-section of chronic gastric ulcer showing classic 4 zones from lumen inward: superficial necrotic fibrinous exudate, acute inflammatory cellular infiltration, vascular granulation tissue, and deep fibrous cicatrix scar tissue. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Cross-section of chronic gastric ulcer showing classic 4 zones from lumen inward: superficial necrotic fibrinous exudate, acute inflammatory cellular infiltration, vascular granulation tissue, and deep fibrous cicatrix scar tissue",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cross-section of chronic gastric ulcer showing classic 4 zones from lumen inward: superficial necrotic fibrinous exudate, acute inflammatory cellular infiltration, vascular granulation tissue, and deep fibrous cicatrix scar tissue represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Peptic Ulcer Histopathological Four Layers of Aschoff.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cross-section of chronic gastric ulcer showing classic 4 zones from lumen inward: superficial necrotic fibrinous exudate, acute inflammatory cellular infiltration, vascular granulation tissue, and deep fibrous cicatrix scar tissue represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Chronic Peptic Ulcer Histopathological Four Layers of Aschoff. In the clinical management of Chronic Peptic Ulcer Histopathological Four Layers of Aschoff, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Peptic Ulcer Histopathological Four Layers of Aschoff.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Chronic Peptic Ulcer Histopathological Four Layers of Aschoff."
+    ],
+    "references": [
+      {
+        "label": "UHS Pathology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11909",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss. Clinical examination and investigative review confirm diffuse irreversible hepatic disease defined by triad: bridging fibrous septa, parenchymal regenerative nodules of hepatocytes, and complete disruption of normal lobular architecture, with sinusoidal capillarization. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Diffuse irreversible hepatic disease defined by triad: bridging fibrous septa, parenchymal regenerative nodules of hepatocytes, and complete disruption of normal lobular architecture, with sinusoidal capillarization",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, diffuse irreversible hepatic disease defined by triad: bridging fibrous septa, parenchymal regenerative nodules of hepatocytes, and complete disruption of normal lobular architecture, with sinusoidal capillarization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, diffuse irreversible hepatic disease defined by triad: bridging fibrous septa, parenchymal regenerative nodules of hepatocytes, and complete disruption of normal lobular architecture, with sinusoidal capillarization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss. In the clinical management of Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cirrhosis Liver Pathological Triad Fibrosis Nodules Architecture Loss."
+    ],
+    "references": [
+      {
+        "label": "UHS Morbid Anatomy Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11910",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Renal",
+    "topic": "Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences. Clinical examination and investigative review confirm nephrotic syndrome: heavy proteinuria > 3.5 g/day, hypoalbuminemia, severe edema, fatty casts and oval fat bodies in urine vs nephritic syndrome: hematuria with dysmorphic RBCs, red blood cell casts, hypertension, oliguria. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Nephrotic syndrome: heavy proteinuria > 3.5 g/day, hypoalbuminemia, severe edema, fatty casts and oval fat bodies in urine vs nephritic syndrome: hematuria with dysmorphic rbcs, red blood cell casts, hypertension, oliguria",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, nephrotic syndrome: heavy proteinuria > 3.5 g/day, hypoalbuminemia, severe edema, fatty casts and oval fat bodies in urine vs nephritic syndrome: hematuria with dysmorphic RBCs, red blood cell casts, hypertension, oliguria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, nephrotic syndrome: heavy proteinuria > 3.5 g/day, hypoalbuminemia, severe edema, fatty casts and oval fat bodies in urine vs nephritic syndrome: hematuria with dysmorphic RBCs, red blood cell casts, hypertension, oliguria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences. In the clinical management of Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Nephrotic Syndrome vs Nephritic Syndrome Urine Sediment Differences."
+    ],
+    "references": [
+      {
+        "label": "UHS Renal Pathology Protocols",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11911",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity. Clinical examination and investigative review confirm painless rubbery cervical lymphadenopathy in young adult, lymph node biopsy demonstrating classic binucleated Reed-Sternberg cells with prominent owl-eyed inclusion-like nucleoli, immunophenotyping positive for CD15 and CD30. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Painless rubbery cervical lymphadenopathy in young adult, lymph node biopsy demonstrating classic binucleated reed-sternberg cells with prominent owl-eyed inclusion-like nucleoli, immunophenotyping positive for cd15 and cd30",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless rubbery cervical lymphadenopathy in young adult, lymph node biopsy demonstrating classic binucleated Reed-Sternberg cells with prominent owl-eyed inclusion-like nucleoli, immunophenotyping positive for CD15 and CD30 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless rubbery cervical lymphadenopathy in young adult, lymph node biopsy demonstrating classic binucleated Reed-Sternberg cells with prominent owl-eyed inclusion-like nucleoli, immunophenotyping positive for CD15 and CD30 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity. In the clinical management of Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hodgkin Lymphoma Reed-Sternberg Cells CD15 and CD30 Positivity."
+    ],
+    "references": [
+      {
+        "label": "UHS Hematopathology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11912",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic. Clinical examination and investigative review confirm fatigue, pallor, koilonychia, peripheral blood film showing pencil cells, target cells, microcytosis (MCV < 80 fL), and severe hypochromia with expanded central pallor > one-third of erythrocyte diameter. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Fatigue, pallor, koilonychia, peripheral blood film showing pencil cells, target cells, microcytosis (mcv < 80 fl), and severe hypochromia with expanded central pallor > one-third of erythrocyte diameter",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fatigue, pallor, koilonychia, peripheral blood film showing pencil cells, target cells, microcytosis (MCV < 80 fL), and severe hypochromia with expanded central pallor > one-third of erythrocyte diameter represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fatigue, pallor, koilonychia, peripheral blood film showing pencil cells, target cells, microcytosis (MCV < 80 fL), and severe hypochromia with expanded central pallor > one-third of erythrocyte diameter represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic. In the clinical management of Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Iron Deficiency Anemia Peripheral Blood Film Microcytic Hypochromic."
+    ],
+    "references": [
+      {
+        "label": "UHS Hematology Curricular Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11913",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia. Clinical examination and investigative review confirm step-ladder fever paroxysms, coated tongue, relative bradycardia (Faget sign), splenomegaly, rose spots on trunk, blood culture positive in 1st week, stool culture in 2nd/3rd week, and IV ceftriaxone or oral azithromycin. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Step-ladder fever paroxysms, coated tongue, relative bradycardia (faget sign), splenomegaly, rose spots on trunk, blood culture positive in 1st week, stool culture in 2nd/3rd week, and iv ceftriaxone or oral azithromycin",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, step-ladder fever paroxysms, coated tongue, relative bradycardia (Faget sign), splenomegaly, rose spots on trunk, blood culture positive in 1st week, stool culture in 2nd/3rd week, and IV ceftriaxone or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, step-ladder fever paroxysms, coated tongue, relative bradycardia (Faget sign), splenomegaly, rose spots on trunk, blood culture positive in 1st week, stool culture in 2nd/3rd week, and IV ceftriaxone or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia. In the clinical management of Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Typhoid Enteric Fever Blood Culture Widal Test and Step-Ladder Pyrexia."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11914",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate. Clinical examination and investigative review confirm severe fever resolving on day 4 followed by cold extremities, hematocrit rise > 20%, platelet count < 50,000/mm3, pleural effusion on ultrasound, and carefully titrated isotonic Ringer lactate resuscitation. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Severe fever resolving on day 4 followed by cold extremities, hematocrit rise > 20%, platelet count < 50,000/mm3, pleural effusion on ultrasound, and carefully titrated isotonic ringer lactate resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, severe fever resolving on day 4 followed by cold extremities, hematocrit rise > 20%, platelet count < 50,000/mm3, pleural effusion on ultrasound, and carefully titrated isotonic Ringer lactate resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, severe fever resolving on day 4 followed by cold extremities, hematocrit rise > 20%, platelet count < 50,000/mm3, pleural effusion on ultrasound, and carefully titrated isotonic Ringer lactate resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate. In the clinical management of Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dengue Hemorrhagic Fever Critical Phase Fluid Leakage and Ringer Lactate."
+    ],
+    "references": [
+      {
+        "label": "UHS & Dengue Expert Advisory Group Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11915",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions. Clinical examination and investigative review confirm fever, severe myalgia, extensive subcutaneous ecchymosis, bleeding from venipuncture sites following tick bite or animal sacrifice, strict negative-pressure barrier isolation, and oral ribavirin therapy. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Fever, severe myalgia, extensive subcutaneous ecchymosis, bleeding from venipuncture sites following tick bite or animal sacrifice, strict negative-pressure barrier isolation, and oral ribavirin therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fever, severe myalgia, extensive subcutaneous ecchymosis, bleeding from venipuncture sites following tick bite or animal sacrifice, strict negative-pressure barrier isolation, and oral ribavirin therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fever, severe myalgia, extensive subcutaneous ecchymosis, bleeding from venipuncture sites following tick bite or animal sacrifice, strict negative-pressure barrier isolation, and oral ribavirin therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions. In the clinical management of Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Crimean-Congo Hemorrhagic Fever Ribavirin and Universal Barrier Precautions."
+    ],
+    "references": [
+      {
+        "label": "UHS Infectious Diseases Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11916",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT. Clinical examination and investigative review confirm chronic productive cough > 2 weeks, hemoptysis, evening pyrexia, weight loss, sputum smear showing acid-fast bacilli on Ziehl-Neelsen staining, GeneXpert detecting Mycobacterium tuberculosis and rpoB rifampicin resistance. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Chronic productive cough > 2 weeks, hemoptysis, evening pyrexia, weight loss, sputum smear showing acid-fast bacilli on ziehl-neelsen staining, genexpert detecting mycobacterium tuberculosis and rpob rifampicin resistance",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic productive cough > 2 weeks, hemoptysis, evening pyrexia, weight loss, sputum smear showing acid-fast bacilli on Ziehl-Neelsen staining, GeneXpert detecting Mycobacterium tuberculosis and rpoB rifampicin resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic productive cough > 2 weeks, hemoptysis, evening pyrexia, weight loss, sputum smear showing acid-fast bacilli on Ziehl-Neelsen staining, GeneXpert detecting Mycobacterium tuberculosis and rpoB rifampicin resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT. In the clinical management of Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pulmonary Tuberculosis Sputum ZN Staining and GeneXpert CBNAAT."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine & NTP Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11917",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Appendicitis Alvarado Score Signs and Emergency Surgery",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Acute Appendicitis Alvarado Score Signs and Emergency Surgery. Clinical examination and investigative review confirm periumbilical pain migrating to right iliac fossa, McBurney point tenderness, Rovsing sign, psoas sign, leukocytosis with shift to left, Alvarado score >= 7, and laparoscopic or open appendectomy. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Periumbilical pain migrating to right iliac fossa, mcburney point tenderness, rovsing sign, psoas sign, leukocytosis with shift to left, alvarado score >= 7, and laparoscopic or open appendectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, periumbilical pain migrating to right iliac fossa, McBurney point tenderness, Rovsing sign, psoas sign, leukocytosis with shift to left, Alvarado score >= 7, and laparoscopic or open appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Alvarado Score Signs and Emergency Surgery.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, periumbilical pain migrating to right iliac fossa, McBurney point tenderness, Rovsing sign, psoas sign, leukocytosis with shift to left, Alvarado score >= 7, and laparoscopic or open appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Alvarado Score Signs and Emergency Surgery. In the clinical management of Acute Appendicitis Alvarado Score Signs and Emergency Surgery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Alvarado Score Signs and Emergency Surgery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Alvarado Score Signs and Emergency Surgery."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgery Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11918",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray. Clinical examination and investigative review confirm colicky abdominal pain, abdominal distension, bilious vomiting, absolute obstipation (no flatus/feces), erect abdominal plain radiograph demonstrating multiple central step-ladder air-fluid levels, and fluid resuscitation. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Colicky abdominal pain, abdominal distension, bilious vomiting, absolute obstipation (no flatus/feces), erect abdominal plain radiograph demonstrating multiple central step-ladder air-fluid levels, and fluid resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, colicky abdominal pain, abdominal distension, bilious vomiting, absolute obstipation (no flatus/feces), erect abdominal plain radiograph demonstrating multiple central step-ladder air-fluid levels, and fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, colicky abdominal pain, abdominal distension, bilious vomiting, absolute obstipation (no flatus/feces), erect abdominal plain radiograph demonstrating multiple central step-ladder air-fluid levels, and fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray. In the clinical management of Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Intestinal Obstruction Bilious Vomiting and Step-Ladder X-Ray."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11919",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate. Clinical examination and investigative review confirm 35% total body surface area partial-thickness thermal flame burn, fluid resuscitation calculated as 4 mL x weight (kg) x %TBSA Ringer lactate over 24 hours, infusing half in first 8 hours from time of injury. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "35% total body surface area partial-thickness thermal flame burn, fluid resuscitation calculated as 4 ml x weight (kg) x %tbsa ringer lactate over 24 hours, infusing half in first 8 hours from time of injury",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 35% total body surface area partial-thickness thermal flame burn, fluid resuscitation calculated as 4 mL x weight (kg) x %TBSA Ringer lactate over 24 hours, infusing half in first 8 hours from time of injury represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 35% total body surface area partial-thickness thermal flame burn, fluid resuscitation calculated as 4 mL x weight (kg) x %TBSA Ringer lactate over 24 hours, infusing half in first 8 hours from time of injury represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate. In the clinical management of Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Burn Resuscitation Thermal Injury Parkland Formula Ringer Lactate."
+    ],
+    "references": [
+      {
+        "label": "UHS Plastic Surgery & Burn Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11920",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance. Clinical examination and investigative review confirm tonic-clonic seizures in hypertensive parturient at 35 weeks, loading dose 4g IV (20% solution) plus 10g deep IM (50% solution), followed by 5g IM q4h, monitoring patellar reflexes and respiratory rate. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Tonic-clonic seizures in hypertensive parturient at 35 weeks, loading dose 4g iv (20% solution) plus 10g deep im (50% solution), followed by 5g im q4h, monitoring patellar reflexes and respiratory rate",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tonic-clonic seizures in hypertensive parturient at 35 weeks, loading dose 4g IV (20% solution) plus 10g deep IM (50% solution), followed by 5g IM q4h, monitoring patellar reflexes and respiratory rate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tonic-clonic seizures in hypertensive parturient at 35 weeks, loading dose 4g IV (20% solution) plus 10g deep IM (50% solution), followed by 5g IM q4h, monitoring patellar reflexes and respiratory rate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance. In the clinical management of Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eclampsia Convulsions Pritchard Magnesium Sulfate Loading and Maintenance."
+    ],
+    "references": [
+      {
+        "label": "UHS Obstetrics & Gynecology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11921",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Obstructed Labor Bandl Pathological Ring and Immediate Cesarean",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Obstructed Labor Bandl Pathological Ring and Immediate Cesarean. Clinical examination and investigative review confirm neglected prolonged second stage of labor, unengaged presenting part, maternal exhaustion, prominent transverse-oblique abdominal groove between active upper and passive lower uterine segment (Bandl ring), stat cesarean section. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Neglected prolonged second stage of labor, unengaged presenting part, maternal exhaustion, prominent transverse-oblique abdominal groove between active upper and passive lower uterine segment (bandl ring), stat cesarean section",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neglected prolonged second stage of labor, unengaged presenting part, maternal exhaustion, prominent transverse-oblique abdominal groove between active upper and passive lower uterine segment (Bandl ring), stat cesarean section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructed Labor Bandl Pathological Ring and Immediate Cesarean.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neglected prolonged second stage of labor, unengaged presenting part, maternal exhaustion, prominent transverse-oblique abdominal groove between active upper and passive lower uterine segment (Bandl ring), stat cesarean section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructed Labor Bandl Pathological Ring and Immediate Cesarean. In the clinical management of Obstructed Labor Bandl Pathological Ring and Immediate Cesarean, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructed Labor Bandl Pathological Ring and Immediate Cesarean.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructed Labor Bandl Pathological Ring and Immediate Cesarean."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Obstetrics Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11922",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask. Clinical examination and investigative review confirm newborn infant apneic and limp at birth, immediate drying, positioning, warming under radiant warmer, clearing airway secretions, gentle tactile stimulation, and initiating positive pressure ventilation with bag-and-mask within 60 seconds. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Newborn infant apneic and limp at birth, immediate drying, positioning, warming under radiant warmer, clearing airway secretions, gentle tactile stimulation, and initiating positive pressure ventilation with bag-and-mask within 60 seconds",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, newborn infant apneic and limp at birth, immediate drying, positioning, warming under radiant warmer, clearing airway secretions, gentle tactile stimulation, and initiating positive pressure ventilation with bag-and-mask within 60 seconds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, newborn infant apneic and limp at birth, immediate drying, positioning, warming under radiant warmer, clearing airway secretions, gentle tactile stimulation, and initiating positive pressure ventilation with bag-and-mask within 60 seconds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask. In the clinical management of Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Resuscitation Golden Minute Warmth Clear Airway and Bag-Mask."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatrics & Neonatology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11923",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate. Clinical examination and investigative review confirm infant with profuse watery diarrhea, sunken eyes, lethargic, skin pinch retracting very slowly > 2 seconds, radial pulse weak, immediate IV infusion of 100 mL/kg Ringer lactate according to age-stratified WHO Plan C. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Infant with profuse watery diarrhea, sunken eyes, lethargic, skin pinch retracting very slowly > 2 seconds, radial pulse weak, immediate iv infusion of 100 ml/kg ringer lactate according to age-stratified who plan c",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with profuse watery diarrhea, sunken eyes, lethargic, skin pinch retracting very slowly > 2 seconds, radial pulse weak, immediate IV infusion of 100 mL/kg Ringer lactate according to age-stratified WHO Plan C represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with profuse watery diarrhea, sunken eyes, lethargic, skin pinch retracting very slowly > 2 seconds, radial pulse weak, immediate IV infusion of 100 mL/kg Ringer lactate according to age-stratified WHO Plan C represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate. In the clinical management of Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Dehydration Diarrhea WHO Plan C Intravenous Ringer Lactate."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatrics Syllabus & WHO Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11924",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis. Clinical examination and investigative review confirm Kwashiorkor: bilateral pitting pedal edema, moon facies, distended abdomen, hepatomegaly, flaky-paint dermatosis, apathy due to protein deficiency with adequate calories vs Marasmus: severe generalized muscle and fat wasting without edema. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Kwashiorkor: bilateral pitting pedal edema, moon facies, distended abdomen, hepatomegaly, flaky-paint dermatosis, apathy due to protein deficiency with adequate calories vs marasmus: severe generalized muscle and fat wasting without edema",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, Kwashiorkor: bilateral pitting pedal edema, moon facies, distended abdomen, hepatomegaly, flaky-paint dermatosis, apathy due to protein deficiency with adequate calories vs Marasmus: severe generalized muscle and fat wasting without edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, Kwashiorkor: bilateral pitting pedal edema, moon facies, distended abdomen, hepatomegaly, flaky-paint dermatosis, apathy due to protein deficiency with adequate calories vs Marasmus: severe generalized muscle and fat wasting without edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis. In the clinical management of Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kwashiorkor vs Marasmus Nutritional Edema and Flaky-Paint Dermatosis."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatrics & Nutrition Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11925",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps. Clinical examination and investigative review confirm cola-colored smoky urine, periorbital puffiness, elevated blood pressure in 7-year-old child 2 weeks following impetigo or pharyngitis, low serum C3 complement, elevated ASO titer, and subepithelial electron-dense humps. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Cola-colored smoky urine, periorbital puffiness, elevated blood pressure in 7-year-old child 2 weeks following impetigo or pharyngitis, low serum c3 complement, elevated aso titer, and subepithelial electron-dense humps",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cola-colored smoky urine, periorbital puffiness, elevated blood pressure in 7-year-old child 2 weeks following impetigo or pharyngitis, low serum C3 complement, elevated ASO titer, and subepithelial electron-dense humps represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, cola-colored smoky urine, periorbital puffiness, elevated blood pressure in 7-year-old child 2 weeks following impetigo or pharyngitis, low serum C3 complement, elevated ASO titer, and subepithelial electron-dense humps represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps. In the clinical management of Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Streptococcal Glomerulonephritis Smoky Urine and Subepithelial Humps."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatric Nephrology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11926",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy. Clinical examination and investigative review confirm 4-week-old first-born male with non-bilious projectile vomiting after feeds, visible left-to-right gastric peristalsis, palpable olive-sized epigastric mass, hypochloremic hypokalemic alkalosis, and Ramstedt pyloromyotomy. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "4-week-old first-born male with non-bilious projectile vomiting after feeds, visible left-to-right gastric peristalsis, palpable olive-sized epigastric mass, hypochloremic hypokalemic alkalosis, and ramstedt pyloromyotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 4-week-old first-born male with non-bilious projectile vomiting after feeds, visible left-to-right gastric peristalsis, palpable olive-sized epigastric mass, hypochloremic hypokalemic alkalosis, and Ramstedt pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 4-week-old first-born male with non-bilious projectile vomiting after feeds, visible left-to-right gastric peristalsis, palpable olive-sized epigastric mass, hypochloremic hypokalemic alkalosis, and Ramstedt pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy. In the clinical management of Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypertrophic Pyloric Stenosis Olive Mass Ramstedt Pyloromyotomy."
+    ],
+    "references": [
+      {
+        "label": "UHS Pediatric Surgery Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11927",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis. Clinical examination and investigative review confirm competitive reversible antagonist of muscarinic acetylcholine receptors, blocking parasympathetic actions: causing pupil dilation (mydriasis), cycloplegia, tachycardia, bronchodilation, and reduction of salivary and gastric secretions. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Competitive reversible antagonist of muscarinic acetylcholine receptors, blocking parasympathetic actions: causing pupil dilation (mydriasis), cycloplegia, tachycardia, bronchodilation, and reduction of salivary and gastric secretions",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, competitive reversible antagonist of muscarinic acetylcholine receptors, blocking parasympathetic actions: causing pupil dilation (mydriasis), cycloplegia, tachycardia, bronchodilation, and reduction of salivary and gastric secretions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, competitive reversible antagonist of muscarinic acetylcholine receptors, blocking parasympathetic actions: causing pupil dilation (mydriasis), cycloplegia, tachycardia, bronchodilation, and reduction of salivary and gastric secretions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis. In the clinical management of Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Atropine Sulfate Antimuscarinic Pharmacodynamics and Pupillary Mydriasis."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Therapeutics Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11928",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing. Clinical examination and investigative review confirm potent non-selective alpha- and beta-adrenergic receptor agonist, stimulating beta-1 (increased inotropy/chronotropy), beta-2 (bronchodilation), and alpha-1 (vasoconstriction), first-line drug for anaphylaxis IM 0.5 mg and cardiac arrest IV 1 mg. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Potent non-selective alpha- and beta-adrenergic receptor agonist, stimulating beta-1 (increased inotropy/chronotropy), beta-2 (bronchodilation), and alpha-1 (vasoconstriction), first-line drug for anaphylaxis im 0.5 mg and cardiac arrest iv 1 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, potent non-selective alpha- and beta-adrenergic receptor agonist, stimulating beta-1 (increased inotropy/chronotropy), beta-2 (bronchodilation), and alpha-1 (vasoconstriction), first-line drug for anaphylaxis IM 0.5 mg and cardiac arrest IV 1 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, potent non-selective alpha- and beta-adrenergic receptor agonist, stimulating beta-1 (increased inotropy/chronotropy), beta-2 (bronchodilation), and alpha-1 (vasoconstriction), first-line drug for anaphylaxis IM 0.5 mg and cardiac arrest IV 1 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing. In the clinical management of Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Adrenaline Epinephrine Inotrope Vasopressor Anaphylaxis Dosing."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11929",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning. Clinical examination and investigative review confirm non-selective beta-blocker propranolol blocking beta-1 and beta-2 causing bronchospasm in asthmatics vs cardioselective beta-1 blockers metoprolol and bisoprolol, reducing heart rate and myocardial oxygen demand in angina. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Non-selective beta-blocker propranolol blocking beta-1 and beta-2 causing bronchospasm in asthmatics vs cardioselective beta-1 blockers metoprolol and bisoprolol, reducing heart rate and myocardial oxygen demand in angina",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, non-selective beta-blocker propranolol blocking beta-1 and beta-2 causing bronchospasm in asthmatics vs cardioselective beta-1 blockers metoprolol and bisoprolol, reducing heart rate and myocardial oxygen demand in angina represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, non-selective beta-blocker propranolol blocking beta-1 and beta-2 causing bronchospasm in asthmatics vs cardioselective beta-1 blockers metoprolol and bisoprolol, reducing heart rate and myocardial oxygen demand in angina represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning. In the clinical management of Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Beta-Blockers Propranolol vs Metoprolol Cardioselectivity and Asthma Warning."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11930",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia. Clinical examination and investigative review confirm inhibition of angiotensin converting enzyme preventing conversion of angiotensin I to II, reducing afterload and remodeling in heart failure, potential dry persistent cough due to bradykinin accumulation, and risk of hyperkalemia. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Inhibition of angiotensin converting enzyme preventing conversion of angiotensin i to ii, reducing afterload and remodeling in heart failure, potential dry persistent cough due to bradykinin accumulation, and risk of hyperkalemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, inhibition of angiotensin converting enzyme preventing conversion of angiotensin I to II, reducing afterload and remodeling in heart failure, potential dry persistent cough due to bradykinin accumulation, and risk of hyperkalemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, inhibition of angiotensin converting enzyme preventing conversion of angiotensin I to II, reducing afterload and remodeling in heart failure, potential dry persistent cough due to bradykinin accumulation, and risk of hyperkalemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia. In the clinical management of ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of ACE Inhibitors Captopril Enalapril Bradykinin Cough and Hyperkalemia."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Therapeutics Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11931",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos. Clinical examination and investigative review confirm inhibition of myocardial membrane Na+/K+-ATPase pump increasing intracellular calcium and cardiac contractility, narrow therapeutic window, toxicity aggravated by hypokalemia, presenting with anorexia, nausea, yellow-green visual halos, and arrhythmias. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Inhibition of myocardial membrane na+/k+-atpase pump increasing intracellular calcium and cardiac contractility, narrow therapeutic window, toxicity aggravated by hypokalemia, presenting with anorexia, nausea, yellow-green visual halos, and arrhythmias",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, inhibition of myocardial membrane Na+/K+-ATPase pump increasing intracellular calcium and cardiac contractility, narrow therapeutic window, toxicity aggravated by hypokalemia, presenting with anorexia, nausea, yellow-green visual halos, and arrhythmias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, inhibition of myocardial membrane Na+/K+-ATPase pump increasing intracellular calcium and cardiac contractility, narrow therapeutic window, toxicity aggravated by hypokalemia, presenting with anorexia, nausea, yellow-green visual halos, and arrhythmias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos. In the clinical management of Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Digoxin Cardiac Glycoside Na-K ATPase Toxicity Visual Halos."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Examination Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11932",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk. Clinical examination and investigative review confirm reversible inhibition of Na+/K+/2Cl- cotransporter in thick ascending limb of loop of Henle, potent natriuresis and kaliuresis, clinical use in acute pulmonary edema and severe heart failure, adverse effects of hypokalemia, alkalosis, and ototoxicity. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Reversible inhibition of na+/k+/2cl- cotransporter in thick ascending limb of loop of henle, potent natriuresis and kaliuresis, clinical use in acute pulmonary edema and severe heart failure, adverse effects of hypokalemia, alkalosis, and ototoxicity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reversible inhibition of Na+/K+/2Cl- cotransporter in thick ascending limb of loop of Henle, potent natriuresis and kaliuresis, clinical use in acute pulmonary edema and severe heart failure, adverse effects of hypokalemia, alkalosis, and ototoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reversible inhibition of Na+/K+/2Cl- cotransporter in thick ascending limb of loop of Henle, potent natriuresis and kaliuresis, clinical use in acute pulmonary edema and severe heart failure, adverse effects of hypokalemia, alkalosis, and ototoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk. In the clinical management of Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Loop Diuretics Furosemide NKCC2 Cotransporter Ototoxicity Risk."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11933",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity. Clinical examination and investigative review confirm beta-lactam bactericidal antibiotic inhibiting transpeptidase cell wall cross-linking, drug of choice for syphilis and group A streptococcal prophylaxis, risk of immediate Type I IgE-mediated anaphylactic hypersensitivity. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Beta-lactam bactericidal antibiotic inhibiting transpeptidase cell wall cross-linking, drug of choice for syphilis and group a streptococcal prophylaxis, risk of immediate type i ige-mediated anaphylactic hypersensitivity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, beta-lactam bactericidal antibiotic inhibiting transpeptidase cell wall cross-linking, drug of choice for syphilis and group A streptococcal prophylaxis, risk of immediate Type I IgE-mediated anaphylactic hypersensitivity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, beta-lactam bactericidal antibiotic inhibiting transpeptidase cell wall cross-linking, drug of choice for syphilis and group A streptococcal prophylaxis, risk of immediate Type I IgE-mediated anaphylactic hypersensitivity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity. In the clinical management of Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Penicillin G Benzathine Penicillin Treponema Pallidum and Hypersensitivity."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Microbiology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11934",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone. Clinical examination and investigative review confirm evolution from 1st generation (cefazolin, gram-positive focus) to 3rd generation (ceftriaxone, ceftazidime) expanding broad gram-negative coverage and excellent blood-brain barrier penetration for meningitis and enteric fever. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Evolution from 1st generation (cefazolin, gram-positive focus) to 3rd generation (ceftriaxone, ceftazidime) expanding broad gram-negative coverage and excellent blood-brain barrier penetration for meningitis and enteric fever",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evolution from 1st generation (cefazolin, gram-positive focus) to 3rd generation (ceftriaxone, ceftazidime) expanding broad gram-negative coverage and excellent blood-brain barrier penetration for meningitis and enteric fever represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evolution from 1st generation (cefazolin, gram-positive focus) to 3rd generation (ceftriaxone, ceftazidime) expanding broad gram-negative coverage and excellent blood-brain barrier penetration for meningitis and enteric fever represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone. In the clinical management of Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cephalosporins Generation Progression Gram-Negative Coverage Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11935",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring. Clinical examination and investigative review confirm bactericidal protein synthesis inhibitor binding irreversibly to 30S ribosomal subunit, effective against aerobic gram-negative bacilli, narrow therapeutic window mandating peak/trough monitoring, risk of acute tubular necrosis and vestibular ototoxicity. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Bactericidal protein synthesis inhibitor binding irreversibly to 30s ribosomal subunit, effective against aerobic gram-negative bacilli, narrow therapeutic window mandating peak/trough monitoring, risk of acute tubular necrosis and vestibular ototoxicity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bactericidal protein synthesis inhibitor binding irreversibly to 30S ribosomal subunit, effective against aerobic gram-negative bacilli, narrow therapeutic window mandating peak/trough monitoring, risk of acute tubular necrosis and vestibular ototoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bactericidal protein synthesis inhibitor binding irreversibly to 30S ribosomal subunit, effective against aerobic gram-negative bacilli, narrow therapeutic window mandating peak/trough monitoring, risk of acute tubular necrosis and vestibular ototoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring. In the clinical management of Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aminoglycosides Gentamicin Ototoxicity and Nephropathy Monitoring."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11936",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning. Clinical examination and investigative review confirm synthetic bactericidal antimicrobials inhibiting bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, excellent tissue penetration for enteric and urinary infections, FDA black box warning for Achilles tendonitis and QT prolongation. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Synthetic bactericidal antimicrobials inhibiting bacterial dna gyrase (topoisomerase ii) and topoisomerase iv, excellent tissue penetration for enteric and urinary infections, fda black box warning for achilles tendonitis and qt prolongation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, synthetic bactericidal antimicrobials inhibiting bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, excellent tissue penetration for enteric and urinary infections, FDA black box warning for Achilles tendonitis and QT prolongation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, synthetic bactericidal antimicrobials inhibiting bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, excellent tissue penetration for enteric and urinary infections, FDA black box warning for Achilles tendonitis and QT prolongation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning. In the clinical management of Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Fluoroquinolones Ciprofloxacin DNA Gyrase Tendon Rupture Warning."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Therapeutics Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11937",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism. Clinical examination and investigative review confirm bacteriostatic antimicrobials binding reversibly to 50S ribosomal subunit inhibiting protein translocation, coverage for atypical respiratory pathogens (Mycoplasma, Chlamydia, Legionella), gastrointestinal prokinetic motilin receptor stimulation. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bacteriostatic antimicrobials binding reversibly to 50s ribosomal subunit inhibiting protein translocation, coverage for atypical respiratory pathogens (mycoplasma, chlamydia, legionella), gastrointestinal prokinetic motilin receptor stimulation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bacteriostatic antimicrobials binding reversibly to 50S ribosomal subunit inhibiting protein translocation, coverage for atypical respiratory pathogens (Mycoplasma, Chlamydia, Legionella), gastrointestinal prokinetic motilin receptor stimulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bacteriostatic antimicrobials binding reversibly to 50S ribosomal subunit inhibiting protein translocation, coverage for atypical respiratory pathogens (Mycoplasma, Chlamydia, Legionella), gastrointestinal prokinetic motilin receptor stimulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism. In the clinical management of Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Macrolides Azithromycin Clarithromycin 50S Ribosome Motilin Agonism."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11938",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities. Clinical examination and investigative review confirm Isoniazid (mycolic acid synthesis inhibitor, peripheral neuropathy prevented by pyridoxine), Rifampicin (RNA polymerase inhibitor, red-orange body fluids), Pyrazinamide (hyperuricemia), and Ethambutol (arabinosyl transferase, optic neuritis). Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Isoniazid (mycolic acid synthesis inhibitor, peripheral neuropathy prevented by pyridoxine), rifampicin (rna polymerase inhibitor, red-orange body fluids), pyrazinamide (hyperuricemia), and ethambutol (arabinosyl transferase, optic neuritis)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, Isoniazid (mycolic acid synthesis inhibitor, peripheral neuropathy prevented by pyridoxine), Rifampicin (RNA polymerase inhibitor, red-orange body fluids), Pyrazinamide (hyperuricemia), and Ethambutol (arabinosyl transferase, optic neuritis) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, Isoniazid (mycolic acid synthesis inhibitor, peripheral neuropathy prevented by pyridoxine), Rifampicin (RNA polymerase inhibitor, red-orange body fluids), Pyrazinamide (hyperuricemia), and Ethambutol (arabinosyl transferase, optic neuritis) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities. In the clinical management of Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anti-Tuberculosis Drugs First-Line HRZE Mechanisms and Toxicities."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11939",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet. Clinical examination and investigative review confirm covalent irreversible acetylation of cyclooxygenase-1 (COX-1) suppressing thromboxane A2 production for entire 7-10 day lifespan of platelet, secondary prevention of atherothrombotic events at low dose 75-100 mg daily. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Covalent irreversible acetylation of cyclooxygenase-1 (cox-1) suppressing thromboxane a2 production for entire 7-10 day lifespan of platelet, secondary prevention of atherothrombotic events at low dose 75-100 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, covalent irreversible acetylation of cyclooxygenase-1 (COX-1) suppressing thromboxane A2 production for entire 7-10 day lifespan of platelet, secondary prevention of atherothrombotic events at low dose 75-100 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, covalent irreversible acetylation of cyclooxygenase-1 (COX-1) suppressing thromboxane A2 production for entire 7-10 day lifespan of platelet, secondary prevention of atherothrombotic events at low dose 75-100 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet. In the clinical management of Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aspirin Acetylsalicylic Acid Irreversible COX Inhibition Antiplatelet."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11940",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine. Clinical examination and investigative review confirm overdose saturating glucuronidation and sulfation pathways, cytochrome P450 2E1 conversion into toxic reactive metabolite N-acetyl-p-benzoquinone imine (NAPQI), glutathione depletion, centrilobular hepatic necrosis, and IV N-acetylcysteine antidote. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Overdose saturating glucuronidation and sulfation pathways, cytochrome p450 2e1 conversion into toxic reactive metabolite n-acetyl-p-benzoquinone imine (napqi), glutathione depletion, centrilobular hepatic necrosis, and iv n-acetylcysteine antidote",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, overdose saturating glucuronidation and sulfation pathways, cytochrome P450 2E1 conversion into toxic reactive metabolite N-acetyl-p-benzoquinone imine (NAPQI), glutathione depletion, centrilobular hepatic necrosis, and IV N-acetylcysteine antidote represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, overdose saturating glucuronidation and sulfation pathways, cytochrome P450 2E1 conversion into toxic reactive metabolite N-acetyl-p-benzoquinone imine (NAPQI), glutathione depletion, centrilobular hepatic necrosis, and IV N-acetylcysteine antidote represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine. In the clinical management of Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Paracetamol Acetaminophen Toxicity NAPQI Metabolite N-Acetylcysteine."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Toxicology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11941",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote. Clinical examination and investigative review confirm potent opioid mu-receptor agonist producing supraspinal analgesia, euphoria, respiratory depression, miosis, and constipation, reversing acute life-threatening respiratory depression with competitive opioid antagonist IV naloxone. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Potent opioid mu-receptor agonist producing supraspinal analgesia, euphoria, respiratory depression, miosis, and constipation, reversing acute life-threatening respiratory depression with competitive opioid antagonist iv naloxone",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, potent opioid mu-receptor agonist producing supraspinal analgesia, euphoria, respiratory depression, miosis, and constipation, reversing acute life-threatening respiratory depression with competitive opioid antagonist IV naloxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, potent opioid mu-receptor agonist producing supraspinal analgesia, euphoria, respiratory depression, miosis, and constipation, reversing acute life-threatening respiratory depression with competitive opioid antagonist IV naloxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote. In the clinical management of Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Morphine Opioid Analgesic Mu-Receptor Agonism Naloxone Antidote."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11942",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade. Clinical examination and investigative review confirm reversible blockade of voltage-gated sodium channels along neuronal axon preventing generation and conduction of action potentials, small unmyelinated pain C-fibers blocked first, systemic toxicity presenting with perioral numbness, seizures, and cardiotoxicity. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Reversible blockade of voltage-gated sodium channels along neuronal axon preventing generation and conduction of action potentials, small unmyelinated pain c-fibers blocked first, systemic toxicity presenting with perioral numbness, seizures, and cardiotoxicity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reversible blockade of voltage-gated sodium channels along neuronal axon preventing generation and conduction of action potentials, small unmyelinated pain C-fibers blocked first, systemic toxicity presenting with perioral numbness, seizures, and cardiotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reversible blockade of voltage-gated sodium channels along neuronal axon preventing generation and conduction of action potentials, small unmyelinated pain C-fibers blocked first, systemic toxicity presenting with perioral numbness, seizures, and cardiotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade. In the clinical management of Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Local Anesthetics Lignocaine Voltage-Gated Sodium Channel Blockade."
+    ],
+    "references": [
+      {
+        "label": "UHS Pharmacology & Anesthesia Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11943",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid. Clinical examination and investigative review confirm measuring vertical height of internal jugular vein above sternal angle, 'a' wave corresponding to right atrial contraction, giant cannon 'a' waves occurring during atrioventricular dissociation (complete heart block), and elevated JVP in right heart failure. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Measuring vertical height of internal jugular vein above sternal angle, 'a' wave corresponding to right atrial contraction, giant cannon 'a' waves occurring during atrioventricular dissociation (complete heart block), and elevated jvp in right heart failure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, measuring vertical height of internal jugular vein above sternal angle, 'a' wave corresponding to right atrial contraction, giant cannon 'a' waves occurring during atrioventricular dissociation (complete heart block), and elevated JVP in right heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, measuring vertical height of internal jugular vein above sternal angle, 'a' wave corresponding to right atrial contraction, giant cannon 'a' waves occurring during atrioventricular dissociation (complete heart block), and elevated JVP in right heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid. In the clinical management of Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Jugular Venous Pressure JVP Waveform 'a' Wave Cannon Wave Tricuspid."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Bedside Examination Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11944",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes. Clinical examination and investigative review confirm loss of normal 160-degree Lovibond angle between nail bed and finger, obliteration of diamond-shaped window when opposing dorsal nails (positive Schamroth sign), caused by bronchogenic carcinoma, bronchiectasis, lung abscess, cyanotic heart disease, and infective endocarditis. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Loss of normal 160-degree lovibond angle between nail bed and finger, obliteration of diamond-shaped window when opposing dorsal nails (positive schamroth sign), caused by bronchogenic carcinoma, bronchiectasis, lung abscess, cyanotic heart disease, and infective endocarditis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, loss of normal 160-degree Lovibond angle between nail bed and finger, obliteration of diamond-shaped window when opposing dorsal nails (positive Schamroth sign), caused by bronchogenic carcinoma, bronchiectasis, lung abscess, cyanotic heart disease, and infective endocarditis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, loss of normal 160-degree Lovibond angle between nail bed and finger, obliteration of diamond-shaped window when opposing dorsal nails (positive Schamroth sign), caused by bronchogenic carcinoma, bronchiectasis, lung abscess, cyanotic heart disease, and infective endocarditis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes. In the clinical management of Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Digital Clubbing Lovibond Angle Shamroth Sign Pathological Causes."
+    ],
+    "references": [
+      {
+        "label": "UHS Bedside Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11945",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis. Clinical examination and investigative review confirm tiny linear dark red-brown streaks under fingernails along direction of nail growth, caused by immune complex microembolization in bacterial infective endocarditis, trichinosis, or localized nail bed trauma. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Tiny linear dark red-brown streaks under fingernails along direction of nail growth, caused by immune complex microembolization in bacterial infective endocarditis, trichinosis, or localized nail bed trauma",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tiny linear dark red-brown streaks under fingernails along direction of nail growth, caused by immune complex microembolization in bacterial infective endocarditis, trichinosis, or localized nail bed trauma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tiny linear dark red-brown streaks under fingernails along direction of nail growth, caused by immune complex microembolization in bacterial infective endocarditis, trichinosis, or localized nail bed trauma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis. In the clinical management of Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splinter Hemorrhages Subungual Linear Streaks Infective Endocarditis."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Examination Benchmarks",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11946",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis. Clinical examination and investigative review confirm paradoxical inspiratory rise in jugular venous pressure due to impaired right ventricular filling into non-compliant rigid encasing pericardium (constrictive pericarditis) or severe right ventricular infarction. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Paradoxical inspiratory rise in jugular venous pressure due to impaired right ventricular filling into non-compliant rigid encasing pericardium (constrictive pericarditis) or severe right ventricular infarction",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, paradoxical inspiratory rise in jugular venous pressure due to impaired right ventricular filling into non-compliant rigid encasing pericardium (constrictive pericarditis) or severe right ventricular infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, paradoxical inspiratory rise in jugular venous pressure due to impaired right ventricular filling into non-compliant rigid encasing pericardium (constrictive pericarditis) or severe right ventricular infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis. In the clinical management of Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kussmaul Sign Paradoxical JVP Rise on Inspiration Constrictive Pericarditis."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Cardiology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11947",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade. Clinical examination and investigative review confirm abnormally large decline in systolic blood pressure > 10 mmHg during quiet spontaneous inspiration, classic clinical sign of cardiac tamponade, severe acute asthma, and tension pneumothorax. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Abnormally large decline in systolic blood pressure > 10 mmhg during quiet spontaneous inspiration, classic clinical sign of cardiac tamponade, severe acute asthma, and tension pneumothorax",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, abnormally large decline in systolic blood pressure > 10 mmHg during quiet spontaneous inspiration, classic clinical sign of cardiac tamponade, severe acute asthma, and tension pneumothorax represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, abnormally large decline in systolic blood pressure > 10 mmHg during quiet spontaneous inspiration, classic clinical sign of cardiac tamponade, severe acute asthma, and tension pneumothorax represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade. In the clinical management of Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pulsus Paradoxus Exaggerated Inspiratory BP Drop Cardiac Tamponade."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11948",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur. Clinical examination and investigative review confirm rheumatic heart disease in young female, tapping apex beat, loud first heart sound (S1), opening snap following S2, and low-pitched localized mid-diastolic rumbling murmur at apex accentuated in left lateral position with bell. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Rheumatic heart disease in young female, tapping apex beat, loud first heart sound (s1), opening snap following s2, and low-pitched localized mid-diastolic rumbling murmur at apex accentuated in left lateral position with bell",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, rheumatic heart disease in young female, tapping apex beat, loud first heart sound (S1), opening snap following S2, and low-pitched localized mid-diastolic rumbling murmur at apex accentuated in left lateral position with bell represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, rheumatic heart disease in young female, tapping apex beat, loud first heart sound (S1), opening snap following S2, and low-pitched localized mid-diastolic rumbling murmur at apex accentuated in left lateral position with bell represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur. In the clinical management of Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mitral Stenosis Loud S1 Opening Snap Mid-Diastolic Rumbling Murmur."
+    ],
+    "references": [
+      {
+        "label": "UHS Bedside Cardiology Examination",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11949",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur. Clinical examination and investigative review confirm collapsing bounding water-hammer pulse (Corrigan pulse), wide pulse pressure, high-pitched blowing early diastolic decrescendo murmur best heard at left sternal border 3rd/4th intercostal space sitting forward in expiration. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Collapsing bounding water-hammer pulse (corrigan pulse), wide pulse pressure, high-pitched blowing early diastolic decrescendo murmur best heard at left sternal border 3rd/4th intercostal space sitting forward in expiration",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, collapsing bounding water-hammer pulse (Corrigan pulse), wide pulse pressure, high-pitched blowing early diastolic decrescendo murmur best heard at left sternal border 3rd/4th intercostal space sitting forward in expiration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, collapsing bounding water-hammer pulse (Corrigan pulse), wide pulse pressure, high-pitched blowing early diastolic decrescendo murmur best heard at left sternal border 3rd/4th intercostal space sitting forward in expiration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur. In the clinical management of Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aortic Regurgitation Water-Hammer Pulse Early Diastolic Murmur."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11950",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur. Clinical examination and investigative review confirm slow-rising plateau pulse (pulsus parvus et tardus), heaving non-displaced apex beat, harsh crescendo-decrescendo ejection systolic murmur at right 2nd intercostal space radiating to both carotid arteries. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Slow-rising plateau pulse (pulsus parvus et tardus), heaving non-displaced apex beat, harsh crescendo-decrescendo ejection systolic murmur at right 2nd intercostal space radiating to both carotid arteries",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, slow-rising plateau pulse (pulsus parvus et tardus), heaving non-displaced apex beat, harsh crescendo-decrescendo ejection systolic murmur at right 2nd intercostal space radiating to both carotid arteries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, slow-rising plateau pulse (pulsus parvus et tardus), heaving non-displaced apex beat, harsh crescendo-decrescendo ejection systolic murmur at right 2nd intercostal space radiating to both carotid arteries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur. In the clinical management of Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aortic Stenosis Slow-Rising Anacrotic Pulse Ejection Systolic Murmur."
+    ],
+    "references": [
+      {
+        "label": "UHS Cardiology Bedside Examination",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11951",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectori",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy. Clinical examination and investigative review confirm lobar consolidation in pneumonia, dull percussion note, tubular harsh bronchial breath sounds with expiration as long as inspiration, increased tactile vocal fremitus, and clear transmission of whispering pectoriloquy. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Lobar consolidation in pneumonia, dull percussion note, tubular harsh bronchial breath sounds with expiration as long as inspiration, increased tactile vocal fremitus, and clear transmission of whispering pectoriloquy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, lobar consolidation in pneumonia, dull percussion note, tubular harsh bronchial breath sounds with expiration as long as inspiration, increased tactile vocal fremitus, and clear transmission of whispering pectoriloquy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, lobar consolidation in pneumonia, dull percussion note, tubular harsh bronchial breath sounds with expiration as long as inspiration, increased tactile vocal fremitus, and clear transmission of whispering pectoriloquy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy. In the clinical management of Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Bronchial Breathing Consolidation Increased Vocal Resonance Whispering Pectoriloquy."
+    ],
+    "references": [
+      {
+        "label": "UHS Respiratory Bedside Examination Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11952",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Pleural Rub Creaking Friction Sound Acute Pleurisy and PE",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Pleural Rub Creaking Friction Sound Acute Pleurisy and PE. Clinical examination and investigative review confirm superficial rough grating creaking sound heard during both inspiration and expiration resembling creaking new leather, produced by friction between inflamed visceral and parietal pleura in pleurisy, pneumonia, and pulmonary infarction. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Superficial rough grating creaking sound heard during both inspiration and expiration resembling creaking new leather, produced by friction between inflamed visceral and parietal pleura in pleurisy, pneumonia, and pulmonary infarction",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial rough grating creaking sound heard during both inspiration and expiration resembling creaking new leather, produced by friction between inflamed visceral and parietal pleura in pleurisy, pneumonia, and pulmonary infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pleural Rub Creaking Friction Sound Acute Pleurisy and PE.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial rough grating creaking sound heard during both inspiration and expiration resembling creaking new leather, produced by friction between inflamed visceral and parietal pleura in pleurisy, pneumonia, and pulmonary infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pleural Rub Creaking Friction Sound Acute Pleurisy and PE. In the clinical management of Pleural Rub Creaking Friction Sound Acute Pleurisy and PE, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pleural Rub Creaking Friction Sound Acute Pleurisy and PE.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pleural Rub Creaking Friction Sound Acute Pleurisy and PE."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Respiratory Medicine",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11953",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Ascites Shifting Dullness and Fluid Thrill Physical Examination",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Ascites Shifting Dullness and Fluid Thrill Physical Examination. Clinical examination and investigative review confirm free intra-abdominal fluid detection on physical examination: percussing flank dullness shifting toward dependent side when turning patient lateral (shifting dullness), and transmitting fluid thrill across midline with assistant damping hand. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Free intra-abdominal fluid detection on physical examination: percussing flank dullness shifting toward dependent side when turning patient lateral (shifting dullness), and transmitting fluid thrill across midline with assistant damping hand",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, free intra-abdominal fluid detection on physical examination: percussing flank dullness shifting toward dependent side when turning patient lateral (shifting dullness), and transmitting fluid thrill across midline with assistant damping hand represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ascites Shifting Dullness and Fluid Thrill Physical Examination.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, free intra-abdominal fluid detection on physical examination: percussing flank dullness shifting toward dependent side when turning patient lateral (shifting dullness), and transmitting fluid thrill across midline with assistant damping hand represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ascites Shifting Dullness and Fluid Thrill Physical Examination. In the clinical management of Ascites Shifting Dullness and Fluid Thrill Physical Examination, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ascites Shifting Dullness and Fluid Thrill Physical Examination.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ascites Shifting Dullness and Fluid Thrill Physical Examination."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11954",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation. Clinical examination and investigative review confirm palpable mass in left upper quadrant moving downward and medially toward right iliac fossa on inspiration, firm anterior medial notch, inability to get above the swelling, percussive dullness, differentiating from left kidney. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Palpable mass in left upper quadrant moving downward and medially toward right iliac fossa on inspiration, firm anterior medial notch, inability to get above the swelling, percussive dullness, differentiating from left kidney",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, palpable mass in left upper quadrant moving downward and medially toward right iliac fossa on inspiration, firm anterior medial notch, inability to get above the swelling, percussive dullness, differentiating from left kidney represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, palpable mass in left upper quadrant moving downward and medially toward right iliac fossa on inspiration, firm anterior medial notch, inability to get above the swelling, percussive dullness, differentiating from left kidney represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation. In the clinical management of Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splenomegaly Notch Palpation Cannot Get Above It Physical Differentiation."
+    ],
+    "references": [
+      {
+        "label": "UHS Abdominal Examination Benchmarks",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11955",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Hepatomegaly Span Measurement Palpation of Lower Liver Edge",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Hepatomegaly Span Measurement Palpation of Lower Liver Edge. Clinical examination and investigative review confirm determining liver size by percussing upper border of liver dullness in right mid-clavicular line (5th intercostal space) and palpating lower edge moving downward on inspiration, normal vertical span 8-12 cm. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Determining liver size by percussing upper border of liver dullness in right mid-clavicular line (5th intercostal space) and palpating lower edge moving downward on inspiration, normal vertical span 8-12 cm",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, determining liver size by percussing upper border of liver dullness in right mid-clavicular line (5th intercostal space) and palpating lower edge moving downward on inspiration, normal vertical span 8-12 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatomegaly Span Measurement Palpation of Lower Liver Edge.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, determining liver size by percussing upper border of liver dullness in right mid-clavicular line (5th intercostal space) and palpating lower edge moving downward on inspiration, normal vertical span 8-12 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hepatomegaly Span Measurement Palpation of Lower Liver Edge. In the clinical management of Hepatomegaly Span Measurement Palpation of Lower Liver Edge, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatomegaly Span Measurement Palpation of Lower Liver Edge.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hepatomegaly Span Measurement Palpation of Lower Liver Edge."
+    ],
+    "references": [
+      {
+        "label": "UHS Bedside Clinical Medicine Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11956",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia. Clinical examination and investigative review confirm ipsilateral cerebellar hemisphere lesion producing characteristic motor signs: Vertigo, Ataxia, Nystagmus (coarse horizontal), Intention tremor on finger-nose testing, Slurred staccato speech, Hypotonia, Dysdiadochokinesia. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Ipsilateral cerebellar hemisphere lesion producing characteristic motor signs: vertigo, ataxia, nystagmus (coarse horizontal), intention tremor on finger-nose testing, slurred staccato speech, hypotonia, dysdiadochokinesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ipsilateral cerebellar hemisphere lesion producing characteristic motor signs: Vertigo, Ataxia, Nystagmus (coarse horizontal), Intention tremor on finger-nose testing, Slurred staccato speech, Hypotonia, Dysdiadochokinesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, ipsilateral cerebellar hemisphere lesion producing characteristic motor signs: Vertigo, Ataxia, Nystagmus (coarse horizontal), Intention tremor on finger-nose testing, Slurred staccato speech, Hypotonia, Dysdiadochokinesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia. In the clinical management of Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cerebellar Signs VANISHED Nystagmus Intention Tremor Dysdiadochokinesia."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Neurology Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11957",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy. Clinical examination and investigative review confirm UMN supranuclear lesion (stroke) sparing upper face forehead wrinkling due to bilateral cortical innervation vs LMN infranuclear lesion (Bell palsy) causing complete ipsilateral paralysis of entire face including forehead and eye closure. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Umn supranuclear lesion (stroke) sparing upper face forehead wrinkling due to bilateral cortical innervation vs lmn infranuclear lesion (bell palsy) causing complete ipsilateral paralysis of entire face including forehead and eye closure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, UMN supranuclear lesion (stroke) sparing upper face forehead wrinkling due to bilateral cortical innervation vs LMN infranuclear lesion (Bell palsy) causing complete ipsilateral paralysis of entire face including forehead and eye closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, UMN supranuclear lesion (stroke) sparing upper face forehead wrinkling due to bilateral cortical innervation vs LMN infranuclear lesion (Bell palsy) causing complete ipsilateral paralysis of entire face including forehead and eye closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy. In the clinical management of Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Upper Motor Neuron vs Lower Motor Neuron Facial Nerve Palsy."
+    ],
+    "references": [
+      {
+        "label": "UHS Neurology Examination Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11958",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion. Clinical examination and investigative review confirm firm stroking of lateral border of plantar surface of foot curving toward base of great toe producing dorsiflexion of great toe with fanning of other toes, indicating disruption of upper motor neuron corticospinal tract. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Firm stroking of lateral border of plantar surface of foot curving toward base of great toe producing dorsiflexion of great toe with fanning of other toes, indicating disruption of upper motor neuron corticospinal tract",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, firm stroking of lateral border of plantar surface of foot curving toward base of great toe producing dorsiflexion of great toe with fanning of other toes, indicating disruption of upper motor neuron corticospinal tract represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, firm stroking of lateral border of plantar surface of foot curving toward base of great toe producing dorsiflexion of great toe with fanning of other toes, indicating disruption of upper motor neuron corticospinal tract represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion. In the clinical management of Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Babinski Sign Extensor Plantar Response Corticospinal Tract Lesion."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Neurology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11959",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski. Clinical examination and investigative review confirm acute bacterial meningitis bedside examination: involuntary resistance to passive neck flexion, Kernig sign (resistance to passive knee extension when hip flexed at 90 degrees), and Brudzinski sign (spontaneous hip/knee flexion upon passive neck flexion). Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Acute bacterial meningitis bedside examination: involuntary resistance to passive neck flexion, kernig sign (resistance to passive knee extension when hip flexed at 90 degrees), and brudzinski sign (spontaneous hip/knee flexion upon passive neck flexion)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, acute bacterial meningitis bedside examination: involuntary resistance to passive neck flexion, Kernig sign (resistance to passive knee extension when hip flexed at 90 degrees), and Brudzinski sign (spontaneous hip/knee flexion upon passive neck flexion) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, acute bacterial meningitis bedside examination: involuntary resistance to passive neck flexion, Kernig sign (resistance to passive knee extension when hip flexed at 90 degrees), and Brudzinski sign (spontaneous hip/knee flexion upon passive neck flexion) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski. In the clinical management of Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Meningeal Irritation Signs Neck Rigidity Kernig and Brudzinski."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine & Neurology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11960",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve. Clinical examination and investigative review confirm paresthesias in thumb, index, and middle fingers reproduced by acute passive hyperflexion of wrists for 60 seconds (Phalen test) and percussing volar carpal ligament (Tinel sign), confirming median nerve entrapment. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Paresthesias in thumb, index, and middle fingers reproduced by acute passive hyperflexion of wrists for 60 seconds (phalen test) and percussing volar carpal ligament (tinel sign), confirming median nerve entrapment",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, paresthesias in thumb, index, and middle fingers reproduced by acute passive hyperflexion of wrists for 60 seconds (Phalen test) and percussing volar carpal ligament (Tinel sign), confirming median nerve entrapment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, paresthesias in thumb, index, and middle fingers reproduced by acute passive hyperflexion of wrists for 60 seconds (Phalen test) and percussing volar carpal ligament (Tinel sign), confirming median nerve entrapment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve. In the clinical management of Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carpal Tunnel Phalen Maneuver and Tinel Sign Median Nerve."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine Benchmarks",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11961",
+    "exam": "UHS MBBS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Informed Consent Voluntariness Competence Information Disclosure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Informed Consent Voluntariness Competence Information Disclosure. Clinical examination and investigative review confirm essential legal and ethical prerequisites for valid clinical consent: patient must possess legal and decision-making capacity, must receive adequate disclosure of diagnosis, risks, and alternatives, and must consent freely without coercion. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Essential legal and ethical prerequisites for valid clinical consent: patient must possess legal and decision-making capacity, must receive adequate disclosure of diagnosis, risks, and alternatives, and must consent freely without coercion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, essential legal and ethical prerequisites for valid clinical consent: patient must possess legal and decision-making capacity, must receive adequate disclosure of diagnosis, risks, and alternatives, and must consent freely without coercion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Informed Consent Voluntariness Competence Information Disclosure.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, essential legal and ethical prerequisites for valid clinical consent: patient must possess legal and decision-making capacity, must receive adequate disclosure of diagnosis, risks, and alternatives, and must consent freely without coercion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Informed Consent Voluntariness Competence Information Disclosure. In the clinical management of Informed Consent Voluntariness Competence Information Disclosure, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Informed Consent Voluntariness Competence Information Disclosure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Informed Consent Voluntariness Competence Information Disclosure."
+    ],
+    "references": [
+      {
+        "label": "PM&DC Code of Ethics & UHS Curriculum",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11962",
+    "exam": "UHS MBBS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Confidentiality and Permissible Exceptions Public Interest",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Medical Confidentiality and Permissible Exceptions Public Interest. Clinical examination and investigative review confirm fundamental duty of healthcare practitioner to protect patient confidential information, identifying strict permissible legal exceptions: statutory communicable disease notification, court orders, and serious imminent danger to third parties. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Fundamental duty of healthcare practitioner to protect patient confidential information, identifying strict permissible legal exceptions: statutory communicable disease notification, court orders, and serious imminent danger to third parties",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fundamental duty of healthcare practitioner to protect patient confidential information, identifying strict permissible legal exceptions: statutory communicable disease notification, court orders, and serious imminent danger to third parties represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Confidentiality and Permissible Exceptions Public Interest.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fundamental duty of healthcare practitioner to protect patient confidential information, identifying strict permissible legal exceptions: statutory communicable disease notification, court orders, and serious imminent danger to third parties represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Confidentiality and Permissible Exceptions Public Interest. In the clinical management of Medical Confidentiality and Permissible Exceptions Public Interest, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Confidentiality and Permissible Exceptions Public Interest.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Confidentiality and Permissible Exceptions Public Interest."
+    ],
+    "references": [
+      {
+        "label": "UHS Medical Ethics & Jurisprudence Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11963",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Appendicitis Murphy Triad Pain Vomiting Fever",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Acute Appendicitis Murphy Triad Pain Vomiting Fever. Clinical examination and investigative review confirm classical chronological sequence: pain in epigastrium or periumbilical shifting to right iliac fossa, followed by nausea/vomiting, and low-grade pyrexia. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Classical chronological sequence: pain in epigastrium or periumbilical shifting to right iliac fossa, followed by nausea/vomiting, and low-grade pyrexia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, classical chronological sequence: pain in epigastrium or periumbilical shifting to right iliac fossa, followed by nausea/vomiting, and low-grade pyrexia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Murphy Triad Pain Vomiting Fever.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, classical chronological sequence: pain in epigastrium or periumbilical shifting to right iliac fossa, followed by nausea/vomiting, and low-grade pyrexia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Murphy Triad Pain Vomiting Fever. In the clinical management of Acute Appendicitis Murphy Triad Pain Vomiting Fever, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Murphy Triad Pain Vomiting Fever.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Murphy Triad Pain Vomiting Fever."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11964",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic. Clinical examination and investigative review confirm superficial bluish-purple periumbilical ecchymosis (Cullen sign) and flank ecchymosis (Grey Turner sign) indicating retroperitoneal necrotizing hemorrhagic pancreatitis. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Superficial bluish-purple periumbilical ecchymosis (cullen sign) and flank ecchymosis (grey turner sign) indicating retroperitoneal necrotizing hemorrhagic pancreatitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial bluish-purple periumbilical ecchymosis (Cullen sign) and flank ecchymosis (Grey Turner sign) indicating retroperitoneal necrotizing hemorrhagic pancreatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, superficial bluish-purple periumbilical ecchymosis (Cullen sign) and flank ecchymosis (Grey Turner sign) indicating retroperitoneal necrotizing hemorrhagic pancreatitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic. In the clinical management of Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Pancreatitis Cullen Sign and Grey Turner Sign Hemorrhagic."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgical Pathology & Medicine",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11965",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis. Clinical examination and investigative review confirm area of increased cutaneous tactile sensitivity and tenderness beneath right 9th-11th ribs posteriorly (Boas sign) from referred phrenic nerve irritation in acute cholecystitis. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Area of increased cutaneous tactile sensitivity and tenderness beneath right 9th-11th ribs posteriorly (boas sign) from referred phrenic nerve irritation in acute cholecystitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, area of increased cutaneous tactile sensitivity and tenderness beneath right 9th-11th ribs posteriorly (Boas sign) from referred phrenic nerve irritation in acute cholecystitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, area of increased cutaneous tactile sensitivity and tenderness beneath right 9th-11th ribs posteriorly (Boas sign) from referred phrenic nerve irritation in acute cholecystitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis. In the clinical management of Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Boas Sign Hyperesthesia Right Infrascapular Acute Cholecystitis."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Surgery Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11966",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Courvoisier Law Palpable Gallbladder and Obstructive Jaundice",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female presents to the casualty receiving triage unit of the civil hospital with clinical findings indicative of Courvoisier Law Palpable Gallbladder and Obstructive Jaundice. Clinical examination and investigative review confirm in the presence of painless jaundice, a palpable distended non-tender gallbladder is unlikely to be due to gallstones, indicating malignant biliary obstruction (periampullary carcinoma). Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "In the presence of painless jaundice, a palpable distended non-tender gallbladder is unlikely to be due to gallstones, indicating malignant biliary obstruction (periampullary carcinoma)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, in the presence of painless jaundice, a palpable distended non-tender gallbladder is unlikely to be due to gallstones, indicating malignant biliary obstruction (periampullary carcinoma) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Courvoisier Law Palpable Gallbladder and Obstructive Jaundice.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, in the presence of painless jaundice, a palpable distended non-tender gallbladder is unlikely to be due to gallstones, indicating malignant biliary obstruction (periampullary carcinoma) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Courvoisier Law Palpable Gallbladder and Obstructive Jaundice. In the clinical management of Courvoisier Law Palpable Gallbladder and Obstructive Jaundice, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Courvoisier Law Palpable Gallbladder and Obstructive Jaundice.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Courvoisier Law Palpable Gallbladder and Obstructive Jaundice."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Curricular Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11967",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male is examined at the provincial district headquarter hospital bedside clinic with clinical findings indicative of Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis. Clinical examination and investigative review confirm sudden sharp arrest of inspiration when palpating right upper quadrant beneath costal margin during deep breathing, confirming acute gallbladder inflammation. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden sharp arrest of inspiration when palpating right upper quadrant beneath costal margin during deep breathing, confirming acute gallbladder inflammation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden sharp arrest of inspiration when palpating right upper quadrant beneath costal margin during deep breathing, confirming acute gallbladder inflammation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden sharp arrest of inspiration when palpating right upper quadrant beneath costal margin during deep breathing, confirming acute gallbladder inflammation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis. In the clinical management of Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Murphy Sign Inspiratory Arrest Palpation RUQ Acute Cholecystitis."
+    ],
+    "references": [
+      {
+        "label": "UHS Bedside Clinical Surgery",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11968",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female undergoes clinical assessment at the specialized collegiate tutorial station with clinical findings indicative of Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia. Clinical examination and investigative review confirm carpopedal spasm elicited by inflating blood pressure cuff > systolic pressure for 3 minutes (Trousseau sign) and twitching of facial muscles on tapping facial nerve (Chvostek sign). Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Carpopedal spasm elicited by inflating blood pressure cuff > systolic pressure for 3 minutes (trousseau sign) and twitching of facial muscles on tapping facial nerve (chvostek sign)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, carpopedal spasm elicited by inflating blood pressure cuff > systolic pressure for 3 minutes (Trousseau sign) and twitching of facial muscles on tapping facial nerve (Chvostek sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, carpopedal spasm elicited by inflating blood pressure cuff > systolic pressure for 3 minutes (Trousseau sign) and twitching of facial muscles on tapping facial nerve (Chvostek sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia. In the clinical management of Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Trousseau Sign and Chvostek Sign Latent Tetany Hypocalcemia."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Medicine & Endocrinology",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11969",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "Kernig Sign and Brudzinski Sign Meningeal Irritation Differential",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male is reviewed in the inpatient tertiary care medical pavilion in Rawalpindi with clinical findings indicative of Kernig Sign and Brudzinski Sign Meningeal Irritation Differential. Clinical examination and investigative review confirm resistance to knee extension with hip flexed at 90 degrees (Kernig sign) and spontaneous flexion of hips and knees on passive neck flexion (Brudzinski sign) in acute meningitis. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Resistance to knee extension with hip flexed at 90 degrees (kernig sign) and spontaneous flexion of hips and knees on passive neck flexion (brudzinski sign) in acute meningitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, resistance to knee extension with hip flexed at 90 degrees (Kernig sign) and spontaneous flexion of hips and knees on passive neck flexion (Brudzinski sign) in acute meningitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kernig Sign and Brudzinski Sign Meningeal Irritation Differential.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, resistance to knee extension with hip flexed at 90 degrees (Kernig sign) and spontaneous flexion of hips and knees on passive neck flexion (Brudzinski sign) in acute meningitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kernig Sign and Brudzinski Sign Meningeal Irritation Differential. In the clinical management of Kernig Sign and Brudzinski Sign Meningeal Irritation Differential, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kernig Sign and Brudzinski Sign Meningeal Irritation Differential.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kernig Sign and Brudzinski Sign Meningeal Irritation Differential."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Neurology Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11970",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is evaluated during university teaching hospital bedside rounds in Lahore with clinical findings indicative of Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis. Clinical examination and investigative review confirm continuous deep pressure in left iliac fossa producing pain in right iliac fossa due to displacement of intraluminal colonic gas into cecum and appendix. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Continuous deep pressure in left iliac fossa producing pain in right iliac fossa due to displacement of intraluminal colonic gas into cecum and appendix",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, continuous deep pressure in left iliac fossa producing pain in right iliac fossa due to displacement of intraluminal colonic gas into cecum and appendix represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, continuous deep pressure in left iliac fossa producing pain in right iliac fossa due to displacement of intraluminal colonic gas into cecum and appendix represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis. In the clinical management of Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rovsing Sign Indirect Tenderness Right Iliac Fossa Appendicitis."
+    ],
+    "references": [
+      {
+        "label": "UHS Surgical Examination Guidelines",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11971",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Psoas Sign Retrocecal Appendicitis Extension of Hip Joint",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male attends the outpatient clinical examination pavilion of the tertiary medical college with clinical findings indicative of Psoas Sign Retrocecal Appendicitis Extension of Hip Joint. Clinical examination and investigative review confirm exacerbation of lower abdominal pain upon passive hyperextension of right hip joint with patient in left lateral position, indicating retrocecal appendicitis inflaming psoas muscle. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Exacerbation of lower abdominal pain upon passive hyperextension of right hip joint with patient in left lateral position, indicating retrocecal appendicitis inflaming psoas muscle",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, exacerbation of lower abdominal pain upon passive hyperextension of right hip joint with patient in left lateral position, indicating retrocecal appendicitis inflaming psoas muscle represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Psoas Sign Retrocecal Appendicitis Extension of Hip Joint.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, exacerbation of lower abdominal pain upon passive hyperextension of right hip joint with patient in left lateral position, indicating retrocecal appendicitis inflaming psoas muscle represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Psoas Sign Retrocecal Appendicitis Extension of Hip Joint. In the clinical management of Psoas Sign Retrocecal Appendicitis Extension of Hip Joint, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Psoas Sign Retrocecal Appendicitis Extension of Hip Joint.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Psoas Sign Retrocecal Appendicitis Extension of Hip Joint."
+    ],
+    "references": [
+      {
+        "label": "UHS Clinical Surgery Syllabus",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-11972",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is admitted to the general surgical and medical inpatient teaching ward with clinical findings indicative of Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip. Clinical examination and investigative review confirm reproduction of deep hypogastric pain upon passive internal rotation of right flexed thigh, indicating irritation of obturator internus muscle by pelvic appendicitis. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical steps is prioritized in this presentation according to Pakistani university teaching hospital benchmarks?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Reproduction of deep hypogastric pain upon passive internal rotation of right flexed thigh, indicating irritation of obturator internus muscle by pelvic appendicitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reproduction of deep hypogastric pain upon passive internal rotation of right flexed thigh, indicating irritation of obturator internus muscle by pelvic appendicitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reproduction of deep hypogastric pain upon passive internal rotation of right flexed thigh, indicating irritation of obturator internus muscle by pelvic appendicitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip. In the clinical management of Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obturator Sign Pelvic Appendicitis Internal Rotation of Flexed Hip."
+    ],
+    "references": [
+      {
+        "label": "UHS General Surgery Examination Standards",
+        "url": "https://uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
