@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-16T21:10:44.354Z",
-  "totalQuestions": 13172,
+  "validatedAt": "2026-11-16T22:10:12.326Z",
+  "totalQuestions": 13672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -832,21 +832,21 @@
   "subjectsCovered": {
     "Anatomy": 108,
     "Biochemistry": 185,
-    "Biostatistics": 125,
-    "Ethics": 314,
-    "Genetics": 358,
-    "Geriatrics": 118,
+    "Biostatistics": 127,
+    "Ethics": 333,
+    "Genetics": 359,
+    "Geriatrics": 121,
     "Immunology": 208,
-    "Medicine": 5340,
-    "Microbiology": 273,
-    "Neurology": 408,
-    "Obstetrics": 738,
-    "Pathology": 804,
-    "Pediatrics": 1009,
-    "Pharmacology": 616,
+    "Medicine": 5505,
+    "Microbiology": 301,
+    "Neurology": 422,
+    "Obstetrics": 806,
+    "Pathology": 817,
+    "Pediatrics": 1068,
+    "Pharmacology": 627,
     "Physiology": 421,
-    "Psychiatry": 413,
-    "Surgery": 1734
+    "Psychiatry": 431,
+    "Surgery": 1833
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

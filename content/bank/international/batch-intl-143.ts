@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-13373",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP. Clinical examination and investigative review confirm high fever with rigors, splenomegaly, peripheral blood smear confirming P. falciparum ring forms, initiating artemisinin-based combination therapy (artesunate plus sulfadoxine-pyrimethamine or artemether-lumefantrine). Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "High fever with rigors, splenomegaly, peripheral blood smear confirming p. falciparum ring forms, initiating artemisinin-based combination therapy (artesunate plus sulfadoxine-pyrimethamine or artemether-lumefantrine)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, high fever with rigors, splenomegaly, peripheral blood smear confirming P. falciparum ring forms, initiating artemisinin-based combination therapy (artesunate plus sulfadoxine-pyrimethamine or artemether-lumefantrine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, high fever with rigors, splenomegaly, peripheral blood smear confirming P. falciparum ring forms, initiating artemisinin-based combination therapy (artesunate plus sulfadoxine-pyrimethamine or artemether-lumefantrine) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP. In the clinical management of Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malaria Plasmodium Falciparum Artemisinin-Based Combination Therapy ACT India NVBDCP."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Programme (NVBDCP)",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13374",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Li",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B. Clinical examination and investigative review confirm chronic fever, massive splenomegaly, pancytopenia, hypergammaglobulinemia in Bihar resident, positive rK39 strip test, administering single-dose intravenous liposomal amphotericin B 10 mg/kg. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Chronic fever, massive splenomegaly, pancytopenia, hypergammaglobulinemia in bihar resident, positive rk39 strip test, administering single-dose intravenous liposomal amphotericin b 10 mg/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic fever, massive splenomegaly, pancytopenia, hypergammaglobulinemia in Bihar resident, positive rK39 strip test, administering single-dose intravenous liposomal amphotericin B 10 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic fever, massive splenomegaly, pancytopenia, hypergammaglobulinemia in Bihar resident, positive rK39 strip test, administering single-dose intravenous liposomal amphotericin B 10 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B. In the clinical management of Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Visceral Leishmaniasis Kala-Azar rK39 Rapid Diagnostic Test and Single Dose Liposomal Amphotericin B."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Programme (NVBDCP)",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13375",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance. Clinical examination and investigative review confirm step-ladder fever, relative bradycardia (Faget sign), rose spots, Widal test, initiating oral azithromycin 20 mg/kg/day or IV ceftriaxone due to widespread nalidixic acid resistance in India. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Step-ladder fever, relative bradycardia (faget sign), rose spots, widal test, initiating oral azithromycin 20 mg/kg/day or iv ceftriaxone due to widespread nalidixic acid resistance in india",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, step-ladder fever, relative bradycardia (Faget sign), rose spots, Widal test, initiating oral azithromycin 20 mg/kg/day or IV ceftriaxone due to widespread nalidixic acid resistance in India represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, step-ladder fever, relative bradycardia (Faget sign), rose spots, Widal test, initiating oral azithromycin 20 mg/kg/day or IV ceftriaxone due to widespread nalidixic acid resistance in India represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance. In the clinical management of Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Enteric Fever Salmonella Typhi Azithromycin or Ceftriaxone In Fluoroquinolone Resistance."
+    ],
+    "references": [
+      {
+        "label": "National Guidelines for Infection Prevention and Control in Healthcare Facilities",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13376",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine. Clinical examination and investigative review confirm hypopigmented anesthetic skin patch with thickened greater auricular nerve, slit-skin smear positive, prescribing WHO multi-drug therapy (rifampicin, dapsone, and clofazimine) for multibacillary leprosy. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Hypopigmented anesthetic skin patch with thickened greater auricular nerve, slit-skin smear positive, prescribing who multi-drug therapy (rifampicin, dapsone, and clofazimine) for multibacillary leprosy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, hypopigmented anesthetic skin patch with thickened greater auricular nerve, slit-skin smear positive, prescribing WHO multi-drug therapy (rifampicin, dapsone, and clofazimine) for multibacillary leprosy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, hypopigmented anesthetic skin patch with thickened greater auricular nerve, slit-skin smear positive, prescribing WHO multi-drug therapy (rifampicin, dapsone, and clofazimine) for multibacillary leprosy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine. In the clinical management of Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Leprosy Hansen Disease WHO Multi-Drug Therapy MDT Rifampicin Dapsone Clofazimine."
+    ],
+    "references": [
+      {
+        "label": "National Leprosy Eradication Programme (NLEP) India",
+        "url": "https://dghs.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13377",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline. Clinical examination and investigative review confirm acute febrile illness with pathognomonic cigarette-burn necrotic eschar in axilla or groin, lymphadenopathy, positive Weil-Felix (OX-K) test, prescribing oral doxycycline 100 mg twice daily. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Acute febrile illness with pathognomonic cigarette-burn necrotic eschar in axilla or groin, lymphadenopathy, positive weil-felix (ox-k) test, prescribing oral doxycycline 100 mg twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, acute febrile illness with pathognomonic cigarette-burn necrotic eschar in axilla or groin, lymphadenopathy, positive Weil-Felix (OX-K) test, prescribing oral doxycycline 100 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, acute febrile illness with pathognomonic cigarette-burn necrotic eschar in axilla or groin, lymphadenopathy, positive Weil-Felix (OX-K) test, prescribing oral doxycycline 100 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline. In the clinical management of Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Scrub Typhus Orientia Tsutsugamushi Eschar Recognition and Oral Doxycycline."
+    ],
+    "references": [
+      {
+        "label": "Indian Council of Medical Research (ICMR) Guidelines on Scrub Typhus",
+        "url": "https://main.icmr.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13378",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin. Clinical examination and investigative review confirm fever, conjunctival suffusion, severe calf muscle tenderness, jaundice, and oliguria following monsoon water wading, positive MAT, administering intravenous crystalline penicillin G or ceftriaxone. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Fever, conjunctival suffusion, severe calf muscle tenderness, jaundice, and oliguria following monsoon water wading, positive mat, administering intravenous crystalline penicillin g or ceftriaxone",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, fever, conjunctival suffusion, severe calf muscle tenderness, jaundice, and oliguria following monsoon water wading, positive MAT, administering intravenous crystalline penicillin G or ceftriaxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, fever, conjunctival suffusion, severe calf muscle tenderness, jaundice, and oliguria following monsoon water wading, positive MAT, administering intravenous crystalline penicillin G or ceftriaxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin. In the clinical management of Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Leptospirosis Post-Monsoon Flooding Microscopic Agglutination Test MAT and IV Penicillin."
+    ],
+    "references": [
+      {
+        "label": "National Centre for Disease Control (NCDC) Leptospirosis Guidelines",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13379",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportiv",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care. Clinical examination and investigative review confirm forest worker in Western Ghats (Karnataka) presenting with sudden fever, headache, severe myalgia, and bleeding manifestations, leukopenia and thrombocytopenia, RT-PCR positive, providing supportive care. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Forest worker in western ghats (karnataka) presenting with sudden fever, headache, severe myalgia, and bleeding manifestations, leukopenia and thrombocytopenia, rt-pcr positive, providing supportive care",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, forest worker in Western Ghats (Karnataka) presenting with sudden fever, headache, severe myalgia, and bleeding manifestations, leukopenia and thrombocytopenia, RT-PCR positive, providing supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, forest worker in Western Ghats (Karnataka) presenting with sudden fever, headache, severe myalgia, and bleeding manifestations, leukopenia and thrombocytopenia, RT-PCR positive, providing supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care. In the clinical management of Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Kyasanur Forest Disease KFD Monkey Fever Tick Vector Vaccination and Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "ICMR Guidelines on Kyasanur Forest Disease",
+        "url": "https://main.icmr.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13380",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Nervous System",
+    "topic": "Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Sup",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care. Clinical examination and investigative review confirm child in rural paddy farming belt presenting with fever, altered sensorium, seizures, and extrapyramidal signs, CSF demonstrating anti-JE IgM antibodies, providing airway protection and anti-edema therapy. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Child in rural paddy farming belt presenting with fever, altered sensorium, seizures, and extrapyramidal signs, csf demonstrating anti-je igm antibodies, providing airway protection and anti-edema therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child in rural paddy farming belt presenting with fever, altered sensorium, seizures, and extrapyramidal signs, CSF demonstrating anti-JE IgM antibodies, providing airway protection and anti-edema therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child in rural paddy farming belt presenting with fever, altered sensorium, seizures, and extrapyramidal signs, CSF demonstrating anti-JE IgM antibodies, providing airway protection and anti-edema therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care. In the clinical management of Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Japanese Encephalitis JE Culex Mosquito Vector CSF IgM ELISA and Intensive Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "NVBDCP National Guidelines on Japanese Encephalitis",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13381",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation. Clinical examination and investigative review confirm acute high fever, severe retro-orbital headache, breakthrough vomiting, abdominal pain, hematocrit rise > 20% with platelet drop < 50,000/mcL, admitting for titrated isotonic crystalloid resuscitation. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Acute high fever, severe retro-orbital headache, breakthrough vomiting, abdominal pain, hematocrit rise > 20% with platelet drop < 50,000/mcl, admitting for titrated isotonic crystalloid resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, acute high fever, severe retro-orbital headache, breakthrough vomiting, abdominal pain, hematocrit rise > 20% with platelet drop < 50,000/mcL, admitting for titrated isotonic crystalloid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, acute high fever, severe retro-orbital headache, breakthrough vomiting, abdominal pain, hematocrit rise > 20% with platelet drop < 50,000/mcL, admitting for titrated isotonic crystalloid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation. In the clinical management of Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dengue Fever Warning Signs Indian National Guidelines Fluid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "NVBDCP National Guidelines on Clinical Management of Dengue",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13382",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin a",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine. Clinical examination and investigative review confirm transdermal bite from unprovoked stray dog, category III exposure: immediate vigorous wound washing with soap and running water for 15 minutes, local wound infiltration with rabies immunoglobulin (RIG), and anti-rabies vaccine. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Transdermal bite from unprovoked stray dog, category iii exposure: immediate vigorous wound washing with soap and running water for 15 minutes, local wound infiltration with rabies immunoglobulin (rig), and anti-rabies vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, transdermal bite from unprovoked stray dog, category III exposure: immediate vigorous wound washing with soap and running water for 15 minutes, local wound infiltration with rabies immunoglobulin (RIG), and anti-rabies vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, transdermal bite from unprovoked stray dog, category III exposure: immediate vigorous wound washing with soap and running water for 15 minutes, local wound infiltration with rabies immunoglobulin (RIG), and anti-rabies vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine. In the clinical management of Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rabies Post-Exposure Prophylaxis Category III Bite Wound Care Immunoglobulin and Vaccine."
+    ],
+    "references": [
+      {
+        "label": "National Guidelines on Rabies Prophylaxis India (NCDC)",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13383",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen. Clinical examination and investigative review confirm chronic cough, hemoptysis, night sweats, sputum smear microscopy positive for acid-fast bacilli, initiating weight-banded daily fixed-dose combination antitubercular therapy (2 months HRZE followed by 4 months HRE). Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Chronic cough, hemoptysis, night sweats, sputum smear microscopy positive for acid-fast bacilli, initiating weight-banded daily fixed-dose combination antitubercular therapy (2 months hrze followed by 4 months hre)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic cough, hemoptysis, night sweats, sputum smear microscopy positive for acid-fast bacilli, initiating weight-banded daily fixed-dose combination antitubercular therapy (2 months HRZE followed by 4 months HRE) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic cough, hemoptysis, night sweats, sputum smear microscopy positive for acid-fast bacilli, initiating weight-banded daily fixed-dose combination antitubercular therapy (2 months HRZE followed by 4 months HRE) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen. In the clinical management of Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tuberculosis NTEP Daily Fixed-Dose Combination FDC 2HRZE/4HRE Regimen."
+    ],
+    "references": [
+      {
+        "label": "National Tuberculosis Elimination Programme (NTEP)",
+        "url": "https://tbcindia.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13384",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Re",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP. Clinical examination and investigative review confirm sputum CBNAAT / GeneXpert confirming rifampicin resistance, initiating WHO-approved all-oral bedaquiline-containing shorter MDR-TB regimen under programmatic management of drug-resistant TB. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Sputum cbnaat / genexpert confirming rifampicin resistance, initiating who-approved all-oral bedaquiline-containing shorter mdr-tb regimen under programmatic management of drug-resistant tb",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sputum CBNAAT / GeneXpert confirming rifampicin resistance, initiating WHO-approved all-oral bedaquiline-containing shorter MDR-TB regimen under programmatic management of drug-resistant TB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sputum CBNAAT / GeneXpert confirming rifampicin resistance, initiating WHO-approved all-oral bedaquiline-containing shorter MDR-TB regimen under programmatic management of drug-resistant TB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP. In the clinical management of Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Multidrug-Resistant Tuberculosis MDR-TB Bedaquiline-Containing Shorter Oral Regimen NTEP."
+    ],
+    "references": [
+      {
+        "label": "NTEP PMDT Guidelines 2024",
+        "url": "https://tbcindia.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13385",
+    "exam": "NEET PG",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone. Clinical examination and investigative review confirm subacute headache, neck stiffness, cranial nerve VI/VII palsies, CSF showing lymphocytic pleocytosis, high protein, low glucose, commencing weight-banded ATT plus tapering IV dexamethasone for 6-8 weeks. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Subacute headache, neck stiffness, cranial nerve vi/vii palsies, csf showing lymphocytic pleocytosis, high protein, low glucose, commencing weight-banded att plus tapering iv dexamethasone for 6-8 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, subacute headache, neck stiffness, cranial nerve VI/VII palsies, CSF showing lymphocytic pleocytosis, high protein, low glucose, commencing weight-banded ATT plus tapering IV dexamethasone for 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, subacute headache, neck stiffness, cranial nerve VI/VII palsies, CSF showing lymphocytic pleocytosis, high protein, low glucose, commencing weight-banded ATT plus tapering IV dexamethasone for 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone. In the clinical management of Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tuberculous Meningitis Stage-Specific Management and Adjunctive Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "NTEP Guidelines on Extra-Pulmonary Tuberculosis",
+        "url": "https://tbcindia.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13386",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing. Clinical examination and investigative review confirm Russell viper bite with non-clotting blood on 20-minute whole blood clotting test (20WBCT), local swelling, and bleeding gums, administering 10 vials of polyvalent anti-snake venom (ASV) reconstituted in normal saline. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Russell viper bite with non-clotting blood on 20-minute whole blood clotting test (20wbct), local swelling, and bleeding gums, administering 10 vials of polyvalent anti-snake venom (asv) reconstituted in normal saline",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, Russell viper bite with non-clotting blood on 20-minute whole blood clotting test (20WBCT), local swelling, and bleeding gums, administering 10 vials of polyvalent anti-snake venom (ASV) reconstituted in normal saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, Russell viper bite with non-clotting blood on 20-minute whole blood clotting test (20WBCT), local swelling, and bleeding gums, administering 10 vials of polyvalent anti-snake venom (ASV) reconstituted in normal saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing. In the clinical management of Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snakebite Envenomation 20-Minute Whole Blood Clotting Test 20WBCT and ASV Dosing."
+    ],
+    "references": [
+      {
+        "label": "National Snakebite Protocol Ministry of Health & Family Welfare India",
+        "url": "https://mohfw.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13387",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime. Clinical examination and investigative review confirm ingestion of pesticide with miosis, hypersalivation, bronchorrhea, bradycardia, fasciculations, administering escalating double-dose intravenous atropine titrated to clear chest crackles, plus pralidoxime. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Ingestion of pesticide with miosis, hypersalivation, bronchorrhea, bradycardia, fasciculations, administering escalating double-dose intravenous atropine titrated to clear chest crackles, plus pralidoxime",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ingestion of pesticide with miosis, hypersalivation, bronchorrhea, bradycardia, fasciculations, administering escalating double-dose intravenous atropine titrated to clear chest crackles, plus pralidoxime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ingestion of pesticide with miosis, hypersalivation, bronchorrhea, bradycardia, fasciculations, administering escalating double-dose intravenous atropine titrated to clear chest crackles, plus pralidoxime represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime. In the clinical management of Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Organophosphorus OP Poisoning Atropine Titration Guided by Chest Signs and Pralidoxime."
+    ],
+    "references": [
+      {
+        "label": "National Poisons Information Centre (NPIC) AIIMS New Delhi",
+        "url": "https://www.aiims.edu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13388",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care. Clinical examination and investigative review confirm ingestion of agricultural Celphos grain preservative tablets, profound cardiogenic shock, metabolic acidosis, refractory arrhythmias from phosphine release, aggressive gastric lavage with potassium permanganate and supportive care. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Ingestion of agricultural celphos grain preservative tablets, profound cardiogenic shock, metabolic acidosis, refractory arrhythmias from phosphine release, aggressive gastric lavage with potassium permanganate and supportive care",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ingestion of agricultural Celphos grain preservative tablets, profound cardiogenic shock, metabolic acidosis, refractory arrhythmias from phosphine release, aggressive gastric lavage with potassium permanganate and supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ingestion of agricultural Celphos grain preservative tablets, profound cardiogenic shock, metabolic acidosis, refractory arrhythmias from phosphine release, aggressive gastric lavage with potassium permanganate and supportive care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care. In the clinical management of Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Aluminium Phosphide Celphos Poisoning Phosphine Gas Toxicity Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "AIIMS New Delhi Clinical Poisoning Management Protocols",
+        "url": "https://www.aiims.edu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13389",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy. Clinical examination and investigative review confirm multiple hypopigmented macules and nodular facial lesions years after treated visceral leishmaniasis, LD bodies demonstrated on slit-skin smear, prescribing oral miltefosine 50 mg twice daily for 12 weeks. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Multiple hypopigmented macules and nodular facial lesions years after treated visceral leishmaniasis, ld bodies demonstrated on slit-skin smear, prescribing oral miltefosine 50 mg twice daily for 12 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, multiple hypopigmented macules and nodular facial lesions years after treated visceral leishmaniasis, LD bodies demonstrated on slit-skin smear, prescribing oral miltefosine 50 mg twice daily for 12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, multiple hypopigmented macules and nodular facial lesions years after treated visceral leishmaniasis, LD bodies demonstrated on slit-skin smear, prescribing oral miltefosine 50 mg twice daily for 12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy. In the clinical management of Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Indian Kala-Azar Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Therapy."
+    ],
+    "references": [
+      {
+        "label": "NVBDCP Guidelines on PKDL",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13390",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Hematology",
+    "topic": "Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC M",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin. Clinical examination and investigative review confirm painless brawny non-pitting lymphedema of lower limb and hydrocele, nocturnal peripheral blood smear demonstrating sheathed microfilariae, prescribing oral diethylcarbamazine (DEC) with albendazole. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Painless brawny non-pitting lymphedema of lower limb and hydrocele, nocturnal peripheral blood smear demonstrating sheathed microfilariae, prescribing oral diethylcarbamazine (dec) with albendazole",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless brawny non-pitting lymphedema of lower limb and hydrocele, nocturnal peripheral blood smear demonstrating sheathed microfilariae, prescribing oral diethylcarbamazine (DEC) with albendazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless brawny non-pitting lymphedema of lower limb and hydrocele, nocturnal peripheral blood smear demonstrating sheathed microfilariae, prescribing oral diethylcarbamazine (DEC) with albendazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin. In the clinical management of Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Filariasis Wuchereria Bancrofti Night Blood Smear and Diethylcarbamazine DEC Mass Drug Admin."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Programme (NVBDCP)",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13391",
+    "exam": "NEET PG",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids. Clinical examination and investigative review confirm young adult with new-onset seizures, contrast brain CT demonstrating solitary ring-enhancing parenchymal lesion with eccentric scolex, administering oral albendazole 15 mg/kg/day with concurrent oral prednisolone. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Young adult with new-onset seizures, contrast brain ct demonstrating solitary ring-enhancing parenchymal lesion with eccentric scolex, administering oral albendazole 15 mg/kg/day with concurrent oral prednisolone",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young adult with new-onset seizures, contrast brain CT demonstrating solitary ring-enhancing parenchymal lesion with eccentric scolex, administering oral albendazole 15 mg/kg/day with concurrent oral prednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young adult with new-onset seizures, contrast brain CT demonstrating solitary ring-enhancing parenchymal lesion with eccentric scolex, administering oral albendazole 15 mg/kg/day with concurrent oral prednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids. In the clinical management of Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cysticercosis Taenia Solium Neurocysticercosis Albendazole and Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Neurology (IAN) Guidelines",
+        "url": "https://www.ianindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13392",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspir",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration. Clinical examination and investigative review confirm high fever, right hypochondriac pain, hepatomegaly, ultrasound showing solitary 6 cm hypoechoic cavity in right lobe, positive amoebic serology, prescribing oral metronidazole 750 mg tds for 10 days. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "High fever, right hypochondriac pain, hepatomegaly, ultrasound showing solitary 6 cm hypoechoic cavity in right lobe, positive amoebic serology, prescribing oral metronidazole 750 mg tds for 10 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, high fever, right hypochondriac pain, hepatomegaly, ultrasound showing solitary 6 cm hypoechoic cavity in right lobe, positive amoebic serology, prescribing oral metronidazole 750 mg tds for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, high fever, right hypochondriac pain, hepatomegaly, ultrasound showing solitary 6 cm hypoechoic cavity in right lobe, positive amoebic serology, prescribing oral metronidazole 750 mg tds for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration. In the clinical management of Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Amoebic Liver Abscess Entamoeba Histolytica Oral Metronidazole vs Needle Aspiration."
+    ],
+    "references": [
+      {
+        "label": "API Textbook of Medicine & Indian National Liver Guidelines",
+        "url": "https://www.apiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13393",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole. Clinical examination and investigative review confirm asymptomatic right upper quadrant dull ache, abdominal ultrasound showing WHO type CE1 unilocular fluid collection with double-line sign, performing PAIR (Puncture, Aspiration, Injection, Re-aspiration) under albendazole cover. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Asymptomatic right upper quadrant dull ache, abdominal ultrasound showing who type ce1 unilocular fluid collection with double-line sign, performing pair (puncture, aspiration, injection, re-aspiration) under albendazole cover",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, asymptomatic right upper quadrant dull ache, abdominal ultrasound showing WHO type CE1 unilocular fluid collection with double-line sign, performing PAIR (Puncture, Aspiration, Injection, Re-aspiration) under albendazole cover represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, asymptomatic right upper quadrant dull ache, abdominal ultrasound showing WHO type CE1 unilocular fluid collection with double-line sign, performing PAIR (Puncture, Aspiration, Injection, Re-aspiration) under albendazole cover represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole. In the clinical management of Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hydatid Cyst Echinococcus Granulosus PAIR Technique vs Albendazole."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India (ASI) Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13394",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy. Clinical examination and investigative review confirm dyspnea on exertion, malar flush, loud S1, high-pitched opening snap, rumbling mid-diastolic murmur with presystolic accentuation, echocardiography Wilkins score < 8, scheduling PTMC. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Dyspnea on exertion, malar flush, loud s1, high-pitched opening snap, rumbling mid-diastolic murmur with presystolic accentuation, echocardiography wilkins score < 8, scheduling ptmc",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, dyspnea on exertion, malar flush, loud S1, high-pitched opening snap, rumbling mid-diastolic murmur with presystolic accentuation, echocardiography Wilkins score < 8, scheduling PTMC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, dyspnea on exertion, malar flush, loud S1, high-pitched opening snap, rumbling mid-diastolic murmur with presystolic accentuation, echocardiography Wilkins score < 8, scheduling PTMC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy. In the clinical management of Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rheumatic Mitral Stenosis Opening Snap Mid-Diastolic Murmur and Percutaneous Transvenous Mitral Commissurotomy."
+    ],
+    "references": [
+      {
+        "label": "Cardiological Society of India (CSI) Guidelines",
+        "url": "https://csi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13395",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening. Clinical examination and investigative review confirm premature acute myocardial infarction in 38-year-old male, strong family history, metabolic syndrome, elevated Lipoprotein(a) > 50 mg/dL, aggressive secondary prevention with high-intensity statin and antiplatelets. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Premature acute myocardial infarction in 38-year-old male, strong family history, metabolic syndrome, elevated lipoprotein(a) > 50 mg/dl, aggressive secondary prevention with high-intensity statin and antiplatelets",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, premature acute myocardial infarction in 38-year-old male, strong family history, metabolic syndrome, elevated Lipoprotein(a) > 50 mg/dL, aggressive secondary prevention with high-intensity statin and antiplatelets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, premature acute myocardial infarction in 38-year-old male, strong family history, metabolic syndrome, elevated Lipoprotein(a) > 50 mg/dL, aggressive secondary prevention with high-intensity statin and antiplatelets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening. In the clinical management of Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Coronary Artery Disease In South Asians High Lipoprotein(a) and Early Screening."
+    ],
+    "references": [
+      {
+        "label": "Cardiological Society of India CAD Guidelines",
+        "url": "https://csi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13396",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids. Clinical examination and investigative review confirm young Asian female presenting with claudication of upper limbs, absent radial pulses, vascular bruits over carotids, elevated ESR, CTA showing aortic arch stenosis, initiating oral prednisolone with methotrexate. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Young asian female presenting with claudication of upper limbs, absent radial pulses, vascular bruits over carotids, elevated esr, cta showing aortic arch stenosis, initiating oral prednisolone with methotrexate",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young Asian female presenting with claudication of upper limbs, absent radial pulses, vascular bruits over carotids, elevated ESR, CTA showing aortic arch stenosis, initiating oral prednisolone with methotrexate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young Asian female presenting with claudication of upper limbs, absent radial pulses, vascular bruits over carotids, elevated ESR, CTA showing aortic arch stenosis, initiating oral prednisolone with methotrexate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids. In the clinical management of Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Takayasu Arteritis Pulseless Disease Asymmetric Brachial Pulses and Systemic Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "Indian Rheumatology Association (IRA) Guidelines",
+        "url": "https://indianrheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13397",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad. Clinical examination and investigative review confirm young adult presenting with recurrent epigastric pain, severe malnutrition, polydipsia, abdominal radiograph showing dense pancreatic ductal calculi, prescribing pancreatic enzyme supplements and insulin. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Young adult presenting with recurrent epigastric pain, severe malnutrition, polydipsia, abdominal radiograph showing dense pancreatic ductal calculi, prescribing pancreatic enzyme supplements and insulin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young adult presenting with recurrent epigastric pain, severe malnutrition, polydipsia, abdominal radiograph showing dense pancreatic ductal calculi, prescribing pancreatic enzyme supplements and insulin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young adult presenting with recurrent epigastric pain, severe malnutrition, polydipsia, abdominal radiograph showing dense pancreatic ductal calculi, prescribing pancreatic enzyme supplements and insulin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad. In the clinical management of Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tropical Pancreatitis Fibrocalculous Pancreatic Diabetes FCPD Triad."
+    ],
+    "references": [
+      {
+        "label": "Research Society for the Study of Diabetes in India (RSSDI)",
+        "url": "https://rssdi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13398",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and R",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy. Clinical examination and investigative review confirm 3-week-old first-born male infant with projectile non-bilious vomiting, palpable olive-shaped epigastric mass, hypochloremic hypokalemic metabolic alkalosis, performing Ramstedt extramucosal pyloromyotomy. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "3-week-old first-born male infant with projectile non-bilious vomiting, palpable olive-shaped epigastric mass, hypochloremic hypokalemic metabolic alkalosis, performing ramstedt extramucosal pyloromyotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 3-week-old first-born male infant with projectile non-bilious vomiting, palpable olive-shaped epigastric mass, hypochloremic hypokalemic metabolic alkalosis, performing Ramstedt extramucosal pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 3-week-old first-born male infant with projectile non-bilious vomiting, palpable olive-shaped epigastric mass, hypochloremic hypokalemic metabolic alkalosis, performing Ramstedt extramucosal pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy. In the clinical management of Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypertrophic Pyloric Stenosis Non-Bilious Projectile Vomiting and Ramstedt Pyloromyotomy."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Pediatric Surgeons (IAPS)",
+        "url": "https://iaps.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13399",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy. Clinical examination and investigative review confirm term newborn failing to pass meconium within 48 hours, abdominal distension, explosive expulsion of flatus and stool on digital rectal examination, rectal suction biopsy demonstrating aganglionosis in submucosa. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Term newborn failing to pass meconium within 48 hours, abdominal distension, explosive expulsion of flatus and stool on digital rectal examination, rectal suction biopsy demonstrating aganglionosis in submucosa",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term newborn failing to pass meconium within 48 hours, abdominal distension, explosive expulsion of flatus and stool on digital rectal examination, rectal suction biopsy demonstrating aganglionosis in submucosa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term newborn failing to pass meconium within 48 hours, abdominal distension, explosive expulsion of flatus and stool on digital rectal examination, rectal suction biopsy demonstrating aganglionosis in submucosa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy. In the clinical management of Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Hirschsprung Disease Failure to Pass Meconium in 48 Hours Rectal Suction Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Pediatric Surgeons (IAPS)",
+        "url": "https://iaps.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13400",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction. Clinical examination and investigative review confirm 8-month-old infant with episodic inconsolable crying, knees drawn to abdomen, red currant jelly stool, sausage-shaped right upper quadrant mass, ultrasound showing target sign, performing pneumatic reduction. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "8-month-old infant with episodic inconsolable crying, knees drawn to abdomen, red currant jelly stool, sausage-shaped right upper quadrant mass, ultrasound showing target sign, performing pneumatic reduction",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 8-month-old infant with episodic inconsolable crying, knees drawn to abdomen, red currant jelly stool, sausage-shaped right upper quadrant mass, ultrasound showing target sign, performing pneumatic reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 8-month-old infant with episodic inconsolable crying, knees drawn to abdomen, red currant jelly stool, sausage-shaped right upper quadrant mass, ultrasound showing target sign, performing pneumatic reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction. In the clinical management of Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Intussusception Target Sign on Ultrasound Air Enema Hydrostatic Reduction."
+    ],
+    "references": [
+      {
+        "label": "IAPS Clinical Guidelines",
+        "url": "https://iaps.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13401",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Chol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy. Clinical examination and investigative review confirm elderly female from Gangetic belt with long-standing cholelithiasis presenting with dull RUQ ache and weight loss, CT showing asymmetric focal gallbladder wall thickening, performing radical cholecystectomy with lymphadenectomy. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Elderly female from gangetic belt with long-standing cholelithiasis presenting with dull ruq ache and weight loss, ct showing asymmetric focal gallbladder wall thickening, performing radical cholecystectomy with lymphadenectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, elderly female from Gangetic belt with long-standing cholelithiasis presenting with dull RUQ ache and weight loss, CT showing asymmetric focal gallbladder wall thickening, performing radical cholecystectomy with lymphadenectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, elderly female from Gangetic belt with long-standing cholelithiasis presenting with dull RUQ ache and weight loss, CT showing asymmetric focal gallbladder wall thickening, performing radical cholecystectomy with lymphadenectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy. In the clinical management of Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Carcinoma Gallbladder Gallstones Association Complete Staging and Radical Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India (ASI)",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13402",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy. Clinical examination and investigative review confirm young girl presenting with intermittent jaundice, right upper quadrant pain, and palpable mass, MRCP showing fusiform dilation of common bile duct (Todani Type 1), performing total cyst excision and Roux-en-Y hepaticojejunostomy. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Young girl presenting with intermittent jaundice, right upper quadrant pain, and palpable mass, mrcp showing fusiform dilation of common bile duct (todani type 1), performing total cyst excision and roux-en-y hepaticojejunostomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young girl presenting with intermittent jaundice, right upper quadrant pain, and palpable mass, MRCP showing fusiform dilation of common bile duct (Todani Type 1), performing total cyst excision and Roux-en-Y hepaticojejunostomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young girl presenting with intermittent jaundice, right upper quadrant pain, and palpable mass, MRCP showing fusiform dilation of common bile duct (Todani Type 1), performing total cyst excision and Roux-en-Y hepaticojejunostomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy. In the clinical management of Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Choledochal Cyst Todani Classification Type 1 Complete Cyst Excision and Roux-en-Y Hepaticojejunostomy."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Surgical Gastroenterology (IASG)",
+        "url": "https://iasg.info/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13403",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment. Clinical examination and investigative review confirm painless hard solitary breast lump with skin tethering, core needle biopsy confirming invasive ductal carcinoma ER/PR positive, HER2 negative, discussing breast conserving surgery plus radiotherapy versus MRM. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Painless hard solitary breast lump with skin tethering, core needle biopsy confirming invasive ductal carcinoma er/pr positive, her2 negative, discussing breast conserving surgery plus radiotherapy versus mrm",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless hard solitary breast lump with skin tethering, core needle biopsy confirming invasive ductal carcinoma ER/PR positive, HER2 negative, discussing breast conserving surgery plus radiotherapy versus MRM represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless hard solitary breast lump with skin tethering, core needle biopsy confirming invasive ductal carcinoma ER/PR positive, HER2 negative, discussing breast conserving surgery plus radiotherapy versus MRM represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment. In the clinical management of Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Breast Cancer Modified Radical Mastectomy vs Breast Conserving Surgery Triple Assessment."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India (ASI) & ICMR Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13404",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia. Clinical examination and investigative review confirm chronic tobacco/gutkha chewer with non-healing indurated ulcer of buccal mucosa with rolled everted edges, punch biopsy confirming invasive squamous cell carcinoma, scheduling wide local excision and neck dissection. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Chronic tobacco/gutkha chewer with non-healing indurated ulcer of buccal mucosa with rolled everted edges, punch biopsy confirming invasive squamous cell carcinoma, scheduling wide local excision and neck dissection",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic tobacco/gutkha chewer with non-healing indurated ulcer of buccal mucosa with rolled everted edges, punch biopsy confirming invasive squamous cell carcinoma, scheduling wide local excision and neck dissection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic tobacco/gutkha chewer with non-healing indurated ulcer of buccal mucosa with rolled everted edges, punch biopsy confirming invasive squamous cell carcinoma, scheduling wide local excision and neck dissection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia. In the clinical management of Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Oral Squamous Cell Carcinoma Betel Nut Chewing Smokeless Tobacco Premalignant Leukoplakia."
+    ],
+    "references": [
+      {
+        "label": "ICMR Guidelines on Management of Oral Cancer",
+        "url": "https://main.icmr.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13405",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy. Clinical examination and investigative review confirm solitary firm thyroid nodule, FNAC reporting follicular neoplasm (Bethesda category IV), recognizing that capsular or vascular invasion cannot be assessed by cytology alone, performing diagnostic hemithyroidectomy. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Solitary firm thyroid nodule, fnac reporting follicular neoplasm (bethesda category iv), recognizing that capsular or vascular invasion cannot be assessed by cytology alone, performing diagnostic hemithyroidectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, solitary firm thyroid nodule, FNAC reporting follicular neoplasm (Bethesda category IV), recognizing that capsular or vascular invasion cannot be assessed by cytology alone, performing diagnostic hemithyroidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, solitary firm thyroid nodule, FNAC reporting follicular neoplasm (Bethesda category IV), recognizing that capsular or vascular invasion cannot be assessed by cytology alone, performing diagnostic hemithyroidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy. In the clinical management of Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Thyroid Follicular Neoplasm Inability to Differentiate on FNAC Diagnostic Hemithyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India & Endocrine Society of India",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13406",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation. Clinical examination and investigative review confirm tortuous dilated veins along medial calf and thigh with aching pain and ankle hyperpigmentation, duplex ultrasound confirming SFJ reflux > 0.5 s, performing endovenous radiofrequency ablation (RFA). Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Tortuous dilated veins along medial calf and thigh with aching pain and ankle hyperpigmentation, duplex ultrasound confirming sfj reflux > 0.5 s, performing endovenous radiofrequency ablation (rfa)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, tortuous dilated veins along medial calf and thigh with aching pain and ankle hyperpigmentation, duplex ultrasound confirming SFJ reflux > 0.5 s, performing endovenous radiofrequency ablation (RFA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, tortuous dilated veins along medial calf and thigh with aching pain and ankle hyperpigmentation, duplex ultrasound confirming SFJ reflux > 0.5 s, performing endovenous radiofrequency ablation (RFA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation. In the clinical management of Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Varicose Veins Great Saphenous Vein Saphenofemoral Incompetence Radiofrequency Ablation."
+    ],
+    "references": [
+      {
+        "label": "Vascular Society of India (VSI) Guidelines",
+        "url": "https://www.vsi.net.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13407",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line. Clinical examination and investigative review confirm young male bidi smoker presenting with distal ray digital gangrene, rest pain, superficial thrombophlebitis, absent pedal pulses with normal proximal pulses, mandating complete and permanent tobacco cessation. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Young male bidi smoker presenting with distal ray digital gangrene, rest pain, superficial thrombophlebitis, absent pedal pulses with normal proximal pulses, mandating complete and permanent tobacco cessation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young male bidi smoker presenting with distal ray digital gangrene, rest pain, superficial thrombophlebitis, absent pedal pulses with normal proximal pulses, mandating complete and permanent tobacco cessation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, young male bidi smoker presenting with distal ray digital gangrene, rest pain, superficial thrombophlebitis, absent pedal pulses with normal proximal pulses, mandating complete and permanent tobacco cessation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line. In the clinical management of Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Buerger Disease Thromboangiitis Obliterans Buerger Smoking Cessation First-Line."
+    ],
+    "references": [
+      {
+        "label": "Vascular Society of India Clinical Guidelines",
+        "url": "https://www.vsi.net.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13408",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen. Clinical examination and investigative review confirm chronic backache, weight loss, progressive lower limb spasticity, gibbus deformity, MRI showing destruction of adjacent D8-D9 vertebral bodies and disc with prevertebral cold abscess, initiating 4-drug ATT. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Chronic backache, weight loss, progressive lower limb spasticity, gibbus deformity, mri showing destruction of adjacent d8-d9 vertebral bodies and disc with prevertebral cold abscess, initiating 4-drug att",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic backache, weight loss, progressive lower limb spasticity, gibbus deformity, MRI showing destruction of adjacent D8-D9 vertebral bodies and disc with prevertebral cold abscess, initiating 4-drug ATT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, chronic backache, weight loss, progressive lower limb spasticity, gibbus deformity, MRI showing destruction of adjacent D8-D9 vertebral bodies and disc with prevertebral cold abscess, initiating 4-drug ATT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen. In the clinical management of Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pott Spine Tuberculous Spondylitis Cold Abscess Gibbus Deformity and ATT Regimen."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association (IOA) & NTEP",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13409",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Exten",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage. Clinical examination and investigative review confirm 26-year-old presenting with dull knee pain, radiograph showing eccentric osteolytic lesion expanding epiphysis into metaphysis with classic soap-bubble appearance, performing extended curettage with burring and bone cementing. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "26-year-old presenting with dull knee pain, radiograph showing eccentric osteolytic lesion expanding epiphysis into metaphysis with classic soap-bubble appearance, performing extended curettage with burring and bone cementing",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 26-year-old presenting with dull knee pain, radiograph showing eccentric osteolytic lesion expanding epiphysis into metaphysis with classic soap-bubble appearance, performing extended curettage with burring and bone cementing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 26-year-old presenting with dull knee pain, radiograph showing eccentric osteolytic lesion expanding epiphysis into metaphysis with classic soap-bubble appearance, performing extended curettage with burring and bone cementing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage. In the clinical management of Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Giant Cell Tumor of Bone Osteoclastoma Epiphyseal Soap Bubble Appearance Extended Curettage."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association Guidelines",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13410",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemot",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy. Clinical examination and investigative review confirm 15-year-old boy with painful swelling around distal femur, radiograph showing sunray osteoblastic spiculation and Codman periosteal triangle, initiating neoadjuvant chemotherapy followed by limb salvage resection. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "15-year-old boy with painful swelling around distal femur, radiograph showing sunray osteoblastic spiculation and codman periosteal triangle, initiating neoadjuvant chemotherapy followed by limb salvage resection",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 15-year-old boy with painful swelling around distal femur, radiograph showing sunray osteoblastic spiculation and Codman periosteal triangle, initiating neoadjuvant chemotherapy followed by limb salvage resection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 15-year-old boy with painful swelling around distal femur, radiograph showing sunray osteoblastic spiculation and Codman periosteal triangle, initiating neoadjuvant chemotherapy followed by limb salvage resection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy. In the clinical management of Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Osteosarcoma Metaphyseal Sunray Speculation Codman Triangle Neoadjuvant Chemotherapy."
+    ],
+    "references": [
+      {
+        "label": "Indian Musculoskeletal Oncology Society (IMOS)",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13411",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkm",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture. Clinical examination and investigative review confirm child falling onto outstretched hand, severe elbow swelling, displaced Gartland type III fracture, loss of radial pulse, urgent closed reduction and percutaneous K-wire fixation to prevent compartment Volkmann contracture. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Child falling onto outstretched hand, severe elbow swelling, displaced gartland type iii fracture, loss of radial pulse, urgent closed reduction and percutaneous k-wire fixation to prevent compartment volkmann contracture",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child falling onto outstretched hand, severe elbow swelling, displaced Gartland type III fracture, loss of radial pulse, urgent closed reduction and percutaneous K-wire fixation to prevent compartment Volkmann contracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child falling onto outstretched hand, severe elbow swelling, displaced Gartland type III fracture, loss of radial pulse, urgent closed reduction and percutaneous K-wire fixation to prevent compartment Volkmann contracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture. In the clinical management of Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Supracondylar Fracture Humerus Gartland Classification Volkmann Ischemia Volkmann Contracture."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association Paediatric Trauma Guidelines",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13412",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method. Clinical examination and investigative review confirm newborn infant with bilateral rigid clubfoot: equinus, varus, adductus, and cavus, initiating weekly Ponseti manipulation and serial long-leg plaster casting followed by percutaneous Achilles tenotomy. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Newborn infant with bilateral rigid clubfoot: equinus, varus, adductus, and cavus, initiating weekly ponseti manipulation and serial long-leg plaster casting followed by percutaneous achilles tenotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, newborn infant with bilateral rigid clubfoot: equinus, varus, adductus, and cavus, initiating weekly Ponseti manipulation and serial long-leg plaster casting followed by percutaneous Achilles tenotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, newborn infant with bilateral rigid clubfoot: equinus, varus, adductus, and cavus, initiating weekly Ponseti manipulation and serial long-leg plaster casting followed by percutaneous Achilles tenotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method. In the clinical management of Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Talipes Equinovarus CTEV Clubfoot Ponseti Serial Casting Method."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association & Ponseti International",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13413",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik H",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness. Clinical examination and investigative review confirm 6-week female infant, Barlow provocation test causing posterior dislocation and Ortolani test causing palpable clunk of reduction, hip ultrasound confirming DDH, applying Pavlik harness with abduction monitoring. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "6-week female infant, barlow provocation test causing posterior dislocation and ortolani test causing palpable clunk of reduction, hip ultrasound confirming ddh, applying pavlik harness with abduction monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 6-week female infant, Barlow provocation test causing posterior dislocation and Ortolani test causing palpable clunk of reduction, hip ultrasound confirming DDH, applying Pavlik harness with abduction monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 6-week female infant, Barlow provocation test causing posterior dislocation and Ortolani test causing palpable clunk of reduction, hip ultrasound confirming DDH, applying Pavlik harness with abduction monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness. In the clinical management of Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Developmental Dysplasia of the Hip Ortolani and Barlow Palpable Clunk Pavlik Harness."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association Guidelines",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13414",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line. Clinical examination and investigative review confirm recurrent Proteus UTIs, KUB radiograph and non-contrast CT showing complete staghorn calculus occupying renal pelvis and calyces, arranging percutaneous nephrolithotomy (PCNL) as gold standard. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Recurrent proteus utis, kub radiograph and non-contrast ct showing complete staghorn calculus occupying renal pelvis and calyces, arranging percutaneous nephrolithotomy (pcnl) as gold standard",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, recurrent Proteus UTIs, KUB radiograph and non-contrast CT showing complete staghorn calculus occupying renal pelvis and calyces, arranging percutaneous nephrolithotomy (PCNL) as gold standard represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, recurrent Proteus UTIs, KUB radiograph and non-contrast CT showing complete staghorn calculus occupying renal pelvis and calyces, arranging percutaneous nephrolithotomy (PCNL) as gold standard represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line. In the clinical management of Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Urolithiasis Staghorn Calculus Percutaneous Nephrolithotomy PCNL First-Line."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of India (USI) Guidelines",
+        "url": "https://www.usi-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13415",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Dr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage. Clinical examination and investigative review confirm male newborn with poor urinary stream, palpable distended bladder, bilateral hydroureteronephrosis, voiding cystourethrogram (VCUG) showing keyhole dilated posterior urethra, urgent catheter decompression and cystoscopic valve ablation. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Male newborn with poor urinary stream, palpable distended bladder, bilateral hydroureteronephrosis, voiding cystourethrogram (vcug) showing keyhole dilated posterior urethra, urgent catheter decompression and cystoscopic valve ablation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, male newborn with poor urinary stream, palpable distended bladder, bilateral hydroureteronephrosis, voiding cystourethrogram (VCUG) showing keyhole dilated posterior urethra, urgent catheter decompression and cystoscopic valve ablation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, male newborn with poor urinary stream, palpable distended bladder, bilateral hydroureteronephrosis, voiding cystourethrogram (VCUG) showing keyhole dilated posterior urethra, urgent catheter decompression and cystoscopic valve ablation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage. In the clinical management of Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Posterior Urethral Valves PUV Keyhole Sign on Ultrasound Emergency Catheter Drainage."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of India (USI)",
+        "url": "https://www.usi-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13416",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours. Clinical examination and investigative review confirm 13-year-old boy with sudden excruciating scrotal pain, high transverse testicular lie, absent cremasteric reflex, color Doppler showing absent flow, immediate scrotal exploration with bilateral orchidopexy. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "13-year-old boy with sudden excruciating scrotal pain, high transverse testicular lie, absent cremasteric reflex, color doppler showing absent flow, immediate scrotal exploration with bilateral orchidopexy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 13-year-old boy with sudden excruciating scrotal pain, high transverse testicular lie, absent cremasteric reflex, color Doppler showing absent flow, immediate scrotal exploration with bilateral orchidopexy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 13-year-old boy with sudden excruciating scrotal pain, high transverse testicular lie, absent cremasteric reflex, color Doppler showing absent flow, immediate scrotal exploration with bilateral orchidopexy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours. In the clinical management of Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Torsion of Testis Whirlpool Sign Immediate Surgical Scrotal Exploration Within 6 Hours."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of India Guidelines",
+        "url": "https://www.usi-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13417",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Sur",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery. Clinical examination and investigative review confirm migratory right iliac fossa pain, fever, anorexia, vomiting, McBurney point tenderness and Rovsing sign, graded compression ultrasound confirming aperistaltic non-compressible appendix > 6 mm, performing appendectomy. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Migratory right iliac fossa pain, fever, anorexia, vomiting, mcburney point tenderness and rovsing sign, graded compression ultrasound confirming aperistaltic non-compressible appendix > 6 mm, performing appendectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, migratory right iliac fossa pain, fever, anorexia, vomiting, McBurney point tenderness and Rovsing sign, graded compression ultrasound confirming aperistaltic non-compressible appendix > 6 mm, performing appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, migratory right iliac fossa pain, fever, anorexia, vomiting, McBurney point tenderness and Rovsing sign, graded compression ultrasound confirming aperistaltic non-compressible appendix > 6 mm, performing appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery. In the clinical management of Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Appendicitis Classic Murphy Triad Ultrasound First-Line Laparoscopic Surgery."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India (ASI)",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13418",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy. Clinical examination and investigative review confirm sudden agonizing epigastric pain with board-like abdominal guarding, erect chest X-ray showing free air under right hemidiaphragm, crystalloid resuscitation, IV PPI, and exploratory laparotomy with Graham omental patch closure. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Sudden agonizing epigastric pain with board-like abdominal guarding, erect chest x-ray showing free air under right hemidiaphragm, crystalloid resuscitation, iv ppi, and exploratory laparotomy with graham omental patch closure",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden agonizing epigastric pain with board-like abdominal guarding, erect chest X-ray showing free air under right hemidiaphragm, crystalloid resuscitation, IV PPI, and exploratory laparotomy with Graham omental patch closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden agonizing epigastric pain with board-like abdominal guarding, erect chest X-ray showing free air under right hemidiaphragm, crystalloid resuscitation, IV PPI, and exploratory laparotomy with Graham omental patch closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy. In the clinical management of Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Perforated Peptic Ulcer Subdiaphragmatic Free Gas Graham Patch Omentopexy."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13419",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI. Clinical examination and investigative review confirm abdominal colic, persistent vomiting, fever, localized peritonitis, continuous severe pain and tachycardia indicating strangulated loop, immediate nasogastric decompression, fluid resuscitation, and emergency laparotomy. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Abdominal colic, persistent vomiting, fever, localized peritonitis, continuous severe pain and tachycardia indicating strangulated loop, immediate nasogastric decompression, fluid resuscitation, and emergency laparotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, abdominal colic, persistent vomiting, fever, localized peritonitis, continuous severe pain and tachycardia indicating strangulated loop, immediate nasogastric decompression, fluid resuscitation, and emergency laparotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, abdominal colic, persistent vomiting, fever, localized peritonitis, continuous severe pain and tachycardia indicating strangulated loop, immediate nasogastric decompression, fluid resuscitation, and emergency laparotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI. In the clinical management of Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Acute Intestinal Obstruction Strangulated Bowel Signs Emergency Laparotomy ASI."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13420",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination. Clinical examination and investigative review confirm motor vehicle accident, FAST positive for free perisplenic fluid, patient hemodynamically stable with BP 124/80 mm Hg, proceeding to contrast-enhanced abdominal CT for organ injury grading and non-operative management. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Motor vehicle accident, fast positive for free perisplenic fluid, patient hemodynamically stable with bp 124/80 mm hg, proceeding to contrast-enhanced abdominal ct for organ injury grading and non-operative management",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, motor vehicle accident, FAST positive for free perisplenic fluid, patient hemodynamically stable with BP 124/80 mm Hg, proceeding to contrast-enhanced abdominal CT for organ injury grading and non-operative management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, motor vehicle accident, FAST positive for free perisplenic fluid, patient hemodynamically stable with BP 124/80 mm Hg, proceeding to contrast-enhanced abdominal CT for organ injury grading and non-operative management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination. In the clinical management of Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Splenic Rupture In Blunt Abdominal Trauma Hemodynamic Stability FAST Examination."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India Trauma Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13421",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line. Clinical examination and investigative review confirm penetrating chest injury with respiratory distress, tracheal deviation away from affected side, absent breath sounds, hyperresonance, hypotension, performing immediate wide-bore needle thoracocentesis before chest X-ray. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Penetrating chest injury with respiratory distress, tracheal deviation away from affected side, absent breath sounds, hyperresonance, hypotension, performing immediate wide-bore needle thoracocentesis before chest x-ray",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, penetrating chest injury with respiratory distress, tracheal deviation away from affected side, absent breath sounds, hyperresonance, hypotension, performing immediate wide-bore needle thoracocentesis before chest X-ray represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, penetrating chest injury with respiratory distress, tracheal deviation away from affected side, absent breath sounds, hyperresonance, hypotension, performing immediate wide-bore needle thoracocentesis before chest X-ray represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line. In the clinical management of Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tension Pneumothorax Needle Decompression Second Intercostal Space Mid-Clavicular Line."
+    ],
+    "references": [
+      {
+        "label": "Advanced Trauma Life Support (ATLS) India Protocol",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13422",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India. Clinical examination and investigative review confirm adult with extensive flame burns covering entire chest, abdomen, and both arms (36% TBSA), applying Parkland formula (4 mL x weight x %TBSA) with half given in first 8 hours using Ringer lactate. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Adult with extensive flame burns covering entire chest, abdomen, and both arms (36% tbsa), applying parkland formula (4 ml x weight x %tbsa) with half given in first 8 hours using ringer lactate",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, adult with extensive flame burns covering entire chest, abdomen, and both arms (36% TBSA), applying Parkland formula (4 mL x weight x %TBSA) with half given in first 8 hours using Ringer lactate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, adult with extensive flame burns covering entire chest, abdomen, and both arms (36% TBSA), applying Parkland formula (4 mL x weight x %TBSA) with half given in first 8 hours using Ringer lactate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India. In the clinical management of Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Burns Total Body Surface Area Wallace Rule of Nines Parkland Fluid Formula India."
+    ],
+    "references": [
+      {
+        "label": "National Academy of Burns India (NABI)",
+        "url": "https://www.nabinewdelhi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13423",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI. Clinical examination and investigative review confirm blood pressure 170/112 mm Hg at 34 weeks, headache, visual blurring, 3+ proteinuria, administering IV labetalol to lower BP and loading dose of magnesium sulfate (Pritchard intramuscular/IV protocol). Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Blood pressure 170/112 mm hg at 34 weeks, headache, visual blurring, 3+ proteinuria, administering iv labetalol to lower bp and loading dose of magnesium sulfate (pritchard intramuscular/iv protocol)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, blood pressure 170/112 mm Hg at 34 weeks, headache, visual blurring, 3+ proteinuria, administering IV labetalol to lower BP and loading dose of magnesium sulfate (Pritchard intramuscular/IV protocol) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, blood pressure 170/112 mm Hg at 34 weeks, headache, visual blurring, 3+ proteinuria, administering IV labetalol to lower BP and loading dose of magnesium sulfate (Pritchard intramuscular/IV protocol) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI. In the clinical management of Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Preeclampsia IV Labetalol and Magnesium Sulfate Pritchard Regimen FOGSI."
+    ],
+    "references": [
+      {
+        "label": "Federation of Obstetric and Gynaecological Societies of India (FOGSI)",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13424",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immedia",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery. Clinical examination and investigative review confirm generalized tonic-clonic convulsions in pregnant woman with severe hypertension, administering loading dose of magnesium sulfate (4g IV plus 10g IM), controlling airway, and planning urgent delivery. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Generalized tonic-clonic convulsions in pregnant woman with severe hypertension, administering loading dose of magnesium sulfate (4g iv plus 10g im), controlling airway, and planning urgent delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, generalized tonic-clonic convulsions in pregnant woman with severe hypertension, administering loading dose of magnesium sulfate (4g IV plus 10g IM), controlling airway, and planning urgent delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, generalized tonic-clonic convulsions in pregnant woman with severe hypertension, administering loading dose of magnesium sulfate (4g IV plus 10g IM), controlling airway, and planning urgent delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery. In the clinical management of Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Eclampsia Generalized Seizure Magnesium Sulfate Pritchard Protocol and Immediate Delivery."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Good Clinical Practice Guidelines on Eclampsia",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13425",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI. Clinical examination and investigative review confirm vaginal delivery of infant, immediately administering intramuscular oxytocin 10 IU, performing controlled cord traction, and uterine massage to dramatically reduce postpartum hemorrhage risk. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Vaginal delivery of infant, immediately administering intramuscular oxytocin 10 iu, performing controlled cord traction, and uterine massage to dramatically reduce postpartum hemorrhage risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, vaginal delivery of infant, immediately administering intramuscular oxytocin 10 IU, performing controlled cord traction, and uterine massage to dramatically reduce postpartum hemorrhage risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, vaginal delivery of infant, immediately administering intramuscular oxytocin 10 IU, performing controlled cord traction, and uterine massage to dramatically reduce postpartum hemorrhage risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI. In the clinical management of Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Postpartum Hemorrhage Active Management of Third Stage of Labor AMTSL Oxytocin FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Management of PPH",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13426",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Ex",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination. Clinical examination and investigative review confirm painless bright red recurrent vaginal bleeding at 32 weeks gestation, soft non-tender uterus, strictly avoiding digital vaginal examination, and ordering emergency transabdominal/transvaginal ultrasound. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Painless bright red recurrent vaginal bleeding at 32 weeks gestation, soft non-tender uterus, strictly avoiding digital vaginal examination, and ordering emergency transabdominal/transvaginal ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless bright red recurrent vaginal bleeding at 32 weeks gestation, soft non-tender uterus, strictly avoiding digital vaginal examination, and ordering emergency transabdominal/transvaginal ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, painless bright red recurrent vaginal bleeding at 32 weeks gestation, soft non-tender uterus, strictly avoiding digital vaginal examination, and ordering emergency transabdominal/transvaginal ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination. In the clinical management of Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Placenta Previa Painless Causeless Recurrent Vaginal Bleeding Avoid Digital Examination."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Clinical Practice Guidelines on Antepartum Hemorrhage",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13427",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesa",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI. Clinical examination and investigative review confirm sudden agonizing abdominal pain, dark vaginal bleeding, woody hard hypertonic uterus, fetal bradycardia 95/min, diagnosing acute placental abruption, aggressive blood transfusion and emergency cesarean. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden agonizing abdominal pain, dark vaginal bleeding, woody hard hypertonic uterus, fetal bradycardia 95/min, diagnosing acute placental abruption, aggressive blood transfusion and emergency cesarean",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden agonizing abdominal pain, dark vaginal bleeding, woody hard hypertonic uterus, fetal bradycardia 95/min, diagnosing acute placental abruption, aggressive blood transfusion and emergency cesarean represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden agonizing abdominal pain, dark vaginal bleeding, woody hard hypertonic uterus, fetal bradycardia 95/min, diagnosing acute placental abruption, aggressive blood transfusion and emergency cesarean represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI. In the clinical management of Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Abruptio Placentae Painful Vaginal Bleeding Woody Tender Uterus Emergency Cesarean FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI APH Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13428",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-20",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L. Clinical examination and investigative review confirm lower abdominal pain and spotting, serum beta-hCG 2400 IU/L, transvaginal ultrasound showing empty uterine cavity and adnexal mass with tubal ring sign, diagnosing ectopic gestation. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Lower abdominal pain and spotting, serum beta-hcg 2400 iu/l, transvaginal ultrasound showing empty uterine cavity and adnexal mass with tubal ring sign, diagnosing ectopic gestation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, lower abdominal pain and spotting, serum beta-hCG 2400 IU/L, transvaginal ultrasound showing empty uterine cavity and adnexal mass with tubal ring sign, diagnosing ectopic gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, lower abdominal pain and spotting, serum beta-hCG 2400 IU/L, transvaginal ultrasound showing empty uterine cavity and adnexal mass with tubal ring sign, diagnosing ectopic gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L. In the clinical management of Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ectopic Pregnancy Transvaginal Ultrasound Discriminatory Zone Beta-hCG 1500-2000 IU/L."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Ectopic Pregnancy",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13429",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Sucti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation. Clinical examination and investigative review confirm excessive nausea, uterine size larger than dates (18 weeks at 12 weeks amenorrhea), beta-hCG > 100,000 IU/L, ultrasound showing classic snowstorm vesicular pattern, performing suction evacuation. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Excessive nausea, uterine size larger than dates (18 weeks at 12 weeks amenorrhea), beta-hcg > 100,000 iu/l, ultrasound showing classic snowstorm vesicular pattern, performing suction evacuation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, excessive nausea, uterine size larger than dates (18 weeks at 12 weeks amenorrhea), beta-hCG > 100,000 IU/L, ultrasound showing classic snowstorm vesicular pattern, performing suction evacuation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, excessive nausea, uterine size larger than dates (18 weeks at 12 weeks amenorrhea), beta-hCG > 100,000 IU/L, ultrasound showing classic snowstorm vesicular pattern, performing suction evacuation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation. In the clinical management of Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Trophoblastic Disease Hydatidiform Mole Snowstorm Appearance Suction Evacuation."
+    ],
+    "references": [
+      {
+        "label": "FOGSI GTD Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13430",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India. Clinical examination and investigative review confirm primary health center screening in 35-year-old female, applying 5% dilute acetic acid to cervix, observing sharp opaque acetowhite lesion near transformation zone (positive VIA), arranging colposcopy. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Primary health center screening in 35-year-old female, applying 5% dilute acetic acid to cervix, observing sharp opaque acetowhite lesion near transformation zone (positive via), arranging colposcopy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, primary health center screening in 35-year-old female, applying 5% dilute acetic acid to cervix, observing sharp opaque acetowhite lesion near transformation zone (positive VIA), arranging colposcopy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, primary health center screening in 35-year-old female, applying 5% dilute acetic acid to cervix, observing sharp opaque acetowhite lesion near transformation zone (positive VIA), arranging colposcopy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India. In the clinical management of Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Cervical Cancer Screening Visual Inspection with Acetic Acid VIA National Guidelines India."
+    ],
+    "references": [
+      {
+        "label": "Operational Framework for Management of Common Cancers MoHFW India",
+        "url": "https://mohfw.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13431",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI. Clinical examination and investigative review confirm oligomenorrhea, hirsutism, acne, ultrasound showing multiple peripherally arranged follicles (string of pearls sign), prescribing lifestyle dietary modifications, myo-inositol or metformin. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Oligomenorrhea, hirsutism, acne, ultrasound showing multiple peripherally arranged follicles (string of pearls sign), prescribing lifestyle dietary modifications, myo-inositol or metformin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, oligomenorrhea, hirsutism, acne, ultrasound showing multiple peripherally arranged follicles (string of pearls sign), prescribing lifestyle dietary modifications, myo-inositol or metformin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, oligomenorrhea, hirsutism, acne, ultrasound showing multiple peripherally arranged follicles (string of pearls sign), prescribing lifestyle dietary modifications, myo-inositol or metformin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI. In the clinical management of Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Polycystic Ovarian Syndrome Rotterdam Criteria Lifestyle and Inositol/Metformin FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on PCOS Management",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13432",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI. Clinical examination and investigative review confirm severe secondary dysmenorrhea, dyspareunia, pelvic pain, ultrasound showing ground-glass echogenicity in unilocular ovarian endometrioma (chocolate cyst), arranging laparoscopic cystectomy. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Severe secondary dysmenorrhea, dyspareunia, pelvic pain, ultrasound showing ground-glass echogenicity in unilocular ovarian endometrioma (chocolate cyst), arranging laparoscopic cystectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, severe secondary dysmenorrhea, dyspareunia, pelvic pain, ultrasound showing ground-glass echogenicity in unilocular ovarian endometrioma (chocolate cyst), arranging laparoscopic cystectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, severe secondary dysmenorrhea, dyspareunia, pelvic pain, ultrasound showing ground-glass echogenicity in unilocular ovarian endometrioma (chocolate cyst), arranging laparoscopic cystectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI. In the clinical management of Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endometriosis Powder-Burn Lesions Chocolate Cyst Laparoscopic Ablation FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Endometriosis Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13433",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline M",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO. Clinical examination and investigative review confirm lower abdominal pain, cervical motion tenderness, purulent vaginal discharge, administering NACO syndromic management Kit 1: single-dose intramuscular ceftriaxone plus oral doxycycline and metronidazole for 14 days. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Lower abdominal pain, cervical motion tenderness, purulent vaginal discharge, administering naco syndromic management kit 1: single-dose intramuscular ceftriaxone plus oral doxycycline and metronidazole for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, lower abdominal pain, cervical motion tenderness, purulent vaginal discharge, administering NACO syndromic management Kit 1: single-dose intramuscular ceftriaxone plus oral doxycycline and metronidazole for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, lower abdominal pain, cervical motion tenderness, purulent vaginal discharge, administering NACO syndromic management Kit 1: single-dose intramuscular ceftriaxone plus oral doxycycline and metronidazole for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO. In the clinical management of Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pelvic Inflammatory Disease Syndromic Approach Kit 1 Ceftriaxone Doxycycline Metronidazole NACO."
+    ],
+    "references": [
+      {
+        "label": "National AIDS Control Organisation (NACO) STI Guidelines",
+        "url": "https://naco.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13434",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India. Clinical examination and investigative review confirm counseling post-delivery contraception, inserting postplacental Copper T-380A within 48 hours of normal vaginal delivery (PPIUCD) providing highly effective reversible contraception for up to 10 years. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Counseling post-delivery contraception, inserting postplacental copper t-380a within 48 hours of normal vaginal delivery (ppiucd) providing highly effective reversible contraception for up to 10 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, counseling post-delivery contraception, inserting postplacental Copper T-380A within 48 hours of normal vaginal delivery (PPIUCD) providing highly effective reversible contraception for up to 10 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, counseling post-delivery contraception, inserting postplacental Copper T-380A within 48 hours of normal vaginal delivery (PPIUCD) providing highly effective reversible contraception for up to 10 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India. In the clinical management of Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Intrauterine Contraceptive Device Copper-T 380A Insertion Timing Postplacental India."
+    ],
+    "references": [
+      {
+        "label": "Family Planning Division MoHFW Government of India",
+        "url": "https://mohfw.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13435",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Pro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India. Clinical examination and investigative review confirm unintended pregnancy at 7 weeks gestation requesting medical abortion, prescribing oral mifepristone 200 mg followed 24-48 hours later by misoprostol 800 mcg buccally under MTP Amendment Act 2021. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Unintended pregnancy at 7 weeks gestation requesting medical abortion, prescribing oral mifepristone 200 mg followed 24-48 hours later by misoprostol 800 mcg buccally under mtp amendment act 2021",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, unintended pregnancy at 7 weeks gestation requesting medical abortion, prescribing oral mifepristone 200 mg followed 24-48 hours later by misoprostol 800 mcg buccally under MTP Amendment Act 2021 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, unintended pregnancy at 7 weeks gestation requesting medical abortion, prescribing oral mifepristone 200 mg followed 24-48 hours later by misoprostol 800 mcg buccally under MTP Amendment Act 2021 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India. In the clinical management of Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Termination of Pregnancy MTP Act 2021 Mifepristone and Misoprostol Protocol India."
+    ],
+    "references": [
+      {
+        "label": "The Medical Termination of Pregnancy (Amendment) Act 2021 India",
+        "url": "https://egazette.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13436",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Hematology",
+    "topic": "Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW. Clinical examination and investigative review confirm routine antenatal check at 16 weeks, Hb 9.8 g/dL (mild anemia), initiating daily therapeutic oral iron-folic acid tablet (100 mg elemental iron + 500 mcg folic acid) under Anemia Mukt Bharat guidelines. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine antenatal check at 16 weeks, hb 9.8 g/dl (mild anemia), initiating daily therapeutic oral iron-folic acid tablet (100 mg elemental iron + 500 mcg folic acid) under anemia mukt bharat guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, routine antenatal check at 16 weeks, Hb 9.8 g/dL (mild anemia), initiating daily therapeutic oral iron-folic acid tablet (100 mg elemental iron + 500 mcg folic acid) under Anemia Mukt Bharat guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, routine antenatal check at 16 weeks, Hb 9.8 g/dL (mild anemia), initiating daily therapeutic oral iron-folic acid tablet (100 mg elemental iron + 500 mcg folic acid) under Anemia Mukt Bharat guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW. In the clinical management of Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Anemia in Pregnancy National Iron Plus Initiative Oral Iron-Folic Acid Tablets MoHFW."
+    ],
+    "references": [
+      {
+        "label": "Anemia Mukt Bharat Operational Guidelines MoHFW India",
+        "url": "https://anemiamuktbharat.info/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13437",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL. Clinical examination and investigative review confirm antenatal visit at 24 weeks, administering DIPSI single-step 75g non-fasting oral glucose challenge; 2-hour venous plasma glucose 148 mg/dL confirming GDM, initiating medical nutrition therapy. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Antenatal visit at 24 weeks, administering dipsi single-step 75g non-fasting oral glucose challenge; 2-hour venous plasma glucose 148 mg/dl confirming gdm, initiating medical nutrition therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, antenatal visit at 24 weeks, administering DIPSI single-step 75g non-fasting oral glucose challenge; 2-hour venous plasma glucose 148 mg/dL confirming GDM, initiating medical nutrition therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, antenatal visit at 24 weeks, administering DIPSI single-step 75g non-fasting oral glucose challenge; 2-hour venous plasma glucose 148 mg/dL confirming GDM, initiating medical nutrition therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL. In the clinical management of Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Gestational Diabetes DIPSI Single Step 75g Non-Fasting Blood Glucose Threshold 140 mg/dL."
+    ],
+    "references": [
+      {
+        "label": "Diabetes in Pregnancy Study Group India (DIPSI) Guidelines",
+        "url": "https://dipsi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13438",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Hematology",
+    "topic": "Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kl",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke. Clinical examination and investigative review confirm Rh-negative unsensitized primigravida carrying Rh-positive fetus, administering prophylactic anti-D immunoglobulin 300 mcg IM at 28 weeks and within 72 hours of delivery guided by Kleihauer-Betke test. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Rh-negative unsensitized primigravida carrying rh-positive fetus, administering prophylactic anti-d immunoglobulin 300 mcg im at 28 weeks and within 72 hours of delivery guided by kleihauer-betke test",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, Rh-negative unsensitized primigravida carrying Rh-positive fetus, administering prophylactic anti-D immunoglobulin 300 mcg IM at 28 weeks and within 72 hours of delivery guided by Kleihauer-Betke test represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, Rh-negative unsensitized primigravida carrying Rh-positive fetus, administering prophylactic anti-D immunoglobulin 300 mcg IM at 28 weeks and within 72 hours of delivery guided by Kleihauer-Betke test represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke. In the clinical management of Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Rh Isoimmunization Anti-D Immunoglobulin 300 mcg at 28 Weeks and Postpartum Kleihauer-Betke."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Rh Incompatibility",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13439",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI. Clinical examination and investigative review confirm uncomplicated singleton breech presentation at 37 weeks gestation, normal amniotic fluid index and reactive NST, offering external cephalic version (ECV) with tocolysis under ultrasound guidance. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Uncomplicated singleton breech presentation at 37 weeks gestation, normal amniotic fluid index and reactive nst, offering external cephalic version (ecv) with tocolysis under ultrasound guidance",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, uncomplicated singleton breech presentation at 37 weeks gestation, normal amniotic fluid index and reactive NST, offering external cephalic version (ECV) with tocolysis under ultrasound guidance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, uncomplicated singleton breech presentation at 37 weeks gestation, normal amniotic fluid index and reactive NST, offering external cephalic version (ECV) with tocolysis under ultrasound guidance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI. In the clinical management of Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Malpresentation Breech External Cephalic Version ECV at 37 Weeks FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Clinical Guidelines on Malpresentation",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13440",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section. Clinical examination and investigative review confirm prolonged second stage of labor, maternal exhaustion, palpable pathological retraction ring (Bandl ring) rising above umbilicus, recognizing impending uterine rupture and performing immediate cesarean delivery. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Prolonged second stage of labor, maternal exhaustion, palpable pathological retraction ring (bandl ring) rising above umbilicus, recognizing impending uterine rupture and performing immediate cesarean delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prolonged second stage of labor, maternal exhaustion, palpable pathological retraction ring (Bandl ring) rising above umbilicus, recognizing impending uterine rupture and performing immediate cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prolonged second stage of labor, maternal exhaustion, palpable pathological retraction ring (Bandl ring) rising above umbilicus, recognizing impending uterine rupture and performing immediate cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section. In the clinical management of Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Obstructed Labor Bandl Ring Impending Uterine Rupture Emergency Cesarean Section."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Intrapartum Care Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13441",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI. Clinical examination and investigative review confirm head delivers but retracts tightly against perineum (turtle sign), anterior shoulder impacted behind pubic symphysis, calling for help, performing hyperflexion of maternal hips (McRoberts maneuver) and suprapubic pressure. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Head delivers but retracts tightly against perineum (turtle sign), anterior shoulder impacted behind pubic symphysis, calling for help, performing hyperflexion of maternal hips (mcroberts maneuver) and suprapubic pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, head delivers but retracts tightly against perineum (turtle sign), anterior shoulder impacted behind pubic symphysis, calling for help, performing hyperflexion of maternal hips (McRoberts maneuver) and suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, head delivers but retracts tightly against perineum (turtle sign), anterior shoulder impacted behind pubic symphysis, calling for help, performing hyperflexion of maternal hips (McRoberts maneuver) and suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI. In the clinical management of Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Obstetric Emergencies",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13442",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiot",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI. Clinical examination and investigative review confirm sudden gush of clear fluid per vaginam at 33 weeks, sterile speculum examination demonstrating pooling in posterior fornix and ferning on air-dried smear, administering oral erythromycin and IM betamethasone. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Sudden gush of clear fluid per vaginam at 33 weeks, sterile speculum examination demonstrating pooling in posterior fornix and ferning on air-dried smear, administering oral erythromycin and im betamethasone",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden gush of clear fluid per vaginam at 33 weeks, sterile speculum examination demonstrating pooling in posterior fornix and ferning on air-dried smear, administering oral erythromycin and IM betamethasone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden gush of clear fluid per vaginam at 33 weeks, sterile speculum examination demonstrating pooling in posterior fornix and ferning on air-dried smear, administering oral erythromycin and IM betamethasone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI. In the clinical management of Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Premature Rupture of Membranes PROM Speculum Ferning and Prophylactic Antibiotics FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Clinical Guidelines on PROM",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13443",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Matur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI. Clinical examination and investigative review confirm regular painful contractions at 30 weeks gestation, cervical effacement 80% and dilation 2 cm, initiating oral nifedipine tocolysis for 48 hours and administering two doses of IM dexamethasone 12 mg. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Regular painful contractions at 30 weeks gestation, cervical effacement 80% and dilation 2 cm, initiating oral nifedipine tocolysis for 48 hours and administering two doses of im dexamethasone 12 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, regular painful contractions at 30 weeks gestation, cervical effacement 80% and dilation 2 cm, initiating oral nifedipine tocolysis for 48 hours and administering two doses of IM dexamethasone 12 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, regular painful contractions at 30 weeks gestation, cervical effacement 80% and dilation 2 cm, initiating oral nifedipine tocolysis for 48 hours and administering two doses of IM dexamethasone 12 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI. In the clinical management of Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Preterm Labor Tocolysis Oral Nifedipine and Dexamethasone for Fetal Lung Maturity FOGSI."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Preterm Labour",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13444",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care. Clinical examination and investigative review confirm 22-week pregnant female with known intramural leiomyoma presenting with acute localized abdominal pain, tenderness, low-grade fever, and leukocytosis, providing conservative management with analgesics and rest. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "22-week pregnant female with known intramural leiomyoma presenting with acute localized abdominal pain, tenderness, low-grade fever, and leukocytosis, providing conservative management with analgesics and rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 22-week pregnant female with known intramural leiomyoma presenting with acute localized abdominal pain, tenderness, low-grade fever, and leukocytosis, providing conservative management with analgesics and rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 22-week pregnant female with known intramural leiomyoma presenting with acute localized abdominal pain, tenderness, low-grade fever, and leukocytosis, providing conservative management with analgesics and rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care. In the clinical management of Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Uterine Fibroid Leiomyoma Red Degeneration in Pregnancy Conservative Analgesic Care."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Fibroids in Pregnancy",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13445",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy. Clinical examination and investigative review confirm pelvic ultrasound in 24-year-old female showing well-defined echogenic unilocular cyst with acoustic shadowing and hyperechoic Rokitansky nodule (dermoid plug), performing elective laparoscopic cystectomy. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Pelvic ultrasound in 24-year-old female showing well-defined echogenic unilocular cyst with acoustic shadowing and hyperechoic rokitansky nodule (dermoid plug), performing elective laparoscopic cystectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, pelvic ultrasound in 24-year-old female showing well-defined echogenic unilocular cyst with acoustic shadowing and hyperechoic Rokitansky nodule (dermoid plug), performing elective laparoscopic cystectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, pelvic ultrasound in 24-year-old female showing well-defined echogenic unilocular cyst with acoustic shadowing and hyperechoic Rokitansky nodule (dermoid plug), performing elective laparoscopic cystectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy. In the clinical management of Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Ovarian Mature Cystic Teratoma Dermoid Cyst Rokitansky Protuberance Ovarian Cystectomy."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Ovarian Neoplasm Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13446",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sam",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling. Clinical examination and investigative review confirm postmenopausal bleeding in 56-year-old obese diabetic female, transvaginal ultrasound showing thickened endometrium 9 mm, performing outpatient Pipelle endometrial biopsy to rule out endometrial carcinoma. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Postmenopausal bleeding in 56-year-old obese diabetic female, transvaginal ultrasound showing thickened endometrium 9 mm, performing outpatient pipelle endometrial biopsy to rule out endometrial carcinoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, postmenopausal bleeding in 56-year-old obese diabetic female, transvaginal ultrasound showing thickened endometrium 9 mm, performing outpatient Pipelle endometrial biopsy to rule out endometrial carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, postmenopausal bleeding in 56-year-old obese diabetic female, transvaginal ultrasound showing thickened endometrium 9 mm, performing outpatient Pipelle endometrial biopsy to rule out endometrial carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling. In the clinical management of Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Endometrial Hyperplasia Postmenopausal Bleeding Endometrial Biopsy Pipelle Sampling."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Guidelines on Abnormal Uterine Bleeding",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13447",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI. Clinical examination and investigative review confirm bothersome hot flushes and sleep disturbance in 51-year-old within 3 years of natural menopause, normal mammogram, counseling on window of opportunity, prescribing combined continuous estrogen-progestin HRT. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bothersome hot flushes and sleep disturbance in 51-year-old within 3 years of natural menopause, normal mammogram, counseling on window of opportunity, prescribing combined continuous estrogen-progestin hrt",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, bothersome hot flushes and sleep disturbance in 51-year-old within 3 years of natural menopause, normal mammogram, counseling on window of opportunity, prescribing combined continuous estrogen-progestin HRT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, bothersome hot flushes and sleep disturbance in 51-year-old within 3 years of natural menopause, normal mammogram, counseling on window of opportunity, prescribing combined continuous estrogen-progestin HRT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI. In the clinical management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Menopause Vasomotor Symptoms Hormone Replacement Therapy Window of Opportunity FOGSI."
+    ],
+    "references": [
+      {
+        "label": "Indian Menopause Society (IMS) Guidelines",
+        "url": "https://www.indianmenopausesociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13448",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation. Clinical examination and investigative review confirm wasted child with weight-for-height Z-score < -3 SD, bilateral pitting pedal edema (kwashiorkor), hypothermia, initiating WHO 10-step protocol: treating hypoglycemia, hypothermia, and low-protein F-75 diet. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Wasted child with weight-for-height z-score < -3 sd, bilateral pitting pedal edema (kwashiorkor), hypothermia, initiating who 10-step protocol: treating hypoglycemia, hypothermia, and low-protein f-75 diet",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, wasted child with weight-for-height Z-score < -3 SD, bilateral pitting pedal edema (kwashiorkor), hypothermia, initiating WHO 10-step protocol: treating hypoglycemia, hypothermia, and low-protein F-75 diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, wasted child with weight-for-height Z-score < -3 SD, bilateral pitting pedal edema (kwashiorkor), hypothermia, initiating WHO 10-step protocol: treating hypoglycemia, hypothermia, and low-protein F-75 diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation. In the clinical management of Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Severe Acute Malnutrition SAM WHO 10 Steps F-75 Starter Diet and Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Kalyan Bharti SAM Management Protocol Ministry of Health India",
+        "url": "https://mohfw.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13449",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots. Clinical examination and investigative review confirm 4-year-old child with night blindness, dry lusterless conjunctiva, and triangular foamy Bitot spots, administering therapeutic oral vitamin A (200,000 IU immediately, day 2, and after 2 weeks). Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "4-year-old child with night blindness, dry lusterless conjunctiva, and triangular foamy bitot spots, administering therapeutic oral vitamin a (200,000 iu immediately, day 2, and after 2 weeks)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 4-year-old child with night blindness, dry lusterless conjunctiva, and triangular foamy Bitot spots, administering therapeutic oral vitamin A (200,000 IU immediately, day 2, and after 2 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 4-year-old child with night blindness, dry lusterless conjunctiva, and triangular foamy Bitot spots, administering therapeutic oral vitamin A (200,000 IU immediately, day 2, and after 2 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots. In the clinical management of Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Vitamin A Prophylaxis National Programme 200,000 IU Every 6 Months Bitot Spots."
+    ],
+    "references": [
+      {
+        "label": "National Vitamin A Prophylaxis Programme India",
+        "url": "https://nhm.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13450",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Preven",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention. Clinical examination and investigative review confirm fever, cough, coryza, conjunctivitis, and bluish-white spots surrounded by red halo on buccal mucosa opposite lower molars (Koplik spots), administering oral vitamin A and supportive therapy. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Fever, cough, coryza, conjunctivitis, and bluish-white spots surrounded by red halo on buccal mucosa opposite lower molars (koplik spots), administering oral vitamin a and supportive therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, fever, cough, coryza, conjunctivitis, and bluish-white spots surrounded by red halo on buccal mucosa opposite lower molars (Koplik spots), administering oral vitamin A and supportive therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, fever, cough, coryza, conjunctivitis, and bluish-white spots surrounded by red halo on buccal mucosa opposite lower molars (Koplik spots), administering oral vitamin A and supportive therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention. In the clinical management of Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Measles Infection Koplik Spots Subacute Sclerosing Panencephalitis SSPE Prevention."
+    ],
+    "references": [
+      {
+        "label": "National Centre for Disease Control (NCDC) Measles Guidelines",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13451",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old male is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India. Clinical examination and investigative review confirm healthy term newborn at institutional birth, administering birth dose triad under UIP: intradermal BCG 0.05 mL, oral polio vaccine zero dose (OPV-0), and intramuscular Hepatitis B birth dose within 24 hours. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Healthy term newborn at institutional birth, administering birth dose triad under uip: intradermal bcg 0.05 ml, oral polio vaccine zero dose (opv-0), and intramuscular hepatitis b birth dose within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, healthy term newborn at institutional birth, administering birth dose triad under UIP: intradermal BCG 0.05 mL, oral polio vaccine zero dose (OPV-0), and intramuscular Hepatitis B birth dose within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, healthy term newborn at institutional birth, administering birth dose triad under UIP: intradermal BCG 0.05 mL, oral polio vaccine zero dose (OPV-0), and intramuscular Hepatitis B birth dose within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India. In the clinical management of Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Universal Immunization Programme UIP National Schedule Birth BCG OPV Hepatitis B India."
+    ],
+    "references": [
+      {
+        "label": "Universal Immunization Programme MoHFW Government of India",
+        "url": "https://nhm.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13452",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols. Clinical examination and investigative review confirm term infant at 36 hours of life with lethargy, poor feeding, hypothermia, and grunting, diagnosing early-onset neonatal sepsis, obtaining blood culture and commencing IV ampicillin plus gentamicin. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Term infant at 36 hours of life with lethargy, poor feeding, hypothermia, and grunting, diagnosing early-onset neonatal sepsis, obtaining blood culture and commencing iv ampicillin plus gentamicin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term infant at 36 hours of life with lethargy, poor feeding, hypothermia, and grunting, diagnosing early-onset neonatal sepsis, obtaining blood culture and commencing IV ampicillin plus gentamicin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term infant at 36 hours of life with lethargy, poor feeding, hypothermia, and grunting, diagnosing early-onset neonatal sepsis, obtaining blood culture and commencing IV ampicillin plus gentamicin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols. In the clinical management of Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Sepsis IMNCI Early Onset Ampicillin plus Gentamicin Treatment Protocols."
+    ],
+    "references": [
+      {
+        "label": "Integrated Management of Neonatal and Childhood Illnesses (IMNCI) India",
+        "url": "https://nhm.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13453",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram. Clinical examination and investigative review confirm term newborn at 60 hours of life with visible jaundice extending to soles, total serum bilirubin 19 mg/dL plotting above intensive phototherapy threshold on hour-specific nomogram, initiating double-surface phototherapy. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Term newborn at 60 hours of life with visible jaundice extending to soles, total serum bilirubin 19 mg/dl plotting above intensive phototherapy threshold on hour-specific nomogram, initiating double-surface phototherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term newborn at 60 hours of life with visible jaundice extending to soles, total serum bilirubin 19 mg/dL plotting above intensive phototherapy threshold on hour-specific nomogram, initiating double-surface phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, term newborn at 60 hours of life with visible jaundice extending to soles, total serum bilirubin 19 mg/dL plotting above intensive phototherapy threshold on hour-specific nomogram, initiating double-surface phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram. In the clinical management of Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Neonatal Hyperbilirubinemia AAP/Indian Academy of Pediatrics Phototherapy Nomogram."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Pediatrics (IAP) Neonatology Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13454",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Da",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India. Clinical examination and investigative review confirm 18-month-old child with acute watery diarrhea, mild dehydration, administering WHO low-osmolarity oral rehydration solution (ORS) and prescribing elemental zinc 20 mg daily for 14 days to reduce recurrence. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "18-month-old child with acute watery diarrhea, mild dehydration, administering who low-osmolarity oral rehydration solution (ors) and prescribing elemental zinc 20 mg daily for 14 days to reduce recurrence",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 18-month-old child with acute watery diarrhea, mild dehydration, administering WHO low-osmolarity oral rehydration solution (ORS) and prescribing elemental zinc 20 mg daily for 14 days to reduce recurrence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 18-month-old child with acute watery diarrhea, mild dehydration, administering WHO low-osmolarity oral rehydration solution (ORS) and prescribing elemental zinc 20 mg daily for 14 days to reduce recurrence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India. In the clinical management of Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Diarrhea Low Osmolarity ORS and Zinc Supplementation 20 mg for 14 Days India."
+    ],
+    "references": [
+      {
+        "label": "National Health Mission Diarrhea Management Protocols India",
+        "url": "https://nhm.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13455",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O. Clinical examination and investigative review confirm 8-year-old child presenting with facial puffiness, dark tea-colored smoky urine, hypertension 2 weeks after impetigo, low serum C3 complement, elevated ASO/anti-DNase B titers, prescribing salt restriction and loop diuretics. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "8-year-old child presenting with facial puffiness, dark tea-colored smoky urine, hypertension 2 weeks after impetigo, low serum c3 complement, elevated aso/anti-dnase b titers, prescribing salt restriction and loop diuretics",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 8-year-old child presenting with facial puffiness, dark tea-colored smoky urine, hypertension 2 weeks after impetigo, low serum C3 complement, elevated ASO/anti-DNase B titers, prescribing salt restriction and loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 8-year-old child presenting with facial puffiness, dark tea-colored smoky urine, hypertension 2 weeks after impetigo, low serum C3 complement, elevated ASO/anti-DNase B titers, prescribing salt restriction and loop diuretics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O. In the clinical management of Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Post-Streptococcal Glomerulonephritis APSGN Smoky Brown Urine Antistreptolysin O."
+    ],
+    "references": [
+      {
+        "label": "Indian Society of Pediatric Nephrology (ISPN) Guidelines",
+        "url": "https://ispn-online.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13456",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2. Clinical examination and investigative review confirm massive generalized edema, heavy selective proteinuria (4+), hypoalbuminemia, hypercholesterolemia in 4-year-old child, initiating daily oral prednisolone 60 mg/m2/day for 6 weeks followed by alternate-day therapy. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Massive generalized edema, heavy selective proteinuria (4+), hypoalbuminemia, hypercholesterolemia in 4-year-old child, initiating daily oral prednisolone 60 mg/m2/day for 6 weeks followed by alternate-day therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, massive generalized edema, heavy selective proteinuria (4+), hypoalbuminemia, hypercholesterolemia in 4-year-old child, initiating daily oral prednisolone 60 mg/m2/day for 6 weeks followed by alternate-day therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, massive generalized edema, heavy selective proteinuria (4+), hypoalbuminemia, hypercholesterolemia in 4-year-old child, initiating daily oral prednisolone 60 mg/m2/day for 6 weeks followed by alternate-day therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2. In the clinical management of Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Pediatric Nephrotic Syndrome Minimal Change Disease First Episode Prednisolone 60 mg/m2."
+    ],
+    "references": [
+      {
+        "label": "ISPN Guidelines on Management of Steroid-Sensitive Nephrotic Syndrome",
+        "url": "https://ispn-online.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13457",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP. Clinical examination and investigative review confirm child with known TOF becoming acutely agitated, deeply cyanotic, and tachypneic during crying, placing child in knee-chest position, administering 100% high-flow oxygen, and subcutaneous morphine. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Child with known tof becoming acutely agitated, deeply cyanotic, and tachypneic during crying, placing child in knee-chest position, administering 100% high-flow oxygen, and subcutaneous morphine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child with known TOF becoming acutely agitated, deeply cyanotic, and tachypneic during crying, placing child in knee-chest position, administering 100% high-flow oxygen, and subcutaneous morphine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, child with known TOF becoming acutely agitated, deeply cyanotic, and tachypneic during crying, placing child in knee-chest position, administering 100% high-flow oxygen, and subcutaneous morphine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP. In the clinical management of Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Tetralogy of Fallot Hypercyanotic Tet Spell Knee-Chest Position and Oxygen IAP."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Pediatrics (IAP) Pediatric Cardiology Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13458",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyro",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine. Clinical examination and investigative review confirm neonatal dried blood spot screening showing elevated TSH 45 mIU/L, confirmatory serum free T4 low, initiating early oral levothyroxine 10-15 mcg/kg/day within first 2 weeks to prevent irreversible intellectual disability. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Neonatal dried blood spot screening showing elevated tsh 45 miu/l, confirmatory serum free t4 low, initiating early oral levothyroxine 10-15 mcg/kg/day within first 2 weeks to prevent irreversible intellectual disability",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, neonatal dried blood spot screening showing elevated TSH 45 mIU/L, confirmatory serum free T4 low, initiating early oral levothyroxine 10-15 mcg/kg/day within first 2 weeks to prevent irreversible intellectual disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, neonatal dried blood spot screening showing elevated TSH 45 mIU/L, confirmatory serum free T4 low, initiating early oral levothyroxine 10-15 mcg/kg/day within first 2 weeks to prevent irreversible intellectual disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine. In the clinical management of Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Congenital Hypothyroidism Newborn Heel-Prick TSH Screening and Early Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "Indian Society for Pediatric and Adolescent Endocrinology (ISPAE)",
+        "url": "https://ispae.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13459",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multipl",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR. Clinical examination and investigative review confirm 5-year-old boy with difficulty climbing stairs, calf pseudohypertrophy, climbing up own thighs using hands to stand (Gowers sign), serum CK markedly elevated > 10,000 U/L, multiplex PCR confirming dystrophin deletion. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "5-year-old boy with difficulty climbing stairs, calf pseudohypertrophy, climbing up own thighs using hands to stand (gowers sign), serum ck markedly elevated > 10,000 u/l, multiplex pcr confirming dystrophin deletion",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 5-year-old boy with difficulty climbing stairs, calf pseudohypertrophy, climbing up own thighs using hands to stand (Gowers sign), serum CK markedly elevated > 10,000 U/L, multiplex PCR confirming dystrophin deletion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, 5-year-old boy with difficulty climbing stairs, calf pseudohypertrophy, climbing up own thighs using hands to stand (Gowers sign), serum CK markedly elevated > 10,000 U/L, multiplex PCR confirming dystrophin deletion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR. In the clinical management of Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Duchenne Muscular Dystrophy Gowers Sign Elevated Serum Creatine Kinase Multiplex PCR."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Pediatrics Neurology Chapter",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13460",
+    "exam": "NEET PG",
+    "subject": "Genetics",
+    "system": "General Principles",
+    "topic": "Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD. Clinical examination and investigative review confirm infant with hypotonia, flat facial profile, upslanting palpebral fissures, single transverse palmar crease, performing genetic karyotyping (47,XY,+21) and urgent screening echocardiogram for endocardial cushion defect. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Infant with hypotonia, flat facial profile, upslanting palpebral fissures, single transverse palmar crease, performing genetic karyotyping (47,xy,+21) and urgent screening echocardiogram for endocardial cushion defect",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infant with hypotonia, flat facial profile, upslanting palpebral fissures, single transverse palmar crease, performing genetic karyotyping (47,XY,+21) and urgent screening echocardiogram for endocardial cushion defect represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infant with hypotonia, flat facial profile, upslanting palpebral fissures, single transverse palmar crease, performing genetic karyotyping (47,XY,+21) and urgent screening echocardiogram for endocardial cushion defect represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD. In the clinical management of Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Down Syndrome Trisomy 21 Clinical Features Karyotyping and Echocardiogram for AVSD."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Pediatrics Genetic Disorders Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13461",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care. Clinical examination and investigative review confirm transformation of Sub-Centres and PHCs into Ayushman Bharat Health and Wellness Centres (AB-HWCs) delivering expanded package of 12 comprehensive primary healthcare services and free essential medications. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Transformation of sub-centres and phcs into ayushman bharat health and wellness centres (ab-hwcs) delivering expanded package of 12 comprehensive primary healthcare services and free essential medications",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, transformation of Sub-Centres and PHCs into Ayushman Bharat Health and Wellness Centres (AB-HWCs) delivering expanded package of 12 comprehensive primary healthcare services and free essential medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, transformation of Sub-Centres and PHCs into Ayushman Bharat Health and Wellness Centres (AB-HWCs) delivering expanded package of 12 comprehensive primary healthcare services and free essential medications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care. In the clinical management of Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Primary Health Care Health and Wellness Centers Ayushman Bharat Comprehensive Primary Care."
+    ],
+    "references": [
+      {
+        "label": "National Health Mission Ayushman Bharat Operational Guidelines",
+        "url": "https://ab-hwc.nhp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13462",
+    "exam": "NEET PG",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India. Clinical examination and investigative review confirm monitoring national maternal health indicators: MMR calculated as maternal deaths per 100,000 live births, tracking progress toward the SDG target of less than 70 maternal deaths per 100,000 live births by 2030. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Monitoring national maternal health indicators: mmr calculated as maternal deaths per 100,000 live births, tracking progress toward the sdg target of less than 70 maternal deaths per 100,000 live births by 2030",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, monitoring national maternal health indicators: MMR calculated as maternal deaths per 100,000 live births, tracking progress toward the SDG target of less than 70 maternal deaths per 100,000 live births by 2030 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, monitoring national maternal health indicators: MMR calculated as maternal deaths per 100,000 live births, tracking progress toward the SDG target of less than 70 maternal deaths per 100,000 live births by 2030 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India. In the clinical management of Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Maternal Mortality Ratio MMR Target Under Sustainable Development Goals India."
+    ],
+    "references": [
+      {
+        "label": "Sample Registration System (SRS) Special Bulletin on Maternal Mortality in India",
+        "url": "https://censusindia.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13463",
+    "exam": "NEET PG",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation. Clinical examination and investigative review confirm sudden cluster of vomiting and diarrhea at community feast, constructing epidemic curve plotting cases by time of onset to determine incubation period, identify common point source, and calculate food-specific attack rates. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Sudden cluster of vomiting and diarrhea at community feast, constructing epidemic curve plotting cases by time of onset to determine incubation period, identify common point source, and calculate food-specific attack rates",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden cluster of vomiting and diarrhea at community feast, constructing epidemic curve plotting cases by time of onset to determine incubation period, identify common point source, and calculate food-specific attack rates represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, sudden cluster of vomiting and diarrhea at community feast, constructing epidemic curve plotting cases by time of onset to determine incubation period, identify common point source, and calculate food-specific attack rates represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation. In the clinical management of Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Epidemic Outbreak Investigation Epidemic Curve Index Case and Attack Rate Calculation."
+    ],
+    "references": [
+      {
+        "label": "National Centre for Disease Control (NCDC) Outbreak Manual",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13464",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dre",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female presents to the casualty receiving station of the civil hospital with clinical findings indicative of Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings. Clinical examination and investigative review confirm disposing of surgical operative specimens, amputated limbs, and blood-soaked cotton dressings, segregating into non-chlorinated yellow plastic bags for incineration or plasma pyrolysis under BMW Rules 2016. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Disposing of surgical operative specimens, amputated limbs, and blood-soaked cotton dressings, segregating into non-chlorinated yellow plastic bags for incineration or plasma pyrolysis under bmw rules 2016",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, disposing of surgical operative specimens, amputated limbs, and blood-soaked cotton dressings, segregating into non-chlorinated yellow plastic bags for incineration or plasma pyrolysis under BMW Rules 2016 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, disposing of surgical operative specimens, amputated limbs, and blood-soaked cotton dressings, segregating into non-chlorinated yellow plastic bags for incineration or plasma pyrolysis under BMW Rules 2016 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings. In the clinical management of Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Biomedical Waste Management Rules 2016 Yellow Bag for Anatomical Waste and Dressings."
+    ],
+    "references": [
+      {
+        "label": "Biomedical Waste Management Rules 2016 MoEFCC Government of India",
+        "url": "https://cpcb.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13465",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old male is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine. Clinical examination and investigative review confirm testing municipal drinking water after chlorination, using orthotolidine arsenite (OTA) test to measure free residual chlorine (target >= 0.5 mg/L after 30 minutes contact time) while excluding interfering chloramines. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Testing municipal drinking water after chlorination, using orthotolidine arsenite (ota) test to measure free residual chlorine (target >= 0.5 mg/l after 30 minutes contact time) while excluding interfering chloramines",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, testing municipal drinking water after chlorination, using orthotolidine arsenite (OTA) test to measure free residual chlorine (target >= 0.5 mg/L after 30 minutes contact time) while excluding interfering chloramines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, testing municipal drinking water after chlorination, using orthotolidine arsenite (OTA) test to measure free residual chlorine (target >= 0.5 mg/L after 30 minutes contact time) while excluding interfering chloramines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine. In the clinical management of Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Water Purification Chlorination Orthotolidine Arsenite OTA Test Residual Chlorine."
+    ],
+    "references": [
+      {
+        "label": "Park Textbook of Preventive and Social Medicine Standards",
+        "url": "https://mohfw.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13466",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female undergoes clinical case presentation during collegiate departmental ward rounds with clinical findings indicative of Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent. Clinical examination and investigative review confirm evaluating alleged medical negligence: applying Bolam test as affirmed by Supreme Court of India in Jacob Mathew vs State of Punjab, requiring proof that doctor failed to act in accordance with standard practice accepted by medical body. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating alleged medical negligence: applying bolam test as affirmed by supreme court of india in jacob mathew vs state of punjab, requiring proof that doctor failed to act in accordance with standard practice accepted by medical body",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating alleged medical negligence: applying Bolam test as affirmed by Supreme Court of India in Jacob Mathew vs State of Punjab, requiring proof that doctor failed to act in accordance with standard practice accepted by medical body represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating alleged medical negligence: applying Bolam test as affirmed by Supreme Court of India in Jacob Mathew vs State of Punjab, requiring proof that doctor failed to act in accordance with standard practice accepted by medical body represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent. In the clinical management of Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Medical Negligence Bolam Test and Indian Supreme Court Jacob Mathew Precedent."
+    ],
+    "references": [
+      {
+        "label": "Supreme Court of India Jacob Mathew Judgment (2005) 6 SCC 1",
+        "url": "https://main.sci.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13467",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Secti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male is reviewed in the subspecialty consultative department of the state hospital with clinical findings indicative of Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176. Clinical examination and investigative review confirm investigating unnatural death of newly married woman within 7 years of marriage, recognizing mandatory Magistrate Inquest under Section 176 CrPC rather than routine police inquest under Section 174 CrPC. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Investigating unnatural death of newly married woman within 7 years of marriage, recognizing mandatory magistrate inquest under section 176 crpc rather than routine police inquest under section 174 crpc",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, investigating unnatural death of newly married woman within 7 years of marriage, recognizing mandatory Magistrate Inquest under Section 176 CrPC rather than routine police inquest under Section 174 CrPC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, investigating unnatural death of newly married woman within 7 years of marriage, recognizing mandatory Magistrate Inquest under Section 176 CrPC rather than routine police inquest under Section 174 CrPC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176. In the clinical management of Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Inquest Procedures Police Inquest Section 174 CrPC vs Magistrate Inquest Section 176."
+    ],
+    "references": [
+      {
+        "label": "Code of Criminal Procedure 1973 & Indian Penal Code",
+        "url": "https://www.indiacode.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13468",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is evaluated at the government medical college teaching hospital in New Delhi with clinical findings indicative of Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act. Clinical examination and investigative review confirm burns victim with 80% TBSA flame burns wishing to make statement, ensuring physician certification of mentally fit state of mind, recorded preferably by Judicial Magistrate without administering oath under Section 32 IEA. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Burns victim with 80% tbsa flame burns wishing to make statement, ensuring physician certification of mentally fit state of mind, recorded preferably by judicial magistrate without administering oath under section 32 iea",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, burns victim with 80% TBSA flame burns wishing to make statement, ensuring physician certification of mentally fit state of mind, recorded preferably by Judicial Magistrate without administering oath under Section 32 IEA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, burns victim with 80% TBSA flame burns wishing to make statement, ensuring physician certification of mentally fit state of mind, recorded preferably by Judicial Magistrate without administering oath under Section 32 IEA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act. In the clinical management of Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Dying Declaration Magistrate Recording Without Oath Section 32 Indian Evidence Act."
+    ],
+    "references": [
+      {
+        "label": "Indian Evidence Act 1872 Section 32 & Forensic Medicine Standards",
+        "url": "https://www.indiacode.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13469",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differe",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male attends the outpatient medicine and surgical clinic of the district medical college with clinical findings indicative of Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation. Clinical examination and investigative review confirm post-mortem examination of asphyxial death: distinguishing ante-mortem hanging (oblique, non-continuous ligature mark above thyroid cartilage with pale base) from ligature strangulation (transverse, continuous, below thyroid). Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Post-mortem examination of asphyxial death: distinguishing ante-mortem hanging (oblique, non-continuous ligature mark above thyroid cartilage with pale base) from ligature strangulation (transverse, continuous, below thyroid)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, post-mortem examination of asphyxial death: distinguishing ante-mortem hanging (oblique, non-continuous ligature mark above thyroid cartilage with pale base) from ligature strangulation (transverse, continuous, below thyroid) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, post-mortem examination of asphyxial death: distinguishing ante-mortem hanging (oblique, non-continuous ligature mark above thyroid cartilage with pale base) from ligature strangulation (transverse, continuous, below thyroid) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation. In the clinical management of Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Mechanical Asphyxia Hanging vs Strangulation Ligature Mark Post-Mortem Differentiation."
+    ],
+    "references": [
+      {
+        "label": "Reddy's Essentials of Forensic Medicine & Toxicology",
+        "url": "https://dghs.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13470",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is admitted to the medical inpatient emergency ward of the apex institute with clinical findings indicative of Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot. Clinical examination and investigative review confirm evaluating entry gunshot wound: central defect surrounded by inner grease wipe collar, marginal abrasion collar, and peripheral tattoo stippling from unburnt gunpowder grains indicating close-range discharge. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Evaluating entry gunshot wound: central defect surrounded by inner grease wipe collar, marginal abrasion collar, and peripheral tattoo stippling from unburnt gunpowder grains indicating close-range discharge",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating entry gunshot wound: central defect surrounded by inner grease wipe collar, marginal abrasion collar, and peripheral tattoo stippling from unburnt gunpowder grains indicating close-range discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating entry gunshot wound: central defect surrounded by inner grease wipe collar, marginal abrasion collar, and peripheral tattoo stippling from unburnt gunpowder grains indicating close-range discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot. In the clinical management of Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Firearm Injuries Abrasion Collar Grease Collar and Stippling in Close-Range Shot."
+    ],
+    "references": [
+      {
+        "label": "Forensic Medicine and Toxicology Standards India",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13471",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male presents to the casualty receiving station of the civil hospital with clinical findings indicative of Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test. Clinical examination and investigative review confirm body recovered from river: copious fine white persistent leathery froth at mouth, voluminous emphysematous lungs with Paltauf subpleural hemorrhages, and acid digestion demonstrating identical diatoms in bone marrow and water. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Body recovered from river: copious fine white persistent leathery froth at mouth, voluminous emphysematous lungs with paltauf subpleural hemorrhages, and acid digestion demonstrating identical diatoms in bone marrow and water",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, body recovered from river: copious fine white persistent leathery froth at mouth, voluminous emphysematous lungs with Paltauf subpleural hemorrhages, and acid digestion demonstrating identical diatoms in bone marrow and water represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, body recovered from river: copious fine white persistent leathery froth at mouth, voluminous emphysematous lungs with Paltauf subpleural hemorrhages, and acid digestion demonstrating identical diatoms in bone marrow and water represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test. In the clinical management of Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Drowning Signs Froth at Mouth and Nostrils Paltauf Hemorrhages and Diatoms Test."
+    ],
+    "references": [
+      {
+        "label": "Forensic Medicine Post-Mortem Examination Protocols",
+        "url": "https://dghs.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-13472",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female is examined at the community health center (CHC) tertiary referral clinic with clinical findings indicative of Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis. Clinical examination and investigative review confirm autopsy of acute fatal viperine snakebite: identifying paired punctured fang marks with local ecchymosis and bullae, widespread petechial visceral hemorrhages, and acute cortical necrosis on histological section. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with standard clinical practice under Indian medical guidelines?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Autopsy of acute fatal viperine snakebite: identifying paired punctured fang marks with local ecchymosis and bullae, widespread petechial visceral hemorrhages, and acute cortical necrosis on histological section",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, autopsy of acute fatal viperine snakebite: identifying paired punctured fang marks with local ecchymosis and bullae, widespread petechial visceral hemorrhages, and acute cortical necrosis on histological section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, autopsy of acute fatal viperine snakebite: identifying paired punctured fang marks with local ecchymosis and bullae, widespread petechial visceral hemorrhages, and acute cortical necrosis on histological section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis. In the clinical management of Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Snakebite Envenomation Post-Mortem Examination Two Fang Marks and Tissue Necrosis."
+    ],
+    "references": [
+      {
+        "label": "Forensic Pathology Guidelines India",
+        "url": "https://main.icmr.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
