@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-17T11:47:14.824Z",
-  "totalQuestions": 14172,
+  "validatedAt": "2026-11-17T12:50:43.873Z",
+  "totalQuestions": 14672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -901,6 +901,36 @@
       "count": 100,
       "digest": "28a1776ef3cdbfb1403473b09cc3428cc27ea3466d1a20d1ab58952ded71e38b",
       "errors": []
+    },
+    {
+      "name": "batch-intl-151",
+      "count": 100,
+      "digest": "369c804c15a5f567218bc1b6e2c8dad129d646fcc84945b220dea8fe8d67fb90",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-152",
+      "count": 100,
+      "digest": "e5ba46e45ed0cfda70a48485e4adc5c103801ee7df057a45cde21527734172c8",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-153",
+      "count": 100,
+      "digest": "ac4761a6b3b1821b3ceb8285eedbcbd2045f715176ce25dd9db1ee9df0872814",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-154",
+      "count": 100,
+      "digest": "d5b35fdf3455fb10ce347a3e674b0ba0a2e5203aeda63dcd748d59a6b3fad393",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-155",
+      "count": 100,
+      "digest": "6b1bd22c480d894e09bf6fbbfe7fe80a182410bb2b0ec99c2474781b4e97472e",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -922,21 +952,21 @@
   "subjectsCovered": {
     "Anatomy": 110,
     "Biochemistry": 186,
-    "Biostatistics": 127,
-    "Ethics": 349,
+    "Biostatistics": 128,
+    "Ethics": 378,
     "Genetics": 361,
     "Geriatrics": 121,
     "Immunology": 208,
-    "Medicine": 5702,
-    "Microbiology": 319,
-    "Neurology": 435,
-    "Obstetrics": 857,
-    "Pathology": 826,
-    "Pediatrics": 1109,
-    "Pharmacology": 647,
+    "Medicine": 5895,
+    "Microbiology": 338,
+    "Neurology": 461,
+    "Obstetrics": 916,
+    "Pathology": 835,
+    "Pediatrics": 1157,
+    "Pharmacology": 671,
     "Physiology": 422,
-    "Psychiatry": 444,
-    "Surgery": 1949
+    "Psychiatry": 474,
+    "Surgery": 2011
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
