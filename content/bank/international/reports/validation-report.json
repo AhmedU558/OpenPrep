@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-17T16:07:56.308Z",
-  "totalQuestions": 15672,
+  "validatedAt": "2026-11-17T18:14:30.012Z",
+  "totalQuestions": 16172,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -991,6 +991,36 @@
       "count": 100,
       "digest": "eecae292eb093b24e738c379ee45e6113c3540b4045261266473e357b653fc58",
       "errors": []
+    },
+    {
+      "name": "batch-intl-166",
+      "count": 100,
+      "digest": "c5ab4286af5fb126174acc54710aa1da78da672fb7bb3a3f96d1038f657eb1ba",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-167",
+      "count": 100,
+      "digest": "d60de3c9f1f1648769a414985296cb197b46296519f50f880e81fd10b09f0d18",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-168",
+      "count": 100,
+      "digest": "c90825fde92900659ac00fe1b417eaf9761d5be646db46930aafc75f9a6798db",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-169",
+      "count": 100,
+      "digest": "cc8ba6df29ff35b050f154fb4fbc5891d5e25bd1266763cc729def372b5c75b8",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-170",
+      "count": 100,
+      "digest": "6c2e27e61784fb3d9b9703f4012594025e37bb92dfc2a36bd9ac1db67f556c0f",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1013,20 +1043,20 @@
     "Anatomy": 113,
     "Biochemistry": 186,
     "Biostatistics": 139,
-    "Ethics": 465,
+    "Ethics": 486,
     "Genetics": 361,
     "Geriatrics": 121,
     "Immunology": 208,
-    "Medicine": 6217,
+    "Medicine": 6455,
     "Microbiology": 355,
-    "Neurology": 497,
-    "Obstetrics": 1005,
-    "Pathology": 877,
-    "Pediatrics": 1260,
-    "Pharmacology": 724,
+    "Neurology": 520,
+    "Obstetrics": 1036,
+    "Pathology": 891,
+    "Pediatrics": 1307,
+    "Pharmacology": 740,
     "Physiology": 423,
-    "Psychiatry": 495,
-    "Surgery": 2226
+    "Psychiatry": 503,
+    "Surgery": 2328
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

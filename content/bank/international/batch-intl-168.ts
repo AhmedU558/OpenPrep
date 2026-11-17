@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-15873",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy. Clinical examination and investigative review confirm cough > 2 weeks, low-grade evening fever, and hemoptysis with two sputum smear examinations positive for acid-fast bacilli (AFB), initiating 6-month national DOTS regimen (2HRZE / 4HR) with pyridoxine. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Cough > 2 weeks, low-grade evening fever, and hemoptysis with two sputum smear examinations positive for acid-fast bacilli (afb), initiating 6-month national dots regimen (2hrze / 4hr) with pyridoxine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, cough > 2 weeks, low-grade evening fever, and hemoptysis with two sputum smear examinations positive for acid-fast bacilli (AFB), initiating 6-month national DOTS regimen (2HRZE / 4HR) with pyridoxine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, cough > 2 weeks, low-grade evening fever, and hemoptysis with two sputum smear examinations positive for acid-fast bacilli (AFB), initiating 6-month national DOTS regimen (2HRZE / 4HR) with pyridoxine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy. In the clinical management of PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Pulmonary Tuberculosis DOTS Regimen HRZE and Sputum Microscopy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National TB Control Program (NTP) & PM&DC Guidelines",
+        "url": "https://ntp.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15874",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin. Clinical examination and investigative review confirm step-ladder pyrexia, coated tongue, relative bradycardia, and leukopenia in Sindh: recognizing extensively drug-resistant (XDR) Salmonella enterica serovar Typhi, prescribing IV ceftriaxone or oral azithromycin. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Step-ladder pyrexia, coated tongue, relative bradycardia, and leukopenia in sindh: recognizing extensively drug-resistant (xdr) salmonella enterica serovar typhi, prescribing iv ceftriaxone or oral azithromycin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, step-ladder pyrexia, coated tongue, relative bradycardia, and leukopenia in Sindh: recognizing extensively drug-resistant (XDR) Salmonella enterica serovar Typhi, prescribing IV ceftriaxone or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, step-ladder pyrexia, coated tongue, relative bradycardia, and leukopenia in Sindh: recognizing extensively drug-resistant (XDR) Salmonella enterica serovar Typhi, prescribing IV ceftriaxone or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin. In the clinical management of PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Enteric Typhoid Fever Blood Culture and Ceftriaxone vs Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Pakistan Typhoid Guidelines",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15875",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine. Clinical examination and investigative review confirm cyclical chills, rigors, and profuse diaphoresis following rural travel: examining Giemsa-stained thick and thin blood films showing Plasmodium falciparum ring forms, prescribing oral artemether-lumefantrine. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Cyclical chills, rigors, and profuse diaphoresis following rural travel: examining giemsa-stained thick and thin blood films showing plasmodium falciparum ring forms, prescribing oral artemether-lumefantrine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, cyclical chills, rigors, and profuse diaphoresis following rural travel: examining Giemsa-stained thick and thin blood films showing Plasmodium falciparum ring forms, prescribing oral artemether-lumefantrine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, cyclical chills, rigors, and profuse diaphoresis following rural travel: examining Giemsa-stained thick and thin blood films showing Plasmodium falciparum ring forms, prescribing oral artemether-lumefantrine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine. In the clinical management of PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Malaria Microscopy Thick and Thin Smear and Artemether-Lumefantrine."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Directorate of Malaria Control (DoMC) Guidelines",
+        "url": "https://dmc.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15876",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure. Clinical examination and investigative review confirm tertian fever paroxysms with blood film demonstrating Plasmodium vivax trophozoites: treating acute attack with oral chloroquine and prescribing 14-day primaquine radical cure after confirming normal G6PD status. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Tertian fever paroxysms with blood film demonstrating plasmodium vivax trophozoites: treating acute attack with oral chloroquine and prescribing 14-day primaquine radical cure after confirming normal g6pd status",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, tertian fever paroxysms with blood film demonstrating Plasmodium vivax trophozoites: treating acute attack with oral chloroquine and prescribing 14-day primaquine radical cure after confirming normal G6PD status represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, tertian fever paroxysms with blood film demonstrating Plasmodium vivax trophozoites: treating acute attack with oral chloroquine and prescribing 14-day primaquine radical cure after confirming normal G6PD status represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure. In the clinical management of PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vivax Malaria Chloroquine and Primaquine 14-Day Radical Cure."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Directorate of Malaria Control Guidelines",
+        "url": "https://dmc.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15877",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy. Clinical examination and investigative review confirm high fever, severe retro-orbital headache, and myalgias during post-monsoon outbreak developing abdominal pain and persistent vomiting: identifying warning signs, checking daily CBC/hematocrit, and cautious IV saline. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High fever, severe retro-orbital headache, and myalgias during post-monsoon outbreak developing abdominal pain and persistent vomiting: identifying warning signs, checking daily cbc/hematocrit, and cautious iv saline",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, high fever, severe retro-orbital headache, and myalgias during post-monsoon outbreak developing abdominal pain and persistent vomiting: identifying warning signs, checking daily CBC/hematocrit, and cautious IV saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, high fever, severe retro-orbital headache, and myalgias during post-monsoon outbreak developing abdominal pain and persistent vomiting: identifying warning signs, checking daily CBC/hematocrit, and cautious IV saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy. In the clinical management of PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Dengue Fever Warning Signs CBC Platelet Monitoring and Fluid Therapy."
+    ],
+    "references": [
+      {
+        "label": "Punjab Primary & Secondary Healthcare Department Dengue Guidelines",
+        "url": "https://pshealthpunjab.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15878",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir. Clinical examination and investigative review confirm routine screening in a barber demonstrating positive HBsAg and elevated ALT with high HBV DNA viral load: counseling on transmission prevention and initiating daily oral tenofovir disoproxil fumarate. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Routine screening in a barber demonstrating positive hbsag and elevated alt with high hbv dna viral load: counseling on transmission prevention and initiating daily oral tenofovir disoproxil fumarate",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, routine screening in a barber demonstrating positive HBsAg and elevated ALT with high HBV DNA viral load: counseling on transmission prevention and initiating daily oral tenofovir disoproxil fumarate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, routine screening in a barber demonstrating positive HBsAg and elevated ALT with high HBV DNA viral load: counseling on transmission prevention and initiating daily oral tenofovir disoproxil fumarate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir. In the clinical management of PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Viral Hepatitis B Surface Antigen HBsAg Screening and Tenofovir."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for the Study of Liver Diseases (PSSLD) Guidelines",
+        "url": "https://pssld.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15879",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir. Clinical examination and investigative review confirm chronic hepatitis C infection with positive HCV RNA PCR: prescribing 12-week government-subsidized all-oral pan-genotypic regimen of daily sofosbuvir 400 mg and daclatasvir 60 mg achieving > 95% SVR. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Chronic hepatitis c infection with positive hcv rna pcr: prescribing 12-week government-subsidized all-oral pan-genotypic regimen of daily sofosbuvir 400 mg and daclatasvir 60 mg achieving > 95% svr",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, chronic hepatitis C infection with positive HCV RNA PCR: prescribing 12-week government-subsidized all-oral pan-genotypic regimen of daily sofosbuvir 400 mg and daclatasvir 60 mg achieving > 95% SVR represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, chronic hepatitis C infection with positive HCV RNA PCR: prescribing 12-week government-subsidized all-oral pan-genotypic regimen of daily sofosbuvir 400 mg and daclatasvir 60 mg achieving > 95% SVR represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir. In the clinical management of PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Viral Hepatitis C Direct-Acting Antivirals Sofosbuvir and Daclatasvir."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for the Study of Liver Diseases (PSSLD) HCV Consensus",
+        "url": "https://pssld.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15880",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B. Clinical examination and investigative review confirm sudden painless rice-water diarrhea and vomiting with moderate dehydration (sunken eyes, dry mouth, slow skin recoil): rehydrating with WHO low-osmolarity ORS 75 mL/kg over 4 hours under Plan B. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Sudden painless rice-water diarrhea and vomiting with moderate dehydration (sunken eyes, dry mouth, slow skin recoil): rehydrating with who low-osmolarity ors 75 ml/kg over 4 hours under plan b",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden painless rice-water diarrhea and vomiting with moderate dehydration (sunken eyes, dry mouth, slow skin recoil): rehydrating with WHO low-osmolarity ORS 75 mL/kg over 4 hours under Plan B represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden painless rice-water diarrhea and vomiting with moderate dehydration (sunken eyes, dry mouth, slow skin recoil): rehydrating with WHO low-osmolarity ORS 75 mL/kg over 4 hours under Plan B represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B. In the clinical management of PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Watery Diarrhea Cholera Hanging Drop Motility and ORS Plan B."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Pakistan Cholera Advisory",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15881",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltrat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration. Clinical examination and investigative review confirm painless chronic erythematous papule on face ulcerating with raised indurated border following sandfly bite in Balochistan: slit-skin smear showing Leishmania amastigotes, infiltrating intralesional meglumine antimoniate. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Painless chronic erythematous papule on face ulcerating with raised indurated border following sandfly bite in balochistan: slit-skin smear showing leishmania amastigotes, infiltrating intralesional meglumine antimoniate",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless chronic erythematous papule on face ulcerating with raised indurated border following sandfly bite in Balochistan: slit-skin smear showing Leishmania amastigotes, infiltrating intralesional meglumine antimoniate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless chronic erythematous papule on face ulcerating with raised indurated border following sandfly bite in Balochistan: slit-skin smear showing Leishmania amastigotes, infiltrating intralesional meglumine antimoniate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration. In the clinical management of PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Cutaneous Leishmaniasis Oriental Sore Meglumine Antimoniate Infiltration."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists (PAD) Leishmaniasis Guidelines",
+        "url": "https://pad.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15882",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management. Clinical examination and investigative review confirm deep unprovoked transdermal dog bite with bleeding (WHO Category III): washing wound with soap and running water for 15 minutes, infiltrating equine/human rabies immunoglobulin, and administering cell-culture vaccine. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Deep unprovoked transdermal dog bite with bleeding (who category iii): washing wound with soap and running water for 15 minutes, infiltrating equine/human rabies immunoglobulin, and administering cell-culture vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, deep unprovoked transdermal dog bite with bleeding (WHO Category III): washing wound with soap and running water for 15 minutes, infiltrating equine/human rabies immunoglobulin, and administering cell-culture vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, deep unprovoked transdermal dog bite with bleeding (WHO Category III): washing wound with soap and running water for 15 minutes, infiltrating equine/human rabies immunoglobulin, and administering cell-culture vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management. In the clinical management of PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Rabies Post-Exposure Prophylaxis Category III Wound Management."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Rabies Guidelines",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15883",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples. Clinical examination and investigative review confirm sudden onset asymmetric flaccid paralysis with hypotonia and hyporeflexia in an unvaccinated toddler: notifying district surveillance officer immediately and collecting two stool samples 24-48 hours apart within 14 days. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Sudden onset asymmetric flaccid paralysis with hypotonia and hyporeflexia in an unvaccinated toddler: notifying district surveillance officer immediately and collecting two stool samples 24-48 hours apart within 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden onset asymmetric flaccid paralysis with hypotonia and hyporeflexia in an unvaccinated toddler: notifying district surveillance officer immediately and collecting two stool samples 24-48 hours apart within 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden onset asymmetric flaccid paralysis with hypotonia and hyporeflexia in an unvaccinated toddler: notifying district surveillance officer immediately and collecting two stool samples 24-48 hours apart within 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples. In the clinical management of PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Poliomyelitis Acute Flaccid Paralysis Surveillance Two Stool Samples."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Polio Eradication Programme (NEOC)",
+        "url": "https://www.endpolio.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15884",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule. Clinical examination and investigative review confirm infant vaccination schedule at 6, 10, and 14 weeks: administering intramuscular Pentavalent vaccine (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate vaccine (PCV), and oral rotavirus vaccine. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Infant vaccination schedule at 6, 10, and 14 weeks: administering intramuscular pentavalent vaccine (dtp-hepb-hib), oral polio vaccine (opv), pneumococcal conjugate vaccine (pcv), and oral rotavirus vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant vaccination schedule at 6, 10, and 14 weeks: administering intramuscular Pentavalent vaccine (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate vaccine (PCV), and oral rotavirus vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant vaccination schedule at 6, 10, and 14 weeks: administering intramuscular Pentavalent vaccine (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate vaccine (PCV), and oral rotavirus vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule. In the clinical management of PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Expanded Programme on Immunization EPI Pentavalent Vaccine Schedule."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Emergency Operations Centre & EPI Schedule",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15885",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor. Clinical examination and investigative review confirm asymptomatic 48-year-old male with confirmed office blood pressure 152/94 mm Hg on repeated visits: counseling on dietary salt restriction (< 5 g/day), regular brisk walking, and starting oral amlodipine 5 mg daily. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Asymptomatic 48-year-old male with confirmed office blood pressure 152/94 mm hg on repeated visits: counseling on dietary salt restriction (< 5 g/day), regular brisk walking, and starting oral amlodipine 5 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, asymptomatic 48-year-old male with confirmed office blood pressure 152/94 mm Hg on repeated visits: counseling on dietary salt restriction (< 5 g/day), regular brisk walking, and starting oral amlodipine 5 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, asymptomatic 48-year-old male with confirmed office blood pressure 152/94 mm Hg on repeated visits: counseling on dietary salt restriction (< 5 g/day), regular brisk walking, and starting oral amlodipine 5 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor. In the clinical management of PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Essential Hypertension First-Line Low-Dose Amlodipine or ACE Inhibitor."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society (PCS) Hypertension Guidelines",
+        "url": "https://pcs.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15886",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling. Clinical examination and investigative review confirm newly detected type 2 diabetes mellitus with fasting plasma glucose 145 mg/dL and HbA1c 7.6%: prescribing medical nutrition therapy, weight management, and starting oral metformin 500 mg daily with meals. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Newly detected type 2 diabetes mellitus with fasting plasma glucose 145 mg/dl and hba1c 7.6%: prescribing medical nutrition therapy, weight management, and starting oral metformin 500 mg daily with meals",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, newly detected type 2 diabetes mellitus with fasting plasma glucose 145 mg/dL and HbA1c 7.6%: prescribing medical nutrition therapy, weight management, and starting oral metformin 500 mg daily with meals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, newly detected type 2 diabetes mellitus with fasting plasma glucose 145 mg/dL and HbA1c 7.6%: prescribing medical nutrition therapy, weight management, and starting oral metformin 500 mg daily with meals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling. In the clinical management of PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Type 2 Diabetes Metformin Monotherapy and Lifestyle Counseling."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Endocrine Society (PES) Clinical Practice Guidelines",
+        "url": "https://pakendocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15887",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG. Clinical examination and investigative review confirm crushing retrosternal chest pain radiating to left jaw: recording 12-lead ECG within 10 minutes, chewing soluble aspirin 300 mg, clopidogrel 300 mg, sublingual nitroglycerin, and transferring to cath lab. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Crushing retrosternal chest pain radiating to left jaw: recording 12-lead ecg within 10 minutes, chewing soluble aspirin 300 mg, clopidogrel 300 mg, sublingual nitroglycerin, and transferring to cath lab",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, crushing retrosternal chest pain radiating to left jaw: recording 12-lead ECG within 10 minutes, chewing soluble aspirin 300 mg, clopidogrel 300 mg, sublingual nitroglycerin, and transferring to cath lab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, crushing retrosternal chest pain radiating to left jaw: recording 12-lead ECG within 10 minutes, chewing soluble aspirin 300 mg, clopidogrel 300 mg, sublingual nitroglycerin, and transferring to cath lab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG. In the clinical management of PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Coronary Syndrome Pre-Hospital Aspirin Clopidogrel and Immediate ECG."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society (PCS) Guidelines",
+        "url": "https://pcs.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15888",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone. Clinical examination and investigative review confirm acute wheezing, tachypnea, and chest tightness with PEFR 55% predicted: administering repetitive nebulized salbutamol 2.5 mg with ipratropium bromide and oral prednisolone 40 mg daily for 5 days. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Acute wheezing, tachypnea, and chest tightness with pefr 55% predicted: administering repetitive nebulized salbutamol 2.5 mg with ipratropium bromide and oral prednisolone 40 mg daily for 5 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, acute wheezing, tachypnea, and chest tightness with PEFR 55% predicted: administering repetitive nebulized salbutamol 2.5 mg with ipratropium bromide and oral prednisolone 40 mg daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, acute wheezing, tachypnea, and chest tightness with PEFR 55% predicted: administering repetitive nebulized salbutamol 2.5 mg with ipratropium bromide and oral prednisolone 40 mg daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone. In the clinical management of PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Bronchial Asthma Exacerbation Inhaled Salbutamol and Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Clinical Practice Guidelines",
+        "url": "https://pakistanchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15889",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line. Clinical examination and investigative review confirm fever, productive cough with rusty sputum, and localized crepitations with CURB-65 score 0: prescribing first-line high-dose oral amoxicillin 1 g thrice daily for 5-7 days with safety-net advice. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Fever, productive cough with rusty sputum, and localized crepitations with curb-65 score 0: prescribing first-line high-dose oral amoxicillin 1 g thrice daily for 5-7 days with safety-net advice",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, fever, productive cough with rusty sputum, and localized crepitations with CURB-65 score 0: prescribing first-line high-dose oral amoxicillin 1 g thrice daily for 5-7 days with safety-net advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, fever, productive cough with rusty sputum, and localized crepitations with CURB-65 score 0: prescribing first-line high-dose oral amoxicillin 1 g thrice daily for 5-7 days with safety-net advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line. In the clinical management of PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Community-Acquired Pneumonia Outpatient Oral Amoxicillin First-Line."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Pneumonia Guidelines",
+        "url": "https://pakistanchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15890",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid. Clinical examination and investigative review confirm fatigue, pallor, and koilonychia in a young woman with microcytic hypochromic anemia (Hb 8.2 g/dL, ferritin 7 mcg/L): prescribing oral ferrous sulfate 200 mg daily taken with citrus juice, avoiding tea at mealtimes. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Fatigue, pallor, and koilonychia in a young woman with microcytic hypochromic anemia (hb 8.2 g/dl, ferritin 7 mcg/l): prescribing oral ferrous sulfate 200 mg daily taken with citrus juice, avoiding tea at mealtimes",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, fatigue, pallor, and koilonychia in a young woman with microcytic hypochromic anemia (Hb 8.2 g/dL, ferritin 7 mcg/L): prescribing oral ferrous sulfate 200 mg daily taken with citrus juice, avoiding tea at mealtimes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, fatigue, pallor, and koilonychia in a young woman with microcytic hypochromic anemia (Hb 8.2 g/dL, ferritin 7 mcg/L): prescribing oral ferrous sulfate 200 mg daily taken with citrus juice, avoiding tea at mealtimes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid. In the clinical management of PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Iron Deficiency Anemia Oral Ferrous Sulfate and Ascorbic Acid."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Hematology (PSH) Guidelines",
+        "url": "https://psh.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15891",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization. Clinical examination and investigative review confirm weight gain, fatigue, cold intolerance, and constipation with elevated serum TSH 16.8 mIU/L and low free T4: prescribing oral levothyroxine 50 mcg daily taken 30 minutes before breakfast with repeat TSH at 6 weeks. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Weight gain, fatigue, cold intolerance, and constipation with elevated serum tsh 16.8 miu/l and low free t4: prescribing oral levothyroxine 50 mcg daily taken 30 minutes before breakfast with repeat tsh at 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, weight gain, fatigue, cold intolerance, and constipation with elevated serum TSH 16.8 mIU/L and low free T4: prescribing oral levothyroxine 50 mcg daily taken 30 minutes before breakfast with repeat TSH at 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, weight gain, fatigue, cold intolerance, and constipation with elevated serum TSH 16.8 mIU/L and low free T4: prescribing oral levothyroxine 50 mcg daily taken 30 minutes before breakfast with repeat TSH at 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization. In the clinical management of PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Endocrine Society (PES) Thyroid Guidelines",
+        "url": "https://pakendocrine.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15892",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin. Clinical examination and investigative review confirm burning epigastric pain relieved by meals with positive stool H. pylori antigen test: prescribing 14-day triple eradication therapy with oral omeprazole 20 mg, clarithromycin 500 mg, and amoxicillin 1 g twice daily. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Burning epigastric pain relieved by meals with positive stool h. pylori antigen test: prescribing 14-day triple eradication therapy with oral omeprazole 20 mg, clarithromycin 500 mg, and amoxicillin 1 g twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, burning epigastric pain relieved by meals with positive stool H. pylori antigen test: prescribing 14-day triple eradication therapy with oral omeprazole 20 mg, clarithromycin 500 mg, and amoxicillin 1 g twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, burning epigastric pain relieved by meals with positive stool H. pylori antigen test: prescribing 14-day triple eradication therapy with oral omeprazole 20 mg, clarithromycin 500 mg, and amoxicillin 1 g twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin. In the clinical management of PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Peptic Ulcer Disease Triple Therapy PPI Clarithromycin and Amoxicillin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology (PSG) Guidelines",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15893",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counsel",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling. Clinical examination and investigative review confirm excessive persistent worry about daily health and finances for 8 months with muscle tension and insomnia: initiating low-dose oral escitalopram 10 mg daily combined with supportive relaxation breathing exercises. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Excessive persistent worry about daily health and finances for 8 months with muscle tension and insomnia: initiating low-dose oral escitalopram 10 mg daily combined with supportive relaxation breathing exercises",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, excessive persistent worry about daily health and finances for 8 months with muscle tension and insomnia: initiating low-dose oral escitalopram 10 mg daily combined with supportive relaxation breathing exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, excessive persistent worry about daily health and finances for 8 months with muscle tension and insomnia: initiating low-dose oral escitalopram 10 mg daily combined with supportive relaxation breathing exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling. In the clinical management of PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Generalized Anxiety Disorder SSRI Escitalopram and Supportive Counseling."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society (PPS) Guidelines",
+        "url": "https://pakpsychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15894",
+    "exam": "NLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment. Clinical examination and investigative review confirm persistent sadness, loss of interest, early morning awakening, and fatigue for 6 weeks meeting major depression criteria: conducting suicide safety assessment and starting oral sertraline 50 mg daily. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Persistent sadness, loss of interest, early morning awakening, and fatigue for 6 weeks meeting major depression criteria: conducting suicide safety assessment and starting oral sertraline 50 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, persistent sadness, loss of interest, early morning awakening, and fatigue for 6 weeks meeting major depression criteria: conducting suicide safety assessment and starting oral sertraline 50 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, persistent sadness, loss of interest, early morning awakening, and fatigue for 6 weeks meeting major depression criteria: conducting suicide safety assessment and starting oral sertraline 50 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment. In the clinical management of PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Major Depressive Episode First-Line Sertraline and Suicide Assessment."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society (PPS) Depression Guidelines",
+        "url": "https://pakpsychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15895",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol. Clinical examination and investigative review confirm acute excruciating pain, erythema, and swelling of first metatarsophalangeal joint: prescribing oral colchicine 1 mg stat followed by 500 mcg after 1 hour, initiating allopurinol only after complete flare resolution. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Acute excruciating pain, erythema, and swelling of first metatarsophalangeal joint: prescribing oral colchicine 1 mg stat followed by 500 mcg after 1 hour, initiating allopurinol only after complete flare resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, acute excruciating pain, erythema, and swelling of first metatarsophalangeal joint: prescribing oral colchicine 1 mg stat followed by 500 mcg after 1 hour, initiating allopurinol only after complete flare resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, acute excruciating pain, erythema, and swelling of first metatarsophalangeal joint: prescribing oral colchicine 1 mg stat followed by 500 mcg after 1 hour, initiating allopurinol only after complete flare resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol. In the clinical management of PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Gout Flare Oral Colchicine and Post-Flare Allopurinol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Rheumatology (PSR) Guidelines",
+        "url": "https://pakrheum.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15896",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid. Clinical examination and investigative review confirm symmetric swelling and morning stiffness of small joints of hands lasting > 1 hour with positive rheumatoid factor: initiating low-dose oral methotrexate 10-15 mg weekly with folic acid 5 mg weekly. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Symmetric swelling and morning stiffness of small joints of hands lasting > 1 hour with positive rheumatoid factor: initiating low-dose oral methotrexate 10-15 mg weekly with folic acid 5 mg weekly",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, symmetric swelling and morning stiffness of small joints of hands lasting > 1 hour with positive rheumatoid factor: initiating low-dose oral methotrexate 10-15 mg weekly with folic acid 5 mg weekly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, symmetric swelling and morning stiffness of small joints of hands lasting > 1 hour with positive rheumatoid factor: initiating low-dose oral methotrexate 10-15 mg weekly with folic acid 5 mg weekly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid. In the clinical management of PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Rheumatoid Arthritis Early DMARD Methotrexate and Folic Acid."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Rheumatology (PSR) Guidelines",
+        "url": "https://pakrheum.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15897",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV. Clinical examination and investigative review confirm snake bite in rural Sindh presenting with bilateral ptosis and respiratory muscle weakness: keeping limb immobile, avoiding tourniquets or incisions, and infusing 10 vials of polyvalent anti-snake venom (ASV) in saline. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Snake bite in rural sindh presenting with bilateral ptosis and respiratory muscle weakness: keeping limb immobile, avoiding tourniquets or incisions, and infusing 10 vials of polyvalent anti-snake venom (asv) in saline",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, snake bite in rural Sindh presenting with bilateral ptosis and respiratory muscle weakness: keeping limb immobile, avoiding tourniquets or incisions, and infusing 10 vials of polyvalent anti-snake venom (ASV) in saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, snake bite in rural Sindh presenting with bilateral ptosis and respiratory muscle weakness: keeping limb immobile, avoiding tourniquets or incisions, and infusing 10 vials of polyvalent anti-snake venom (ASV) in saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV. In the clinical management of PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Snake Bite Neurotoxic vs Vasculotoxic Polyvalent Anti-Snake Venom ASV."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Guidelines on Snakebite Management",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15898",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Refe",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral. Clinical examination and investigative review confirm migrating periumbilical pain localizing to right iliac fossa with anorexia, low-grade fever, and focal tenderness at McBurney point: keeping patient nil-by-mouth, infusing IV fluids, and referring for appendectomy. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Migrating periumbilical pain localizing to right iliac fossa with anorexia, low-grade fever, and focal tenderness at mcburney point: keeping patient nil-by-mouth, infusing iv fluids, and referring for appendectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, migrating periumbilical pain localizing to right iliac fossa with anorexia, low-grade fever, and focal tenderness at McBurney point: keeping patient nil-by-mouth, infusing IV fluids, and referring for appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, migrating periumbilical pain localizing to right iliac fossa with anorexia, low-grade fever, and focal tenderness at McBurney point: keeping patient nil-by-mouth, infusing IV fluids, and referring for appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral. In the clinical management of PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Appendicitis McBurney Point Tenderness and Urgent Surgical Referral."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan General Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15899",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray. Clinical examination and investigative review confirm colicky abdominal pain, absolute constipation, abdominal distension, and high-pitched tinkling bowel sounds with erect abdominal radiograph showing multiple dilated small bowel loops with air-fluid levels. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Colicky abdominal pain, absolute constipation, abdominal distension, and high-pitched tinkling bowel sounds with erect abdominal radiograph showing multiple dilated small bowel loops with air-fluid levels",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, colicky abdominal pain, absolute constipation, abdominal distension, and high-pitched tinkling bowel sounds with erect abdominal radiograph showing multiple dilated small bowel loops with air-fluid levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, colicky abdominal pain, absolute constipation, abdominal distension, and high-pitched tinkling bowel sounds with erect abdominal radiograph showing multiple dilated small bowel loops with air-fluid levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray. In the clinical management of PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and X-Ray."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Emergency Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15900",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Sur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery. Clinical examination and investigative review confirm tense, exquisitely tender, irreducible groin swelling with overlying skin erythema and vomiting: strictly avoiding manual reduction (taxis) due to gangrene risk, and performing emergency surgical exploration. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Tense, exquisitely tender, irreducible groin swelling with overlying skin erythema and vomiting: strictly avoiding manual reduction (taxis) due to gangrene risk, and performing emergency surgical exploration",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, tense, exquisitely tender, irreducible groin swelling with overlying skin erythema and vomiting: strictly avoiding manual reduction (taxis) due to gangrene risk, and performing emergency surgical exploration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, tense, exquisitely tender, irreducible groin swelling with overlying skin erythema and vomiting: strictly avoiding manual reduction (taxis) due to gangrene risk, and performing emergency surgical exploration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery. In the clinical management of PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Strangulated Inguinal Hernia Taxis Contraindication and Emergency Surgery."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Hernia Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15901",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC. Clinical examination and investigative review confirm discrete hard painless lump in upper outer quadrant of breast in a 44-year-old female: completing standard triple assessment (clinical examination, mammography, and fine needle aspiration cytology / core biopsy). Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Discrete hard painless lump in upper outer quadrant of breast in a 44-year-old female: completing standard triple assessment (clinical examination, mammography, and fine needle aspiration cytology / core biopsy)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, discrete hard painless lump in upper outer quadrant of breast in a 44-year-old female: completing standard triple assessment (clinical examination, mammography, and fine needle aspiration cytology / core biopsy) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, discrete hard painless lump in upper outer quadrant of breast in a 44-year-old female: completing standard triple assessment (clinical examination, mammography, and fine needle aspiration cytology / core biopsy) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC. In the clinical management of PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Breast Mass Triple Assessment and Fine Needle Aspiration Cytology FNAC."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Breast Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15902",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours. Clinical examination and investigative review confirm sudden excruciating unilateral scrotal pain, horizontal high-riding testis, and absent cremasteric reflex in an adolescent: arranging immediate surgical scrotal exploration and bilateral orchidopexy within 6 hours. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Sudden excruciating unilateral scrotal pain, horizontal high-riding testis, and absent cremasteric reflex in an adolescent: arranging immediate surgical scrotal exploration and bilateral orchidopexy within 6 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating unilateral scrotal pain, horizontal high-riding testis, and absent cremasteric reflex in an adolescent: arranging immediate surgical scrotal exploration and bilateral orchidopexy within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating unilateral scrotal pain, horizontal high-riding testis, and absent cremasteric reflex in an adolescent: arranging immediate surgical scrotal exploration and bilateral orchidopexy within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours. In the clinical management of PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Testicular Torsion Emergency Scrotal Exploration Within 6 Hours."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15903",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization. Clinical examination and investigative review confirm painful acute inability to void with palpable tender suprapubic urinary bladder in an elderly male with BPH: performing gentle urethral catheterization with 16F Foley catheter and starting oral tamsulosin. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Painful acute inability to void with palpable tender suprapubic urinary bladder in an elderly male with bph: performing gentle urethral catheterization with 16f foley catheter and starting oral tamsulosin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, painful acute inability to void with palpable tender suprapubic urinary bladder in an elderly male with BPH: performing gentle urethral catheterization with 16F Foley catheter and starting oral tamsulosin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, painful acute inability to void with palpable tender suprapubic urinary bladder in an elderly male with BPH: performing gentle urethral catheterization with 16F Foley catheter and starting oral tamsulosin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization. In the clinical management of PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Urinary Retention Benign Prostatic Hyperplasia Foley Catheterization."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15904",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization. Clinical examination and investigative review confirm motor vehicle collision victim brought to emergency: executing structured primary survey assessing airway with cervical spine immobilization, breathing, circulation with direct pressure on bleed, disability, exposure. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Motor vehicle collision victim brought to emergency: executing structured primary survey assessing airway with cervical spine immobilization, breathing, circulation with direct pressure on bleed, disability, exposure",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, motor vehicle collision victim brought to emergency: executing structured primary survey assessing airway with cervical spine immobilization, breathing, circulation with direct pressure on bleed, disability, exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, motor vehicle collision victim brought to emergency: executing structured primary survey assessing airway with cervical spine immobilization, breathing, circulation with direct pressure on bleed, disability, exposure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization. In the clinical management of PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Trauma Primary Survey ATLS Airway Breathing Circulation Prioritization."
+    ],
+    "references": [
+      {
+        "label": "Advanced Trauma Life Support Pakistan (ATLS Pakistan)",
+        "url": "https://atls.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15905",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus. Clinical examination and investigative review confirm compound fracture of leg with bone protruding through skin: covering with sterile saline-soaked dressing, immobilizing with rigid splint, administering tetanus toxoid and IV antibiotics, avoiding blind reduction. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Compound fracture of leg with bone protruding through skin: covering with sterile saline-soaked dressing, immobilizing with rigid splint, administering tetanus toxoid and iv antibiotics, avoiding blind reduction",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, compound fracture of leg with bone protruding through skin: covering with sterile saline-soaked dressing, immobilizing with rigid splint, administering tetanus toxoid and IV antibiotics, avoiding blind reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, compound fracture of leg with bone protruding through skin: covering with sterile saline-soaked dressing, immobilizing with rigid splint, administering tetanus toxoid and IV antibiotics, avoiding blind reduction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus. In the clinical management of PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Open Fracture Gustilo-Anderson Sterile Dressing Splinting and Tetanus."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association (POA) Trauma Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15906",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation. Clinical examination and investigative review confirm flame burn injury involving chest, abdomen, and both arms (36% TBSA): administering humidified oxygen, securing large-bore IV access, and initiating calculated Parkland fluid resuscitation with Ringer lactate. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Flame burn injury involving chest, abdomen, and both arms (36% tbsa): administering humidified oxygen, securing large-bore iv access, and initiating calculated parkland fluid resuscitation with ringer lactate",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, flame burn injury involving chest, abdomen, and both arms (36% TBSA): administering humidified oxygen, securing large-bore IV access, and initiating calculated Parkland fluid resuscitation with Ringer lactate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, flame burn injury involving chest, abdomen, and both arms (36% TBSA): administering humidified oxygen, securing large-bore IV access, and initiating calculated Parkland fluid resuscitation with Ringer lactate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation. In the clinical management of PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Thermal Flame Burns Rule of Nines Assessment and IV Fluid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Burn Association Clinical Practice Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15907",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid. Clinical examination and investigative review confirm first antenatal visit in first trimester: checking blood pressure, hemoglobin, blood group/Rh, urine albumin, prescribing daily oral iron 60 mg and folic acid 400 mcg, and scheduling two doses of tetanus toxoid (TT). Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "First antenatal visit in first trimester: checking blood pressure, hemoglobin, blood group/rh, urine albumin, prescribing daily oral iron 60 mg and folic acid 400 mcg, and scheduling two doses of tetanus toxoid (tt)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, first antenatal visit in first trimester: checking blood pressure, hemoglobin, blood group/Rh, urine albumin, prescribing daily oral iron 60 mg and folic acid 400 mcg, and scheduling two doses of tetanus toxoid (TT) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, first antenatal visit in first trimester: checking blood pressure, hemoglobin, blood group/Rh, urine albumin, prescribing daily oral iron 60 mg and folic acid 400 mcg, and scheduling two doses of tetanus toxoid (TT) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid. In the clinical management of PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Antenatal Care WHO Focused Model Iron Folic Acid and Tetanus Toxoid."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Maternal and Child Health (MNCH) Guidelines",
+        "url": "https://phkh.nhsrc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15908",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria. Clinical examination and investigative review confirm pregnant woman at 32 weeks gestation with blood pressure 148/94 mm Hg on two occasions 4 hours apart and 2+ proteinuria on dipstick: initiating oral methyldopa or labetalol and monitoring for severe symptoms. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Pregnant woman at 32 weeks gestation with blood pressure 148/94 mm hg on two occasions 4 hours apart and 2+ proteinuria on dipstick: initiating oral methyldopa or labetalol and monitoring for severe symptoms",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, pregnant woman at 32 weeks gestation with blood pressure 148/94 mm Hg on two occasions 4 hours apart and 2+ proteinuria on dipstick: initiating oral methyldopa or labetalol and monitoring for severe symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, pregnant woman at 32 weeks gestation with blood pressure 148/94 mm Hg on two occasions 4 hours apart and 2+ proteinuria on dipstick: initiating oral methyldopa or labetalol and monitoring for severe symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria. In the clinical management of PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Preeclampsia Blood Pressure >= 140/90 and Urine Dipstick Proteinuria."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan (SOGP) Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15909",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen. Clinical examination and investigative review confirm generalized tonic-clonic convulsions in a third-trimester hypertensive pregnant female: administering magnesium sulfate (4 g IV loading over 10 min and 10 g IM split in buttocks) with calcium gluconate antidote standby. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Generalized tonic-clonic convulsions in a third-trimester hypertensive pregnant female: administering magnesium sulfate (4 g iv loading over 10 min and 10 g im split in buttocks) with calcium gluconate antidote standby",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, generalized tonic-clonic convulsions in a third-trimester hypertensive pregnant female: administering magnesium sulfate (4 g IV loading over 10 min and 10 g IM split in buttocks) with calcium gluconate antidote standby represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, generalized tonic-clonic convulsions in a third-trimester hypertensive pregnant female: administering magnesium sulfate (4 g IV loading over 10 min and 10 g IM split in buttocks) with calcium gluconate antidote standby represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen. In the clinical management of PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Eclampsia Convulsions Magnesium Sulfate Loading and Maintenance Regimen."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan (SOGP) Eclampsia Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15910",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam. Clinical examination and investigative review confirm painless bright red vaginal bleeding at 34 weeks gestation: strictly avoiding digital vaginal examination and performing immediate obstetric ultrasound to determine placental localization. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Painless bright red vaginal bleeding at 34 weeks gestation: strictly avoiding digital vaginal examination and performing immediate obstetric ultrasound to determine placental localization",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless bright red vaginal bleeding at 34 weeks gestation: strictly avoiding digital vaginal examination and performing immediate obstetric ultrasound to determine placental localization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless bright red vaginal bleeding at 34 weeks gestation: strictly avoiding digital vaginal examination and performing immediate obstetric ultrasound to determine placental localization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam. In the clinical management of PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Antepartum Hemorrhage Placenta Previa Avoidance of Digital Vaginal Exam."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan (SOGP) APH Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15911",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin. Clinical examination and investigative review confirm brisk continuous vaginal bleeding with soft boggy uterus following home delivery: performing immediate bimanual uterine compression, infusing IV oxytocin 20 units in saline, and arranging emergency surgical transfer. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Brisk continuous vaginal bleeding with soft boggy uterus following home delivery: performing immediate bimanual uterine compression, infusing iv oxytocin 20 units in saline, and arranging emergency surgical transfer",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, brisk continuous vaginal bleeding with soft boggy uterus following home delivery: performing immediate bimanual uterine compression, infusing IV oxytocin 20 units in saline, and arranging emergency surgical transfer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, brisk continuous vaginal bleeding with soft boggy uterus following home delivery: performing immediate bimanual uterine compression, infusing IV oxytocin 20 units in saline, and arranging emergency surgical transfer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin. In the clinical management of PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Postpartum Hemorrhage Uterine Atony Bimanual Compression and Oxytocin."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan (SOGP) PPH Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15912",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants. Clinical examination and investigative review confirm postpartum female desiring reliable 3-to-5 year birth spacing: providing counseling on immediate postpartum intrauterine contraceptive device (PPIUCD) or subdermal levonorgestrel implant. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Postpartum female desiring reliable 3-to-5 year birth spacing: providing counseling on immediate postpartum intrauterine contraceptive device (ppiucd) or subdermal levonorgestrel implant",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, postpartum female desiring reliable 3-to-5 year birth spacing: providing counseling on immediate postpartum intrauterine contraceptive device (PPIUCD) or subdermal levonorgestrel implant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, postpartum female desiring reliable 3-to-5 year birth spacing: providing counseling on immediate postpartum intrauterine contraceptive device (PPIUCD) or subdermal levonorgestrel implant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants. In the clinical management of PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Unmet Need for Contraception Postpartum IUD and Progestin-Only Implants."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Family Planning Guidelines & UNFPA",
+        "url": "https://pakistan.unfpa.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15913",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventil",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation. Clinical examination and investigative review confirm newborn infant failing to breathe spontaneously after delivery: drying, stimulating by rubbing back, positioning airway, and initiating positive-pressure bag-valve-mask ventilation with room air within 60 seconds. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Newborn infant failing to breathe spontaneously after delivery: drying, stimulating by rubbing back, positioning airway, and initiating positive-pressure bag-valve-mask ventilation with room air within 60 seconds",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, newborn infant failing to breathe spontaneously after delivery: drying, stimulating by rubbing back, positioning airway, and initiating positive-pressure bag-valve-mask ventilation with room air within 60 seconds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, newborn infant failing to breathe spontaneously after delivery: drying, stimulating by rubbing back, positioning airway, and initiating positive-pressure bag-valve-mask ventilation with room air within 60 seconds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation. In the clinical management of PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Resuscitation Dry Stimulate Clear Airway and Bag-Mask Ventilation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Neonatal Resuscitation Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15914",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 1-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria. Clinical examination and investigative review confirm jaundice appearing on day 3 of life in an active, breastfed full-term infant with total serum bilirubin 11 mg/dL: distinguishing physiological jaundice from hemolysis, encouraging frequent breastfeeding. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Jaundice appearing on day 3 of life in an active, breastfed full-term infant with total serum bilirubin 11 mg/dl: distinguishing physiological jaundice from hemolysis, encouraging frequent breastfeeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, jaundice appearing on day 3 of life in an active, breastfed full-term infant with total serum bilirubin 11 mg/dL: distinguishing physiological jaundice from hemolysis, encouraging frequent breastfeeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, jaundice appearing on day 3 of life in an active, breastfed full-term infant with total serum bilirubin 11 mg/dL: distinguishing physiological jaundice from hemolysis, encouraging frequent breastfeeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria. In the clinical management of PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Jaundice Physiological vs Pathological Phototherapy Criteria."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Neonatology Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15915",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation. Clinical examination and investigative review confirm toddler with acute non-bloody watery diarrhea without vomiting: continuing normal breastfeeding, administering WHO low-osmolarity ORS after every loose stool, and giving daily oral zinc 20 mg for 14 days. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Toddler with acute non-bloody watery diarrhea without vomiting: continuing normal breastfeeding, administering who low-osmolarity ors after every loose stool, and giving daily oral zinc 20 mg for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, toddler with acute non-bloody watery diarrhea without vomiting: continuing normal breastfeeding, administering WHO low-osmolarity ORS after every loose stool, and giving daily oral zinc 20 mg for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, toddler with acute non-bloody watery diarrhea without vomiting: continuing normal breastfeeding, administering WHO low-osmolarity ORS after every loose stool, and giving daily oral zinc 20 mg for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation. In the clinical management of PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Diarrhea in Children Low-Osmolarity ORS and Zinc Supplementation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Diarrhea Management Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15916",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amox",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin. Clinical examination and investigative review confirm 14-month-old child with cough and fast breathing (respiratory rate 54/min, threshold >= 40/min) without chest indrawing: diagnosing IMNCI pneumonia and prescribing oral amoxicillin 40 mg/kg/dose twice daily for 5 days. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "14-month-old child with cough and fast breathing (respiratory rate 54/min, threshold >= 40/min) without chest indrawing: diagnosing imnci pneumonia and prescribing oral amoxicillin 40 mg/kg/dose twice daily for 5 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, 14-month-old child with cough and fast breathing (respiratory rate 54/min, threshold >= 40/min) without chest indrawing: diagnosing IMNCI pneumonia and prescribing oral amoxicillin 40 mg/kg/dose twice daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, 14-month-old child with cough and fast breathing (respiratory rate 54/min, threshold >= 40/min) without chest indrawing: diagnosing IMNCI pneumonia and prescribing oral amoxicillin 40 mg/kg/dose twice daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin. In the clinical management of PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Childhood Pneumonia Fast Breathing Tachypnea Thresholds and Oral Amoxicillin."
+    ],
+    "references": [
+      {
+        "label": "Integrated Management of Neonatal and Childhood Illness (IMNCI) Pakistan",
+        "url": "https://www.who.int/pakistan/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15917",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food R",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF. Clinical examination and investigative review confirm child aged 2 years with mid-upper arm circumference (MUAC) < 11.5 cm and no edema: passing appetite test, initiating outpatient therapeutic program with ready-to-use therapeutic food (RUTF) sachets. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Child aged 2 years with mid-upper arm circumference (muac) < 11.5 cm and no edema: passing appetite test, initiating outpatient therapeutic program with ready-to-use therapeutic food (rutf) sachets",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, child aged 2 years with mid-upper arm circumference (MUAC) < 11.5 cm and no edema: passing appetite test, initiating outpatient therapeutic program with ready-to-use therapeutic food (RUTF) sachets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, child aged 2 years with mid-upper arm circumference (MUAC) < 11.5 cm and no edema: passing appetite test, initiating outpatient therapeutic program with ready-to-use therapeutic food (RUTF) sachets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF. In the clinical management of PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Severe Malnutrition SAM Appetite Test Ready-to-Use Therapeutic Food RUTF."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Child Malnutrition Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15918",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education. Clinical examination and investigative review confirm child aged 18 months having a 1-minute generalized tonic-clonic convulsion during high fever from viral tonsillitis: reassuring parents regarding benign nature, advising fever control with paracetamol, avoiding cold sponges. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Child aged 18 months having a 1-minute generalized tonic-clonic convulsion during high fever from viral tonsillitis: reassuring parents regarding benign nature, advising fever control with paracetamol, avoiding cold sponges",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, child aged 18 months having a 1-minute generalized tonic-clonic convulsion during high fever from viral tonsillitis: reassuring parents regarding benign nature, advising fever control with paracetamol, avoiding cold sponges represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, child aged 18 months having a 1-minute generalized tonic-clonic convulsion during high fever from viral tonsillitis: reassuring parents regarding benign nature, advising fever control with paracetamol, avoiding cold sponges represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education. In the clinical management of PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Febrile Convulsion Reassurance Paracetamol and Parental Education."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Neurology Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15919",
+    "exam": "NLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality. Clinical examination and investigative review confirm adult patient refusing surgical blood transfusion: respecting patient's autonomous informed decision, explaining risks, documenting refusal signed by patient, and exploring non-blood volume expanders. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Adult patient refusing surgical blood transfusion: respecting patient's autonomous informed decision, explaining risks, documenting refusal signed by patient, and exploring non-blood volume expanders",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, adult patient refusing surgical blood transfusion: respecting patient's autonomous informed decision, explaining risks, documenting refusal signed by patient, and exploring non-blood volume expanders represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, adult patient refusing surgical blood transfusion: respecting patient's autonomous informed decision, explaining risks, documenting refusal signed by patient, and exploring non-blood volume expanders represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality. In the clinical management of PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Ethics PM&DC Code of Conduct Patient Autonomy and Confidentiality."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council (PM&DC) Code of Ethics Regulations",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15920",
+    "exam": "NLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause. Clinical examination and investigative review confirm issuing death certificate: correctly entering underlying antecedent cause of death on line 1b (e.g. coronary artery disease) leading directly to immediate cause on line 1a (e.g. acute myocardial infarction). Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Issuing death certificate: correctly entering underlying antecedent cause of death on line 1b (e.g. coronary artery disease) leading directly to immediate cause on line 1a (e.g. acute myocardial infarction)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, issuing death certificate: correctly entering underlying antecedent cause of death on line 1b (e.g. coronary artery disease) leading directly to immediate cause on line 1a (e.g. acute myocardial infarction) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, issuing death certificate: correctly entering underlying antecedent cause of death on line 1b (e.g. coronary artery disease) leading directly to immediate cause on line 1a (e.g. acute myocardial infarction) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause. In the clinical management of PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Certification of Cause of Death MCCD Direct vs Antecedent Cause."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council (PM&DC) Medico-Legal Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15921",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Te",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing. Clinical examination and investigative review confirm house officer sustaining superficial puncture wound from hollow needle during venipuncture: immediately washing site with soap and water, avoiding squeezing, checking source and recipient HBV, HCV, and HIV serologies. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "House officer sustaining superficial puncture wound from hollow needle during venipuncture: immediately washing site with soap and water, avoiding squeezing, checking source and recipient hbv, hcv, and hiv serologies",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, house officer sustaining superficial puncture wound from hollow needle during venipuncture: immediately washing site with soap and water, avoiding squeezing, checking source and recipient HBV, HCV, and HIV serologies represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, house officer sustaining superficial puncture wound from hollow needle during venipuncture: immediately washing site with soap and water, avoiding squeezing, checking source and recipient HBV, HCV, and HIV serologies represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing. In the clinical management of PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Occupational Needle-Stick Injury Immediate Washing and Hepatitis B Testing."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Biosafety Guidelines & Infection Control Protocols",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15922",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination. Clinical examination and investigative review confirm preventing recurring waterborne enteritis in rural community: educating households on rolling boiling of drinking water for 1-3 minutes or adding 2 drops of 5% sodium hypochlorite bleach per liter of clear water. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Preventing recurring waterborne enteritis in rural community: educating households on rolling boiling of drinking water for 1-3 minutes or adding 2 drops of 5% sodium hypochlorite bleach per liter of clear water",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, preventing recurring waterborne enteritis in rural community: educating households on rolling boiling of drinking water for 1-3 minutes or adding 2 drops of 5% sodium hypochlorite bleach per liter of clear water represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, preventing recurring waterborne enteritis in rural community: educating households on rolling boiling of drinking water for 1-3 minutes or adding 2 drops of 5% sodium hypochlorite bleach per liter of clear water represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination. In the clinical management of PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Water Disinfection Boiling and Household Sodium Hypochlorite Chlorination."
+    ],
+    "references": [
+      {
+        "label": "Ministry of National Health Services Pakistan Public Health Guidelines",
+        "url": "https://phkh.nhsrc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15923",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation. Clinical examination and investigative review confirm progressive exertional breathlessness and chronic productive cough in a 55-year-old hooka smoker: providing structured smoking cessation counseling, prescribing inhaled salbutamol and tiotropium. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Progressive exertional breathlessness and chronic productive cough in a 55-year-old hooka smoker: providing structured smoking cessation counseling, prescribing inhaled salbutamol and tiotropium",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, progressive exertional breathlessness and chronic productive cough in a 55-year-old hooka smoker: providing structured smoking cessation counseling, prescribing inhaled salbutamol and tiotropium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, progressive exertional breathlessness and chronic productive cough in a 55-year-old hooka smoker: providing structured smoking cessation counseling, prescribing inhaled salbutamol and tiotropium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation. In the clinical management of PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Chronic Obstructive Pulmonary Disease Inhaled Bronchodilators and Smoking Cessation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society COPD Guidelines",
+        "url": "https://pakistanchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15924",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors. Clinical examination and investigative review confirm type 2 diabetic with persistent microalbuminuria and blood pressure 146/92 mm Hg: initiating oral enalapril or losartan to slow progressive renal injury aiming for target blood pressure < 130/80 mm Hg. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Type 2 diabetic with persistent microalbuminuria and blood pressure 146/92 mm hg: initiating oral enalapril or losartan to slow progressive renal injury aiming for target blood pressure < 130/80 mm hg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, type 2 diabetic with persistent microalbuminuria and blood pressure 146/92 mm Hg: initiating oral enalapril or losartan to slow progressive renal injury aiming for target blood pressure < 130/80 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, type 2 diabetic with persistent microalbuminuria and blood pressure 146/92 mm Hg: initiating oral enalapril or losartan to slow progressive renal injury aiming for target blood pressure < 130/80 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors. In the clinical management of PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Chronic Kidney Disease Diabetes Blood Pressure Target ACE Inhibitors."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology (PSN) Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15925",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT. Clinical examination and investigative review confirm sudden excruciating spasmodic flank pain radiating to groin with microscopic hematuria: administering intramuscular diclofenac for analgesia and confirming ureteric calculus on non-contrast spiral CT KUB. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Sudden excruciating spasmodic flank pain radiating to groin with microscopic hematuria: administering intramuscular diclofenac for analgesia and confirming ureteric calculus on non-contrast spiral ct kub",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating spasmodic flank pain radiating to groin with microscopic hematuria: administering intramuscular diclofenac for analgesia and confirming ureteric calculus on non-contrast spiral CT KUB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating spasmodic flank pain radiating to groin with microscopic hematuria: administering intramuscular diclofenac for analgesia and confirming ureteric calculus on non-contrast spiral CT KUB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT. In the clinical management of PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Nephrolithiasis Renal Colic NSAIDs and Non-Contrast Spiral CT."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15926",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis. Clinical examination and investigative review confirm child presenting with migratory polyarthritis of knees and ankles, fever, elevated ESR, and carditis 3 weeks after untreated sore throat: treating with oral penicillin V and initiating secondary benzathine penicillin prophylaxis. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Child presenting with migratory polyarthritis of knees and ankles, fever, elevated esr, and carditis 3 weeks after untreated sore throat: treating with oral penicillin v and initiating secondary benzathine penicillin prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, child presenting with migratory polyarthritis of knees and ankles, fever, elevated ESR, and carditis 3 weeks after untreated sore throat: treating with oral penicillin V and initiating secondary benzathine penicillin prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, child presenting with migratory polyarthritis of knees and ankles, fever, elevated ESR, and carditis 3 weeks after untreated sore throat: treating with oral penicillin V and initiating secondary benzathine penicillin prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis. In the clinical management of PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Rheumatic Fever Jones Criteria Penicillin Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Rheumatic Fever Consensus",
+        "url": "https://pcs.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15927",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor. Clinical examination and investigative review confirm bilateral pedal edema, elevated JVP, and bilateral basal crackles with reduced ejection fraction on echo: relieving congestion with oral furosemide and starting low-dose enalapril and bisoprolol. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Bilateral pedal edema, elevated jvp, and bilateral basal crackles with reduced ejection fraction on echo: relieving congestion with oral furosemide and starting low-dose enalapril and bisoprolol",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, bilateral pedal edema, elevated JVP, and bilateral basal crackles with reduced ejection fraction on echo: relieving congestion with oral furosemide and starting low-dose enalapril and bisoprolol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, bilateral pedal edema, elevated JVP, and bilateral basal crackles with reduced ejection fraction on echo: relieving congestion with oral furosemide and starting low-dose enalapril and bisoprolol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor. In the clinical management of PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Congestive Heart Failure Loop Diuretic Furosemide and ACE Inhibitor."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Heart Failure Guidelines",
+        "url": "https://pcs.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15928",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagul",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation. Clinical examination and investigative review confirm irregularly irregular pulse and absent P waves on ECG in a patient with rheumatic mitral stenosis: controlling ventricular rate with oral bisoprolol or digoxin and initiating warfarin anticoagulation (INR 2-3). Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Irregularly irregular pulse and absent p waves on ecg in a patient with rheumatic mitral stenosis: controlling ventricular rate with oral bisoprolol or digoxin and initiating warfarin anticoagulation (inr 2-3)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, irregularly irregular pulse and absent P waves on ECG in a patient with rheumatic mitral stenosis: controlling ventricular rate with oral bisoprolol or digoxin and initiating warfarin anticoagulation (INR 2-3) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, irregularly irregular pulse and absent P waves on ECG in a patient with rheumatic mitral stenosis: controlling ventricular rate with oral bisoprolol or digoxin and initiating warfarin anticoagulation (INR 2-3) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation. In the clinical management of PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Atrial Fibrillation Rate Control Beta-Blocker and Warfarin Anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Guidelines",
+        "url": "https://pcs.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15929",
+    "exam": "NLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone. Clinical examination and investigative review confirm sudden unilateral facial weakness with inability to close eye or raise forehead: diagnosing acute lower motor neuron Bell palsy, prescribing oral prednisolone 60 mg daily for 10 days and protective eye tape. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Sudden unilateral facial weakness with inability to close eye or raise forehead: diagnosing acute lower motor neuron bell palsy, prescribing oral prednisolone 60 mg daily for 10 days and protective eye tape",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden unilateral facial weakness with inability to close eye or raise forehead: diagnosing acute lower motor neuron Bell palsy, prescribing oral prednisolone 60 mg daily for 10 days and protective eye tape represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden unilateral facial weakness with inability to close eye or raise forehead: diagnosing acute lower motor neuron Bell palsy, prescribing oral prednisolone 60 mg daily for 10 days and protective eye tape represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone. In the clinical management of PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Bell Palsy Lower Motor Facial Paralysis Oral Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology (PSN) Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15930",
+    "exam": "NLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis. Clinical examination and investigative review confirm throbbing unilateral headache with nausea, photophobia, and visual aura: treating acute attack with oral sumatriptan and naproxen, and prescribing daily propranolol for frequent disabling episodes. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Throbbing unilateral headache with nausea, photophobia, and visual aura: treating acute attack with oral sumatriptan and naproxen, and prescribing daily propranolol for frequent disabling episodes",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, throbbing unilateral headache with nausea, photophobia, and visual aura: treating acute attack with oral sumatriptan and naproxen, and prescribing daily propranolol for frequent disabling episodes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, throbbing unilateral headache with nausea, photophobia, and visual aura: treating acute attack with oral sumatriptan and naproxen, and prescribing daily propranolol for frequent disabling episodes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis. In the clinical management of PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Migraine Headache Triptans NSAIDs and Beta-Blocker Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology (PSN) Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15931",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care. Clinical examination and investigative review confirm shooting pain down posterior thigh and calf exacerbated by coughing with positive straight leg raise test at 40 degrees: advising active mobilization, paracetamol/NSAIDs, and avoiding prolonged bed rest. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Shooting pain down posterior thigh and calf exacerbated by coughing with positive straight leg raise test at 40 degrees: advising active mobilization, paracetamol/nsaids, and avoiding prolonged bed rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, shooting pain down posterior thigh and calf exacerbated by coughing with positive straight leg raise test at 40 degrees: advising active mobilization, paracetamol/NSAIDs, and avoiding prolonged bed rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, shooting pain down posterior thigh and calf exacerbated by coughing with positive straight leg raise test at 40 degrees: advising active mobilization, paracetamol/NSAIDs, and avoiding prolonged bed rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care. In the clinical management of PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Sciatica Lumbar Disc Herniation Straight Leg Raise Test and Conservative Care."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Spine Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15932",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Appl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application. Clinical examination and investigative review confirm intense nocturnal itching with burrows and excoriated papules in finger web spaces and flexor wrists: prescribing 5% permethrin cream applied from neck to toes overnight for whole family. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Intense nocturnal itching with burrows and excoriated papules in finger web spaces and flexor wrists: prescribing 5% permethrin cream applied from neck to toes overnight for whole family",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, intense nocturnal itching with burrows and excoriated papules in finger web spaces and flexor wrists: prescribing 5% permethrin cream applied from neck to toes overnight for whole family represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, intense nocturnal itching with burrows and excoriated papules in finger web spaces and flexor wrists: prescribing 5% permethrin cream applied from neck to toes overnight for whole family represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application. In the clinical management of PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Scabies Sarcoptes Scabiei Permethrin 5 Percent Lotion Whole-Body Application."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists (PAD) Scabies Guidelines",
+        "url": "https://pad.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15933",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams. Clinical examination and investigative review confirm annular scaly erythematous plaque with central clearing and active raised border on torso: prescribing topical clotrimazole or terbinafine twice daily and strictly warning against over-the-counter topical steroids. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Annular scaly erythematous plaque with central clearing and active raised border on torso: prescribing topical clotrimazole or terbinafine twice daily and strictly warning against over-the-counter topical steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, annular scaly erythematous plaque with central clearing and active raised border on torso: prescribing topical clotrimazole or terbinafine twice daily and strictly warning against over-the-counter topical steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, annular scaly erythematous plaque with central clearing and active raised border on torso: prescribing topical clotrimazole or terbinafine twice daily and strictly warning against over-the-counter topical steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams. In the clinical management of PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Tinea Corporis Ringworm Topical Clotrimazole and Avoidance of Steroid Creams."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Dermatologists (PAD) Fungal Guidelines",
+        "url": "https://pad.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15934",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT. Clinical examination and investigative review confirm loss of sensation in a hypopigmented macular skin patch with palpable thickened greater auricular and ulnar nerves: registering under national leprosy control and initiating blister-pack multi-drug therapy. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Loss of sensation in a hypopigmented macular skin patch with palpable thickened greater auricular and ulnar nerves: registering under national leprosy control and initiating blister-pack multi-drug therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, loss of sensation in a hypopigmented macular skin patch with palpable thickened greater auricular and ulnar nerves: registering under national leprosy control and initiating blister-pack multi-drug therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, loss of sensation in a hypopigmented macular skin patch with palpable thickened greater auricular and ulnar nerves: registering under national leprosy control and initiating blister-pack multi-drug therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT. In the clinical management of PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Leprosy Hypopigmented Skin Patch Peripheral Nerve Thickening and MDT."
+    ],
+    "references": [
+      {
+        "label": "National Leprosy Elimination Programme Pakistan & MALC",
+        "url": "https://malc.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15935",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicil",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin. Clinical examination and investigative review confirm tonsillar exudates, tender anterior cervical lymphadenopathy, fever 38.5 C, and absence of cough (Centor score 4): prescribing oral phenoxymethylpenicillin (penicillin V) or amoxicillin for 10 days. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Tonsillar exudates, tender anterior cervical lymphadenopathy, fever 38.5 c, and absence of cough (centor score 4): prescribing oral phenoxymethylpenicillin (penicillin v) or amoxicillin for 10 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, tonsillar exudates, tender anterior cervical lymphadenopathy, fever 38.5 C, and absence of cough (Centor score 4): prescribing oral phenoxymethylpenicillin (penicillin V) or amoxicillin for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, tonsillar exudates, tender anterior cervical lymphadenopathy, fever 38.5 C, and absence of cough (Centor score 4): prescribing oral phenoxymethylpenicillin (penicillin V) or amoxicillin for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin. In the clinical management of PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Tonsillitis Group A Streptococcus Centor Score and Oral Penicillin."
+    ],
+    "references": [
+      {
+        "label": "Integrated Management of Adolescent and Adult Illness (IMAI) Pakistan",
+        "url": "https://phkh.nhsrc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15936",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care. Clinical examination and investigative review confirm facial maxillary pressure, purulent nasal discharge, and headache lasting 7 days following common cold: recommending regular nasal saline irrigation, oral analgesics, steam inhalation, avoiding immediate antibiotics. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Facial maxillary pressure, purulent nasal discharge, and headache lasting 7 days following common cold: recommending regular nasal saline irrigation, oral analgesics, steam inhalation, avoiding immediate antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, facial maxillary pressure, purulent nasal discharge, and headache lasting 7 days following common cold: recommending regular nasal saline irrigation, oral analgesics, steam inhalation, avoiding immediate antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, facial maxillary pressure, purulent nasal discharge, and headache lasting 7 days following common cold: recommending regular nasal saline irrigation, oral analgesics, steam inhalation, avoiding immediate antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care. In the clinical management of PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Sinusitis Facial Pressure Nasal Congestion and Symptomatic Care."
+    ],
+    "references": [
+      {
+        "label": "Pakistan ENT Society Clinical Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15937",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol. Clinical examination and investigative review confirm delayed walking, widened wrists, bowed legs, and costochondral beadings (rachitic rosary) in an exclusively breastfed infant: administering oral vitamin D3 (cholecalciferol 60,000 IU weekly for 6 weeks). Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Delayed walking, widened wrists, bowed legs, and costochondral beadings (rachitic rosary) in an exclusively breastfed infant: administering oral vitamin d3 (cholecalciferol 60,000 iu weekly for 6 weeks)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, delayed walking, widened wrists, bowed legs, and costochondral beadings (rachitic rosary) in an exclusively breastfed infant: administering oral vitamin D3 (cholecalciferol 60,000 IU weekly for 6 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, delayed walking, widened wrists, bowed legs, and costochondral beadings (rachitic rosary) in an exclusively breastfed infant: administering oral vitamin D3 (cholecalciferol 60,000 IU weekly for 6 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol. In the clinical management of PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vitamin D Deficiency Rickets Craniotabes Rachitic Rosary and Cholecalciferol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association (PPA) Nutrition Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15938",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 1-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices. Clinical examination and investigative review confirm infant born at home presenting on day 7 with inability to suck, trismus, and generalized spasms triggered by touch: admitting to dark room, giving human tetanus immunoglobulin, IV metronidazole, and ventilatory support. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Infant born at home presenting on day 7 with inability to suck, trismus, and generalized spasms triggered by touch: admitting to dark room, giving human tetanus immunoglobulin, iv metronidazole, and ventilatory support",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant born at home presenting on day 7 with inability to suck, trismus, and generalized spasms triggered by touch: admitting to dark room, giving human tetanus immunoglobulin, IV metronidazole, and ventilatory support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant born at home presenting on day 7 with inability to suck, trismus, and generalized spasms triggered by touch: admitting to dark room, giving human tetanus immunoglobulin, IV metronidazole, and ventilatory support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices. In the clinical management of PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Tetanus Umbilical Cord Infection Clean Delivery Practices."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Maternal and Child Health Guidelines",
+        "url": "https://phkh.nhsrc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15939",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV. Clinical examination and investigative review confirm infant receiving national immunization: administering intramuscular fractional or full-dose inactivated polio vaccine (IPV) alongside oral polio vaccine (OPV) to boost mucosal and humoral immunity. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Infant receiving national immunization: administering intramuscular fractional or full-dose inactivated polio vaccine (ipv) alongside oral polio vaccine (opv) to boost mucosal and humoral immunity",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant receiving national immunization: administering intramuscular fractional or full-dose inactivated polio vaccine (IPV) alongside oral polio vaccine (OPV) to boost mucosal and humoral immunity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, infant receiving national immunization: administering intramuscular fractional or full-dose inactivated polio vaccine (IPV) alongside oral polio vaccine (OPV) to boost mucosal and humoral immunity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV. In the clinical management of PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Poliovirus Inactivated Polio Vaccine IPV Injection Addition to OPV."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Polio Eradication Programme Protocols",
+        "url": "https://www.endpolio.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15940",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects. Clinical examination and investigative review confirm neonate with maternal first-trimester rash presenting with bilateral microphthalmia, dense nuclear cataracts, sensorineural deafness, and continuous machinery murmur of patent ductus arteriosus (PDA). Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Neonate with maternal first-trimester rash presenting with bilateral microphthalmia, dense nuclear cataracts, sensorineural deafness, and continuous machinery murmur of patent ductus arteriosus (pda)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, neonate with maternal first-trimester rash presenting with bilateral microphthalmia, dense nuclear cataracts, sensorineural deafness, and continuous machinery murmur of patent ductus arteriosus (PDA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, neonate with maternal first-trimester rash presenting with bilateral microphthalmia, dense nuclear cataracts, sensorineural deafness, and continuous machinery murmur of patent ductus arteriosus (PDA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects. In the clinical management of PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Congenital Rubella Syndrome Triad Cataracts Deafness and Heart Defects."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association Neonatology Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15941",
+    "exam": "NLE",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 2-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus. Clinical examination and investigative review confirm jitteriness, poor feeding, and lethargy in an infant of diabetic mother with bedside heel prick glucose 28 mg/dL: encouraging immediate feeding or administering IV 10% dextrose 2 mL/kg bolus. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Jitteriness, poor feeding, and lethargy in an infant of diabetic mother with bedside heel prick glucose 28 mg/dl: encouraging immediate feeding or administering iv 10% dextrose 2 ml/kg bolus",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, jitteriness, poor feeding, and lethargy in an infant of diabetic mother with bedside heel prick glucose 28 mg/dL: encouraging immediate feeding or administering IV 10% dextrose 2 mL/kg bolus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, jitteriness, poor feeding, and lethargy in an infant of diabetic mother with bedside heel prick glucose 28 mg/dL: encouraging immediate feeding or administering IV 10% dextrose 2 mL/kg bolus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus. In the clinical management of PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Neonatal Hypoglycemia Feeding and IV 10 Percent Dextrose Bolus."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Pediatric Association Neonatal Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15942",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics. Clinical examination and investigative review confirm fever 39 C, foul-smelling lochia, and uterine tenderness 4 days following unhygienic home delivery: obtaining blood and high vaginal cultures and starting IV ampicillin, gentamicin, and metronidazole. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Fever 39 c, foul-smelling lochia, and uterine tenderness 4 days following unhygienic home delivery: obtaining blood and high vaginal cultures and starting iv ampicillin, gentamicin, and metronidazole",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, fever 39 C, foul-smelling lochia, and uterine tenderness 4 days following unhygienic home delivery: obtaining blood and high vaginal cultures and starting IV ampicillin, gentamicin, and metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, fever 39 C, foul-smelling lochia, and uterine tenderness 4 days following unhygienic home delivery: obtaining blood and high vaginal cultures and starting IV ampicillin, gentamicin, and metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics. In the clinical management of PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Postpartum Sepsis Puerperal Pyrexia Broad-Spectrum Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan Puerperal Sepsis Consensus",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15943",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 16-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line. Clinical examination and investigative review confirm cramping lower abdominal and pelvic pain starting just before onset of menstrual flow in a 17-year-old with normal pelvic examination: prescribing oral ibuprofen 400 mg taken at first onset of cramps. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Cramping lower abdominal and pelvic pain starting just before onset of menstrual flow in a 17-year-old with normal pelvic examination: prescribing oral ibuprofen 400 mg taken at first onset of cramps",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, cramping lower abdominal and pelvic pain starting just before onset of menstrual flow in a 17-year-old with normal pelvic examination: prescribing oral ibuprofen 400 mg taken at first onset of cramps represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, cramping lower abdominal and pelvic pain starting just before onset of menstrual flow in a 17-year-old with normal pelvic examination: prescribing oral ibuprofen 400 mg taken at first onset of cramps represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line. In the clinical management of PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Primary Dysmenorrhea Adolescents NSAIDs Ibuprofen First-Line."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15944",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole. Clinical examination and investigative review confirm vulvar pruritus, copious foul frothy yellow-green vaginal discharge, and punctate cervical hemorrhages (strawberry cervix): wet mount showing motile flagellated protozoa, prescribing oral metronidazole for both partners. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Vulvar pruritus, copious foul frothy yellow-green vaginal discharge, and punctate cervical hemorrhages (strawberry cervix): wet mount showing motile flagellated protozoa, prescribing oral metronidazole for both partners",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, vulvar pruritus, copious foul frothy yellow-green vaginal discharge, and punctate cervical hemorrhages (strawberry cervix): wet mount showing motile flagellated protozoa, prescribing oral metronidazole for both partners represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, vulvar pruritus, copious foul frothy yellow-green vaginal discharge, and punctate cervical hemorrhages (strawberry cervix): wet mount showing motile flagellated protozoa, prescribing oral metronidazole for both partners represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole. In the clinical management of PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Trichomonas Vaginitis Frothy Green Discharge and Oral Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Obstetricians and Gynaecologists STI Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15945",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole. Clinical examination and investigative review confirm intense vulvar erythema, burning, and thick white curd-like cottage-cheese vaginal discharge without odor in a diabetic female: prescribing vaginal clotrimazole 500 mg single pessary or oral fluconazole 150 mg. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intense vulvar erythema, burning, and thick white curd-like cottage-cheese vaginal discharge without odor in a diabetic female: prescribing vaginal clotrimazole 500 mg single pessary or oral fluconazole 150 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, intense vulvar erythema, burning, and thick white curd-like cottage-cheese vaginal discharge without odor in a diabetic female: prescribing vaginal clotrimazole 500 mg single pessary or oral fluconazole 150 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, intense vulvar erythema, burning, and thick white curd-like cottage-cheese vaginal discharge without odor in a diabetic female: prescribing vaginal clotrimazole 500 mg single pessary or oral fluconazole 150 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole. In the clinical management of PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Vulvovaginal Candidiasis Curdy White Discharge and Topical Clotrimazole."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Obstetricians and Gynaecologists Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15946",
+    "exam": "NLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole. Clinical examination and investigative review confirm thin homogenous grayish-white vaginal discharge with fishy odor accentuated by adding 10% KOH (positive whiff test) and clue cells on microscopy: prescribing oral metronidazole 400 mg twice daily for 7 days. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Thin homogenous grayish-white vaginal discharge with fishy odor accentuated by adding 10% koh (positive whiff test) and clue cells on microscopy: prescribing oral metronidazole 400 mg twice daily for 7 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, thin homogenous grayish-white vaginal discharge with fishy odor accentuated by adding 10% KOH (positive whiff test) and clue cells on microscopy: prescribing oral metronidazole 400 mg twice daily for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, thin homogenous grayish-white vaginal discharge with fishy odor accentuated by adding 10% KOH (positive whiff test) and clue cells on microscopy: prescribing oral metronidazole 400 mg twice daily for 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole. In the clinical management of PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Bacterial Vaginosis Clue Cells Whiff Test and Oral Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Obstetricians and Gynaecologists Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15947",
+    "exam": "NLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogester",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone. Clinical examination and investigative review confirm lactating female seeking convenient contraception: counseling on intramuscular depot medroxyprogesterone acetate (DMPA 150 mg) injected every 12 weeks, explaining expected amenorrhea or irregular spotting. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Lactating female seeking convenient contraception: counseling on intramuscular depot medroxyprogesterone acetate (dmpa 150 mg) injected every 12 weeks, explaining expected amenorrhea or irregular spotting",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, lactating female seeking convenient contraception: counseling on intramuscular depot medroxyprogesterone acetate (DMPA 150 mg) injected every 12 weeks, explaining expected amenorrhea or irregular spotting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, lactating female seeking convenient contraception: counseling on intramuscular depot medroxyprogesterone acetate (DMPA 150 mg) injected every 12 weeks, explaining expected amenorrhea or irregular spotting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone. In the clinical management of PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Family Planning Progestin-Only Injectable DMPA Depot Medroxyprogesterone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan National Family Planning Guidelines & Population Welfare Department",
+        "url": "https://pwd.punjab.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15948",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph. Clinical examination and investigative review confirm sudden onset severe generalized abdominal pain with board-like muscular rigidity and absent bowel sounds: performing erect chest/abdominal radiograph demonstrating crescent of free air under diaphragm. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Sudden onset severe generalized abdominal pain with board-like muscular rigidity and absent bowel sounds: performing erect chest/abdominal radiograph demonstrating crescent of free air under diaphragm",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden onset severe generalized abdominal pain with board-like muscular rigidity and absent bowel sounds: performing erect chest/abdominal radiograph demonstrating crescent of free air under diaphragm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden onset severe generalized abdominal pain with board-like muscular rigidity and absent bowel sounds: performing erect chest/abdominal radiograph demonstrating crescent of free air under diaphragm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph. In the clinical management of PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Peritonitis Rebound Tenderness and Upright Abdominal Radiograph."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Emergency Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15949",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid The",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 73-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy. Clinical examination and investigative review confirm epigastric pain radiating through to back, persistent vomiting, and serum lipase 4 times upper reference limit: providing vigorous balanced crystalloid fluid resuscitation and bowel rest. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Epigastric pain radiating through to back, persistent vomiting, and serum lipase 4 times upper reference limit: providing vigorous balanced crystalloid fluid resuscitation and bowel rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, epigastric pain radiating through to back, persistent vomiting, and serum lipase 4 times upper reference limit: providing vigorous balanced crystalloid fluid resuscitation and bowel rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, epigastric pain radiating through to back, persistent vomiting, and serum lipase 4 times upper reference limit: providing vigorous balanced crystalloid fluid resuscitation and bowel rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy. In the clinical management of PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Pancreatitis Serum Lipase Elevation and Goal-Directed Fluid Therapy."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan General Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15950",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiot",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics. Clinical examination and investigative review confirm left lower quadrant aching pain, fever, and leukocytosis in a 60-year-old without signs of peritonitis: prescribing oral ciprofloxacin and metronidazole with clear liquid diet and outpatient follow-up. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Left lower quadrant aching pain, fever, and leukocytosis in a 60-year-old without signs of peritonitis: prescribing oral ciprofloxacin and metronidazole with clear liquid diet and outpatient follow-up",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, left lower quadrant aching pain, fever, and leukocytosis in a 60-year-old without signs of peritonitis: prescribing oral ciprofloxacin and metronidazole with clear liquid diet and outpatient follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, left lower quadrant aching pain, fever, and leukocytosis in a 60-year-old without signs of peritonitis: prescribing oral ciprofloxacin and metronidazole with clear liquid diet and outpatient follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics. In the clinical management of PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Diverticulitis Left Lower Quadrant Tenderness and Oral Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Colorectal Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15951",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigast",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 25-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels. Clinical examination and investigative review confirm groin hernia surgical anatomy: demonstrating indirect inguinal hernia entering internal ring lateral to inferior epigastric vessels vs direct inguinal hernia protruding through Hesselbach triangle medial to vessels. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Groin hernia surgical anatomy: demonstrating indirect inguinal hernia entering internal ring lateral to inferior epigastric vessels vs direct inguinal hernia protruding through hesselbach triangle medial to vessels",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, groin hernia surgical anatomy: demonstrating indirect inguinal hernia entering internal ring lateral to inferior epigastric vessels vs direct inguinal hernia protruding through Hesselbach triangle medial to vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, groin hernia surgical anatomy: demonstrating indirect inguinal hernia entering internal ring lateral to inferior epigastric vessels vs direct inguinal hernia protruding through Hesselbach triangle medial to vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels. In the clinical management of PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Inguinal Hernia Direct vs Indirect Anatomical Relationship to Epigastric Vessels."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Hernia Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15952",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 65-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre. Clinical examination and investigative review confirm continuous throbbing perianal pain and tender, fluctuant, erythematous perianal mass on inspection: performing urgent surgical incision, drainage of pus, and curettage under appropriate anesthesia. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Continuous throbbing perianal pain and tender, fluctuant, erythematous perianal mass on inspection: performing urgent surgical incision, drainage of pus, and curettage under appropriate anesthesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, continuous throbbing perianal pain and tender, fluctuant, erythematous perianal mass on inspection: performing urgent surgical incision, drainage of pus, and curettage under appropriate anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, continuous throbbing perianal pain and tender, fluctuant, erythematous perianal mass on inspection: performing urgent surgical incision, drainage of pus, and curettage under appropriate anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre. In the clinical management of PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Perianal Abscess Urgent Surgical Incision and Drainage in Operation Theatre."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Proctology Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15953",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN. Clinical examination and investigative review confirm excruciating razor-like pain during and following defecation with streak of bright blood on stool: identifying longitudinal tear in posterior midline of anal verge, prescribing topical 0.2% GTN ointment. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Excruciating razor-like pain during and following defecation with streak of bright blood on stool: identifying longitudinal tear in posterior midline of anal verge, prescribing topical 0.2% gtn ointment",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, excruciating razor-like pain during and following defecation with streak of bright blood on stool: identifying longitudinal tear in posterior midline of anal verge, prescribing topical 0.2% GTN ointment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, excruciating razor-like pain during and following defecation with streak of bright blood on stool: identifying longitudinal tear in posterior midline of anal verge, prescribing topical 0.2% GTN ointment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN. In the clinical management of PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Anal Fissure Severe Defecation Pain and Topical Glyceryl Trinitrate GTN."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan Proctology Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15954",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 81-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding. Clinical examination and investigative review confirm painless bright red blood dripping into toilet bowl after bowel movement: diagnosing second-degree internal hemorrhoids on proctoscopy, prescribing high-fiber diet, stool softeners, and rubber band ligation. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Painless bright red blood dripping into toilet bowl after bowel movement: diagnosing second-degree internal hemorrhoids on proctoscopy, prescribing high-fiber diet, stool softeners, and rubber band ligation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless bright red blood dripping into toilet bowl after bowel movement: diagnosing second-degree internal hemorrhoids on proctoscopy, prescribing high-fiber diet, stool softeners, and rubber band ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, painless bright red blood dripping into toilet bowl after bowel movement: diagnosing second-degree internal hemorrhoids on proctoscopy, prescribing high-fiber diet, stool softeners, and rubber band ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding. In the clinical management of PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Hemorrhoids Painless Rectal Bleeding Fiber Stool Softeners and Rubber Banding."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons Pakistan General Surgery Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15955",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPS",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 57-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin. Clinical examination and investigative review confirm nocturia, hesitancy, weak stream, and sensation of incomplete bladder emptying with enlarged non-tender prostate: calculating IPSS score and initiating selective alpha-1 blocker (tamsulosin 0.4 mg daily). Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Nocturia, hesitancy, weak stream, and sensation of incomplete bladder emptying with enlarged non-tender prostate: calculating ipss score and initiating selective alpha-1 blocker (tamsulosin 0.4 mg daily)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, nocturia, hesitancy, weak stream, and sensation of incomplete bladder emptying with enlarged non-tender prostate: calculating IPSS score and initiating selective alpha-1 blocker (tamsulosin 0.4 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, nocturia, hesitancy, weak stream, and sensation of incomplete bladder emptying with enlarged non-tender prostate: calculating IPSS score and initiating selective alpha-1 blocker (tamsulosin 0.4 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin. In the clinical management of PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Benign Prostatic Hyperplasia International Prostate Symptom Score IPSS Tamsulosin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) BPH Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15956",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 33-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA. Clinical examination and investigative review confirm elderly male with urinary symptoms: digital rectal examination demonstrating firm, hard, craggy, asymmetrical prostatic nodule with loss of median sulcus, ordering serum prostate-specific antigen (PSA). Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Elderly male with urinary symptoms: digital rectal examination demonstrating firm, hard, craggy, asymmetrical prostatic nodule with loss of median sulcus, ordering serum prostate-specific antigen (psa)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, elderly male with urinary symptoms: digital rectal examination demonstrating firm, hard, craggy, asymmetrical prostatic nodule with loss of median sulcus, ordering serum prostate-specific antigen (PSA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, elderly male with urinary symptoms: digital rectal examination demonstrating firm, hard, craggy, asymmetrical prostatic nodule with loss of median sulcus, ordering serum prostate-specific antigen (PSA) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA. In the clinical management of PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Carcinoma Prostate Digital Rectal Exam Craggy Hard Nodule and PSA."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15957",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 73-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy. Clinical examination and investigative review confirm progressive narrowing of urinary stream and straining to void following previous gonococcal urethritis: performing retrograde urethrography (RUG) to identify stricture length, planning direct visual internal urethrotomy. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Progressive narrowing of urinary stream and straining to void following previous gonococcal urethritis: performing retrograde urethrography (rug) to identify stricture length, planning direct visual internal urethrotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, progressive narrowing of urinary stream and straining to void following previous gonococcal urethritis: performing retrograde urethrography (RUG) to identify stricture length, planning direct visual internal urethrotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, progressive narrowing of urinary stream and straining to void following previous gonococcal urethritis: performing retrograde urethrography (RUG) to identify stricture length, planning direct visual internal urethrotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy. In the clinical management of PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Urethral Stricture Retrograde Urethrography RUG and Optical Urethrotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15958",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics. Clinical examination and investigative review confirm child presenting with high fever, severe localized metaphyseal leg pain, refusal to bear weight, and elevated CRP: obtaining blood cultures, starting IV anti-staphylococcal antibiotics (cloxacillin). Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Child presenting with high fever, severe localized metaphyseal leg pain, refusal to bear weight, and elevated crp: obtaining blood cultures, starting iv anti-staphylococcal antibiotics (cloxacillin)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, child presenting with high fever, severe localized metaphyseal leg pain, refusal to bear weight, and elevated CRP: obtaining blood cultures, starting IV anti-staphylococcal antibiotics (cloxacillin) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, child presenting with high fever, severe localized metaphyseal leg pain, refusal to bear weight, and elevated CRP: obtaining blood cultures, starting IV anti-staphylococcal antibiotics (cloxacillin) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics. In the clinical management of PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Osteomyelitis Hematogenous S. aureus and Intravenous Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Pediatric Trauma Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15959",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 25-year-old male is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy. Clinical examination and investigative review confirm hot, swollen, exquisitely tender knee held in flexion with inability to move joint: performing urgent diagnostic arthrocentesis yielding turbid purulent fluid with WBC > 50,000/uL, arranging emergency surgical lavage. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Hot, swollen, exquisitely tender knee held in flexion with inability to move joint: performing urgent diagnostic arthrocentesis yielding turbid purulent fluid with wbc > 50,000/ul, arranging emergency surgical lavage",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, hot, swollen, exquisitely tender knee held in flexion with inability to move joint: performing urgent diagnostic arthrocentesis yielding turbid purulent fluid with WBC > 50,000/uL, arranging emergency surgical lavage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, hot, swollen, exquisitely tender knee held in flexion with inability to move joint: performing urgent diagnostic arthrocentesis yielding turbid purulent fluid with WBC > 50,000/uL, arranging emergency surgical lavage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy. In the clinical management of PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Septic Arthritis Joint Aspiration Synovial Fluid WBC > 50000 and Arthrotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15960",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction. Clinical examination and investigative review confirm fall onto outstretched hand resulting in classic dinner-fork deformity with dorsal displacement and tilt of distal radial fragment: performing closed reduction under hematoma block and below-elbow plaster slab. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Fall onto outstretched hand resulting in classic dinner-fork deformity with dorsal displacement and tilt of distal radial fragment: performing closed reduction under hematoma block and below-elbow plaster slab",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, fall onto outstretched hand resulting in classic dinner-fork deformity with dorsal displacement and tilt of distal radial fragment: performing closed reduction under hematoma block and below-elbow plaster slab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, fall onto outstretched hand resulting in classic dinner-fork deformity with dorsal displacement and tilt of distal radial fragment: performing closed reduction under hematoma block and below-elbow plaster slab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction. In the clinical management of PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Colles Fracture Distal Radius Dorsal Displacement and Closed Reduction."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15961",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica S",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 41-year-old male is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint. Clinical examination and investigative review confirm wrist injury with localized point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus: immobilizing in thumb spica cast even if initial X-rays appear normal. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Wrist injury with localized point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus: immobilizing in thumb spica cast even if initial x-rays appear normal",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, wrist injury with localized point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus: immobilizing in thumb spica cast even if initial X-rays appear normal represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, wrist injury with localized point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus: immobilizing in thumb spica cast even if initial X-rays appear normal represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint. In the clinical management of PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Scaphoid Fracture Tenderness in Anatomical Snuffbox and Thumb Spica Splint."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Hand Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15962",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Im",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 81-year-old female presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization. Clinical examination and investigative review confirm squared-off shoulder with loss of lateral deltoid contour following fall: confirming anterior glenohumeral dislocation on X-ray, performing gentle reduction under sedation, and immobilizing in broad arm sling. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Squared-off shoulder with loss of lateral deltoid contour following fall: confirming anterior glenohumeral dislocation on x-ray, performing gentle reduction under sedation, and immobilizing in broad arm sling",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, squared-off shoulder with loss of lateral deltoid contour following fall: confirming anterior glenohumeral dislocation on X-ray, performing gentle reduction under sedation, and immobilizing in broad arm sling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, squared-off shoulder with loss of lateral deltoid contour following fall: confirming anterior glenohumeral dislocation on X-ray, performing gentle reduction under sedation, and immobilizing in broad arm sling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization. In the clinical management of PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Anterior Shoulder Dislocation Kocher Reduction Technique and Sling Immobilization."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Shoulder Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15963",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old male undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb. Clinical examination and investigative review confirm dashboard knee trauma in motor vehicle crash presenting with shortened, adducted, flexed, and internally rotated hip: performing emergency closed reduction under general anesthesia to prevent avascular necrosis. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Dashboard knee trauma in motor vehicle crash presenting with shortened, adducted, flexed, and internally rotated hip: performing emergency closed reduction under general anesthesia to prevent avascular necrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, dashboard knee trauma in motor vehicle crash presenting with shortened, adducted, flexed, and internally rotated hip: performing emergency closed reduction under general anesthesia to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, dashboard knee trauma in motor vehicle crash presenting with shortened, adducted, flexed, and internally rotated hip: performing emergency closed reduction under general anesthesia to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb. In the clinical management of PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Posterior Hip Dislocation Flexed Adducted Internally Rotated Lower Limb."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Hip Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15964",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Inter",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 33-year-old female is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval. Clinical examination and investigative review confirm temporal skull trauma followed by brief loss of consciousness, a temporary lucid interval, and subsequent rapid neurological decline with ipsilateral dilated pupil and biconvex lens-shaped hyperdensity on CT. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Temporal skull trauma followed by brief loss of consciousness, a temporary lucid interval, and subsequent rapid neurological decline with ipsilateral dilated pupil and biconvex lens-shaped hyperdensity on ct",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, temporal skull trauma followed by brief loss of consciousness, a temporary lucid interval, and subsequent rapid neurological decline with ipsilateral dilated pupil and biconvex lens-shaped hyperdensity on CT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, temporal skull trauma followed by brief loss of consciousness, a temporary lucid interval, and subsequent rapid neurological decline with ipsilateral dilated pupil and biconvex lens-shaped hyperdensity on CT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval. In the clinical management of PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Head Injury Epidural Hematoma Middle Meningeal Artery and Lucid Interval."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurosurgeons Emergency Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15965",
+    "exam": "NLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hype",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 73-year-old male attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity. Clinical examination and investigative review confirm elderly patient presenting with progressive confusion and fluctuating headache 3 weeks after minor fall: non-contrast head CT demonstrating crescentic hypodense/isodense collection crossing cranial suture lines. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Elderly patient presenting with progressive confusion and fluctuating headache 3 weeks after minor fall: non-contrast head ct demonstrating crescentic hypodense/isodense collection crossing cranial suture lines",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, elderly patient presenting with progressive confusion and fluctuating headache 3 weeks after minor fall: non-contrast head CT demonstrating crescentic hypodense/isodense collection crossing cranial suture lines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, elderly patient presenting with progressive confusion and fluctuating headache 3 weeks after minor fall: non-contrast head CT demonstrating crescentic hypodense/isodense collection crossing cranial suture lines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity. In the clinical management of PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Head Injury Subdural Hematoma Bridging Veins and Crescent Shaped Hyperdensity."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurosurgeons Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15966",
+    "exam": "NLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast B",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old female is reviewed at the rural primary care dispensary triage post with clinical findings indicative of PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT. Clinical examination and investigative review confirm sudden excruciating headache described as worst headache of life with neck stiffness and photophobia: organizing immediate emergency non-contrast brain CT scan to identify subarachnoid blood. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Sudden excruciating headache described as worst headache of life with neck stiffness and photophobia: organizing immediate emergency non-contrast brain ct scan to identify subarachnoid blood",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating headache described as worst headache of life with neck stiffness and photophobia: organizing immediate emergency non-contrast brain CT scan to identify subarachnoid blood represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, sudden excruciating headache described as worst headache of life with neck stiffness and photophobia: organizing immediate emergency non-contrast brain CT scan to identify subarachnoid blood represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT. In the clinical management of PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Acute Subarachnoid Hemorrhage Thunderclap Headache and Non-Contrast Brain CT."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology Stroke and SAH Consensus",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15967",
+    "exam": "NLE",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old male attends the primary healthcare consultation room at the Basic Health Unit (BHU) with clinical findings indicative of PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh. Clinical examination and investigative review confirm forensic examination of blunt head laceration exposing cranial bone without fracture under Pakistan Penal Code: classifying wound legally as Shajjah-i-Mudiha and documenting detailed dimensions. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Forensic examination of blunt head laceration exposing cranial bone without fracture under pakistan penal code: classifying wound legally as shajjah-i-mudiha and documenting detailed dimensions",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination of blunt head laceration exposing cranial bone without fracture under Pakistan Penal Code: classifying wound legally as Shajjah-i-Mudiha and documenting detailed dimensions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination of blunt head laceration exposing cranial bone without fracture under Pakistan Penal Code: classifying wound legally as Shajjah-i-Mudiha and documenting detailed dimensions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh. In the clinical management of PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medico-Legal Injury Examination Diyat Law Hurt Classification Shajjah and Jurh."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Penal Code (PPC) Sections 332-337 Medico-Legal Hurt Laws",
+        "url": "https://pakistancode.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15968",
+    "exam": "NLE",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fix",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is evaluated at the Rural Health Center (RHC) emergency outpatient bay with clinical findings indicative of PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation. Clinical examination and investigative review confirm medico-legal autopsy: documenting rigor mortis fully established at 12 hours and disappearing by 36 hours, and non-blanching fixed purplish post-mortem hypostasis on dependent surfaces at 8-12 hours. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Medico-legal autopsy: documenting rigor mortis fully established at 12 hours and disappearing by 36 hours, and non-blanching fixed purplish post-mortem hypostasis on dependent surfaces at 8-12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, medico-legal autopsy: documenting rigor mortis fully established at 12 hours and disappearing by 36 hours, and non-blanching fixed purplish post-mortem hypostasis on dependent surfaces at 8-12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, medico-legal autopsy: documenting rigor mortis fully established at 12 hours and disappearing by 36 hours, and non-blanching fixed purplish post-mortem hypostasis on dependent surfaces at 8-12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation. In the clinical management of PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Forensic Post-Mortem Rigor Mortis Timing and Post-Mortem Lividity Fixation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medico-Legal Manual & Forensic Medicine Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15969",
+    "exam": "NLE",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wou",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 41-year-old male presents to the Tehsil Headquarter (THQ) hospital casualty department with clinical findings indicative of PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds. Clinical examination and investigative review confirm forensic examination of firearm entry wound showing central circular defect surrounded by collar of abrasion, grease collar, powder tattooing (stippling), and burning indicating close-range discharge. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Forensic examination of firearm entry wound showing central circular defect surrounded by collar of abrasion, grease collar, powder tattooing (stippling), and burning indicating close-range discharge",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination of firearm entry wound showing central circular defect surrounded by collar of abrasion, grease collar, powder tattooing (stippling), and burning indicating close-range discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination of firearm entry wound showing central circular defect surrounded by collar of abrasion, grease collar, powder tattooing (stippling), and burning indicating close-range discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds. In the clinical management of PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Firearm Injuries Differentiating Close-Range from Distant Gunshot Wounds."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medico-Legal Manual & Police Surgeon Guidelines",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15970",
+    "exam": "NLE",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 81-year-old female undergoes clinical assessment at the District Headquarter (DHQ) hospital outpatient clinic with clinical findings indicative of PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation. Clinical examination and investigative review confirm forensic examination contrasting hanging (oblique, non-continuous ligature mark above thyroid cartilage) with homicidal ligature strangulation (transverse, continuous horizontal mark below thyroid cartilage). Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Forensic examination contrasting hanging (oblique, non-continuous ligature mark above thyroid cartilage) with homicidal ligature strangulation (transverse, continuous horizontal mark below thyroid cartilage)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination contrasting hanging (oblique, non-continuous ligature mark above thyroid cartilage) with homicidal ligature strangulation (transverse, continuous horizontal mark below thyroid cartilage) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, forensic examination contrasting hanging (oblique, non-continuous ligature mark above thyroid cartilage) with homicidal ligature strangulation (transverse, continuous horizontal mark below thyroid cartilage) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation. In the clinical management of PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Mechanical Asphyxia Differentiating Hanging from Ligature Strangulation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Forensic Medicine and Toxicology Curriculum",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15971",
+    "exam": "NLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntar",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 57-year-old male is examined at the community primary maternal and child health clinic with clinical findings indicative of PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity. Clinical examination and investigative review confirm obtaining legal surgical consent: ensuring capable adult receives clear explanation of nature, material risks, expected benefits, and alternatives in understandable Urdu/local language without coercion. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining legal surgical consent: ensuring capable adult receives clear explanation of nature, material risks, expected benefits, and alternatives in understandable urdu/local language without coercion",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, obtaining legal surgical consent: ensuring capable adult receives clear explanation of nature, material risks, expected benefits, and alternatives in understandable Urdu/local language without coercion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, obtaining legal surgical consent: ensuring capable adult receives clear explanation of nature, material risks, expected benefits, and alternatives in understandable Urdu/local language without coercion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity. In the clinical management of PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Medical Ethics Informed Consent Valid Components Information Voluntariness Capacity."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council (PM&DC) Ethical Regulations",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15972",
+    "exam": "NLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Neglig",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the family medicine continuity clinic for comprehensive assessment with clinical findings indicative of PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence. Clinical examination and investigative review confirm patient lodging formal complaint alleging medical malpractice: understanding PM&DC disciplinary tribunal jurisdiction investigating ethical violations, professional negligence, and license suspension. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in management according to PM&DC clinical guidelines and primary care protocols?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Patient lodging formal complaint alleging medical malpractice: understanding pm&dc disciplinary tribunal jurisdiction investigating ethical violations, professional negligence, and license suspension",
+        "explanation": "In accordance with accredited clinical practice guidelines for NLE, patient lodging formal complaint alleging medical malpractice: understanding PM&DC disciplinary tribunal jurisdiction investigating ethical violations, professional negligence, and license suspension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NLE, patient lodging formal complaint alleging medical malpractice: understanding PM&DC disciplinary tribunal jurisdiction investigating ethical violations, professional negligence, and license suspension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence. In the clinical management of PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PMDC NLE Professional Misconduct PM&DC Disciplinary Inquiry and Medical Negligence."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical and Dental Council (PM&DC) Act 2022 Regulations",
+        "url": "https://pmdc.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
