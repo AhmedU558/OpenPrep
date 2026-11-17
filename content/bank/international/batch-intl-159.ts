@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-14973",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration. Clinical examination and investigative review confirm asymptomatic 45-year-old Saudi male with BMI 31 kg/m2, fasting blood glucose 136 mg/dL, repeating test showing HbA1c 7.6%, initiating comprehensive lifestyle counseling and oral metformin 500 mg titrated to 2000 mg daily. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Asymptomatic 45-year-old saudi male with bmi 31 kg/m2, fasting blood glucose 136 mg/dl, repeating test showing hba1c 7.6%, initiating comprehensive lifestyle counseling and oral metformin 500 mg titrated to 2000 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 45-year-old Saudi male with BMI 31 kg/m2, fasting blood glucose 136 mg/dL, repeating test showing HbA1c 7.6%, initiating comprehensive lifestyle counseling and oral metformin 500 mg titrated to 2000 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 45-year-old Saudi male with BMI 31 kg/m2, fasting blood glucose 136 mg/dL, repeating test showing HbA1c 7.6%, initiating comprehensive lifestyle counseling and oral metformin 500 mg titrated to 2000 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration. In the clinical management of Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Clinical Guidelines for Type 2 Diabetes Screening and Metformin Titration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health (MOH) Diabetes Clinical Practice Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14974",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB. Clinical examination and investigative review confirm 50-year-old adult attending primary care with clinic blood pressure 154/96 mm Hg and daytime ABPM 144/92 mm Hg, initiating first-line antihypertensive therapy with oral perindopril 5 mg or amlodipine 5 mg. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "50-year-old adult attending primary care with clinic blood pressure 154/96 mm hg and daytime abpm 144/92 mm hg, initiating first-line antihypertensive therapy with oral perindopril 5 mg or amlodipine 5 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 50-year-old adult attending primary care with clinic blood pressure 154/96 mm Hg and daytime ABPM 144/92 mm Hg, initiating first-line antihypertensive therapy with oral perindopril 5 mg or amlodipine 5 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 50-year-old adult attending primary care with clinic blood pressure 154/96 mm Hg and daytime ABPM 144/92 mm Hg, initiating first-line antihypertensive therapy with oral perindopril 5 mg or amlodipine 5 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB. In the clinical management of Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Guidelines for Hypertension Screening First-Line Monotherapy ACEi vs CCB."
+    ],
+    "references": [
+      {
+        "label": "Saudi Hypertension Management Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14975",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD. Clinical examination and investigative review confirm 58-year-old Saudi patient with previous myocardial infarction and baseline LDL-C 3.8 mmol/L, prescribing high-intensity statin therapy (atorvastatin 40-80 mg daily) aiming for LDL-C reduction >= 50% and target < 1.4 mmol/L. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "58-year-old saudi patient with previous myocardial infarction and baseline ldl-c 3.8 mmol/l, prescribing high-intensity statin therapy (atorvastatin 40-80 mg daily) aiming for ldl-c reduction >= 50% and target < 1.4 mmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 58-year-old Saudi patient with previous myocardial infarction and baseline LDL-C 3.8 mmol/L, prescribing high-intensity statin therapy (atorvastatin 40-80 mg daily) aiming for LDL-C reduction >= 50% and target < 1.4 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 58-year-old Saudi patient with previous myocardial infarction and baseline LDL-C 3.8 mmol/L, prescribing high-intensity statin therapy (atorvastatin 40-80 mg daily) aiming for LDL-C reduction >= 50% and target < 1.4 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD. In the clinical management of Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Dyslipidemia Guidelines High-Intensity Statin Therapy in Established ASCVD."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association (SHA) Dyslipidemia Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14976",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance. Clinical examination and investigative review confirm adult with persistent asthma symptoms twice weekly and night waking, prescribing low-dose budesonide-formoterol as daily maintenance and reliever therapy (SMART regimen) under Saudi thoracic guidelines. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Adult with persistent asthma symptoms twice weekly and night waking, prescribing low-dose budesonide-formoterol as daily maintenance and reliever therapy (smart regimen) under saudi thoracic guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with persistent asthma symptoms twice weekly and night waking, prescribing low-dose budesonide-formoterol as daily maintenance and reliever therapy (SMART regimen) under Saudi thoracic guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with persistent asthma symptoms twice weekly and night waking, prescribing low-dose budesonide-formoterol as daily maintenance and reliever therapy (SMART regimen) under Saudi thoracic guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance. In the clinical management of Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Asthma Guidelines Stepwise Management Low-Dose ICS-Formoterol Maintenance."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society (STS) Asthma Guidelines",
+        "url": "https://saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14977",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy. Clinical examination and investigative review confirm COPD patient with persistent exertional dyspnea and mMRC score 2, initiating once-daily combination long-acting muscarinic antagonist and long-acting beta2-agonist (tiotropium/olodaterol). Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Copd patient with persistent exertional dyspnea and mmrc score 2, initiating once-daily combination long-acting muscarinic antagonist and long-acting beta2-agonist (tiotropium/olodaterol)",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, COPD patient with persistent exertional dyspnea and mMRC score 2, initiating once-daily combination long-acting muscarinic antagonist and long-acting beta2-agonist (tiotropium/olodaterol) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, COPD patient with persistent exertional dyspnea and mMRC score 2, initiating once-daily combination long-acting muscarinic antagonist and long-acting beta2-agonist (tiotropium/olodaterol) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy. In the clinical management of Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Thoracic Society COPD Guidelines Dual Bronchodilation LAMA LABA Therapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society (STS) COPD Guidelines",
+        "url": "https://saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14978",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45. Clinical examination and investigative review confirm asymptomatic 48-year-old Saudi individual attending health center: offering annual screening with fecal immunochemical test (FIT) starting at age 45 years under national colorectal cancer screening program. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Asymptomatic 48-year-old saudi individual attending health center: offering annual screening with fecal immunochemical test (fit) starting at age 45 years under national colorectal cancer screening program",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 48-year-old Saudi individual attending health center: offering annual screening with fecal immunochemical test (FIT) starting at age 45 years under national colorectal cancer screening program represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 48-year-old Saudi individual attending health center: offering annual screening with fecal immunochemical test (FIT) starting at age 45 years under national colorectal cancer screening program represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45. In the clinical management of Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Colorectal Cancer Screening National Program Annual FIT Testing From Age 45."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH National Cancer Screening Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14979",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40. Clinical examination and investigative review confirm asymptomatic 42-year-old Saudi female attending primary healthcare center: offering screening mammography every 2 years starting at age 40 under the national breast cancer screening initiative. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Asymptomatic 42-year-old saudi female attending primary healthcare center: offering screening mammography every 2 years starting at age 40 under the national breast cancer screening initiative",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 42-year-old Saudi female attending primary healthcare center: offering screening mammography every 2 years starting at age 40 under the national breast cancer screening initiative represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, asymptomatic 42-year-old Saudi female attending primary healthcare center: offering screening mammography every 2 years starting at age 40 under the national breast cancer screening initiative represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40. In the clinical management of Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Breast Cancer Screening Guidelines Biennial Mammography Starting at Age 40."
+    ],
+    "references": [
+      {
+        "label": "Saudi Cancer Society & MOH National Screening Protocols",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14980",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacemen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol. Clinical examination and investigative review confirm serum 25-hydroxyvitamin D level 18 nmol/L (< 25 nmol/L severe deficiency), prescribing oral cholecalciferol (vitamin D3) 50,000 IU once weekly for 8 weeks followed by daily maintenance 1000-2000 IU. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Serum 25-hydroxyvitamin d level 18 nmol/l (< 25 nmol/l severe deficiency), prescribing oral cholecalciferol (vitamin d3) 50,000 iu once weekly for 8 weeks followed by daily maintenance 1000-2000 iu",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, serum 25-hydroxyvitamin D level 18 nmol/L (< 25 nmol/L severe deficiency), prescribing oral cholecalciferol (vitamin D3) 50,000 IU once weekly for 8 weeks followed by daily maintenance 1000-2000 IU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, serum 25-hydroxyvitamin D level 18 nmol/L (< 25 nmol/L severe deficiency), prescribing oral cholecalciferol (vitamin D3) 50,000 IU once weekly for 8 weeks followed by daily maintenance 1000-2000 IU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol. In the clinical management of Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Vitamin D Deficiency High-Dose Cholecalciferol Replacement Protocol."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Guidelines for Vitamin D Deficiency",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14981",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates. Clinical examination and investigative review confirm 66-year-old postmenopausal woman with wrist fracture, DXA lumbar spine T-score -2.9, calculating Saudi-calibrated FRAX score, initiating weekly oral alendronate 70 mg with calcium and vitamin D. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "66-year-old postmenopausal woman with wrist fracture, dxa lumbar spine t-score -2.9, calculating saudi-calibrated frax score, initiating weekly oral alendronate 70 mg with calcium and vitamin d",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 66-year-old postmenopausal woman with wrist fracture, DXA lumbar spine T-score -2.9, calculating Saudi-calibrated FRAX score, initiating weekly oral alendronate 70 mg with calcium and vitamin D represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 66-year-old postmenopausal woman with wrist fracture, DXA lumbar spine T-score -2.9, calculating Saudi-calibrated FRAX score, initiating weekly oral alendronate 70 mg with calcium and vitamin D represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates. In the clinical management of Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Osteoporosis Management FRAX Assessment and Oral Bisphosphonates."
+    ],
+    "references": [
+      {
+        "label": "Saudi Osteoporosis Society Clinical Practice Guidelines",
+        "url": "https://saudiosteoporosis.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14982",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling. Clinical examination and investigative review confirm Saudi cigarette and shisha smoker motivated to quit: prescribing oral varenicline 1 mg twice daily for 12 weeks combined with structured behavioral counseling through national smoking cessation clinics. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Saudi cigarette and shisha smoker motivated to quit: prescribing oral varenicline 1 mg twice daily for 12 weeks combined with structured behavioral counseling through national smoking cessation clinics",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi cigarette and shisha smoker motivated to quit: prescribing oral varenicline 1 mg twice daily for 12 weeks combined with structured behavioral counseling through national smoking cessation clinics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi cigarette and shisha smoker motivated to quit: prescribing oral varenicline 1 mg twice daily for 12 weeks combined with structured behavioral counseling through national smoking cessation clinics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling. In the clinical management of Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Smoking Cessation Program Varenicline Pharmacotherapy and Behavioral Counseling."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH Tobacco Control Program Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14983",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation. Clinical examination and investigative review confirm adult with BMI 34 kg/m2 and prediabetes failing lifestyle interventions alone, initiating once-weekly subcutaneous semaglutide 2.4 mg or daily liraglutide 3.0 mg with caloric restriction. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Adult with bmi 34 kg/m2 and prediabetes failing lifestyle interventions alone, initiating once-weekly subcutaneous semaglutide 2.4 mg or daily liraglutide 3.0 mg with caloric restriction",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with BMI 34 kg/m2 and prediabetes failing lifestyle interventions alone, initiating once-weekly subcutaneous semaglutide 2.4 mg or daily liraglutide 3.0 mg with caloric restriction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with BMI 34 kg/m2 and prediabetes failing lifestyle interventions alone, initiating once-weekly subcutaneous semaglutide 2.4 mg or daily liraglutide 3.0 mg with caloric restriction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation. In the clinical management of Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Obesity Pharmacotherapy Liraglutide 3.0 mg vs Semaglutide Initiation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Endocrinology and Metabolism (SSEM) Obesity Guidelines",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14984",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy. Clinical examination and investigative review confirm dyspepsia with positive stool antigen for H. pylori, prescribing 14-day bismuth-based quadruple therapy: standard-dose PPI, bismuth subcitrate, metronidazole, and tetracycline. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Dyspepsia with positive stool antigen for h. pylori, prescribing 14-day bismuth-based quadruple therapy: standard-dose ppi, bismuth subcitrate, metronidazole, and tetracycline",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, dyspepsia with positive stool antigen for H. pylori, prescribing 14-day bismuth-based quadruple therapy: standard-dose PPI, bismuth subcitrate, metronidazole, and tetracycline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, dyspepsia with positive stool antigen for H. pylori, prescribing 14-day bismuth-based quadruple therapy: standard-dose PPI, bismuth subcitrate, metronidazole, and tetracycline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy. In the clinical management of Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Association Helicobacter Pylori Bismuth-Based Quadruple Therapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association (SGA) H. Pylori Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14985",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks. Clinical examination and investigative review confirm typical retrosternal pyrosis and acid regurgitation without red flag symptoms, prescribing 8-week trial of once-daily oral omeprazole 20 mg or esomeprazole 40 mg before breakfast with lifestyle advice. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Typical retrosternal pyrosis and acid regurgitation without red flag symptoms, prescribing 8-week trial of once-daily oral omeprazole 20 mg or esomeprazole 40 mg before breakfast with lifestyle advice",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, typical retrosternal pyrosis and acid regurgitation without red flag symptoms, prescribing 8-week trial of once-daily oral omeprazole 20 mg or esomeprazole 40 mg before breakfast with lifestyle advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, typical retrosternal pyrosis and acid regurgitation without red flag symptoms, prescribing 8-week trial of once-daily oral omeprazole 20 mg or esomeprazole 40 mg before breakfast with lifestyle advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks. In the clinical management of Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Gastroesophageal Reflux Disease Standard-Dose PPI Trial 8 Weeks."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association (SGA) GERD Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14986",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGF",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing. Clinical examination and investigative review confirm type 2 diabetic with eGFR 40 mL/min/1.73m2 and urine ACR 38 mg/mmol on maximal ACE inhibitor, adding oral dapagliflozin 10 mg daily to retard progression of renal decline. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Type 2 diabetic with egfr 40 ml/min/1.73m2 and urine acr 38 mg/mmol on maximal ace inhibitor, adding oral dapagliflozin 10 mg daily to retard progression of renal decline",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, type 2 diabetic with eGFR 40 mL/min/1.73m2 and urine ACR 38 mg/mmol on maximal ACE inhibitor, adding oral dapagliflozin 10 mg daily to retard progression of renal decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, type 2 diabetic with eGFR 40 mL/min/1.73m2 and urine ACR 38 mg/mmol on maximal ACE inhibitor, adding oral dapagliflozin 10 mg daily to retard progression of renal decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing. In the clinical management of Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Chronic Kidney Disease SGLT2 Inhibitor Initiation and eGFR Slowing."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Nephrology and Transplantation (SSNT)",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14987",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization. Clinical examination and investigative review confirm fatigue, weight gain, constipation, and dry skin with serum TSH 19.5 mIU/L and low free T4, initiating oral levothyroxine 1.6 mcg/kg daily on an empty stomach with repeat TSH at 6-8 weeks. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Fatigue, weight gain, constipation, and dry skin with serum tsh 19.5 miu/l and low free t4, initiating oral levothyroxine 1.6 mcg/kg daily on an empty stomach with repeat tsh at 6-8 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fatigue, weight gain, constipation, and dry skin with serum TSH 19.5 mIU/L and low free T4, initiating oral levothyroxine 1.6 mcg/kg daily on an empty stomach with repeat TSH at 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fatigue, weight gain, constipation, and dry skin with serum TSH 19.5 mIU/L and low free T4, initiating oral levothyroxine 1.6 mcg/kg daily on an empty stomach with repeat TSH at 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization. In the clinical management of Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Primary Hypothyroidism Levothyroxine Replacement and TSH Normalization."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Hypothyroidism Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14988",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allop",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing. Clinical examination and investigative review confirm acute excruciating pain in first metatarsophalangeal joint, initiating oral colchicine 1 mg stat followed by 500 mcg after 1 hour with NSAID gastroprotection, delaying allopurinol titration until complete flare resolution. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Acute excruciating pain in first metatarsophalangeal joint, initiating oral colchicine 1 mg stat followed by 500 mcg after 1 hour with nsaid gastroprotection, delaying allopurinol titration until complete flare resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute excruciating pain in first metatarsophalangeal joint, initiating oral colchicine 1 mg stat followed by 500 mcg after 1 hour with NSAID gastroprotection, delaying allopurinol titration until complete flare resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute excruciating pain in first metatarsophalangeal joint, initiating oral colchicine 1 mg stat followed by 500 mcg after 1 hour with NSAID gastroprotection, delaying allopurinol titration until complete flare resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing. In the clinical management of Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Acute Gout Flare First-Line Low-Dose Colchicine and Allopurinol Timing."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Rheumatology (SSR) Guidelines",
+        "url": "https://ssreum.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14989",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-t",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target. Clinical examination and investigative review confirm symmetric polyarthritis of wrists and MCP joints with high ESR and positive anti-CCP, initiating subcutaneous or oral methotrexate 15 mg weekly with folic acid, assessing DAS28 response at 3 months. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Symmetric polyarthritis of wrists and mcp joints with high esr and positive anti-ccp, initiating subcutaneous or oral methotrexate 15 mg weekly with folic acid, assessing das28 response at 3 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, symmetric polyarthritis of wrists and MCP joints with high ESR and positive anti-CCP, initiating subcutaneous or oral methotrexate 15 mg weekly with folic acid, assessing DAS28 response at 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, symmetric polyarthritis of wrists and MCP joints with high ESR and positive anti-CCP, initiating subcutaneous or oral methotrexate 15 mg weekly with folic acid, assessing DAS28 response at 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target. In the clinical management of Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Rheumatoid Arthritis Early DMARD Methotrexate and Treat-to-Target."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society for Rheumatology (SSR) RA Clinical Practice Guidelines",
+        "url": "https://ssreum.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14990",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50. Clinical examination and investigative review confirm healthy 54-year-old adult attending primary care center: recommending 2-dose series of recombinant zoster vaccine (Shingrix) administered intramuscularly 2 to 6 months apart under national adult schedule. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Healthy 54-year-old adult attending primary care center: recommending 2-dose series of recombinant zoster vaccine (shingrix) administered intramuscularly 2 to 6 months apart under national adult schedule",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, healthy 54-year-old adult attending primary care center: recommending 2-dose series of recombinant zoster vaccine (Shingrix) administered intramuscularly 2 to 6 months apart under national adult schedule represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, healthy 54-year-old adult attending primary care center: recommending 2-dose series of recombinant zoster vaccine (Shingrix) administered intramuscularly 2 to 6 months apart under national adult schedule represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50. In the clinical management of Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Adult Immunization Schedule Recombinant Zoster Vaccine Shingrix from Age 50."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Disease Prevention and Control (Weqaya)",
+        "url": "https://covid19.cdc.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14991",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalass",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing. Clinical examination and investigative review confirm Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing. In the clinical management of Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pre-Marital Screening Program Hemoglobinopathies Sickle Cell and Thalassemia Carrier Testing."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH National Pre-Marital Screening and Genetic Counseling Program",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14992",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria. Clinical examination and investigative review confirm severe microcytic hypochromic anemia (Hb 7.8 g/dL, ferritin 5 mcg/L) with severe gastrointestinal intolerance to oral iron, prescribing single-dose intravenous ferric carboxymaltose 1000 mg infusion. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Severe microcytic hypochromic anemia (hb 7.8 g/dl, ferritin 5 mcg/l) with severe gastrointestinal intolerance to oral iron, prescribing single-dose intravenous ferric carboxymaltose 1000 mg infusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe microcytic hypochromic anemia (Hb 7.8 g/dL, ferritin 5 mcg/L) with severe gastrointestinal intolerance to oral iron, prescribing single-dose intravenous ferric carboxymaltose 1000 mg infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe microcytic hypochromic anemia (Hb 7.8 g/dL, ferritin 5 mcg/L) with severe gastrointestinal intolerance to oral iron, prescribing single-dose intravenous ferric carboxymaltose 1000 mg infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria. In the clinical management of Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Iron Deficiency Anemia Oral vs Intravenous Ferric Carboxymaltose Criteria."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Hematology Guidelines",
+        "url": "https://saudihaematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14993",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-L",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line. Clinical examination and investigative review confirm sneezing, watery rhinorrhea, and nasal congestion with seasonal exacerbations, prescribing regular daily intranasal corticosteroid spray (mometasone or fluticasone) as most effective first-line therapy. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Sneezing, watery rhinorrhea, and nasal congestion with seasonal exacerbations, prescribing regular daily intranasal corticosteroid spray (mometasone or fluticasone) as most effective first-line therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sneezing, watery rhinorrhea, and nasal congestion with seasonal exacerbations, prescribing regular daily intranasal corticosteroid spray (mometasone or fluticasone) as most effective first-line therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sneezing, watery rhinorrhea, and nasal congestion with seasonal exacerbations, prescribing regular daily intranasal corticosteroid spray (mometasone or fluticasone) as most effective first-line therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line. In the clinical management of Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Allergic Rhinitis Intranasal Corticosteroid Spray First-Line."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Allergy and Clinical Immunology",
+        "url": "https://ssaci.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14994",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy. Clinical examination and investigative review confirm excessive uncontrollable worry regarding health and family with muscle tension for > 6 months, initiating first-line SSRI (sertraline 50 mg daily) combined with cognitive behavioral therapy. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Excessive uncontrollable worry regarding health and family with muscle tension for > 6 months, initiating first-line ssri (sertraline 50 mg daily) combined with cognitive behavioral therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, excessive uncontrollable worry regarding health and family with muscle tension for > 6 months, initiating first-line SSRI (sertraline 50 mg daily) combined with cognitive behavioral therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, excessive uncontrollable worry regarding health and family with muscle tension for > 6 months, initiating first-line SSRI (sertraline 50 mg daily) combined with cognitive behavioral therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy. In the clinical management of Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Generalized Anxiety Disorder SSRI Pharmacotherapy and Psychotherapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi National Mental Health Clinical Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14995",
+    "exam": "SMLE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sert",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline. Clinical examination and investigative review confirm persistent depressed mood, anhedonia, insomnia, and fatigue for 5 weeks meeting major depressive episode criteria, prescribing oral escitalopram 10 mg daily with suicide safety evaluation and follow-up. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Persistent depressed mood, anhedonia, insomnia, and fatigue for 5 weeks meeting major depressive episode criteria, prescribing oral escitalopram 10 mg daily with suicide safety evaluation and follow-up",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, persistent depressed mood, anhedonia, insomnia, and fatigue for 5 weeks meeting major depressive episode criteria, prescribing oral escitalopram 10 mg daily with suicide safety evaluation and follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, persistent depressed mood, anhedonia, insomnia, and fatigue for 5 weeks meeting major depressive episode criteria, prescribing oral escitalopram 10 mg daily with suicide safety evaluation and follow-up represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline. In the clinical management of Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Major Depressive Disorder First-Line Escitalopram or Sertraline."
+    ],
+    "references": [
+      {
+        "label": "Saudi Psychiatric Association Clinical Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14996",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Ac",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise. Clinical examination and investigative review confirm mechanical axial lower back pain for 3 weeks without red flags (no fever, weight loss, or neurological deficit), advising continuing daily physical activities, paracetamol/NSAIDs, and avoiding routine lumbar X-rays. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Mechanical axial lower back pain for 3 weeks without red flags (no fever, weight loss, or neurological deficit), advising continuing daily physical activities, paracetamol/nsaids, and avoiding routine lumbar x-rays",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, mechanical axial lower back pain for 3 weeks without red flags (no fever, weight loss, or neurological deficit), advising continuing daily physical activities, paracetamol/NSAIDs, and avoiding routine lumbar X-rays represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, mechanical axial lower back pain for 3 weeks without red flags (no fever, weight loss, or neurological deficit), advising continuing daily physical activities, paracetamol/NSAIDs, and avoiding routine lumbar X-rays represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise. In the clinical management of Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Chronic Low Back Pain Avoidance of Routine Imaging and Active Exercise."
+    ],
+    "references": [
+      {
+        "label": "Saudi Physical Therapy Association & MOH Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14997",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vacci",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination. Clinical examination and investigative review confirm counseling pilgrim traveling for Hajj: administering mandatory quadrivalent meningococcal conjugate vaccine (MenACWY) at least 10 days before arrival and seasonal influenza vaccine. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Counseling pilgrim traveling for hajj: administering mandatory quadrivalent meningococcal conjugate vaccine (menacwy) at least 10 days before arrival and seasonal influenza vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, counseling pilgrim traveling for Hajj: administering mandatory quadrivalent meningococcal conjugate vaccine (MenACWY) at least 10 days before arrival and seasonal influenza vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, counseling pilgrim traveling for Hajj: administering mandatory quadrivalent meningococcal conjugate vaccine (MenACWY) at least 10 days before arrival and seasonal influenza vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination. In the clinical management of Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Travel Health Advisory Hajj and Umrah Mandatory Meningococcal ACWY Vaccination."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH Health Requirements for Travelers for Hajj and Umrah",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14998",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Mi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes. Clinical examination and investigative review confirm substernal chest pain with ST elevation in anterior leads, chewing aspirin 300 mg, ticagrelor 180 mg, transferring immediately to cath lab for primary PCI achieving reperfusion within 90 minutes. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Substernal chest pain with st elevation in anterior leads, chewing aspirin 300 mg, ticagrelor 180 mg, transferring immediately to cath lab for primary pci achieving reperfusion within 90 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, substernal chest pain with ST elevation in anterior leads, chewing aspirin 300 mg, ticagrelor 180 mg, transferring immediately to cath lab for primary PCI achieving reperfusion within 90 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, substernal chest pain with ST elevation in anterior leads, chewing aspirin 300 mg, ticagrelor 180 mg, transferring immediately to cath lab for primary PCI achieving reperfusion within 90 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes. In the clinical management of Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ACS Guidelines Acute STEMI Emergency Primary PCI Door-to-Balloon < 90 Minutes."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association (SHA) STEMI Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-14999",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF. Clinical examination and investigative review confirm decompensated HFrEF with LVEF 28%, stabilizing with IV furosemide, initiating quadruple therapy: sacubitril/valsartan, bisoprolol, spironolactone, and empagliflozin prior to discharge. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Decompensated hfref with lvef 28%, stabilizing with iv furosemide, initiating quadruple therapy: sacubitril/valsartan, bisoprolol, spironolactone, and empagliflozin prior to discharge",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, decompensated HFrEF with LVEF 28%, stabilizing with IV furosemide, initiating quadruple therapy: sacubitril/valsartan, bisoprolol, spironolactone, and empagliflozin prior to discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, decompensated HFrEF with LVEF 28%, stabilizing with IV furosemide, initiating quadruple therapy: sacubitril/valsartan, bisoprolol, spironolactone, and empagliflozin prior to discharge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF. In the clinical management of Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Heart Association Acute Heart Failure Quadruple Therapy Uptitration HFrEF."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association (SHA) Heart Failure Guidelines",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15000",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Win",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window. Clinical examination and investigative review confirm sudden right hemiplegia presenting at 2.5 hours, head CT ruling out hemorrhage, administering intravenous tenecteplase 0.25 mg/kg bolus and evaluating for endovascular thrombectomy. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Sudden right hemiplegia presenting at 2.5 hours, head ct ruling out hemorrhage, administering intravenous tenecteplase 0.25 mg/kg bolus and evaluating for endovascular thrombectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sudden right hemiplegia presenting at 2.5 hours, head CT ruling out hemorrhage, administering intravenous tenecteplase 0.25 mg/kg bolus and evaluating for endovascular thrombectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sudden right hemiplegia presenting at 2.5 hours, head CT ruling out hemorrhage, administering intravenous tenecteplase 0.25 mg/kg bolus and evaluating for endovascular thrombectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window. In the clinical management of Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Stroke Guidelines Acute Ischemic Stroke Tenecteplase Within 4.5-Hour Window."
+    ],
+    "references": [
+      {
+        "label": "Saudi Stroke Association Guidelines",
+        "url": "https://saudistroke.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15001",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 87-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission. Clinical examination and investigative review confirm 68-year-old with confusion, respiratory rate 32/min, and blood pressure 88/54 mm Hg (CURB-65 score 3), admitting to inpatient ward for dual intravenous ceftriaxone plus azithromycin. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "68-year-old with confusion, respiratory rate 32/min, and blood pressure 88/54 mm hg (curb-65 score 3), admitting to inpatient ward for dual intravenous ceftriaxone plus azithromycin",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 68-year-old with confusion, respiratory rate 32/min, and blood pressure 88/54 mm Hg (CURB-65 score 3), admitting to inpatient ward for dual intravenous ceftriaxone plus azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 68-year-old with confusion, respiratory rate 32/min, and blood pressure 88/54 mm Hg (CURB-65 score 3), admitting to inpatient ward for dual intravenous ceftriaxone plus azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission. In the clinical management of Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Community-Acquired Pneumonia CURB-65 Score Inpatient Admission."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society (STS) CAP Guidelines",
+        "url": "https://saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15002",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Antic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant. Clinical examination and investigative review confirm acute pleuritic chest pain and dyspnea with high Wells score (> 4), confirming pulmonary embolism on CT pulmonary angiogram, initiating oral rivaroxaban 15 mg twice daily with food for 3 weeks. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Acute pleuritic chest pain and dyspnea with high wells score (> 4), confirming pulmonary embolism on ct pulmonary angiogram, initiating oral rivaroxaban 15 mg twice daily with food for 3 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute pleuritic chest pain and dyspnea with high Wells score (> 4), confirming pulmonary embolism on CT pulmonary angiogram, initiating oral rivaroxaban 15 mg twice daily with food for 3 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute pleuritic chest pain and dyspnea with high Wells score (> 4), confirming pulmonary embolism on CT pulmonary angiogram, initiating oral rivaroxaban 15 mg twice daily with food for 3 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant. In the clinical management of Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Pulmonary Embolism Wells Score CTPA and Direct Oral Anticoagulant."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society & SHA Guidelines",
+        "url": "https://saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15003",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures. Clinical examination and investigative review confirm septic shock with lactate 4.5 mmol/L and hypotension, administering 30 mL/kg IV balanced crystalloid bolus within 3 hours, drawing blood cultures, and starting IV broad-spectrum antibiotics within 1 hour. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Septic shock with lactate 4.5 mmol/l and hypotension, administering 30 ml/kg iv balanced crystalloid bolus within 3 hours, drawing blood cultures, and starting iv broad-spectrum antibiotics within 1 hour",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, septic shock with lactate 4.5 mmol/L and hypotension, administering 30 mL/kg IV balanced crystalloid bolus within 3 hours, drawing blood cultures, and starting IV broad-spectrum antibiotics within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, septic shock with lactate 4.5 mmol/L and hypotension, administering 30 mL/kg IV balanced crystalloid bolus within 3 hours, drawing blood cultures, and starting IV broad-spectrum antibiotics within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures. In the clinical management of Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Critical Care Sepsis Hour-1 Bundle Balanced Crystalloid Bolus and Blood Cultures."
+    ],
+    "references": [
+      {
+        "label": "Saudi Critical Care Society (SCCS) Sepsis Guidelines",
+        "url": "https://sccs.med.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15004",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective V",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation. Clinical examination and investigative review confirm severe ARDS with PaO2/FiO2 ratio 120 mm Hg, initiating mechanical ventilation with low tidal volume (6 mL/kg predicted body weight), plateau pressure < 30 cmH2O, and prone positioning for >= 16 hours. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Severe ards with pao2/fio2 ratio 120 mm hg, initiating mechanical ventilation with low tidal volume (6 ml/kg predicted body weight), plateau pressure < 30 cmh2o, and prone positioning for >= 16 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe ARDS with PaO2/FiO2 ratio 120 mm Hg, initiating mechanical ventilation with low tidal volume (6 mL/kg predicted body weight), plateau pressure < 30 cmH2O, and prone positioning for >= 16 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe ARDS with PaO2/FiO2 ratio 120 mm Hg, initiating mechanical ventilation with low tidal volume (6 mL/kg predicted body weight), plateau pressure < 30 cmH2O, and prone positioning for >= 16 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation. In the clinical management of Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Critical Care Acute Respiratory Distress Syndrome ARDS Lung-Protective Ventilation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Critical Care Society (SCCS) ARDS Protocols",
+        "url": "https://sccs.med.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15005",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review. Clinical examination and investigative review confirm serum creatinine rise 1.8-fold above baseline, establishing KDIGO Stage 1 AKI, withdrawing NSAIDs and ACE inhibitors, optimizing intravascular volume status with IV isotonic saline. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Serum creatinine rise 1.8-fold above baseline, establishing kdigo stage 1 aki, withdrawing nsaids and ace inhibitors, optimizing intravascular volume status with iv isotonic saline",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, serum creatinine rise 1.8-fold above baseline, establishing KDIGO Stage 1 AKI, withdrawing NSAIDs and ACE inhibitors, optimizing intravascular volume status with IV isotonic saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, serum creatinine rise 1.8-fold above baseline, establishing KDIGO Stage 1 AKI, withdrawing NSAIDs and ACE inhibitors, optimizing intravascular volume status with IV isotonic saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review. In the clinical management of Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Nephrology Guidelines Acute Kidney Injury KDIGO Criteria and Nephrotoxic Drug Review."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Nephrology and Transplantation (SSNT)",
+        "url": "https://ssnt.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15006",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap. Clinical examination and investigative review confirm cirrhotic patient with ascites presenting with fever and abdominal pain, performing diagnostic paracentesis showing ascitic neutrophil count > 250 cells/mm3, starting IV cefotaxime and 20% albumin. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Cirrhotic patient with ascites presenting with fever and abdominal pain, performing diagnostic paracentesis showing ascitic neutrophil count > 250 cells/mm3, starting iv cefotaxime and 20% albumin",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cirrhotic patient with ascites presenting with fever and abdominal pain, performing diagnostic paracentesis showing ascitic neutrophil count > 250 cells/mm3, starting IV cefotaxime and 20% albumin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cirrhotic patient with ascites presenting with fever and abdominal pain, performing diagnostic paracentesis showing ascitic neutrophil count > 250 cells/mm3, starting IV cefotaxime and 20% albumin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap. In the clinical management of Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Decompensated Cirrhosis Spontaneous Bacterial Peritonitis Diagnostic Tap."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association (SGA) Cirrhosis Guidelines",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15007",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion. Clinical examination and investigative review confirm cirrhotic patient with progressive oliguric renal failure unresponsive to 48 hours of volume expansion with albumin, diagnosing HRS-AKI, administering continuous IV terlipressin plus 20% albumin. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Cirrhotic patient with progressive oliguric renal failure unresponsive to 48 hours of volume expansion with albumin, diagnosing hrs-aki, administering continuous iv terlipressin plus 20% albumin",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cirrhotic patient with progressive oliguric renal failure unresponsive to 48 hours of volume expansion with albumin, diagnosing HRS-AKI, administering continuous IV terlipressin plus 20% albumin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cirrhotic patient with progressive oliguric renal failure unresponsive to 48 hours of volume expansion with albumin, diagnosing HRS-AKI, administering continuous IV terlipressin plus 20% albumin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion. In the clinical management of Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Gastroenterology Guidelines Hepatorenal Syndrome Terlipressin and Albumin Infusion."
+    ],
+    "references": [
+      {
+        "label": "Saudi Gastroenterology Association (SGA) Protocols",
+        "url": "https://saudigastro.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15008",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancom",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin. Clinical examination and investigative review confirm watery diarrhea following clindamycin with positive C. difficile stool toxin, discontinuing inciting antibiotic and prescribing oral vancomycin 125 mg qid for 10 days or oral fidaxomicin 200 mg bd. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Watery diarrhea following clindamycin with positive c. difficile stool toxin, discontinuing inciting antibiotic and prescribing oral vancomycin 125 mg qid for 10 days or oral fidaxomicin 200 mg bd",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, watery diarrhea following clindamycin with positive C. difficile stool toxin, discontinuing inciting antibiotic and prescribing oral vancomycin 125 mg qid for 10 days or oral fidaxomicin 200 mg bd represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, watery diarrhea following clindamycin with positive C. difficile stool toxin, discontinuing inciting antibiotic and prescribing oral vancomycin 125 mg qid for 10 days or oral fidaxomicin 200 mg bd represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin. In the clinical management of Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Clostridioides Difficile Infection First-Line Oral Vancomycin or Fidaxomicin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Medical Microbiology and Infectious Diseases (SSMMID)",
+        "url": "https://ssmmid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15009",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fix",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin. Clinical examination and investigative review confirm blood glucose 26 mmol/L, ketonemia 4.5 mmol/L, and pH 7.15, resuscitating with IV 0.9% normal saline, fixed-rate IV insulin infusion 0.1 units/kg/h, adding glucose 10% once blood glucose < 14 mmol/L. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Blood glucose 26 mmol/l, ketonemia 4.5 mmol/l, and ph 7.15, resuscitating with iv 0.9% normal saline, fixed-rate iv insulin infusion 0.1 units/kg/h, adding glucose 10% once blood glucose < 14 mmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blood glucose 26 mmol/L, ketonemia 4.5 mmol/L, and pH 7.15, resuscitating with IV 0.9% normal saline, fixed-rate IV insulin infusion 0.1 units/kg/h, adding glucose 10% once blood glucose < 14 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blood glucose 26 mmol/L, ketonemia 4.5 mmol/L, and pH 7.15, resuscitating with IV 0.9% normal saline, fixed-rate IV insulin infusion 0.1 units/kg/h, adding glucose 10% once blood glucose < 14 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin. In the clinical management of Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Diabetic Ketoacidosis JBDS Protocol Normal Saline and Fixed-Rate Insulin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society DKA Guidelines",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15010",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring. Clinical examination and investigative review confirm elderly diabetic presenting with blood glucose 52 mmol/L, serum osmolality 365 mOsm/kg, and absent ketonemia, administering slow fluid replacement with 0.9% saline targeting gradual osmolality decline. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Elderly diabetic presenting with blood glucose 52 mmol/l, serum osmolality 365 mosm/kg, and absent ketonemia, administering slow fluid replacement with 0.9% saline targeting gradual osmolality decline",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, elderly diabetic presenting with blood glucose 52 mmol/L, serum osmolality 365 mOsm/kg, and absent ketonemia, administering slow fluid replacement with 0.9% saline targeting gradual osmolality decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, elderly diabetic presenting with blood glucose 52 mmol/L, serum osmolality 365 mOsm/kg, and absent ketonemia, administering slow fluid replacement with 0.9% saline targeting gradual osmolality decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring. In the clinical management of Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Hyperosmolar Hyperglycemic State HHS Slow Rehydration and Potassium Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society HHS Protocols",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15011",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synac",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test. Clinical examination and investigative review confirm hyperpigmentation, postural hypotension, and hyponatremia with hyperkalemia, performing short Synacthen test: cortisol failure to rise > 450-500 nmol/L at 30 minutes, starting hydrocortisone and fludrocortisone. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Hyperpigmentation, postural hypotension, and hyponatremia with hyperkalemia, performing short synacthen test: cortisol failure to rise > 450-500 nmol/l at 30 minutes, starting hydrocortisone and fludrocortisone",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hyperpigmentation, postural hypotension, and hyponatremia with hyperkalemia, performing short Synacthen test: cortisol failure to rise > 450-500 nmol/L at 30 minutes, starting hydrocortisone and fludrocortisone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hyperpigmentation, postural hypotension, and hyponatremia with hyperkalemia, performing short Synacthen test: cortisol failure to rise > 450-500 nmol/L at 30 minutes, starting hydrocortisone and fludrocortisone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test. In the clinical management of Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Primary Adrenal Insufficiency Addison Disease Short Synacthen Test."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Guidelines",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15012",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppres",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test. Clinical examination and investigative review confirm truncal obesity, round moon face, and purple abdominal striae, screening with 1 mg overnight low-dose dexamethasone suppression test showing post-dex serum cortisol > 50 nmol/L. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Truncal obesity, round moon face, and purple abdominal striae, screening with 1 mg overnight low-dose dexamethasone suppression test showing post-dex serum cortisol > 50 nmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, truncal obesity, round moon face, and purple abdominal striae, screening with 1 mg overnight low-dose dexamethasone suppression test showing post-dex serum cortisol > 50 nmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, truncal obesity, round moon face, and purple abdominal striae, screening with 1 mg overnight low-dose dexamethasone suppression test showing post-dex serum cortisol > 50 nmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test. In the clinical management of Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Cushing Syndrome Overnight Low-Dose Dexamethasone Suppression Test."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Cushing Guidelines",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15013",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine. Clinical examination and investigative review confirm hyperthyroid female presenting with delirium, high fever 40.1C, atrial fibrillation, and jaundice (Burch-Wartofsky score 70), administering oral propylthiouracil 500 mg, IV hydrocortisone, and Lugol iodine. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Hyperthyroid female presenting with delirium, high fever 40.1c, atrial fibrillation, and jaundice (burch-wartofsky score 70), administering oral propylthiouracil 500 mg, iv hydrocortisone, and lugol iodine",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hyperthyroid female presenting with delirium, high fever 40.1C, atrial fibrillation, and jaundice (Burch-Wartofsky score 70), administering oral propylthiouracil 500 mg, IV hydrocortisone, and Lugol iodine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hyperthyroid female presenting with delirium, high fever 40.1C, atrial fibrillation, and jaundice (Burch-Wartofsky score 70), administering oral propylthiouracil 500 mg, IV hydrocortisone, and Lugol iodine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine. In the clinical management of Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Thyroid Storm Propylthiouracil Hydrocortisone and Lugol Iodine."
+    ],
+    "references": [
+      {
+        "label": "Saudi Endocrine Society Thyroid Protocols",
+        "url": "https://ssem.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15014",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylpr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone. Clinical examination and investigative review confirm young woman presenting with acute optic neuritis and paraparesis (acute MS relapse), administering high-dose intravenous methylprednisolone 1g daily for 3 to 5 days followed by oral tapering. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Young woman presenting with acute optic neuritis and paraparesis (acute ms relapse), administering high-dose intravenous methylprednisolone 1g daily for 3 to 5 days followed by oral tapering",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young woman presenting with acute optic neuritis and paraparesis (acute MS relapse), administering high-dose intravenous methylprednisolone 1g daily for 3 to 5 days followed by oral tapering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young woman presenting with acute optic neuritis and paraparesis (acute MS relapse), administering high-dose intravenous methylprednisolone 1g daily for 3 to 5 days followed by oral tapering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone. In the clinical management of Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Multiple Sclerosis Relapse High-Dose Intravenous Methylprednisolone."
+    ],
+    "references": [
+      {
+        "label": "Saudi Multiple Sclerosis Chapter Guidelines",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15015",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Pl",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange. Clinical examination and investigative review confirm myasthenic patient developing acute respiratory muscle fatigue and dysphagia, checking negative inspiratory force and vital capacity, admitting to ICU for intravenous immunoglobulin (IVIg) or plasmapheresis. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Myasthenic patient developing acute respiratory muscle fatigue and dysphagia, checking negative inspiratory force and vital capacity, admitting to icu for intravenous immunoglobulin (ivig) or plasmapheresis",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, myasthenic patient developing acute respiratory muscle fatigue and dysphagia, checking negative inspiratory force and vital capacity, admitting to ICU for intravenous immunoglobulin (IVIg) or plasmapheresis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, myasthenic patient developing acute respiratory muscle fatigue and dysphagia, checking negative inspiratory force and vital capacity, admitting to ICU for intravenous immunoglobulin (IVIg) or plasmapheresis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange. In the clinical management of Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Myasthenia Gravis Crisis Intravenous Immunoglobulin vs Plasma Exchange."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurological Society Clinical Guidelines",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15016",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol. Clinical examination and investigative review confirm ascending flaccid paralysis with areflexia following gastroenteritis, lumbar puncture demonstrating elevated CSF protein with normal cell count, administering IV immunoglobulin 0.4 g/kg/day for 5 days. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Ascending flaccid paralysis with areflexia following gastroenteritis, lumbar puncture demonstrating elevated csf protein with normal cell count, administering iv immunoglobulin 0.4 g/kg/day for 5 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, ascending flaccid paralysis with areflexia following gastroenteritis, lumbar puncture demonstrating elevated CSF protein with normal cell count, administering IV immunoglobulin 0.4 g/kg/day for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, ascending flaccid paralysis with areflexia following gastroenteritis, lumbar puncture demonstrating elevated CSF protein with normal cell count, administering IV immunoglobulin 0.4 g/kg/day for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol. In the clinical management of Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Guillain-Barre Syndrome Albuminocytological Dissociation IVIg Protocol."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neurological Society GBS Guidelines",
+        "url": "https://saudineuro.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15017",
+    "exam": "SMLE",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethason",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration. Clinical examination and investigative review confirm fever, photophobia, neck stiffness, and purpuric rash, administering immediate intravenous ceftriaxone 2g bd plus dexamethasone 10 mg prior to first antibiotic dose without delay for imaging. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Fever, photophobia, neck stiffness, and purpuric rash, administering immediate intravenous ceftriaxone 2g bd plus dexamethasone 10 mg prior to first antibiotic dose without delay for imaging",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fever, photophobia, neck stiffness, and purpuric rash, administering immediate intravenous ceftriaxone 2g bd plus dexamethasone 10 mg prior to first antibiotic dose without delay for imaging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fever, photophobia, neck stiffness, and purpuric rash, administering immediate intravenous ceftriaxone 2g bd plus dexamethasone 10 mg prior to first antibiotic dose without delay for imaging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration. In the clinical management of Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Bacterial Meningitis Empiric Ceftriaxone and Dexamethasone Administration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Medical Microbiology and Infectious Diseases (SSMMID)",
+        "url": "https://ssmmid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15018",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airb",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation. Clinical examination and investigative review confirm severe pneumonia and fever in camel farm worker, placing patient in negative-pressure airborne isolation room, donning N95 respirator, and collecting nasopharyngeal swab for MERS-CoV RT-PCR. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Severe pneumonia and fever in camel farm worker, placing patient in negative-pressure airborne isolation room, donning n95 respirator, and collecting nasopharyngeal swab for mers-cov rt-pcr",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe pneumonia and fever in camel farm worker, placing patient in negative-pressure airborne isolation room, donning N95 respirator, and collecting nasopharyngeal swab for MERS-CoV RT-PCR represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe pneumonia and fever in camel farm worker, placing patient in negative-pressure airborne isolation room, donning N95 respirator, and collecting nasopharyngeal swab for MERS-CoV RT-PCR represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation. In the clinical management of Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Middle East Respiratory Syndrome MERS-CoV RT-PCR and Airborne Isolation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Disease Prevention and Control (Weqaya) MERS Guidelines",
+        "url": "https://covid19.cdc.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15019",
+    "exam": "SMLE",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline an",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin. Clinical examination and investigative review confirm undulant fever, profuse nocturnal sweating, and sacroiliac joint pain following unpasteurized camel milk ingestion, positive Rose Bengal agglutination test, prescribing oral doxycycline plus rifampicin for 6 weeks. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Undulant fever, profuse nocturnal sweating, and sacroiliac joint pain following unpasteurized camel milk ingestion, positive rose bengal agglutination test, prescribing oral doxycycline plus rifampicin for 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, undulant fever, profuse nocturnal sweating, and sacroiliac joint pain following unpasteurized camel milk ingestion, positive Rose Bengal agglutination test, prescribing oral doxycycline plus rifampicin for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, undulant fever, profuse nocturnal sweating, and sacroiliac joint pain following unpasteurized camel milk ingestion, positive Rose Bengal agglutination test, prescribing oral doxycycline plus rifampicin for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin. In the clinical management of Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Brucellosis Serology Rose Bengal Test Oral Doxycycline and Rifampicin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Medical Microbiology and Infectious Diseases",
+        "url": "https://ssmmid.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15020",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine. Clinical examination and investigative review confirm malar rash, photosensitivity, non-erosive arthritis, positive ANA (homogenous 1:640) and anti-dsDNA, prescribing baseline hydroxychloroquine 5 mg/kg daily for all SLE patients with annual retinal screening. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Malar rash, photosensitivity, non-erosive arthritis, positive ana (homogenous 1:640) and anti-dsdna, prescribing baseline hydroxychloroquine 5 mg/kg daily for all sle patients with annual retinal screening",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, malar rash, photosensitivity, non-erosive arthritis, positive ANA (homogenous 1:640) and anti-dsDNA, prescribing baseline hydroxychloroquine 5 mg/kg daily for all SLE patients with annual retinal screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, malar rash, photosensitivity, non-erosive arthritis, positive ANA (homogenous 1:640) and anti-dsDNA, prescribing baseline hydroxychloroquine 5 mg/kg daily for all SLE patients with annual retinal screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine. In the clinical management of Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Systemic Lupus Erythematosus EULAR Criteria Hydroxychloroquine."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society for Rheumatology (SSR) SLE Guidelines",
+        "url": "https://ssreum.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15021",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains. Clinical examination and investigative review confirm hypercalcemia, renal impairment, anemia, and lytic skull lesions (CRAB criteria), serum protein electrophoresis showing IgG kappa paraprotein, bone marrow biopsy confirming > 60% clonal plasma cells. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Hypercalcemia, renal impairment, anemia, and lytic skull lesions (crab criteria), serum protein electrophoresis showing igg kappa paraprotein, bone marrow biopsy confirming > 60% clonal plasma cells",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hypercalcemia, renal impairment, anemia, and lytic skull lesions (CRAB criteria), serum protein electrophoresis showing IgG kappa paraprotein, bone marrow biopsy confirming > 60% clonal plasma cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hypercalcemia, renal impairment, anemia, and lytic skull lesions (CRAB criteria), serum protein electrophoresis showing IgG kappa paraprotein, bone marrow biopsy confirming > 60% clonal plasma cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains. In the clinical management of Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Multiple Myeloma CRAB Criteria and Serum Free Light Chains."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Hematology Multiple Myeloma Guidelines",
+        "url": "https://saudihaematology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15022",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 5-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam. Clinical examination and investigative review confirm cancer patient undergoing chemotherapy presenting with temperature 38.6C and absolute neutrophil count 0.4 x 10^9/L, administering immediate IV piperacillin-tazobactam 4.5g within 1 hour. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Cancer patient undergoing chemotherapy presenting with temperature 38.6c and absolute neutrophil count 0.4 x 10^9/l, administering immediate iv piperacillin-tazobactam 4.5g within 1 hour",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cancer patient undergoing chemotherapy presenting with temperature 38.6C and absolute neutrophil count 0.4 x 10^9/L, administering immediate IV piperacillin-tazobactam 4.5g within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cancer patient undergoing chemotherapy presenting with temperature 38.6C and absolute neutrophil count 0.4 x 10^9/L, administering immediate IV piperacillin-tazobactam 4.5g within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam. In the clinical management of Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Febrile Neutropenia Inpatient Broad-Spectrum Piperacillin-Tazobactam."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Oncology (SSO) Neutropenic Sepsis Guidelines",
+        "url": "https://saudioncology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15023",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy. Clinical examination and investigative review confirm young adult presenting with migratory right iliac fossa pain and rebound tenderness, Alvarado score 8, performing preoperative fluid resuscitation and laparoscopic appendectomy. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Young adult presenting with migratory right iliac fossa pain and rebound tenderness, alvarado score 8, performing preoperative fluid resuscitation and laparoscopic appendectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young adult presenting with migratory right iliac fossa pain and rebound tenderness, Alvarado score 8, performing preoperative fluid resuscitation and laparoscopic appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young adult presenting with migratory right iliac fossa pain and rebound tenderness, Alvarado score 8, performing preoperative fluid resuscitation and laparoscopic appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy. In the clinical management of Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association (SSA) Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15024",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours. Clinical examination and investigative review confirm severe right subcostal colic, Murphy sign, fever, and ultrasound confirming impacted stone in Hartmann pouch with gallbladder wall 5 mm, scheduling early laparoscopic cholecystectomy within 72 hours. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Severe right subcostal colic, murphy sign, fever, and ultrasound confirming impacted stone in hartmann pouch with gallbladder wall 5 mm, scheduling early laparoscopic cholecystectomy within 72 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe right subcostal colic, Murphy sign, fever, and ultrasound confirming impacted stone in Hartmann pouch with gallbladder wall 5 mm, scheduling early laparoscopic cholecystectomy within 72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe right subcostal colic, Murphy sign, fever, and ultrasound confirming impacted stone in Hartmann pouch with gallbladder wall 5 mm, scheduling early laparoscopic cholecystectomy within 72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours. In the clinical management of Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Gallstone Disease Early Laparoscopic Cholecystectomy Within 72 Hours."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association (SSA) Gallstone Protocols",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15025",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge. Clinical examination and investigative review confirm mechanical adhesive bowel obstruction without fever, peritonitis, or signs of strangulation, placing nasogastric tube and administering oral Gastrografin with serial abdominal X-rays at 4-24 hours. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Mechanical adhesive bowel obstruction without fever, peritonitis, or signs of strangulation, placing nasogastric tube and administering oral gastrografin with serial abdominal x-rays at 4-24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, mechanical adhesive bowel obstruction without fever, peritonitis, or signs of strangulation, placing nasogastric tube and administering oral Gastrografin with serial abdominal X-rays at 4-24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, mechanical adhesive bowel obstruction without fever, peritonitis, or signs of strangulation, placing nasogastric tube and administering oral Gastrografin with serial abdominal X-rays at 4-24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge. In the clinical management of Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Small Bowel Obstruction Water-Soluble Gastrografin Challenge."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15026",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Herni",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty. Clinical examination and investigative review confirm reducible right inguinal swelling reaching upper scrotum: performing open Lichtenstein tension-free hernioplasty using polypropylene mesh placed over transversalis fascia. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Reducible right inguinal swelling reaching upper scrotum: performing open lichtenstein tension-free hernioplasty using polypropylene mesh placed over transversalis fascia",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, reducible right inguinal swelling reaching upper scrotum: performing open Lichtenstein tension-free hernioplasty using polypropylene mesh placed over transversalis fascia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, reducible right inguinal swelling reaching upper scrotum: performing open Lichtenstein tension-free hernioplasty using polypropylene mesh placed over transversalis fascia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty. In the clinical management of Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Inguinal Hernia Lichtenstein Tension-Free Mesh Hernioplasty."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association Hernia Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15027",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploratio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours. Clinical examination and investigative review confirm 14-year-old boy with sudden excruciating left scrotal pain, high-riding horizontal testis, and absent cremasteric reflex, arranging immediate emergency bilateral scrotal exploration and fixation. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "14-year-old boy with sudden excruciating left scrotal pain, high-riding horizontal testis, and absent cremasteric reflex, arranging immediate emergency bilateral scrotal exploration and fixation",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 14-year-old boy with sudden excruciating left scrotal pain, high-riding horizontal testis, and absent cremasteric reflex, arranging immediate emergency bilateral scrotal exploration and fixation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 14-year-old boy with sudden excruciating left scrotal pain, high-riding horizontal testis, and absent cremasteric reflex, arranging immediate emergency bilateral scrotal exploration and fixation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours. In the clinical management of Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Urology Guidelines Acute Testicular Torsion Immediate Scrotal Exploration Within 6 Hours."
+    ],
+    "references": [
+      {
+        "label": "Saudi Urological Association (SUA) Guidelines",
+        "url": "https://sua.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15028",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin an",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride. Clinical examination and investigative review confirm 66-year-old male with urinary hesitancy, weak stream, and nocturia, IPSS score 19, digital rectal examination showing smooth enlarged prostate, prescribing alpha-blocker tamsulosin and 5-ARI finasteride. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "66-year-old male with urinary hesitancy, weak stream, and nocturia, ipss score 19, digital rectal examination showing smooth enlarged prostate, prescribing alpha-blocker tamsulosin and 5-ari finasteride",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 66-year-old male with urinary hesitancy, weak stream, and nocturia, IPSS score 19, digital rectal examination showing smooth enlarged prostate, prescribing alpha-blocker tamsulosin and 5-ARI finasteride represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 66-year-old male with urinary hesitancy, weak stream, and nocturia, IPSS score 19, digital rectal examination showing smooth enlarged prostate, prescribing alpha-blocker tamsulosin and 5-ARI finasteride represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride. In the clinical management of Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Urology Guidelines Benign Prostatic Hyperplasia IPSS Score Tamsulosin and Finasteride."
+    ],
+    "references": [
+      {
+        "label": "Saudi Urological Association (SUA) BPH Guidelines",
+        "url": "https://sua.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15029",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder. Clinical examination and investigative review confirm high-speed motor vehicle collision with pelvic fracture and hypotension, applying commercial pelvic circumferential compression device (binder) over greater trochanters and initiating massive transfusion. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "High-speed motor vehicle collision with pelvic fracture and hypotension, applying commercial pelvic circumferential compression device (binder) over greater trochanters and initiating massive transfusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, high-speed motor vehicle collision with pelvic fracture and hypotension, applying commercial pelvic circumferential compression device (binder) over greater trochanters and initiating massive transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, high-speed motor vehicle collision with pelvic fracture and hypotension, applying commercial pelvic circumferential compression device (binder) over greater trochanters and initiating massive transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder. In the clinical management of Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Trauma Guidelines ATLS Primary Survey Hemorrhage Control and Pelvic Binder."
+    ],
+    "references": [
+      {
+        "label": "Saudi Trauma Society & ATLS Protocols",
+        "url": "https://sauditrauma.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15030",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contra",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT. Clinical examination and investigative review confirm blunt head injury with brief loss of consciousness, applying Canadian CT Head Rule: vomiting >= 2 episodes or age >= 65 years mandating urgent non-contrast head computed tomography. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Blunt head injury with brief loss of consciousness, applying canadian ct head rule: vomiting >= 2 episodes or age >= 65 years mandating urgent non-contrast head computed tomography",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blunt head injury with brief loss of consciousness, applying Canadian CT Head Rule: vomiting >= 2 episodes or age >= 65 years mandating urgent non-contrast head computed tomography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blunt head injury with brief loss of consciousness, applying Canadian CT Head Rule: vomiting >= 2 episodes or age >= 65 years mandating urgent non-contrast head computed tomography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT. In the clinical management of Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Major Head Injury Canadian CT Head Rule Urgent Non-Contrast Head CT."
+    ],
+    "references": [
+      {
+        "label": "Saudi Emergency Medicine Association (SEMA) Head Injury Guidelines",
+        "url": "https://sema.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15031",
+    "exam": "SMLE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenalin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh. Clinical examination and investigative review confirm acute respiratory compromise and facial angioedema following bee sting, administering intramuscular adrenaline 500 mcg (0.5 mL of 1:1000) into lateral thigh and issuing anaphylaxis action plan. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Acute respiratory compromise and facial angioedema following bee sting, administering intramuscular adrenaline 500 mcg (0.5 ml of 1:1000) into lateral thigh and issuing anaphylaxis action plan",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute respiratory compromise and facial angioedema following bee sting, administering intramuscular adrenaline 500 mcg (0.5 mL of 1:1000) into lateral thigh and issuing anaphylaxis action plan represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, acute respiratory compromise and facial angioedema following bee sting, administering intramuscular adrenaline 500 mcg (0.5 mL of 1:1000) into lateral thigh and issuing anaphylaxis action plan represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh. In the clinical management of Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Emergency Guidelines Acute Anaphylaxis Immediate Intramuscular Adrenaline Lateral Thigh."
+    ],
+    "references": [
+      {
+        "label": "Saudi Emergency Medicine Association (SEMA) Anaphylaxis Guidelines",
+        "url": "https://sema.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15032",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS. Clinical examination and investigative review confirm blunt thoracic trauma with respiratory distress, hyper-resonant right chest, absent breath sounds, and hypotension, immediately decompressing right 2nd intercostal space mid-clavicular line with large-bore cannula. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Blunt thoracic trauma with respiratory distress, hyper-resonant right chest, absent breath sounds, and hypotension, immediately decompressing right 2nd intercostal space mid-clavicular line with large-bore cannula",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blunt thoracic trauma with respiratory distress, hyper-resonant right chest, absent breath sounds, and hypotension, immediately decompressing right 2nd intercostal space mid-clavicular line with large-bore cannula represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, blunt thoracic trauma with respiratory distress, hyper-resonant right chest, absent breath sounds, and hypotension, immediately decompressing right 2nd intercostal space mid-clavicular line with large-bore cannula represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS. In the clinical management of Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Emergency Management of Tension Pneumothorax Immediate Needle Thoracocentesis in 2nd ICS."
+    ],
+    "references": [
+      {
+        "label": "Saudi Emergency Medicine Association (SEMA)",
+        "url": "https://sema.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15033",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA. Clinical examination and investigative review confirm adult with second-degree scald burns involving full anterior trunk and entire right arm (27% TBSA), calculating fluid resuscitation using Modified Parkland formula (3-4 mL/kg/% TBSA) and transferring to burn unit. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Adult with second-degree scald burns involving full anterior trunk and entire right arm (27% tbsa), calculating fluid resuscitation using modified parkland formula (3-4 ml/kg/% tbsa) and transferring to burn unit",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with second-degree scald burns involving full anterior trunk and entire right arm (27% TBSA), calculating fluid resuscitation using Modified Parkland formula (3-4 mL/kg/% TBSA) and transferring to burn unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adult with second-degree scald burns involving full anterior trunk and entire right arm (27% TBSA), calculating fluid resuscitation using Modified Parkland formula (3-4 mL/kg/% TBSA) and transferring to burn unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA. In the clinical management of Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Burn Guidelines Modified Parkland Formula 3-4 mL per kg per Percent TBSA."
+    ],
+    "references": [
+      {
+        "label": "Saudi Plastic Surgery and Burn Care Guidelines",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15034",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint. Clinical examination and investigative review confirm fall onto outstretched hand with dinner-fork deformity of wrist, performing hematoma block or procedural sedation, closed manipulation, and dorsal plaster backslab with post-reduction X-rays. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Fall onto outstretched hand with dinner-fork deformity of wrist, performing hematoma block or procedural sedation, closed manipulation, and dorsal plaster backslab with post-reduction x-rays",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fall onto outstretched hand with dinner-fork deformity of wrist, performing hematoma block or procedural sedation, closed manipulation, and dorsal plaster backslab with post-reduction X-rays represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, fall onto outstretched hand with dinner-fork deformity of wrist, performing hematoma block or procedural sedation, closed manipulation, and dorsal plaster backslab with post-reduction X-rays represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint. In the clinical management of Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Displaced Colles Fracture Closed Manipulation and Backslab Splint."
+    ],
+    "references": [
+      {
+        "label": "Saudi Orthopaedic Association (SOA) Guidelines",
+        "url": "https://soa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15035",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-We",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old male attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing. Clinical examination and investigative review confirm obese 13-year-old boy presenting with dull knee/hip pain and antalgic limp, pelvis X-ray showing Kleins line missing femoral head (SUFE), making strictly non-weight bearing and urgent orthopedic pinning. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Obese 13-year-old boy presenting with dull knee/hip pain and antalgic limp, pelvis x-ray showing kleins line missing femoral head (sufe), making strictly non-weight bearing and urgent orthopedic pinning",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, obese 13-year-old boy presenting with dull knee/hip pain and antalgic limp, pelvis X-ray showing Kleins line missing femoral head (SUFE), making strictly non-weight bearing and urgent orthopedic pinning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, obese 13-year-old boy presenting with dull knee/hip pain and antalgic limp, pelvis X-ray showing Kleins line missing femoral head (SUFE), making strictly non-weight bearing and urgent orthopedic pinning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing. In the clinical management of Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Slipped Upper Femoral Epiphysis SUFE Urgent Non-Weight Bearing."
+    ],
+    "references": [
+      {
+        "label": "Saudi Orthopaedic Association (SOA) Pediatric Guidelines",
+        "url": "https://soa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15036",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debrideme",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin. Clinical examination and investigative review confirm compound fracture of tibia shaft with 4 cm contaminated wound, administering intravenous cephazolin 2g stat, verifying tetanus immunization status, saline dressing, and emergency surgical debridement. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Compound fracture of tibia shaft with 4 cm contaminated wound, administering intravenous cephazolin 2g stat, verifying tetanus immunization status, saline dressing, and emergency surgical debridement",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, compound fracture of tibia shaft with 4 cm contaminated wound, administering intravenous cephazolin 2g stat, verifying tetanus immunization status, saline dressing, and emergency surgical debridement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, compound fracture of tibia shaft with 4 cm contaminated wound, administering intravenous cephazolin 2g stat, verifying tetanus immunization status, saline dressing, and emergency surgical debridement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin. In the clinical management of Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Orthopedic Guidelines Open Fracture Gustilo-Anderson Emergency Debridement and Cephazolin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Orthopaedic Association (SOA) Open Fracture Standards",
+        "url": "https://soa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15037",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Manni",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine. Clinical examination and investigative review confirm sudden excruciating eye pain, vomiting, colored halos around lights, cloudy steamy cornea, fixed mid-dilated pupil, and IOP 56 mm Hg, administering IV mannitol, topical pilocarpine, and urgent laser iridotomy. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Sudden excruciating eye pain, vomiting, colored halos around lights, cloudy steamy cornea, fixed mid-dilated pupil, and iop 56 mm hg, administering iv mannitol, topical pilocarpine, and urgent laser iridotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sudden excruciating eye pain, vomiting, colored halos around lights, cloudy steamy cornea, fixed mid-dilated pupil, and IOP 56 mm Hg, administering IV mannitol, topical pilocarpine, and urgent laser iridotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, sudden excruciating eye pain, vomiting, colored halos around lights, cloudy steamy cornea, fixed mid-dilated pupil, and IOP 56 mm Hg, administering IV mannitol, topical pilocarpine, and urgent laser iridotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine. In the clinical management of Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Ophthalmology Guidelines Acute Angle-Closure Glaucoma Immediate IV Mannitol and Pilocarpine."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ophthalmological Society (SOS) Glaucoma Protocols",
+        "url": "https://sos.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15038",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldab",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL. Clinical examination and investigative review confirm gradual painless bilateral decrease in vision, glare while driving at night, loss of red reflex on distant direct ophthalmoscopy, slit lamp showing opacification of crystalline lens, performing phacoemulsification. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Gradual painless bilateral decrease in vision, glare while driving at night, loss of red reflex on distant direct ophthalmoscopy, slit lamp showing opacification of crystalline lens, performing phacoemulsification",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, gradual painless bilateral decrease in vision, glare while driving at night, loss of red reflex on distant direct ophthalmoscopy, slit lamp showing opacification of crystalline lens, performing phacoemulsification represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, gradual painless bilateral decrease in vision, glare while driving at night, loss of red reflex on distant direct ophthalmoscopy, slit lamp showing opacification of crystalline lens, performing phacoemulsification represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL. In the clinical management of Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Ophthalmology Guidelines Senile Cataract Phacoemulsification with Foldable IOL."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ophthalmological Society (SOS)",
+        "url": "https://sos.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15039",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing. Clinical examination and investigative review confirm profuse bleeding from anterior nasal septum: identifying confluence of arteries on Little area, applying Trotter method, topical silver nitrate chemical cautery, and ribbon gauze anterior packing. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Profuse bleeding from anterior nasal septum: identifying confluence of arteries on little area, applying trotter method, topical silver nitrate chemical cautery, and ribbon gauze anterior packing",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, profuse bleeding from anterior nasal septum: identifying confluence of arteries on Little area, applying Trotter method, topical silver nitrate chemical cautery, and ribbon gauze anterior packing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, profuse bleeding from anterior nasal septum: identifying confluence of arteries on Little area, applying Trotter method, topical silver nitrate chemical cautery, and ribbon gauze anterior packing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing. In the clinical management of Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Epistaxis Little Area Kiesselbach Plexus Anterior Nasal Packing."
+    ],
+    "references": [
+      {
+        "label": "Saudi Otorhinolaryngology Society Guidelines",
+        "url": "https://sorls.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15040",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration. Clinical examination and investigative review confirm severe unilateral sore throat, high fever, trismus, muffled speech, and soft palate fullness pushing uvula to opposite side, performing needle aspiration of pus from peritonsillar space and IV penicillin. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Severe unilateral sore throat, high fever, trismus, muffled speech, and soft palate fullness pushing uvula to opposite side, performing needle aspiration of pus from peritonsillar space and iv penicillin",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe unilateral sore throat, high fever, trismus, muffled speech, and soft palate fullness pushing uvula to opposite side, performing needle aspiration of pus from peritonsillar space and IV penicillin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe unilateral sore throat, high fever, trismus, muffled speech, and soft palate fullness pushing uvula to opposite side, performing needle aspiration of pus from peritonsillar space and IV penicillin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration. In the clinical management of Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Peritonsillar Abscess Quinsy Hot Potato Voice Needle Aspiration."
+    ],
+    "references": [
+      {
+        "label": "Saudi Otorhinolaryngology Society",
+        "url": "https://sorls.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15041",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin. Clinical examination and investigative review confirm severe throbbing earache in child following upper respiratory infection, otoscopy showing red bulging tympanic membrane with loss of landmarks, prescribing oral amoxicillin 80-90 mg/kg/day. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Severe throbbing earache in child following upper respiratory infection, otoscopy showing red bulging tympanic membrane with loss of landmarks, prescribing oral amoxicillin 80-90 mg/kg/day",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe throbbing earache in child following upper respiratory infection, otoscopy showing red bulging tympanic membrane with loss of landmarks, prescribing oral amoxicillin 80-90 mg/kg/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, severe throbbing earache in child following upper respiratory infection, otoscopy showing red bulging tympanic membrane with loss of landmarks, prescribing oral amoxicillin 80-90 mg/kg/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin. In the clinical management of Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Acute Suppurative Otitis Media Bulging Tympanic Membrane Amoxicillin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Otorhinolaryngology Society Protocols",
+        "url": "https://sorls.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15042",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified R",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy. Clinical examination and investigative review confirm foul-smelling scanty ear discharge, attic retraction pocket containing white cheesy squamous flakes, bone erosion on HRCT temporal bone, identifying unsafe cholesteatoma, performing modified radical mastoidectomy. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Foul-smelling scanty ear discharge, attic retraction pocket containing white cheesy squamous flakes, bone erosion on hrct temporal bone, identifying unsafe cholesteatoma, performing modified radical mastoidectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, foul-smelling scanty ear discharge, attic retraction pocket containing white cheesy squamous flakes, bone erosion on HRCT temporal bone, identifying unsafe cholesteatoma, performing modified radical mastoidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, foul-smelling scanty ear discharge, attic retraction pocket containing white cheesy squamous flakes, bone erosion on HRCT temporal bone, identifying unsafe cholesteatoma, performing modified radical mastoidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy. In the clinical management of Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi ENT Guidelines Chronic Suppurative Otitis Media Cholesteatoma Modified Radical Mastoidectomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Otorhinolaryngology Society CSOM Guidelines",
+        "url": "https://sorls.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15043",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging. Clinical examination and investigative review confirm painless solitary firm nodule in right thyroid lobe moving upward on deglutition, normal serum TSH, ultrasound showing 2 cm solid hypoechoic nodule with microcalcifications, performing ultrasound-guided FNAC. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Painless solitary firm nodule in right thyroid lobe moving upward on deglutition, normal serum tsh, ultrasound showing 2 cm solid hypoechoic nodule with microcalcifications, performing ultrasound-guided fnac",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, painless solitary firm nodule in right thyroid lobe moving upward on deglutition, normal serum TSH, ultrasound showing 2 cm solid hypoechoic nodule with microcalcifications, performing ultrasound-guided FNAC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, painless solitary firm nodule in right thyroid lobe moving upward on deglutition, normal serum TSH, ultrasound showing 2 cm solid hypoechoic nodule with microcalcifications, performing ultrasound-guided FNAC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging. In the clinical management of Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Solitary Thyroid Nodule Bethesda System FNAC Staging."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association & SSEM Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15044",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Asses",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment. Clinical examination and investigative review confirm hard painless irregular solitary mass in upper outer quadrant of breast, skin tethering, puckering, peau d'orange edema of overlying skin, performing core needle biopsy and axillary ultrasound staging. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Hard painless irregular solitary mass in upper outer quadrant of breast, skin tethering, puckering, peau d'orange edema of overlying skin, performing core needle biopsy and axillary ultrasound staging",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hard painless irregular solitary mass in upper outer quadrant of breast, skin tethering, puckering, peau d'orange edema of overlying skin, performing core needle biopsy and axillary ultrasound staging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, hard painless irregular solitary mass in upper outer quadrant of breast, skin tethering, puckering, peau d'orange edema of overlying skin, performing core needle biopsy and axillary ultrasound staging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment. In the clinical management of Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Carcinoma Breast Core Needle Biopsy and Triple Assessment."
+    ],
+    "references": [
+      {
+        "label": "Saudi Oncology Society & SSA Breast Cancer Guidelines",
+        "url": "https://saudioncology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15045",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ul",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound. Clinical examination and investigative review confirm 20-year-old female with painless, highly mobile, discrete, firm rubbery non-tender breast lump (breast mouse), ultrasound confirming well-circumscribed oval hypoechoic mass, reassurance and observation. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "20-year-old female with painless, highly mobile, discrete, firm rubbery non-tender breast lump (breast mouse), ultrasound confirming well-circumscribed oval hypoechoic mass, reassurance and observation",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 20-year-old female with painless, highly mobile, discrete, firm rubbery non-tender breast lump (breast mouse), ultrasound confirming well-circumscribed oval hypoechoic mass, reassurance and observation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 20-year-old female with painless, highly mobile, discrete, firm rubbery non-tender breast lump (breast mouse), ultrasound confirming well-circumscribed oval hypoechoic mass, reassurance and observation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound. In the clinical management of Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Surgical Guidelines Fibroadenoma of Breast Benign Mobile Rubbery Mass Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "Saudi Surgical Association Guidelines",
+        "url": "https://saudisurgical.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15046",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI <",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9. Clinical examination and investigative review confirm cramp-like pain in calf muscle on walking 200 meters relieved by 2 minutes rest, cold pale foot, absent dorsalis pedis pulse, Doppler ankle-brachial index 0.65, prescribing cilostazol and walking exercise. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Cramp-like pain in calf muscle on walking 200 meters relieved by 2 minutes rest, cold pale foot, absent dorsalis pedis pulse, doppler ankle-brachial index 0.65, prescribing cilostazol and walking exercise",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cramp-like pain in calf muscle on walking 200 meters relieved by 2 minutes rest, cold pale foot, absent dorsalis pedis pulse, Doppler ankle-brachial index 0.65, prescribing cilostazol and walking exercise represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, cramp-like pain in calf muscle on walking 200 meters relieved by 2 minutes rest, cold pale foot, absent dorsalis pedis pulse, Doppler ankle-brachial index 0.65, prescribing cilostazol and walking exercise represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9. In the clinical management of Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Vascular Guidelines Intermittent Claudication Ankle-Brachial Index ABI < 0.9."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association & Vascular Surgery Society",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15047",
+    "exam": "SMLE",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low M",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin. Clinical examination and investigative review confirm painful swollen left calf following pelvic surgery, local warmth, calf circumference 4 cm larger than right, positive tenderness on dorsiflexion, compression duplex ultrasound confirming femoral DVT, LMWH. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Painful swollen left calf following pelvic surgery, local warmth, calf circumference 4 cm larger than right, positive tenderness on dorsiflexion, compression duplex ultrasound confirming femoral dvt, lmwh",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, painful swollen left calf following pelvic surgery, local warmth, calf circumference 4 cm larger than right, positive tenderness on dorsiflexion, compression duplex ultrasound confirming femoral DVT, LMWH represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, painful swollen left calf following pelvic surgery, local warmth, calf circumference 4 cm larger than right, positive tenderness on dorsiflexion, compression duplex ultrasound confirming femoral DVT, LMWH represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin. In the clinical management of Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Vascular Guidelines Deep Vein Thrombosis Duplex Doppler Ultrasound Low Molecular Weight Heparin."
+    ],
+    "references": [
+      {
+        "label": "Saudi Society of Thrombosis and Hemostasis",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15048",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks. Clinical examination and investigative review confirm routine antenatal screening at 24-28 weeks gestation: performing 75g 2-hour oral glucose tolerance test (OGTT) using IADPSG criteria (fasting >= 5.1, 1-hour >= 10.0, 2-hour >= 8.5 mmol/L). Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Routine antenatal screening at 24-28 weeks gestation: performing 75g 2-hour oral glucose tolerance test (ogtt) using iadpsg criteria (fasting >= 5.1, 1-hour >= 10.0, 2-hour >= 8.5 mmol/l)",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, routine antenatal screening at 24-28 weeks gestation: performing 75g 2-hour oral glucose tolerance test (OGTT) using IADPSG criteria (fasting >= 5.1, 1-hour >= 10.0, 2-hour >= 8.5 mmol/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, routine antenatal screening at 24-28 weeks gestation: performing 75g 2-hour oral glucose tolerance test (OGTT) using IADPSG criteria (fasting >= 5.1, 1-hour >= 10.0, 2-hour >= 8.5 mmol/L) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks. In the clinical management of Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi MOH Guidelines for Gestational Diabetes Screening Universal 75g OGTT at 24-28 Weeks."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health Maternal and Child Health Protocols",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15049",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk. Clinical examination and investigative review confirm pregnant woman with high-risk features (previous preeclampsia or preexisting chronic hypertension), initiating low-dose aspirin 100-150 mg daily at bedtime from 12 weeks gestation until delivery. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Pregnant woman with high-risk features (previous preeclampsia or preexisting chronic hypertension), initiating low-dose aspirin 100-150 mg daily at bedtime from 12 weeks gestation until delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant woman with high-risk features (previous preeclampsia or preexisting chronic hypertension), initiating low-dose aspirin 100-150 mg daily at bedtime from 12 weeks gestation until delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant woman with high-risk features (previous preeclampsia or preexisting chronic hypertension), initiating low-dose aspirin 100-150 mg daily at bedtime from 12 weeks gestation until delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk. In the clinical management of Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Preeclampsia Prevention Low-Dose Aspirin from 12 Weeks in High Risk."
+    ],
+    "references": [
+      {
+        "label": "Saudi Obstetrics and Gynaecology Society (SOGS)",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15050",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading. Clinical examination and investigative review confirm pregnant woman at 35 weeks with blood pressure 170/110 mm Hg, epigastric pain, headache, patellar hyperreflexia with sustained ankle clonus, administering loading dose IV magnesium sulfate 4g to abort impending seizure. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Pregnant woman at 35 weeks with blood pressure 170/110 mm hg, epigastric pain, headache, patellar hyperreflexia with sustained ankle clonus, administering loading dose iv magnesium sulfate 4g to abort impending seizure",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant woman at 35 weeks with blood pressure 170/110 mm Hg, epigastric pain, headache, patellar hyperreflexia with sustained ankle clonus, administering loading dose IV magnesium sulfate 4g to abort impending seizure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant woman at 35 weeks with blood pressure 170/110 mm Hg, epigastric pain, headache, patellar hyperreflexia with sustained ankle clonus, administering loading dose IV magnesium sulfate 4g to abort impending seizure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading. In the clinical management of Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Severe Preeclampsia Impending Eclampsia Magnesium Sulfate Loading."
+    ],
+    "references": [
+      {
+        "label": "Saudi Obstetrics and Gynaecology Society (SOGS)",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15051",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate. Clinical examination and investigative review confirm pregnant female actively convulsing in labor ward, placing left lateral tilt, opening airway, delivering oxygen, administering loading dose of magnesium sulfate (4g IV over 10 minutes plus 10g deep IM), preparing for delivery. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Pregnant female actively convulsing in labor ward, placing left lateral tilt, opening airway, delivering oxygen, administering loading dose of magnesium sulfate (4g iv over 10 minutes plus 10g deep im), preparing for delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant female actively convulsing in labor ward, placing left lateral tilt, opening airway, delivering oxygen, administering loading dose of magnesium sulfate (4g IV over 10 minutes plus 10g deep IM), preparing for delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, pregnant female actively convulsing in labor ward, placing left lateral tilt, opening airway, delivering oxygen, administering loading dose of magnesium sulfate (4g IV over 10 minutes plus 10g deep IM), preparing for delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate. In the clinical management of Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Eclampsia Active Convulsion Airway Left Lateral Tilt Magnesium Sulfate."
+    ],
+    "references": [
+      {
+        "label": "SOGS Emergency Obstetrics Protocols",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15052",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression. Clinical examination and investigative review confirm massive bleeding following normal delivery, soft flabby uterine fundus above umbilicus, inserting gloved fist into anterior vaginal fornix with external hand compressing posterior fundus, IV oxytocin and IM ergometrine. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Massive bleeding following normal delivery, soft flabby uterine fundus above umbilicus, inserting gloved fist into anterior vaginal fornix with external hand compressing posterior fundus, iv oxytocin and im ergometrine",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, massive bleeding following normal delivery, soft flabby uterine fundus above umbilicus, inserting gloved fist into anterior vaginal fornix with external hand compressing posterior fundus, IV oxytocin and IM ergometrine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, massive bleeding following normal delivery, soft flabby uterine fundus above umbilicus, inserting gloved fist into anterior vaginal fornix with external hand compressing posterior fundus, IV oxytocin and IM ergometrine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression. In the clinical management of Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Postpartum Hemorrhage Active Third Stage Oxytocin and Bimanual Compression."
+    ],
+    "references": [
+      {
+        "label": "SOGS PPH Clinical Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15053",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility. Clinical examination and investigative review confirm unruptured tubal ectopic pregnancy in stable woman with hCG 2200 IU/L and adnexal mass < 3.5 cm, counseling on single-dose intramuscular methotrexate 50 mg/m2 with serial day 4 and 7 hCG checks. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Unruptured tubal ectopic pregnancy in stable woman with hcg 2200 iu/l and adnexal mass < 3.5 cm, counseling on single-dose intramuscular methotrexate 50 mg/m2 with serial day 4 and 7 hcg checks",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, unruptured tubal ectopic pregnancy in stable woman with hCG 2200 IU/L and adnexal mass < 3.5 cm, counseling on single-dose intramuscular methotrexate 50 mg/m2 with serial day 4 and 7 hCG checks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, unruptured tubal ectopic pregnancy in stable woman with hCG 2200 IU/L and adnexal mass < 3.5 cm, counseling on single-dose intramuscular methotrexate 50 mg/m2 with serial day 4 and 7 hCG checks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility. In the clinical management of Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Ectopic Pregnancy Transvaginal Ultrasound and Methotrexate Eligibility."
+    ],
+    "references": [
+      {
+        "label": "SOGS Clinical Practice Guidelines on Ectopic Pregnancy",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15054",
+    "exam": "SMLE",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle an",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP. Clinical examination and investigative review confirm young unmarried female presenting with oligomenorrhea, hirsutism, acne, and bilateral enlarged ovaries with multiple subcapsular cysts on ultrasound, advising dietary modification, exercise, and low-dose OCP. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Young unmarried female presenting with oligomenorrhea, hirsutism, acne, and bilateral enlarged ovaries with multiple subcapsular cysts on ultrasound, advising dietary modification, exercise, and low-dose ocp",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young unmarried female presenting with oligomenorrhea, hirsutism, acne, and bilateral enlarged ovaries with multiple subcapsular cysts on ultrasound, advising dietary modification, exercise, and low-dose OCP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, young unmarried female presenting with oligomenorrhea, hirsutism, acne, and bilateral enlarged ovaries with multiple subcapsular cysts on ultrasound, advising dietary modification, exercise, and low-dose OCP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP. In the clinical management of Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Polycystic Ovary Syndrome Rotterdam Criteria Lifestyle and Combined OCP."
+    ],
+    "references": [
+      {
+        "label": "SOGS & Saudi Endocrine Society PCOS Guidelines",
+        "url": "https://sogs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15055",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 8-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality. Clinical examination and investigative review confirm 18-month-old toddler with acute gastroenteritis and mild-to-moderate dehydration, administering oral rehydration solution (Hydralyte) 5 mL every 5 minutes by syringe or spoon rather than IV fluids. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "18-month-old toddler with acute gastroenteritis and mild-to-moderate dehydration, administering oral rehydration solution (hydralyte) 5 ml every 5 minutes by syringe or spoon rather than iv fluids",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 18-month-old toddler with acute gastroenteritis and mild-to-moderate dehydration, administering oral rehydration solution (Hydralyte) 5 mL every 5 minutes by syringe or spoon rather than IV fluids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 18-month-old toddler with acute gastroenteritis and mild-to-moderate dehydration, administering oral rehydration solution (Hydralyte) 5 mL every 5 minutes by syringe or spoon rather than IV fluids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality. In the clinical management of Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Dehydration Oral Rehydration Solution Low Osmolality."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association (SPA) Clinical Guidelines",
+        "url": "https://spa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15056",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethas",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 9-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone. Clinical examination and investigative review confirm 2-year-old child presenting with barking cough and inspiratory stridor at rest with chest wall retraction, administering oral dexamethasone 0.15 mg/kg and nebulized adrenaline for severe distress. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "2-year-old child presenting with barking cough and inspiratory stridor at rest with chest wall retraction, administering oral dexamethasone 0.15 mg/kg and nebulized adrenaline for severe distress",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 2-year-old child presenting with barking cough and inspiratory stridor at rest with chest wall retraction, administering oral dexamethasone 0.15 mg/kg and nebulized adrenaline for severe distress represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 2-year-old child presenting with barking cough and inspiratory stridor at rest with chest wall retraction, administering oral dexamethasone 0.15 mg/kg and nebulized adrenaline for severe distress represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone. In the clinical management of Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Croup Barking Cough Single Dose Oral Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association (SPA) Croup Protocols",
+        "url": "https://spa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15057",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Ox",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 10-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen. Clinical examination and investigative review confirm 4-month-old infant with viral bronchiolitis, respiratory rate 55/min, and poor feeding, maintaining minimal handling, supportive humidified oxygen if SpO2 < 92%, and nasogastric tube feeds. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "4-month-old infant with viral bronchiolitis, respiratory rate 55/min, and poor feeding, maintaining minimal handling, supportive humidified oxygen if spo2 < 92%, and nasogastric tube feeds",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 4-month-old infant with viral bronchiolitis, respiratory rate 55/min, and poor feeding, maintaining minimal handling, supportive humidified oxygen if SpO2 < 92%, and nasogastric tube feeds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 4-month-old infant with viral bronchiolitis, respiratory rate 55/min, and poor feeding, maintaining minimal handling, supportive humidified oxygen if SpO2 < 92%, and nasogastric tube feeds represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen. In the clinical management of Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Bronchiolitis Supportive Care and Humidified Oxygen."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association (SPA) Respiratory Guidelines",
+        "url": "https://spa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15058",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence E",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 11-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education. Clinical examination and investigative review confirm 2-year-old child who had a 2-minute generalized convulsion during upper respiratory tract infection with rapid return to normal, reassuring parents regarding benign prognosis without routine anticonvulsant therapy. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "2-year-old child who had a 2-minute generalized convulsion during upper respiratory tract infection with rapid return to normal, reassuring parents regarding benign prognosis without routine anticonvulsant therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 2-year-old child who had a 2-minute generalized convulsion during upper respiratory tract infection with rapid return to normal, reassuring parents regarding benign prognosis without routine anticonvulsant therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 2-year-old child who had a 2-minute generalized convulsion during upper respiratory tract infection with rapid return to normal, reassuring parents regarding benign prognosis without routine anticonvulsant therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education. In the clinical management of Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Febrile Convulsion Reassurance and Recurrence Education."
+    ],
+    "references": [
+      {
+        "label": "Saudi Pediatric Association (SPA) Neurology Guidelines",
+        "url": "https://spa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15059",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 12-year-old male presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy. Clinical examination and investigative review confirm 5-year-old child with acute moderate asthma exacerbation, administering 6 puffs of salbutamol (100 mcg/puff) via spacer with 4 breaths per puff every 20 minutes for the first hour. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "5-year-old child with acute moderate asthma exacerbation, administering 6 puffs of salbutamol (100 mcg/puff) via spacer with 4 breaths per puff every 20 minutes for the first hour",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 5-year-old child with acute moderate asthma exacerbation, administering 6 puffs of salbutamol (100 mcg/puff) via spacer with 4 breaths per puff every 20 minutes for the first hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 5-year-old child with acute moderate asthma exacerbation, administering 6 puffs of salbutamol (100 mcg/puff) via spacer with 4 breaths per puff every 20 minutes for the first hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy. In the clinical management of Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pediatric Guidelines for Acute Asthma Inhaled Salbutamol via Spacer Burst Therapy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Thoracic Society & Saudi Pediatric Association",
+        "url": "https://saudithoracic.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15060",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin N",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram. Clinical examination and investigative review confirm 3-day-old breastfed term infant with visible jaundice, checking serum total bilirubin (280 micromol/L), plotting on hour-specific phototherapy chart, and commencing intensive blue phototherapy. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "3-day-old breastfed term infant with visible jaundice, checking serum total bilirubin (280 micromol/l), plotting on hour-specific phototherapy chart, and commencing intensive blue phototherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 3-day-old breastfed term infant with visible jaundice, checking serum total bilirubin (280 micromol/L), plotting on hour-specific phototherapy chart, and commencing intensive blue phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, 3-day-old breastfed term infant with visible jaundice, checking serum total bilirubin (280 micromol/L), plotting on hour-specific phototherapy chart, and commencing intensive blue phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram. In the clinical management of Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Guidelines for Neonatal Jaundice Phototherapy Thresholds and Bilirubin Nomogram."
+    ],
+    "references": [
+      {
+        "label": "Saudi Neonatology Society Clinical Practice Guidelines",
+        "url": "https://spa.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15061",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old male undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation. Clinical examination and investigative review confirm newborn infant with apnea and heart rate 80/min despite drying and tactile stimulation, initiating positive pressure ventilation (PPV) with room air (21% O2) via T-piece resuscitator at 40-60 breaths/min. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Newborn infant with apnea and heart rate 80/min despite drying and tactile stimulation, initiating positive pressure ventilation (ppv) with room air (21% o2) via t-piece resuscitator at 40-60 breaths/min",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, newborn infant with apnea and heart rate 80/min despite drying and tactile stimulation, initiating positive pressure ventilation (PPV) with room air (21% O2) via T-piece resuscitator at 40-60 breaths/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, newborn infant with apnea and heart rate 80/min despite drying and tactile stimulation, initiating positive pressure ventilation (PPV) with room air (21% O2) via T-piece resuscitator at 40-60 breaths/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation. In the clinical management of Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Neonatal Resuscitation Algorithm Room Air Positive Pressure Ventilation."
+    ],
+    "references": [
+      {
+        "label": "Saudi Heart Association (SHA) Neonatal Resuscitation Protocols",
+        "url": "https://saudi-heart.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15062",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Saudi National Immunization Program NIP Schedule Birth to 24 Months",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi National Immunization Program NIP Schedule Birth to 24 Months. Clinical examination and investigative review confirm counseling mother on national NIP schedule: BCG and HepB at birth; DTaP, IPV, Hib, HepB, PCV, and Rotavirus at 2, 4, 6 months; MMR and Varicella at 12 and 18 months. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Counseling mother on national nip schedule: bcg and hepb at birth; dtap, ipv, hib, hepb, pcv, and rotavirus at 2, 4, 6 months; mmr and varicella at 12 and 18 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, counseling mother on national NIP schedule: BCG and HepB at birth; DTaP, IPV, Hib, HepB, PCV, and Rotavirus at 2, 4, 6 months; MMR and Varicella at 12 and 18 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi National Immunization Program NIP Schedule Birth to 24 Months.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, counseling mother on national NIP schedule: BCG and HepB at birth; DTaP, IPV, Hib, HepB, PCV, and Rotavirus at 2, 4, 6 months; MMR and Varicella at 12 and 18 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi National Immunization Program NIP Schedule Birth to 24 Months. In the clinical management of Saudi National Immunization Program NIP Schedule Birth to 24 Months, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi National Immunization Program NIP Schedule Birth to 24 Months.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi National Immunization Program NIP Schedule Birth to 24 Months."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health National Immunization Schedule",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15063",
+    "exam": "SMLE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Ne",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 6-year-old male attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect. Clinical examination and investigative review confirm infant presenting with spiral humeral fracture and multiple healing bruises of varying ages, admitting to hospital, ordering skeletal survey and head CT, and notifying national child protection helpline 1919. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Infant presenting with spiral humeral fracture and multiple healing bruises of varying ages, admitting to hospital, ordering skeletal survey and head ct, and notifying national child protection helpline 1919",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, infant presenting with spiral humeral fracture and multiple healing bruises of varying ages, admitting to hospital, ordering skeletal survey and head CT, and notifying national child protection helpline 1919 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, infant presenting with spiral humeral fracture and multiple healing bruises of varying ages, admitting to hospital, ordering skeletal survey and head CT, and notifying national child protection helpline 1919 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect. In the clinical management of Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Child Protection Law Mandatory Reporting of Suspected Child Abuse and Neglect."
+    ],
+    "references": [
+      {
+        "label": "Saudi National Family Safety Program (NFSP)",
+        "url": "https://nfsp.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15064",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners. Clinical examination and investigative review confirm adhering to Saudi Commission for Health Specialties (SCFHS) code of ethics: maintaining professional competence, acting in patient best interests, respecting cultural values, and avoiding conflicts of interest. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Adhering to saudi commission for health specialties (scfhs) code of ethics: maintaining professional competence, acting in patient best interests, respecting cultural values, and avoiding conflicts of interest",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adhering to Saudi Commission for Health Specialties (SCFHS) code of ethics: maintaining professional competence, acting in patient best interests, respecting cultural values, and avoiding conflicts of interest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, adhering to Saudi Commission for Health Specialties (SCFHS) code of ethics: maintaining professional competence, acting in patient best interests, respecting cultural values, and avoiding conflicts of interest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners. In the clinical management of SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of SCFHS Code of Ethics Fundamental Duties of Licensed Healthcare Practitioners."
+    ],
+    "references": [
+      {
+        "label": "Saudi Commission for Health Specialties (SCFHS) Code of Ethics",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15065",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Au",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old male is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy. Clinical examination and investigative review confirm obtaining consent before elective surgery in Saudi hospital: providing complete disclosure of nature, benefits, material risks, and alternatives to capable patient or legal guardian. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Obtaining consent before elective surgery in saudi hospital: providing complete disclosure of nature, benefits, material risks, and alternatives to capable patient or legal guardian",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, obtaining consent before elective surgery in Saudi hospital: providing complete disclosure of nature, benefits, material risks, and alternatives to capable patient or legal guardian represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, obtaining consent before elective surgery in Saudi hospital: providing complete disclosure of nature, benefits, material risks, and alternatives to capable patient or legal guardian represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy. In the clinical management of Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Law of Practicing Healthcare Professions Informed Consent and Patient Autonomy."
+    ],
+    "references": [
+      {
+        "label": "Saudi Law of Practicing Healthcare Professions",
+        "url": "https://laws.boe.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15066",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female presents to the tertiary teaching hospital outpatient consultative clinic with clinical findings indicative of Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection. Clinical examination and investigative review confirm law enforcement requesting confidential patient treatment records without warrant: maintaining doctor-patient confidentiality unless authorized by patient, compelled by court subpoena, or required to prevent imminent harm. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Law enforcement requesting confidential patient treatment records without warrant: maintaining doctor-patient confidentiality unless authorized by patient, compelled by court subpoena, or required to prevent imminent harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, law enforcement requesting confidential patient treatment records without warrant: maintaining doctor-patient confidentiality unless authorized by patient, compelled by court subpoena, or required to prevent imminent harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, law enforcement requesting confidential patient treatment records without warrant: maintaining doctor-patient confidentiality unless authorized by patient, compelled by court subpoena, or required to prevent imminent harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection. In the clinical management of Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Healthcare Privacy and Confidentiality Patient Medical Records Protection."
+    ],
+    "references": [
+      {
+        "label": "Saudi Health Information System Privacy Regulations",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15067",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old male is admitted to the inpatient acute medical unit of King Saud University Medical City with clinical findings indicative of Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders. Clinical examination and investigative review confirm terminal cancer patient with multi-organ failure where CPR would be futile: obtaining unanimous medical consensus of three consultant physicians, issuing Do Not Resuscitate (DNR) order under Senior Scholars Council Fatwa. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Terminal cancer patient with multi-organ failure where cpr would be futile: obtaining unanimous medical consensus of three consultant physicians, issuing do not resuscitate (dnr) order under senior scholars council fatwa",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, terminal cancer patient with multi-organ failure where CPR would be futile: obtaining unanimous medical consensus of three consultant physicians, issuing Do Not Resuscitate (DNR) order under Senior Scholars Council Fatwa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, terminal cancer patient with multi-organ failure where CPR would be futile: obtaining unanimous medical consensus of three consultant physicians, issuing Do Not Resuscitate (DNR) order under Senior Scholars Council Fatwa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders. In the clinical management of Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Islamic Medical Ethics End-of-Life Care and DNR Do Not Resuscitate Orders."
+    ],
+    "references": [
+      {
+        "label": "Council of Senior Scholars Fatwa on Resuscitation & SCFHS",
+        "url": "https://scfhs.org.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15068",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female undergoes specialized clinical consultation at the national specialist hospital with clinical findings indicative of Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction. Clinical examination and investigative review confirm patient alleging surgical complication: understanding statutory structure of Medico-Legal Committee investigating medical error, evaluating professional negligence, and assessing Diyat compensation. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Patient alleging surgical complication: understanding statutory structure of medico-legal committee investigating medical error, evaluating professional negligence, and assessing diyat compensation",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, patient alleging surgical complication: understanding statutory structure of Medico-Legal Committee investigating medical error, evaluating professional negligence, and assessing Diyat compensation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, patient alleging surgical complication: understanding statutory structure of Medico-Legal Committee investigating medical error, evaluating professional negligence, and assessing Diyat compensation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction. In the clinical management of Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Medical Malpractice Law Liability Committee Sharia Court Jurisdiction."
+    ],
+    "references": [
+      {
+        "label": "Saudi Ministry of Health Medico-Legal Committees",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15069",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old male is examined at the regional health cluster ambulatory care center with clinical findings indicative of Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians. Clinical examination and investigative review confirm patient with suspected brain death following severe trauma: completing rigorous brainstem reflex testing and apnea test twice 6 hours apart by team of three specialists (neurology, neurosurgery, anesthesia/ICU). Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Patient with suspected brain death following severe trauma: completing rigorous brainstem reflex testing and apnea test twice 6 hours apart by team of three specialists (neurology, neurosurgery, anesthesia/icu)",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, patient with suspected brain death following severe trauma: completing rigorous brainstem reflex testing and apnea test twice 6 hours apart by team of three specialists (neurology, neurosurgery, anesthesia/ICU) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians.",
+        "correct": true
+      },
+      {
+        "text": "Subcutaneous unfractionated heparin without definitive diagnostic imaging",
+        "explanation": "Anticoagulation without objective confirmation of thromboembolic disease exposes the patient to severe hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Immediate endotracheal intubation without pre-oxygenation or hemodynamics check",
+        "explanation": "Rapid sequence intubation without hemodynamic resuscitation and adequate pre-oxygenation precipitates profound peri-intubation cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, patient with suspected brain death following severe trauma: completing rigorous brainstem reflex testing and apnea test twice 6 hours apart by team of three specialists (neurology, neurosurgery, anesthesia/ICU) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians. In the clinical management of Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Law on Organ Donation Brainstem Death Certification Protocol Three Physicians."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Organ Transplantation (SCOT)",
+        "url": "https://scot.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15070",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "Hematology",
+    "topic": "Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old female attends the family medicine clinic for comprehensive health evaluation with clinical findings indicative of Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling. Clinical examination and investigative review confirm Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling.",
+        "correct": true
+      },
+      {
+        "text": "Empiric high-dose nonsteroidal anti-inflammatory therapy without gastric protection",
+        "explanation": "High-dose NSAID therapy induces severe gastrointestinal mucosal ulceration and impairs renal perfusion in volume-depleted patients.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic broad-spectrum antibiotic administration for uncomplicated viral illness",
+        "explanation": "Antibiotics do not improve outcomes in non-bacterial viral syndromes and promote collateral antimicrobial resistance and C. difficile colitis.",
+        "correct": false
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      },
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, Saudi couple attending mandatory pre-marital screening: completing complete blood count and hemoglobin electrophoresis, identifying sickle cell trait in both partners, providing genetic counseling on risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling. In the clinical management of Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Pre-Marital Genetic Testing Sickle Cell Trait and Beta-Thalassemia Carrier Counseling."
+    ],
+    "references": [
+      {
+        "label": "Saudi MOH Pre-Marital Screening Program",
+        "url": "https://www.moh.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15071",
+    "exam": "SMLE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male attends the primary healthcare center (PHCC) clinic in Riyadh with clinical findings indicative of Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care. Clinical examination and investigative review confirm reorganizing health services under Vision 2030: transitioning to regional Health Clusters operating as accountable care organizations focused on prevention, digital health (Sehhaty), and value-based care. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate push in mild compensated respiratory acidosis",
+        "explanation": "Sodium bicarbonate in respiratory acidosis paradoxically increases systemic carbon dioxide tension and worsens intracellular acidosis.",
+        "correct": false
+      },
+      {
+        "text": "Therapeutic lumbar puncture before non-contrast head computed tomography",
+        "explanation": "Performing a lumbar puncture in the presence of an expanding intracranial mass lesion risks fatal transtentorial brainstem herniation.",
+        "correct": false
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      },
+      {
+        "text": "Reorganizing health services under vision 2030: transitioning to regional health clusters operating as accountable care organizations focused on prevention, digital health (sehhaty), and value-based care",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, reorganizing health services under Vision 2030: transitioning to regional Health Clusters operating as accountable care organizations focused on prevention, digital health (Sehhaty), and value-based care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, reorganizing health services under Vision 2030: transitioning to regional Health Clusters operating as accountable care organizations focused on prevention, digital health (Sehhaty), and value-based care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care. In the clinical management of Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Healthcare System Vision 2030 Health Sector Transformation Program Accountable Care."
+    ],
+    "references": [
+      {
+        "label": "Saudi Health Sector Transformation Program Vision 2030",
+        "url": "https://www.vision2030.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15072",
+    "exam": "SMLE",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old female is evaluated in the emergency department of a regional medical complex in Jeddah with clinical findings indicative of Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR. Clinical examination and investigative review confirm outpatient clinic consultation for viral common cold: explaining viral etiology, reassuring patient, providing symptomatic remedies, and strictly refusing unindicated amoxicillin under national ASP regulations. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to Saudi Medical Licensing Examination standards?",
+    "options": [
+      {
+        "text": "Empiric high-dose loop diuretic for asymptomatic mild dependent ankle edema",
+        "explanation": "Diuretic therapy for venous stasis edema causes intravascular volume depletion and prerenal azotemia without correcting venous hypertension.",
+        "correct": false
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Outpatient clinic consultation for viral common cold: explaining viral etiology, reassuring patient, providing symptomatic remedies, and strictly refusing unindicated amoxicillin under national asp regulations",
+        "explanation": "In accordance with accredited clinical practice guidelines for SMLE, outpatient clinic consultation for viral common cold: explaining viral etiology, reassuring patient, providing symptomatic remedies, and strictly refusing unindicated amoxicillin under national ASP regulations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR.",
+        "correct": true
+      },
+      {
+        "text": "Prescribing long-term maintenance oral benzodiazepines for primary insomnia",
+        "explanation": "Benzodiazepines in older adults cause daytime sedation, psychomotor impairment, tolerance, cognitive decline, and increased hip fracture risk.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for SMLE, outpatient clinic consultation for viral common cold: explaining viral etiology, reassuring patient, providing symptomatic remedies, and strictly refusing unindicated amoxicillin under national ASP regulations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR. In the clinical management of Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of Saudi Antimicrobial Stewardship Program ASP National Action Plan on AMR."
+    ],
+    "references": [
+      {
+        "label": "Saudi Center for Disease Prevention and Control (Weqaya) AMR Plan",
+        "url": "https://covid19.cdc.gov.sa/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
