@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-15173",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur. Clinical examination and investigative review confirm bedside examination revealing parvus et tardus pulse, sustained heaving apex beat, and harsh crescendo-decrescendo systolic ejection murmur at right upper sternal border radiating to carotids. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside examination revealing parvus et tardus pulse, sustained heaving apex beat, and harsh crescendo-decrescendo systolic ejection murmur at right upper sternal border radiating to carotids",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination revealing parvus et tardus pulse, sustained heaving apex beat, and harsh crescendo-decrescendo systolic ejection murmur at right upper sternal border radiating to carotids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination revealing parvus et tardus pulse, sustained heaving apex beat, and harsh crescendo-decrescendo systolic ejection murmur at right upper sternal border radiating to carotids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur. In the clinical management of UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Aortic Stenosis Slow-Rising Pulse and Ejection Systolic Murmur."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15174",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest. Clinical examination and investigative review confirm bedside examination demonstrating barrel-shaped chest deformity, pursed-lip expiration, intercostal indrawing, and paradoxical inward inspiratory movement of lower lateral ribs (Hoover sign). Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Bedside examination demonstrating barrel-shaped chest deformity, pursed-lip expiration, intercostal indrawing, and paradoxical inward inspiratory movement of lower lateral ribs (hoover sign)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination demonstrating barrel-shaped chest deformity, pursed-lip expiration, intercostal indrawing, and paradoxical inward inspiratory movement of lower lateral ribs (Hoover sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination demonstrating barrel-shaped chest deformity, pursed-lip expiration, intercostal indrawing, and paradoxical inward inspiratory movement of lower lateral ribs (Hoover sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest. In the clinical management of UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Chronic Obstructive Pulmonary Disease Hoover Sign and Barrel Chest."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pulmonology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15175",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor. Clinical examination and investigative review confirm bedside cerebellar examination revealing dysmetria on finger-nose testing, past-pointing, dysdiadochokinesia on rapid alternating movements, and broad-based titubating gait. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside cerebellar examination revealing dysmetria on finger-nose testing, past-pointing, dysdiadochokinesia on rapid alternating movements, and broad-based titubating gait",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside cerebellar examination revealing dysmetria on finger-nose testing, past-pointing, dysdiadochokinesia on rapid alternating movements, and broad-based titubating gait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside cerebellar examination revealing dysmetria on finger-nose testing, past-pointing, dysdiadochokinesia on rapid alternating movements, and broad-based titubating gait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor. In the clinical management of UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Cerebellar Ataxia Dysdiadochokinesia and Intention Tremor."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Clinical Neurology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15176",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Ang",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas. Clinical examination and investigative review confirm bedside clinical demonstration of peripheral stigmata of chronic liver failure including palmar erythema, multiple spider angiomas over upper torso, leukonychia, and bilateral Dupuytren contracture. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Bedside clinical demonstration of peripheral stigmata of chronic liver failure including palmar erythema, multiple spider angiomas over upper torso, leukonychia, and bilateral dupuytren contracture",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical demonstration of peripheral stigmata of chronic liver failure including palmar erythema, multiple spider angiomas over upper torso, leukonychia, and bilateral Dupuytren contracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical demonstration of peripheral stigmata of chronic liver failure including palmar erythema, multiple spider angiomas over upper torso, leukonychia, and bilateral Dupuytren contracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas. In the clinical management of UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Gastroenterology Cirrhosis Stigmata Palmar Erythema and Spider Angiomas."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gastroenterology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15177",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands. Clinical examination and investigative review confirm bedside clinical features of acromegaly with prominent supraorbital ridge, mandibular prognathism, spade-like enlarged fleshy hands, and macroglossia from excess growth hormone hypersecretion. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bedside clinical features of acromegaly with prominent supraorbital ridge, mandibular prognathism, spade-like enlarged fleshy hands, and macroglossia from excess growth hormone hypersecretion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical features of acromegaly with prominent supraorbital ridge, mandibular prognathism, spade-like enlarged fleshy hands, and macroglossia from excess growth hormone hypersecretion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical features of acromegaly with prominent supraorbital ridge, mandibular prognathism, spade-like enlarged fleshy hands, and macroglossia from excess growth hormone hypersecretion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands. In the clinical management of UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Acromegaly Acral Overgrowth and Spade-Like Hands."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Clinical Endocrinology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15178",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia. Clinical examination and investigative review confirm bedside evaluation showing tight bound-down skin of fingers with clawing (sclerodactyly), radial perioral skin furrowing, restricted mouth opening (microstomia), and digital pitting scars. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside evaluation showing tight bound-down skin of fingers with clawing (sclerodactyly), radial perioral skin furrowing, restricted mouth opening (microstomia), and digital pitting scars",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside evaluation showing tight bound-down skin of fingers with clawing (sclerodactyly), radial perioral skin furrowing, restricted mouth opening (microstomia), and digital pitting scars represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside evaluation showing tight bound-down skin of fingers with clawing (sclerodactyly), radial perioral skin furrowing, restricted mouth opening (microstomia), and digital pitting scars represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia. In the clinical management of UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Rheumatology Systemic Sclerosis Sclerodactyly and Microstomia."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Rheumatology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15179",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hep",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux. Clinical examination and investigative review confirm bedside physical sign of right-sided fluid overload with elevated JVP 6 cm above sternal angle, positive hepatojugular reflux, bilateral basilar crackles, and dependent pitting pretibial edema. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Bedside physical sign of right-sided fluid overload with elevated jvp 6 cm above sternal angle, positive hepatojugular reflux, bilateral basilar crackles, and dependent pitting pretibial edema",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside physical sign of right-sided fluid overload with elevated JVP 6 cm above sternal angle, positive hepatojugular reflux, bilateral basilar crackles, and dependent pitting pretibial edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside physical sign of right-sided fluid overload with elevated JVP 6 cm above sternal angle, positive hepatojugular reflux, bilateral basilar crackles, and dependent pitting pretibial edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux. In the clinical management of UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Heart Failure Jugular Venous Pressure Elevation and Hepatojugular Reflux."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Cardiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15180",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance. Clinical examination and investigative review confirm bedside chest examination showing reduced chest expansion, absent breath sounds, stony dull percussion note, and absent tactile vocal fremitus at right lung base. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside chest examination showing reduced chest expansion, absent breath sounds, stony dull percussion note, and absent tactile vocal fremitus at right lung base",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside chest examination showing reduced chest expansion, absent breath sounds, stony dull percussion note, and absent tactile vocal fremitus at right lung base represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside chest examination showing reduced chest expansion, absent breath sounds, stony dull percussion note, and absent tactile vocal fremitus at right lung base represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance. In the clinical management of UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Pleural Effusion Stony Dull Percussion Note and Absent Vocal Resonance."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pulmonology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15181",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy. Clinical examination and investigative review confirm bedside respiratory examination demonstrating dullness to percussion, tubular bronchial breath sounds, coarse crepitations, and whispering pectoriloquy over left lower lung zone. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Bedside respiratory examination demonstrating dullness to percussion, tubular bronchial breath sounds, coarse crepitations, and whispering pectoriloquy over left lower lung zone",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside respiratory examination demonstrating dullness to percussion, tubular bronchial breath sounds, coarse crepitations, and whispering pectoriloquy over left lower lung zone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside respiratory examination demonstrating dullness to percussion, tubular bronchial breath sounds, coarse crepitations, and whispering pectoriloquy over left lower lung zone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy. In the clinical management of UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Lobar Consolidation Bronchial Breathing and Whispering Pectoriloquy."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Internal Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15182",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor. Clinical examination and investigative review confirm bedside neurological motor assessment demonstrating unilateral 4-Hz pill-rolling rest tremor, leadpipe and cogwheel rigidity, masked facies, and shuffling festinating gait. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bedside neurological motor assessment demonstrating unilateral 4-hz pill-rolling rest tremor, leadpipe and cogwheel rigidity, masked facies, and shuffling festinating gait",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside neurological motor assessment demonstrating unilateral 4-Hz pill-rolling rest tremor, leadpipe and cogwheel rigidity, masked facies, and shuffling festinating gait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside neurological motor assessment demonstrating unilateral 4-Hz pill-rolling rest tremor, leadpipe and cogwheel rigidity, masked facies, and shuffling festinating gait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor. In the clinical management of UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Parkinson Disease Cogwheel Rigidity and Resting Pill-Rolling Tremor."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Clinical Neurology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15183",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and B",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign. Clinical examination and investigative review confirm bedside motor system examination demonstrating clasp-knife spastic hypertonia, brisk hyperreflexia with clonus, pronator drift, and extensor plantar response (Babinski sign). Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside motor system examination demonstrating clasp-knife spastic hypertonia, brisk hyperreflexia with clonus, pronator drift, and extensor plantar response (babinski sign)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside motor system examination demonstrating clasp-knife spastic hypertonia, brisk hyperreflexia with clonus, pronator drift, and extensor plantar response (Babinski sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside motor system examination demonstrating clasp-knife spastic hypertonia, brisk hyperreflexia with clonus, pronator drift, and extensor plantar response (Babinski sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign. In the clinical management of UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Upper Motor Neuron Lesion Spasticity Hyperreflexia and Babinski Sign."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Neurology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15184",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia. Clinical examination and investigative review confirm bedside neuromuscular demonstration of flaccid hypotonia, marked muscular atrophy, spontaneous visible muscle fasciculations, and absent deep tendon reflexes. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Bedside neuromuscular demonstration of flaccid hypotonia, marked muscular atrophy, spontaneous visible muscle fasciculations, and absent deep tendon reflexes",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside neuromuscular demonstration of flaccid hypotonia, marked muscular atrophy, spontaneous visible muscle fasciculations, and absent deep tendon reflexes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside neuromuscular demonstration of flaccid hypotonia, marked muscular atrophy, spontaneous visible muscle fasciculations, and absent deep tendon reflexes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia. In the clinical management of UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Lower Motor Neuron Lesion Muscle Wasting Fasciculations and Areflexia."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Neurology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15185",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema. Clinical examination and investigative review confirm bedside thyroid examination showing diffuse smooth goiter with overlying vascular bruit, proptosis, lid lag, chemosis, and violaceous non-pitting indurated pretibial plaque. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside thyroid examination showing diffuse smooth goiter with overlying vascular bruit, proptosis, lid lag, chemosis, and violaceous non-pitting indurated pretibial plaque",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside thyroid examination showing diffuse smooth goiter with overlying vascular bruit, proptosis, lid lag, chemosis, and violaceous non-pitting indurated pretibial plaque represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside thyroid examination showing diffuse smooth goiter with overlying vascular bruit, proptosis, lid lag, chemosis, and violaceous non-pitting indurated pretibial plaque represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema. In the clinical management of UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Graves Disease Exophthalmos and Pretibial Myxedema."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Endocrinology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15186",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae. Clinical examination and investigative review confirm bedside physical inspection demonstrating rounded moon facies, supraclavicular fat pads, dorsocervical buffalo hump, central truncal adiposity, and wide violaceous abdominal striae > 1 cm. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Bedside physical inspection demonstrating rounded moon facies, supraclavicular fat pads, dorsocervical buffalo hump, central truncal adiposity, and wide violaceous abdominal striae > 1 cm",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside physical inspection demonstrating rounded moon facies, supraclavicular fat pads, dorsocervical buffalo hump, central truncal adiposity, and wide violaceous abdominal striae > 1 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside physical inspection demonstrating rounded moon facies, supraclavicular fat pads, dorsocervical buffalo hump, central truncal adiposity, and wide violaceous abdominal striae > 1 cm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae. In the clinical management of UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Endocrinology Cushing Syndrome Moon Facies Buffalo Hump and Purple Striae."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Endocrinology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15187",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor. Clinical examination and investigative review confirm bedside examination demonstrating spoon-shaped concave nails (koilonychia), angular stomatitis, pale palmar creases, and conjunctival mucosal pallor secondary to severe iron deficiency. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bedside examination demonstrating spoon-shaped concave nails (koilonychia), angular stomatitis, pale palmar creases, and conjunctival mucosal pallor secondary to severe iron deficiency",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination demonstrating spoon-shaped concave nails (koilonychia), angular stomatitis, pale palmar creases, and conjunctival mucosal pallor secondary to severe iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination demonstrating spoon-shaped concave nails (koilonychia), angular stomatitis, pale palmar creases, and conjunctival mucosal pallor secondary to severe iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor. In the clinical management of UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Hematology Severe Anemia Koilonychia Angular Cheilitis and Pallor."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Hematology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15188",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to In",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate. Clinical examination and investigative review confirm bedside abdominal palpation demonstrating firm mass moving inferomedially towards right iliac fossa on deep inspiration with palpable anterior notch and inability to get above the swelling. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside abdominal palpation demonstrating firm mass moving inferomedially towards right iliac fossa on deep inspiration with palpable anterior notch and inability to get above the swelling",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal palpation demonstrating firm mass moving inferomedially towards right iliac fossa on deep inspiration with palpable anterior notch and inability to get above the swelling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal palpation demonstrating firm mass moving inferomedially towards right iliac fossa on deep inspiration with palpable anterior notch and inability to get above the swelling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate. In the clinical management of UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Hematology Splenomegaly Demonstration of Notch and Inability to Insufflate."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Clinical Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15189",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion. Clinical examination and investigative review confirm bedside abdominal examination revealing distended abdomen with everted umbilicus, shifting dullness on percussion from resonant center to flank dullness, and transmitted fluid thrill. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Bedside abdominal examination revealing distended abdomen with everted umbilicus, shifting dullness on percussion from resonant center to flank dullness, and transmitted fluid thrill",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal examination revealing distended abdomen with everted umbilicus, shifting dullness on percussion from resonant center to flank dullness, and transmitted fluid thrill represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal examination revealing distended abdomen with everted umbilicus, shifting dullness on percussion from resonant center to flank dullness, and transmitted fluid thrill represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion. In the clinical management of UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Gastroenterology Ascites Shifting Dullness and Fluid Wave Percussion."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gastroenterology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15190",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor. Clinical examination and investigative review confirm bedside examination of end-stage renal disease showing metabolic flap (asterixis), sallow uremic brownish pigmentation, fine powdery cutaneous uremic frost crystals, and deep Kussmaul respirations. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside examination of end-stage renal disease showing metabolic flap (asterixis), sallow uremic brownish pigmentation, fine powdery cutaneous uremic frost crystals, and deep kussmaul respirations",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination of end-stage renal disease showing metabolic flap (asterixis), sallow uremic brownish pigmentation, fine powdery cutaneous uremic frost crystals, and deep Kussmaul respirations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination of end-stage renal disease showing metabolic flap (asterixis), sallow uremic brownish pigmentation, fine powdery cutaneous uremic frost crystals, and deep Kussmaul respirations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor. In the clinical management of UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Nephrology Chronic Kidney Disease Uremic Frost Asterixis and Pallor."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Nephrology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15191",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Bouton",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere. Clinical examination and investigative review confirm bedside hand examination showing symmetric swelling of metacarpophalangeal joints, ulnar deviation of digits, swan neck deformities, and Boutonniere finger deformities. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Bedside hand examination showing symmetric swelling of metacarpophalangeal joints, ulnar deviation of digits, swan neck deformities, and boutonniere finger deformities",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside hand examination showing symmetric swelling of metacarpophalangeal joints, ulnar deviation of digits, swan neck deformities, and Boutonniere finger deformities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside hand examination showing symmetric swelling of metacarpophalangeal joints, ulnar deviation of digits, swan neck deformities, and Boutonniere finger deformities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere. In the clinical management of UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Rheumatology Rheumatoid Arthritis Ulnar Drift Swan Neck and Boutonniere."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Rheumatology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15192",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage. Clinical examination and investigative review confirm bedside dermatological examination demonstrating well-demarcated salmon-pink plaques with micaceous silvery scales on extensor knees, exhibiting pinpoint bleeding when scales are gently scraped (Auspitz sign). Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bedside dermatological examination demonstrating well-demarcated salmon-pink plaques with micaceous silvery scales on extensor knees, exhibiting pinpoint bleeding when scales are gently scraped (auspitz sign)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside dermatological examination demonstrating well-demarcated salmon-pink plaques with micaceous silvery scales on extensor knees, exhibiting pinpoint bleeding when scales are gently scraped (Auspitz sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside dermatological examination demonstrating well-demarcated salmon-pink plaques with micaceous silvery scales on extensor knees, exhibiting pinpoint bleeding when scales are gently scraped (Auspitz sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage. In the clinical management of UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Dermatology Psoriasis Silvery Scales and Auspitz Sign on Grattage."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Dermatology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15193",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles. Clinical examination and investigative review confirm bedside clinical examination demonstrating grade 4 finger clubbing with Lovibond angle obliteration and coarse pan-inspiratory crackles that alter with vigorous coughing. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside clinical examination demonstrating grade 4 finger clubbing with lovibond angle obliteration and coarse pan-inspiratory crackles that alter with vigorous coughing",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical examination demonstrating grade 4 finger clubbing with Lovibond angle obliteration and coarse pan-inspiratory crackles that alter with vigorous coughing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical examination demonstrating grade 4 finger clubbing with Lovibond angle obliteration and coarse pan-inspiratory crackles that alter with vigorous coughing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles. In the clinical management of UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Pulmonology Bronchiectasis Clubbing and Coarse Crackles."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pulmonology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15194",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Co",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character. Clinical examination and investigative review confirm bedside vascular examination demonstrating rapid distension and abrupt collapse of radial pulse upon elevating patient's arm (Corrigan water-hammer pulse) with wide pulse pressure. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Bedside vascular examination demonstrating rapid distension and abrupt collapse of radial pulse upon elevating patient's arm (corrigan water-hammer pulse) with wide pulse pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside vascular examination demonstrating rapid distension and abrupt collapse of radial pulse upon elevating patient's arm (Corrigan water-hammer pulse) with wide pulse pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside vascular examination demonstrating rapid distension and abrupt collapse of radial pulse upon elevating patient's arm (Corrigan water-hammer pulse) with wide pulse pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character. In the clinical management of UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Aortic Regurgitation Corrigan Water-Hammer Pulse and Collapsing Character."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Cardiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15195",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rum",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur. Clinical examination and investigative review confirm bedside precordial palpation of tapping apex beat, palpable first heart sound, and auscultation in left lateral position revealing loud S1, opening snap, and low-pitched mid-diastolic rumbling murmur. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside precordial palpation of tapping apex beat, palpable first heart sound, and auscultation in left lateral position revealing loud s1, opening snap, and low-pitched mid-diastolic rumbling murmur",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside precordial palpation of tapping apex beat, palpable first heart sound, and auscultation in left lateral position revealing loud S1, opening snap, and low-pitched mid-diastolic rumbling murmur represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside precordial palpation of tapping apex beat, palpable first heart sound, and auscultation in left lateral position revealing loud S1, opening snap, and low-pitched mid-diastolic rumbling murmur represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur. In the clinical management of UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Cardiology Mitral Stenosis Tapping Apex Beat and Mid-Diastolic Rumbling Murmur."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Cardiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15196",
+    "exam": "UHS MBBS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check. Clinical examination and investigative review confirm bedside examination of Bell palsy demonstrating complete ipsilateral upper and lower facial paralysis including inability to raise eyebrow or wrinkle forehead, ruling out central upper motor lesion. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Bedside examination of bell palsy demonstrating complete ipsilateral upper and lower facial paralysis including inability to raise eyebrow or wrinkle forehead, ruling out central upper motor lesion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination of Bell palsy demonstrating complete ipsilateral upper and lower facial paralysis including inability to raise eyebrow or wrinkle forehead, ruling out central upper motor lesion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside examination of Bell palsy demonstrating complete ipsilateral upper and lower facial paralysis including inability to raise eyebrow or wrinkle forehead, ruling out central upper motor lesion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check. In the clinical management of UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Neurology Facial Nerve Palsy Lower Motor Neuron Forehead Sparing Check."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Neurology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15197",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test. Clinical examination and investigative review confirm bedside surgical physical examination testing deep inguinal ring occlusion: after reducing groin swelling, finger over internal ring prevents recurrence on coughing, diagnosing indirect inguinal hernia. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Bedside surgical physical examination testing deep inguinal ring occlusion: after reducing groin swelling, finger over internal ring prevents recurrence on coughing, diagnosing indirect inguinal hernia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside surgical physical examination testing deep inguinal ring occlusion: after reducing groin swelling, finger over internal ring prevents recurrence on coughing, diagnosing indirect inguinal hernia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside surgical physical examination testing deep inguinal ring occlusion: after reducing groin swelling, finger over internal ring prevents recurrence on coughing, diagnosing indirect inguinal hernia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test. In the clinical management of UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Bedside Surgery Inguinal Hernia Direct vs Indirect Anatomical Occlusion Test."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15198",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness. Clinical examination and investigative review confirm bedside clinical signs of acute appendicitis with localized tenderness at McBurney point, right lower quadrant pain provoked by left lower quadrant palpation (Rovsing sign), and pain worsened by coughing (Dunphy sign). Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside clinical signs of acute appendicitis with localized tenderness at mcburney point, right lower quadrant pain provoked by left lower quadrant palpation (rovsing sign), and pain worsened by coughing (dunphy sign)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical signs of acute appendicitis with localized tenderness at McBurney point, right lower quadrant pain provoked by left lower quadrant palpation (Rovsing sign), and pain worsened by coughing (Dunphy sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside clinical signs of acute appendicitis with localized tenderness at McBurney point, right lower quadrant pain provoked by left lower quadrant palpation (Rovsing sign), and pain worsened by coughing (Dunphy sign) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness. In the clinical management of UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Appendicitis Rovsing Sign Dunphy Sign and McBurney Tenderness."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) General Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15199",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation. Clinical examination and investigative review confirm abrupt inspiratory arrest upon deep palpation of right upper quadrant subcostal margin (Murphy sign) with abdominal ultrasound demonstrating thickened gallbladder wall > 4 mm and pericholecystic fluid. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Abrupt inspiratory arrest upon deep palpation of right upper quadrant subcostal margin (murphy sign) with abdominal ultrasound demonstrating thickened gallbladder wall > 4 mm and pericholecystic fluid",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, abrupt inspiratory arrest upon deep palpation of right upper quadrant subcostal margin (Murphy sign) with abdominal ultrasound demonstrating thickened gallbladder wall > 4 mm and pericholecystic fluid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, abrupt inspiratory arrest upon deep palpation of right upper quadrant subcostal margin (Murphy sign) with abdominal ultrasound demonstrating thickened gallbladder wall > 4 mm and pericholecystic fluid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation. In the clinical management of UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Cholecystitis Murphy Sign and Ultrasound Confirmation."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15200",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Gu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding. Clinical examination and investigative review confirm bedside abdominal examination demonstrating absent bowel sounds, severe rebound tenderness, and reflex spasm of anterior abdominal wall musculature producing stone-hard board-like rigidity. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Bedside abdominal examination demonstrating absent bowel sounds, severe rebound tenderness, and reflex spasm of anterior abdominal wall musculature producing stone-hard board-like rigidity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal examination demonstrating absent bowel sounds, severe rebound tenderness, and reflex spasm of anterior abdominal wall musculature producing stone-hard board-like rigidity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside abdominal examination demonstrating absent bowel sounds, severe rebound tenderness, and reflex spasm of anterior abdominal wall musculature producing stone-hard board-like rigidity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding. In the clinical management of UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Peritonitis Board-Like Abdominal Rigidity and Involuntary Guarding."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15201",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dila",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops. Clinical examination and investigative review confirm colicky abdominal pain, obstipation, abdominal distension, and high-pitched tinkling metallic bowel sounds with plain abdominal radiograph demonstrating multiple dilated small bowel loops and air-fluid levels. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Colicky abdominal pain, obstipation, abdominal distension, and high-pitched tinkling metallic bowel sounds with plain abdominal radiograph demonstrating multiple dilated small bowel loops and air-fluid levels",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, colicky abdominal pain, obstipation, abdominal distension, and high-pitched tinkling metallic bowel sounds with plain abdominal radiograph demonstrating multiple dilated small bowel loops and air-fluid levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, colicky abdominal pain, obstipation, abdominal distension, and high-pitched tinkling metallic bowel sounds with plain abdominal radiograph demonstrating multiple dilated small bowel loops and air-fluid levels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops. In the clinical management of UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Intestinal Obstruction High-Pitched Tinkling Bowel Sounds and Dilated Loops."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) General Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15202",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decom",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression. Clinical examination and investigative review confirm acute respiratory distress, unilateral hyper-resonance, absent breath sounds, tracheal deviation to contralateral side, and hemodynamic instability, performing immediate thoracostomy needle decompression. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Acute respiratory distress, unilateral hyper-resonance, absent breath sounds, tracheal deviation to contralateral side, and hemodynamic instability, performing immediate thoracostomy needle decompression",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, acute respiratory distress, unilateral hyper-resonance, absent breath sounds, tracheal deviation to contralateral side, and hemodynamic instability, performing immediate thoracostomy needle decompression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, acute respiratory distress, unilateral hyper-resonance, absent breath sounds, tracheal deviation to contralateral side, and hemodynamic instability, performing immediate thoracostomy needle decompression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression. In the clinical management of UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Tension Pneumothorax Tracheal Deviation and Immediate Needle Decompression."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Trauma Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15203",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds. Clinical examination and investigative review confirm bedside presentation of Beck triad: distant muffled heart sounds, severe arterial hypotension, and elevated jugular venous pressure without pulmonary congestion, necessitating emergent pericardiocentesis. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Bedside presentation of beck triad: distant muffled heart sounds, severe arterial hypotension, and elevated jugular venous pressure without pulmonary congestion, necessitating emergent pericardiocentesis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside presentation of Beck triad: distant muffled heart sounds, severe arterial hypotension, and elevated jugular venous pressure without pulmonary congestion, necessitating emergent pericardiocentesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, bedside presentation of Beck triad: distant muffled heart sounds, severe arterial hypotension, and elevated jugular venous pressure without pulmonary congestion, necessitating emergent pericardiocentesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds. In the clinical management of UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Cardiac Tamponade Beck Triad Hypotension JVD and Muffled Heart Sounds."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15204",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization. Clinical examination and investigative review confirm multiple adjacent rib fractures in two or more places resulting in paradoxical inward movement of chest segment during inspiration and outward movement during expiration, managed with thoracic epidural analgesia. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Multiple adjacent rib fractures in two or more places resulting in paradoxical inward movement of chest segment during inspiration and outward movement during expiration, managed with thoracic epidural analgesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, multiple adjacent rib fractures in two or more places resulting in paradoxical inward movement of chest segment during inspiration and outward movement during expiration, managed with thoracic epidural analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, multiple adjacent rib fractures in two or more places resulting in paradoxical inward movement of chest segment during inspiration and outward movement during expiration, managed with thoracic epidural analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization. In the clinical management of UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Flail Chest Paradoxical Respiration and Analgesic Optimization."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15205",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign. Clinical examination and investigative review confirm squared-off shoulder contour with loss of lateral deltoid roundness, prominent acromion, and palpable humeral head anteriorly in axilla, confirmed on anteroposterior and axillary shoulder radiographs. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Squared-off shoulder contour with loss of lateral deltoid roundness, prominent acromion, and palpable humeral head anteriorly in axilla, confirmed on anteroposterior and axillary shoulder radiographs",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, squared-off shoulder contour with loss of lateral deltoid roundness, prominent acromion, and palpable humeral head anteriorly in axilla, confirmed on anteroposterior and axillary shoulder radiographs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, squared-off shoulder contour with loss of lateral deltoid roundness, prominent acromion, and palpable humeral head anteriorly in axilla, confirmed on anteroposterior and axillary shoulder radiographs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign. In the clinical management of UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Anterior Shoulder Dislocation Loss of Normal Contour and Sulcus Sign."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15206",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction. Clinical examination and investigative review confirm high-velocity dashboard motor vehicular injury presenting with shortened, flexed, internally rotated, and adducted lower limb, requiring urgent closed reduction under deep anesthesia within 6 hours. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "High-velocity dashboard motor vehicular injury presenting with shortened, flexed, internally rotated, and adducted lower limb, requiring urgent closed reduction under deep anesthesia within 6 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, high-velocity dashboard motor vehicular injury presenting with shortened, flexed, internally rotated, and adducted lower limb, requiring urgent closed reduction under deep anesthesia within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, high-velocity dashboard motor vehicular injury presenting with shortened, flexed, internally rotated, and adducted lower limb, requiring urgent closed reduction under deep anesthesia within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction. In the clinical management of UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Posterior Hip Dislocation Sciatic Nerve Palsy and Reduction."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15207",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fascio",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy. Clinical examination and investigative review confirm tibial shaft fracture with excruciating deep crescendo lower leg pain disproportionate to injury, made agonizing by passive toe dorsiflexion, requiring emergency four-compartment fasciotomy. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Tibial shaft fracture with excruciating deep crescendo lower leg pain disproportionate to injury, made agonizing by passive toe dorsiflexion, requiring emergency four-compartment fasciotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tibial shaft fracture with excruciating deep crescendo lower leg pain disproportionate to injury, made agonizing by passive toe dorsiflexion, requiring emergency four-compartment fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tibial shaft fracture with excruciating deep crescendo lower leg pain disproportionate to injury, made agonizing by passive toe dorsiflexion, requiring emergency four-compartment fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy. In the clinical management of UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Compartment Syndrome Pain on Passive Stretch and Urgent Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15208",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Cas",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting. Clinical examination and investigative review confirm fall onto outstretched hand (FOOSH) producing dorsal displacement, dorsal tilt, and radial shift of distal radial fragment creating classic dinner-fork deformity, managed with closed reduction and below-elbow cast. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Fall onto outstretched hand (foosh) producing dorsal displacement, dorsal tilt, and radial shift of distal radial fragment creating classic dinner-fork deformity, managed with closed reduction and below-elbow cast",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fall onto outstretched hand (FOOSH) producing dorsal displacement, dorsal tilt, and radial shift of distal radial fragment creating classic dinner-fork deformity, managed with closed reduction and below-elbow cast represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, fall onto outstretched hand (FOOSH) producing dorsal displacement, dorsal tilt, and radial shift of distal radial fragment creating classic dinner-fork deformity, managed with closed reduction and below-elbow cast represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting. In the clinical management of UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Colles Fracture Dinner-Fork Deformity and Closed Reduction Casting."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedic Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15209",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica. Clinical examination and investigative review confirm wrist trauma with point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus, immobilized in thumb spica splint with repeat imaging at 14 days. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Wrist trauma with point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus, immobilized in thumb spica splint with repeat imaging at 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, wrist trauma with point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus, immobilized in thumb spica splint with repeat imaging at 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, wrist trauma with point tenderness in anatomical snuffbox between tendons of abductor pollicis longus and extensor pollicis longus, immobilized in thumb spica splint with repeat imaging at 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica. In the clinical management of UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Scaphoid Fracture Anatomical Snuffbox Tenderness and Thumb Spica."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15210",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift. Clinical examination and investigative review confirm sports deceleration twisting knee injury with audible pop and immediate hemarthrosis, demonstrating increased anterior tibial translation with soft end-point on Lachman test at 30 degrees knee flexion. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Sports deceleration twisting knee injury with audible pop and immediate hemarthrosis, demonstrating increased anterior tibial translation with soft end-point on lachman test at 30 degrees knee flexion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sports deceleration twisting knee injury with audible pop and immediate hemarthrosis, demonstrating increased anterior tibial translation with soft end-point on Lachman test at 30 degrees knee flexion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sports deceleration twisting knee injury with audible pop and immediate hemarthrosis, demonstrating increased anterior tibial translation with soft end-point on Lachman test at 30 degrees knee flexion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift. In the clinical management of UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Orthopedics Anterior Cruciate Ligament Lachman Test and Pivot-Shift."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Orthopedics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15211",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Cre",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent. Clinical examination and investigative review confirm sudden excruciating epigastric pain spreading across abdomen with board-like rigidity and erect chest radiograph revealing thin crescent of free air under right hemidiaphragm (pneumoperitoneum). Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Sudden excruciating epigastric pain spreading across abdomen with board-like rigidity and erect chest radiograph revealing thin crescent of free air under right hemidiaphragm (pneumoperitoneum)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden excruciating epigastric pain spreading across abdomen with board-like rigidity and erect chest radiograph revealing thin crescent of free air under right hemidiaphragm (pneumoperitoneum) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden excruciating epigastric pain spreading across abdomen with board-like rigidity and erect chest radiograph revealing thin crescent of free air under right hemidiaphragm (pneumoperitoneum) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent. In the clinical management of UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Perforated Peptic Ulcer Rigidity and Subdiaphragmatic Free Gas Crescent."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15212",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs. Clinical examination and investigative review confirm atrial fibrillation patient presenting with agonizing acute periumbilical abdominal pain with remarkably unremarkable, soft, non-tender abdominal palpation, requiring urgent CT mesenteric angiography. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Atrial fibrillation patient presenting with agonizing acute periumbilical abdominal pain with remarkably unremarkable, soft, non-tender abdominal palpation, requiring urgent ct mesenteric angiography",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, atrial fibrillation patient presenting with agonizing acute periumbilical abdominal pain with remarkably unremarkable, soft, non-tender abdominal palpation, requiring urgent CT mesenteric angiography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, atrial fibrillation patient presenting with agonizing acute periumbilical abdominal pain with remarkably unremarkable, soft, non-tender abdominal palpation, requiring urgent CT mesenteric angiography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs. In the clinical management of UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Mesenteric Ischemia Pain Out of Proportion to Physical Signs."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) General Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15213",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder. Clinical examination and investigative review confirm painless progressive deep jaundice, clay-colored pale stools, dark urine, and palpable non-tender smooth gallbladder (Courvoisier law), pointing strongly to periampullary or pancreatic head carcinoma. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Painless progressive deep jaundice, clay-colored pale stools, dark urine, and palpable non-tender smooth gallbladder (courvoisier law), pointing strongly to periampullary or pancreatic head carcinoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless progressive deep jaundice, clay-colored pale stools, dark urine, and palpable non-tender smooth gallbladder (Courvoisier law), pointing strongly to periampullary or pancreatic head carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless progressive deep jaundice, clay-colored pale stools, dark urine, and palpable non-tender smooth gallbladder (Courvoisier law), pointing strongly to periampullary or pancreatic head carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder. In the clinical management of UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Obstructive Jaundice Courvoisier Law Palpable Painless Gallbladder."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15214",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4. Clinical examination and investigative review confirm painless bright red rectal bleeding on wiping with physical examination differentiating internal hemorrhoidal prolapse grades: grade 2 prolapsing and reducing spontaneously, treated with rubber band ligation. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Painless bright red rectal bleeding on wiping with physical examination differentiating internal hemorrhoidal prolapse grades: grade 2 prolapsing and reducing spontaneously, treated with rubber band ligation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless bright red rectal bleeding on wiping with physical examination differentiating internal hemorrhoidal prolapse grades: grade 2 prolapsing and reducing spontaneously, treated with rubber band ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, painless bright red rectal bleeding on wiping with physical examination differentiating internal hemorrhoidal prolapse grades: grade 2 prolapsing and reducing spontaneously, treated with rubber band ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4. In the clinical management of UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Hemorrhoids Banding and Sclerotherapy Classification Grade 1 to 4."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) General Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15215",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent. Clinical examination and investigative review confirm severe knife-like tearing pain during and after defecation with bright blood on toilet paper and gentle physical inspection revealing longitudinal mucosal tear in posterior midline, treated with topical diltiazem. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Severe knife-like tearing pain during and after defecation with bright blood on toilet paper and gentle physical inspection revealing longitudinal mucosal tear in posterior midline, treated with topical diltiazem",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, severe knife-like tearing pain during and after defecation with bright blood on toilet paper and gentle physical inspection revealing longitudinal mucosal tear in posterior midline, treated with topical diltiazem represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, severe knife-like tearing pain during and after defecation with bright blood on toilet paper and gentle physical inspection revealing longitudinal mucosal tear in posterior midline, treated with topical diltiazem represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent. In the clinical management of UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Anal Fissure Posterior Midline Tear and Topical Diltiazem 2 Percent."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15216",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing. Clinical examination and investigative review confirm throbbing continuous perianal pain, fever, and tender, fluctuant, erythematous perianal swelling on inspection, requiring urgent surgical incision and drainage under general anesthesia. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Throbbing continuous perianal pain, fever, and tender, fluctuant, erythematous perianal swelling on inspection, requiring urgent surgical incision and drainage under general anesthesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, throbbing continuous perianal pain, fever, and tender, fluctuant, erythematous perianal swelling on inspection, requiring urgent surgical incision and drainage under general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, throbbing continuous perianal pain, fever, and tender, fluctuant, erythematous perianal swelling on inspection, requiring urgent surgical incision and drainage under general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing. In the clinical management of UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Perianal Abscess Urgent Incision and Drainage Without Packing."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15217",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Bio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy. Clinical examination and investigative review confirm discrete hard painless irregular breast mass in upper outer quadrant: completing standard triple assessment (clinical examination, bilateral digital mammography, and core needle biopsy). Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Discrete hard painless irregular breast mass in upper outer quadrant: completing standard triple assessment (clinical examination, bilateral digital mammography, and core needle biopsy)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, discrete hard painless irregular breast mass in upper outer quadrant: completing standard triple assessment (clinical examination, bilateral digital mammography, and core needle biopsy) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, discrete hard painless irregular breast mass in upper outer quadrant: completing standard triple assessment (clinical examination, bilateral digital mammography, and core needle biopsy) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy. In the clinical management of UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Breast Lump Triple Assessment Clinical Imaging and Core Needle Biopsy."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15218",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female. Clinical examination and investigative review confirm firm, smooth, highly mobile, non-tender, rubbery solitary breast mass (breast mouse) in a 22-year-old female, confirmed benign on diagnostic breast ultrasound. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Firm, smooth, highly mobile, non-tender, rubbery solitary breast mass (breast mouse) in a 22-year-old female, confirmed benign on diagnostic breast ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, firm, smooth, highly mobile, non-tender, rubbery solitary breast mass (breast mouse) in a 22-year-old female, confirmed benign on diagnostic breast ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, firm, smooth, highly mobile, non-tender, rubbery solitary breast mass (breast mouse) in a 22-year-old female, confirmed benign on diagnostic breast ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female. In the clinical management of UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Fibroadenoma Breast Mouse Mobile Firm Benign Mass in Young Female."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15219",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scro",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration. Clinical examination and investigative review confirm sudden agonizing hemiscrotal pain, high-riding transverse testis, and absent ipsilateral cremasteric reflex in an adolescent, requiring immediate bilateral surgical scrotal exploration and orchidopexy. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Sudden agonizing hemiscrotal pain, high-riding transverse testis, and absent ipsilateral cremasteric reflex in an adolescent, requiring immediate bilateral surgical scrotal exploration and orchidopexy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden agonizing hemiscrotal pain, high-riding transverse testis, and absent ipsilateral cremasteric reflex in an adolescent, requiring immediate bilateral surgical scrotal exploration and orchidopexy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, sudden agonizing hemiscrotal pain, high-riding transverse testis, and absent ipsilateral cremasteric reflex in an adolescent, requiring immediate bilateral surgical scrotal exploration and orchidopexy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration. In the clinical management of UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Acute Testicular Torsion Absent Cremasteric Reflex and Urgent Scrotal Exploration."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Urology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15220",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatoge",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis. Clinical examination and investigative review confirm soft non-tender left scrotal mass described as bag of worms that enlarges with Valsalva maneuver and standing and decompresses when supine, evaluating semen analysis and surgical ligation. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Soft non-tender left scrotal mass described as bag of worms that enlarges with valsalva maneuver and standing and decompresses when supine, evaluating semen analysis and surgical ligation",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, soft non-tender left scrotal mass described as bag of worms that enlarges with Valsalva maneuver and standing and decompresses when supine, evaluating semen analysis and surgical ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, soft non-tender left scrotal mass described as bag of worms that enlarges with Valsalva maneuver and standing and decompresses when supine, evaluating semen analysis and surgical ligation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis. In the clinical management of UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Varicocele Bag of Worms Left-Sided Scrotal Swelling and Spermatogenesis."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15221",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup. Clinical examination and investigative review confirm isolated firm painless enlargement of Cloquet lymph node in femoral canal beneath inguinal ligament, prompting thorough search for occult malignancy in pelvic viscera, perineum, or lower extremity. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Isolated firm painless enlargement of cloquet lymph node in femoral canal beneath inguinal ligament, prompting thorough search for occult malignancy in pelvic viscera, perineum, or lower extremity",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, isolated firm painless enlargement of Cloquet lymph node in femoral canal beneath inguinal ligament, prompting thorough search for occult malignancy in pelvic viscera, perineum, or lower extremity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, isolated firm painless enlargement of Cloquet lymph node in femoral canal beneath inguinal ligament, prompting thorough search for occult malignancy in pelvic viscera, perineum, or lower extremity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup. In the clinical management of UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Inguinal Lymphadenopathy Cloquet Node Drainage and Metastatic Workup."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgical Anatomy Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15222",
+    "exam": "UHS MBBS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System. Clinical examination and investigative review confirm solitary discrete firm thyroid nodule in euthyroid patient: performing high-resolution neck ultrasound and ultrasound-guided fine needle aspiration cytology (FNAC) classified under Bethesda system. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Solitary discrete firm thyroid nodule in euthyroid patient: performing high-resolution neck ultrasound and ultrasound-guided fine needle aspiration cytology (fnac) classified under bethesda system",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, solitary discrete firm thyroid nodule in euthyroid patient: performing high-resolution neck ultrasound and ultrasound-guided fine needle aspiration cytology (FNAC) classified under Bethesda system represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, solitary discrete firm thyroid nodule in euthyroid patient: performing high-resolution neck ultrasound and ultrasound-guided fine needle aspiration cytology (FNAC) classified under Bethesda system represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System. In the clinical management of UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Surgery Thyroid Nodule Fine Needle Aspiration Cytology Bethesda System."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15223",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 21-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol. Clinical examination and investigative review confirm pregnant woman at 32 weeks gestation with blood pressure 155/95 mm Hg on two occasions and 2+ proteinuria on dipstick (urine PCR > 30 mg/mmol), initiating oral labetalol and serial fetal surveillance. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Pregnant woman at 32 weeks gestation with blood pressure 155/95 mm hg on two occasions and 2+ proteinuria on dipstick (urine pcr > 30 mg/mmol), initiating oral labetalol and serial fetal surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, pregnant woman at 32 weeks gestation with blood pressure 155/95 mm Hg on two occasions and 2+ proteinuria on dipstick (urine PCR > 30 mg/mmol), initiating oral labetalol and serial fetal surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, pregnant woman at 32 weeks gestation with blood pressure 155/95 mm Hg on two occasions and 2+ proteinuria on dipstick (urine PCR > 30 mg/mmol), initiating oral labetalol and serial fetal surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol. In the clinical management of UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Preeclampsia Proteinuria Hypertension and Oral Labetalol."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15224",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol. Clinical examination and investigative review confirm tonic-clonic seizures in late pregnancy with severe hypertension: administering intravenous and intramuscular magnesium sulfate loading dose (Pritchard regimen) with calcium gluconate antidote standby. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Tonic-clonic seizures in late pregnancy with severe hypertension: administering intravenous and intramuscular magnesium sulfate loading dose (pritchard regimen) with calcium gluconate antidote standby",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tonic-clonic seizures in late pregnancy with severe hypertension: administering intravenous and intramuscular magnesium sulfate loading dose (Pritchard regimen) with calcium gluconate antidote standby represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, tonic-clonic seizures in late pregnancy with severe hypertension: administering intravenous and intramuscular magnesium sulfate loading dose (Pritchard regimen) with calcium gluconate antidote standby represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol. In the clinical management of UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Severe Eclampsia Intravenous Magnesium Sulfate Pritchard Protocol."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics and Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15225",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion. Clinical examination and investigative review confirm heavy vaginal bleeding exceeding 500 mL following vaginal delivery with soft boggy uterus (uterine atony), performing immediate bimanual uterine compression and high-dose IV oxytocin infusion. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Heavy vaginal bleeding exceeding 500 ml following vaginal delivery with soft boggy uterus (uterine atony), performing immediate bimanual uterine compression and high-dose iv oxytocin infusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, heavy vaginal bleeding exceeding 500 mL following vaginal delivery with soft boggy uterus (uterine atony), performing immediate bimanual uterine compression and high-dose IV oxytocin infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, heavy vaginal bleeding exceeding 500 mL following vaginal delivery with soft boggy uterus (uterine atony), performing immediate bimanual uterine compression and high-dose IV oxytocin infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion. In the clinical management of UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Postpartum Hemorrhage Bimanual Uterine Compression and Oxytocin Infusion."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15226",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam. Clinical examination and investigative review confirm third-trimester painless bright red vaginal bleeding: strictly avoiding digital vaginal examination and performing immediate transabdominal and transvaginal ultrasound to locate placental edge. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Third-trimester painless bright red vaginal bleeding: strictly avoiding digital vaginal examination and performing immediate transabdominal and transvaginal ultrasound to locate placental edge",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, third-trimester painless bright red vaginal bleeding: strictly avoiding digital vaginal examination and performing immediate transabdominal and transvaginal ultrasound to locate placental edge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, third-trimester painless bright red vaginal bleeding: strictly avoiding digital vaginal examination and performing immediate transabdominal and transvaginal ultrasound to locate placental edge represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam. In the clinical management of UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Placenta Previa Painless Antepartum Hemorrhage and Avoidance of Digital Exam."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15227",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery. Clinical examination and investigative review confirm third-trimester dark vaginal bleeding accompanied by severe continuous abdominal pain, hypertonic tender woody uterus, and fetal distress, managing with emergent cesarean delivery. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Third-trimester dark vaginal bleeding accompanied by severe continuous abdominal pain, hypertonic tender woody uterus, and fetal distress, managing with emergent cesarean delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, third-trimester dark vaginal bleeding accompanied by severe continuous abdominal pain, hypertonic tender woody uterus, and fetal distress, managing with emergent cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, third-trimester dark vaginal bleeding accompanied by severe continuous abdominal pain, hypertonic tender woody uterus, and fetal distress, managing with emergent cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery. In the clinical management of UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Placental Abruption Painful Vaginal Bleeding Wooden Uterus and Delivery."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15228",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure. Clinical examination and investigative review confirm head deliver but retracted tightly against perineum (turtle sign) with anterior shoulder impacted behind pubic symphysis, executing immediate McRoberts maneuver and suprapubic pressure. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Head deliver but retracted tightly against perineum (turtle sign) with anterior shoulder impacted behind pubic symphysis, executing immediate mcroberts maneuver and suprapubic pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, head deliver but retracted tightly against perineum (turtle sign) with anterior shoulder impacted behind pubic symphysis, executing immediate McRoberts maneuver and suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, head deliver but retracted tightly against perineum (turtle sign) with anterior shoulder impacted behind pubic symphysis, executing immediate McRoberts maneuver and suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure. In the clinical management of UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Obstetrics Shoulder Dystocia McRoberts Maneuver and Suprapubic Pressure."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Obstetrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15229",
+    "exam": "UHS MBBS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers. Clinical examination and investigative review confirm first-trimester unilateral lower abdominal stabbing pain, amenorrhea for 6 weeks, and scant bleeding with serum beta-hCG 2500 IU/L and empty uterine cavity on transvaginal ultrasonography. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "First-trimester unilateral lower abdominal stabbing pain, amenorrhea for 6 weeks, and scant bleeding with serum beta-hcg 2500 iu/l and empty uterine cavity on transvaginal ultrasonography",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, first-trimester unilateral lower abdominal stabbing pain, amenorrhea for 6 weeks, and scant bleeding with serum beta-hCG 2500 IU/L and empty uterine cavity on transvaginal ultrasonography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, first-trimester unilateral lower abdominal stabbing pain, amenorrhea for 6 weeks, and scant bleeding with serum beta-hCG 2500 IU/L and empty uterine cavity on transvaginal ultrasonography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers. In the clinical management of UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Ectopic Pregnancy Transvaginal Ultrasound and Beta-hCG Titers."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15230",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceft",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone. Clinical examination and investigative review confirm purulent cervical discharge, deep dyspareunia, and marked cervical motion tenderness on bimanual pelvic examination (chandelier sign), initiating IM ceftriaxone, oral doxycycline, and metronidazole. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Purulent cervical discharge, deep dyspareunia, and marked cervical motion tenderness on bimanual pelvic examination (chandelier sign), initiating im ceftriaxone, oral doxycycline, and metronidazole",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purulent cervical discharge, deep dyspareunia, and marked cervical motion tenderness on bimanual pelvic examination (chandelier sign), initiating IM ceftriaxone, oral doxycycline, and metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, purulent cervical discharge, deep dyspareunia, and marked cervical motion tenderness on bimanual pelvic examination (chandelier sign), initiating IM ceftriaxone, oral doxycycline, and metronidazole represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone. In the clinical management of UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Pelvic Inflammatory Disease Cervical Motion Tenderness and Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15231",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold St",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard. Clinical examination and investigative review confirm chronic cyclical pelvic pain, severe secondary dysmenorrhea, and deep dyspareunia unresponsive to NSAIDs and oral contraceptives, confirming diagnosis via diagnostic laparoscopy (powder-burn lesions). Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Chronic cyclical pelvic pain, severe secondary dysmenorrhea, and deep dyspareunia unresponsive to nsaids and oral contraceptives, confirming diagnosis via diagnostic laparoscopy (powder-burn lesions)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic cyclical pelvic pain, severe secondary dysmenorrhea, and deep dyspareunia unresponsive to NSAIDs and oral contraceptives, confirming diagnosis via diagnostic laparoscopy (powder-burn lesions) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, chronic cyclical pelvic pain, severe secondary dysmenorrhea, and deep dyspareunia unresponsive to NSAIDs and oral contraceptives, confirming diagnosis via diagnostic laparoscopy (powder-burn lesions) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard. In the clinical management of UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Endometriosis Dysmenorrhea Dyspareunia and Laparoscopic Gold Standard."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15232",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification. Clinical examination and investigative review confirm oligomenorrhea, hirsutism, and pelvic ultrasonography demonstrating peripheral polycystic ovarian morphology (string of pearls sign), initiating weight loss, exercise, and combined oral contraceptive pills. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Oligomenorrhea, hirsutism, and pelvic ultrasonography demonstrating peripheral polycystic ovarian morphology (string of pearls sign), initiating weight loss, exercise, and combined oral contraceptive pills",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, oligomenorrhea, hirsutism, and pelvic ultrasonography demonstrating peripheral polycystic ovarian morphology (string of pearls sign), initiating weight loss, exercise, and combined oral contraceptive pills represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, oligomenorrhea, hirsutism, and pelvic ultrasonography demonstrating peripheral polycystic ovarian morphology (string of pearls sign), initiating weight loss, exercise, and combined oral contraceptive pills represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification. In the clinical management of UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Polycystic Ovary Syndrome Rotterdam Criteria and Lifestyle Modification."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15233",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Ind",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication. Clinical examination and investigative review confirm routine cervical cytology reporting high-grade squamous intraepithelial lesion (HSIL) in a 34-year-old woman, arranging prompt colposcopy with acetic acid visualization and directed punch biopsy. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Routine cervical cytology reporting high-grade squamous intraepithelial lesion (hsil) in a 34-year-old woman, arranging prompt colposcopy with acetic acid visualization and directed punch biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, routine cervical cytology reporting high-grade squamous intraepithelial lesion (HSIL) in a 34-year-old woman, arranging prompt colposcopy with acetic acid visualization and directed punch biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, routine cervical cytology reporting high-grade squamous intraepithelial lesion (HSIL) in a 34-year-old woman, arranging prompt colposcopy with acetic acid visualization and directed punch biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication. In the clinical management of UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Gynecology Cervical Cancer Screening Bethesda Pap Smear and Colposcopy Indication."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Gynecology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15234",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 7-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation. Clinical examination and investigative review confirm child presenting with watery diarrhea and moderate dehydration (sunken eyes, dry mucous membranes, delayed skin pinch return < 2 seconds), rehydrating with WHO low-osmolarity ORS and elemental zinc 20 mg daily for 14 days. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Child presenting with watery diarrhea and moderate dehydration (sunken eyes, dry mucous membranes, delayed skin pinch return < 2 seconds), rehydrating with who low-osmolarity ors and elemental zinc 20 mg daily for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with watery diarrhea and moderate dehydration (sunken eyes, dry mucous membranes, delayed skin pinch return < 2 seconds), rehydrating with WHO low-osmolarity ORS and elemental zinc 20 mg daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with watery diarrhea and moderate dehydration (sunken eyes, dry mucous membranes, delayed skin pinch return < 2 seconds), rehydrating with WHO low-osmolarity ORS and elemental zinc 20 mg daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation. In the clinical management of UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Diarrhea WHO Low-Osmolarity ORS and Zinc Supplementation."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15235",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabil",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 8-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization. Clinical examination and investigative review confirm infant with bilateral pitting pedal edema, dry flaky skin, sparse discolored hair, and apathy, initiating careful phase 1 stabilization feeding with starter formula F-75 avoiding refeeding syndrome. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Infant with bilateral pitting pedal edema, dry flaky skin, sparse discolored hair, and apathy, initiating careful phase 1 stabilization feeding with starter formula f-75 avoiding refeeding syndrome",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with bilateral pitting pedal edema, dry flaky skin, sparse discolored hair, and apathy, initiating careful phase 1 stabilization feeding with starter formula F-75 avoiding refeeding syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with bilateral pitting pedal edema, dry flaky skin, sparse discolored hair, and apathy, initiating careful phase 1 stabilization feeding with starter formula F-75 avoiding refeeding syndrome represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization. In the clinical management of UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Severe Malnutrition Kwashiorkor vs Marasmus F-75 Formula Stabilization."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Nutrition Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15236",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 9-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A. Clinical examination and investigative review confirm child with fever, cough, coryza, conjunctivitis, and tiny blue-white spots on buccal mucosa opposite lower molars (Koplik spots), administering two age-appropriate doses of oral vitamin A. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Child with fever, cough, coryza, conjunctivitis, and tiny blue-white spots on buccal mucosa opposite lower molars (koplik spots), administering two age-appropriate doses of oral vitamin a",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child with fever, cough, coryza, conjunctivitis, and tiny blue-white spots on buccal mucosa opposite lower molars (Koplik spots), administering two age-appropriate doses of oral vitamin A represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child with fever, cough, coryza, conjunctivitis, and tiny blue-white spots on buccal mucosa opposite lower molars (Koplik spots), administering two age-appropriate doses of oral vitamin A represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A. In the clinical management of UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Measles Koplik Spots Maculopapular Rash and High-Dose Vitamin A."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15237",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 10-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone. Clinical examination and investigative review confirm child presenting with hoarse voice, seal-like barking cough, and inspiratory stridor with steeple sign on AP neck soft-tissue radiograph, administering oral or nebulized dexamethasone 0.15 mg/kg. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Child presenting with hoarse voice, seal-like barking cough, and inspiratory stridor with steeple sign on ap neck soft-tissue radiograph, administering oral or nebulized dexamethasone 0.15 mg/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with hoarse voice, seal-like barking cough, and inspiratory stridor with steeple sign on AP neck soft-tissue radiograph, administering oral or nebulized dexamethasone 0.15 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with hoarse voice, seal-like barking cough, and inspiratory stridor with steeple sign on AP neck soft-tissue radiograph, administering oral or nebulized dexamethasone 0.15 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone. In the clinical management of UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Croup Laryngotracheobronchitis Barking Cough and Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15238",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxyg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 11-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration. Clinical examination and investigative review confirm infant under 12 months with coryza, low-grade fever, tachypnea, intercostal retractions, and bilateral expiratory wheezes with fine crepitations, managed supportively with humidified oxygen and nasal suctioning. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Infant under 12 months with coryza, low-grade fever, tachypnea, intercostal retractions, and bilateral expiratory wheezes with fine crepitations, managed supportively with humidified oxygen and nasal suctioning",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant under 12 months with coryza, low-grade fever, tachypnea, intercostal retractions, and bilateral expiratory wheezes with fine crepitations, managed supportively with humidified oxygen and nasal suctioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant under 12 months with coryza, low-grade fever, tachypnea, intercostal retractions, and bilateral expiratory wheezes with fine crepitations, managed supportively with humidified oxygen and nasal suctioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration. In the clinical management of UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Bronchiolitis Respiratory Syncytial Virus Supportive Oxygen and Hydration."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15239",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 12-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction. Clinical examination and investigative review confirm infant with episodic screaming paroxysms, pulling legs to abdomen, sausage-shaped right upper quadrant abdominal mass, and passage of red currant jelly stool, reduced using pneumatic air enema. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Infant with episodic screaming paroxysms, pulling legs to abdomen, sausage-shaped right upper quadrant abdominal mass, and passage of red currant jelly stool, reduced using pneumatic air enema",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with episodic screaming paroxysms, pulling legs to abdomen, sausage-shaped right upper quadrant abdominal mass, and passage of red currant jelly stool, reduced using pneumatic air enema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant with episodic screaming paroxysms, pulling legs to abdomen, sausage-shaped right upper quadrant abdominal mass, and passage of red currant jelly stool, reduced using pneumatic air enema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction. In the clinical management of UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Intussusception Red Currant Jelly Stools and Air Enema Reduction."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15240",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Th",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 1-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds. Clinical examination and investigative review confirm full-term neonate developing jaundice within first 24 hours of life with rapid bilirubin rise > 5 mg/dL/day, indicating pathological hemolysis requiring direct Coombs test, blood group typing, and phototherapy. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Full-term neonate developing jaundice within first 24 hours of life with rapid bilirubin rise > 5 mg/dl/day, indicating pathological hemolysis requiring direct coombs test, blood group typing, and phototherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, full-term neonate developing jaundice within first 24 hours of life with rapid bilirubin rise > 5 mg/dL/day, indicating pathological hemolysis requiring direct Coombs test, blood group typing, and phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, full-term neonate developing jaundice within first 24 hours of life with rapid bilirubin rise > 5 mg/dL/day, indicating pathological hemolysis requiring direct Coombs test, blood group typing, and phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds. In the clinical management of UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Neonatal Jaundice Physiological vs Pathological Phototherapy Thresholds."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Neonatology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15241",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen. Clinical examination and investigative review confirm neonate with temperature instability, poor feeding, lethargy, tachypnea, and grunting, obtaining full sepsis workup and starting intravenous ampicillin and gentamicin within 1 hour. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Neonate with temperature instability, poor feeding, lethargy, tachypnea, and grunting, obtaining full sepsis workup and starting intravenous ampicillin and gentamicin within 1 hour",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neonate with temperature instability, poor feeding, lethargy, tachypnea, and grunting, obtaining full sepsis workup and starting intravenous ampicillin and gentamicin within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neonate with temperature instability, poor feeding, lethargy, tachypnea, and grunting, obtaining full sepsis workup and starting intravenous ampicillin and gentamicin within 1 hour represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen. In the clinical management of UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Neonatal Sepsis Empirical Ampicillin and Gentamicin Regimen."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Neonatology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15242",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 5-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position. Clinical examination and investigative review confirm toddler with known congenital heart disease turning acutely blue and hyperpneic during crying spell, placing child immediately in knee-chest position and administering high-flow oxygen. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Toddler with known congenital heart disease turning acutely blue and hyperpneic during crying spell, placing child immediately in knee-chest position and administering high-flow oxygen",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, toddler with known congenital heart disease turning acutely blue and hyperpneic during crying spell, placing child immediately in knee-chest position and administering high-flow oxygen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, toddler with known congenital heart disease turning acutely blue and hyperpneic during crying spell, placing child immediately in knee-chest position and administering high-flow oxygen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position. In the clinical management of UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spells Knee-Chest Position."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Cardiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15243",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Lev",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine. Clinical examination and investigative review confirm neonatal dried blood spot screening showing elevated TSH: confirming low free T4 and starting immediate oral levothyroxine 10-15 mcg/kg/day to prevent irreversible cognitive impairment (cretinism). Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Neonatal dried blood spot screening showing elevated tsh: confirming low free t4 and starting immediate oral levothyroxine 10-15 mcg/kg/day to prevent irreversible cognitive impairment (cretinism)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neonatal dried blood spot screening showing elevated TSH: confirming low free T4 and starting immediate oral levothyroxine 10-15 mcg/kg/day to prevent irreversible cognitive impairment (cretinism) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, neonatal dried blood spot screening showing elevated TSH: confirming low free T4 and starting immediate oral levothyroxine 10-15 mcg/kg/day to prevent irreversible cognitive impairment (cretinism) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine. In the clinical management of UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Congenital Hypothyroidism Heel Prick Neonatal Screening and Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Endocrinology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15244",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suctio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 7-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy. Clinical examination and investigative review confirm full-term neonate failing to pass meconium within first 48 hours of life with abdominal distension and explosive evacuation on digital rectal examination, diagnosing with full-thickness rectal suction biopsy. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Full-term neonate failing to pass meconium within first 48 hours of life with abdominal distension and explosive evacuation on digital rectal examination, diagnosing with full-thickness rectal suction biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, full-term neonate failing to pass meconium within first 48 hours of life with abdominal distension and explosive evacuation on digital rectal examination, diagnosing with full-thickness rectal suction biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, full-term neonate failing to pass meconium within first 48 hours of life with abdominal distension and explosive evacuation on digital rectal examination, diagnosing with full-thickness rectal suction biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy. In the clinical management of UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Hirschsprung Disease Delayed Meconium Passage and Rectal Suction Biopsy."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15245",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 8-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis. Clinical examination and investigative review confirm 4-week-old male infant with non-bilious projectile vomiting, visible gastric peristaltic waves, and palpable olive-shaped right upper quadrant mass, exhibiting hypochloremic hypokalemic metabolic alkalosis. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "4-week-old male infant with non-bilious projectile vomiting, visible gastric peristaltic waves, and palpable olive-shaped right upper quadrant mass, exhibiting hypochloremic hypokalemic metabolic alkalosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 4-week-old male infant with non-bilious projectile vomiting, visible gastric peristaltic waves, and palpable olive-shaped right upper quadrant mass, exhibiting hypochloremic hypokalemic metabolic alkalosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 4-week-old male infant with non-bilious projectile vomiting, visible gastric peristaltic waves, and palpable olive-shaped right upper quadrant mass, exhibiting hypochloremic hypokalemic metabolic alkalosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis. In the clinical management of UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Pyloric Stenosis Hypochloremic Hypokalemic Metabolic Alkalosis."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Surgery Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15246",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 9-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling. Clinical examination and investigative review confirm 2-year-old child experiencing 2-minute generalized tonic-clonic convulsion in setting of rapid fever rise from viral otitis, recovering baseline alertness within 10 minutes (simple febrile seizure). Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "2-year-old child experiencing 2-minute generalized tonic-clonic convulsion in setting of rapid fever rise from viral otitis, recovering baseline alertness within 10 minutes (simple febrile seizure)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 2-year-old child experiencing 2-minute generalized tonic-clonic convulsion in setting of rapid fever rise from viral otitis, recovering baseline alertness within 10 minutes (simple febrile seizure) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, 2-year-old child experiencing 2-minute generalized tonic-clonic convulsion in setting of rapid fever rise from viral otitis, recovering baseline alertness within 10 minutes (simple febrile seizure) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling. In the clinical management of UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Febrile Seizures Simple vs Complex and Reassurance Counseling."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatrics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15247",
+    "exam": "UHS MBBS",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine an",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 10-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers. Clinical examination and investigative review confirm child presenting with periorbital morning puffiness, tea-colored smoky urine, and hypertension 2 weeks following untreated streptococcal pharyngitis, showing elevated antistreptolysin O (ASO) and low C3. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Child presenting with periorbital morning puffiness, tea-colored smoky urine, and hypertension 2 weeks following untreated streptococcal pharyngitis, showing elevated antistreptolysin o (aso) and low c3",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with periorbital morning puffiness, tea-colored smoky urine, and hypertension 2 weeks following untreated streptococcal pharyngitis, showing elevated antistreptolysin O (ASO) and low C3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, child presenting with periorbital morning puffiness, tea-colored smoky urine, and hypertension 2 weeks following untreated streptococcal pharyngitis, showing elevated antistreptolysin O (ASO) and low C3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers. In the clinical management of UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pediatrics Acute Glomerulonephritis Post-Streptococcal Smoky Cola Urine and ASO Titers."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pediatric Nephrology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15248",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Cardiovascular",
+    "topic": "UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Ce",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells. Clinical examination and investigative review confirm histopathological myocardial examination in post-streptococcal acute rheumatic fever showing granulomatous Aschoff nodules containing plump histiocytes with wavy chromatin (Anitschkow cells). Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Histopathological myocardial examination in post-streptococcal acute rheumatic fever showing granulomatous aschoff nodules containing plump histiocytes with wavy chromatin (anitschkow cells)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, histopathological myocardial examination in post-streptococcal acute rheumatic fever showing granulomatous Aschoff nodules containing plump histiocytes with wavy chromatin (Anitschkow cells) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, histopathological myocardial examination in post-streptococcal acute rheumatic fever showing granulomatous Aschoff nodules containing plump histiocytes with wavy chromatin (Anitschkow cells) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells. In the clinical management of UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Rheumatic Carditis Aschoff Nodules and Anitschkow Caterpillar Cells."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) General Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15249",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes an",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 37-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells. Clinical examination and investigative review confirm lung biopsy histopathology demonstrating confluent central eosinophilic acellular caseous necrosis rimmed by palisading epithelioid macrophages and horse-shoe multinucleated Langhans giant cells. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Lung biopsy histopathology demonstrating confluent central eosinophilic acellular caseous necrosis rimmed by palisading epithelioid macrophages and horse-shoe multinucleated langhans giant cells",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, lung biopsy histopathology demonstrating confluent central eosinophilic acellular caseous necrosis rimmed by palisading epithelioid macrophages and horse-shoe multinucleated Langhans giant cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, lung biopsy histopathology demonstrating confluent central eosinophilic acellular caseous necrosis rimmed by palisading epithelioid macrophages and horse-shoe multinucleated Langhans giant cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells. In the clinical management of UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Caseous Necrosis Tubercular Granuloma Epithelioid Histiocytes and Langhans Giant Cells."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Special Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15250",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplas",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 77-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging. Clinical examination and investigative review confirm esophageal distal mucosa biopsy in chronic gastroesophageal reflux showing replacement of stratified squamous epithelium with specialized intestinal columnar epithelium containing Alcian-blue positive goblet cells. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Esophageal distal mucosa biopsy in chronic gastroesophageal reflux showing replacement of stratified squamous epithelium with specialized intestinal columnar epithelium containing alcian-blue positive goblet cells",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, esophageal distal mucosa biopsy in chronic gastroesophageal reflux showing replacement of stratified squamous epithelium with specialized intestinal columnar epithelium containing Alcian-blue positive goblet cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, esophageal distal mucosa biopsy in chronic gastroesophageal reflux showing replacement of stratified squamous epithelium with specialized intestinal columnar epithelium containing Alcian-blue positive goblet cells represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging. In the clinical management of UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Barrett Esophagus Intestinal Metaplasia Goblet Cells and Dysplasia Staging."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15251",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading. Clinical examination and investigative review confirm skin punch biopsy of dermal nodule showing central degenerate collagen (necrobiosis) surrounded by palisaded CD68-positive histiocytes, distinguishing granuloma annulare from rheumatoid nodules. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Skin punch biopsy of dermal nodule showing central degenerate collagen (necrobiosis) surrounded by palisaded cd68-positive histiocytes, distinguishing granuloma annulare from rheumatoid nodules",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, skin punch biopsy of dermal nodule showing central degenerate collagen (necrobiosis) surrounded by palisaded CD68-positive histiocytes, distinguishing granuloma annulare from rheumatoid nodules represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, skin punch biopsy of dermal nodule showing central degenerate collagen (necrobiosis) surrounded by palisaded CD68-positive histiocytes, distinguishing granuloma annulare from rheumatoid nodules represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading. In the clinical management of UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Granuloma Anulare Necrobiosis Lipoidica Histiocytic Palisading."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Dermatopathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15252",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei. Clinical examination and investigative review confirm excisional lymph node biopsy showing effaced architecture with scattered large binucleated Reed-Sternberg cells featuring prominent inclusion-like eosinophilic nucleoli surrounded by clear halos (owl eyes). Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Excisional lymph node biopsy showing effaced architecture with scattered large binucleated reed-sternberg cells featuring prominent inclusion-like eosinophilic nucleoli surrounded by clear halos (owl eyes)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, excisional lymph node biopsy showing effaced architecture with scattered large binucleated Reed-Sternberg cells featuring prominent inclusion-like eosinophilic nucleoli surrounded by clear halos (owl eyes) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, excisional lymph node biopsy showing effaced architecture with scattered large binucleated Reed-Sternberg cells featuring prominent inclusion-like eosinophilic nucleoli surrounded by clear halos (owl eyes) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei. In the clinical management of UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells Owl-Eye Nuclei."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Hematopathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15253",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram. Clinical examination and investigative review confirm intentional overdose of acetaminophen with 4-hour serum paracetamol level plotting above treatment line on Rumack-Matthew nomogram, administering intravenous N-acetylcysteine infusion. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intentional overdose of acetaminophen with 4-hour serum paracetamol level plotting above treatment line on rumack-matthew nomogram, administering intravenous n-acetylcysteine infusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, intentional overdose of acetaminophen with 4-hour serum paracetamol level plotting above treatment line on Rumack-Matthew nomogram, administering intravenous N-acetylcysteine infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, intentional overdose of acetaminophen with 4-hour serum paracetamol level plotting above treatment line on Rumack-Matthew nomogram, administering intravenous N-acetylcysteine infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram. In the clinical management of UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Paracetamol Toxicity N-Acetylcysteine Rumack-Matthew Nomogram."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pharmacology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15254",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 45-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM. Clinical examination and investigative review confirm agricultural pesticide ingestion presenting with miosis, hypersalivation, bronchospasm, bronchorrhea, and bradycardia (DUMBELS toxidrome), titrating IV atropine until bronchial secretions clear. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Agricultural pesticide ingestion presenting with miosis, hypersalivation, bronchospasm, bronchorrhea, and bradycardia (dumbels toxidrome), titrating iv atropine until bronchial secretions clear",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, agricultural pesticide ingestion presenting with miosis, hypersalivation, bronchospasm, bronchorrhea, and bradycardia (DUMBELS toxidrome), titrating IV atropine until bronchial secretions clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, agricultural pesticide ingestion presenting with miosis, hypersalivation, bronchospasm, bronchorrhea, and bradycardia (DUMBELS toxidrome), titrating IV atropine until bronchial secretions clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM. In the clinical management of UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Organophosphate Poisoning Atropine Titration and Pralidoxime 2-PAM."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Toxicology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15255",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplemen",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation. Clinical examination and investigative review confirm newly diagnosed pulmonary tuberculosis initiating 2 months of HRZE (isoniazid, rifampicin, pyrazinamide, ethambutol) with daily pyridoxine (vitamin B6) to prevent isoniazid-induced peripheral neuropathy. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Newly diagnosed pulmonary tuberculosis initiating 2 months of hrze (isoniazid, rifampicin, pyrazinamide, ethambutol) with daily pyridoxine (vitamin b6) to prevent isoniazid-induced peripheral neuropathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, newly diagnosed pulmonary tuberculosis initiating 2 months of HRZE (isoniazid, rifampicin, pyrazinamide, ethambutol) with daily pyridoxine (vitamin B6) to prevent isoniazid-induced peripheral neuropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, newly diagnosed pulmonary tuberculosis initiating 2 months of HRZE (isoniazid, rifampicin, pyrazinamide, ethambutol) with daily pyridoxine (vitamin B6) to prevent isoniazid-induced peripheral neuropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation. In the clinical management of UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Tuberculosis First-Line HRZE Regimen and Pyridoxine Supplementation."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pharmacology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15256",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum. Clinical examination and investigative review confirm uncomplicated Plasmodium falciparum malaria with peripheral blood ring trophozoites, prescribing oral artemisinin-based combination therapy with artemether-lumefantrine twice daily with fatty meals. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Uncomplicated plasmodium falciparum malaria with peripheral blood ring trophozoites, prescribing oral artemisinin-based combination therapy with artemether-lumefantrine twice daily with fatty meals",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, uncomplicated Plasmodium falciparum malaria with peripheral blood ring trophozoites, prescribing oral artemisinin-based combination therapy with artemether-lumefantrine twice daily with fatty meals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, uncomplicated Plasmodium falciparum malaria with peripheral blood ring trophozoites, prescribing oral artemisinin-based combination therapy with artemether-lumefantrine twice daily with fatty meals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum. In the clinical management of UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Malaria Artemether-Lumefantrine First-Line for P. falciparum."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Pharmacology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15257",
+    "exam": "UHS MBBS",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 37-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue. Clinical examination and investigative review confirm accidental high-dose methotrexate toxicity manifesting as profound stomatitis and severe myelosuppression, administering urgent intravenous folinic acid (leucovorin) rescue therapy. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Accidental high-dose methotrexate toxicity manifesting as profound stomatitis and severe myelosuppression, administering urgent intravenous folinic acid (leucovorin) rescue therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, accidental high-dose methotrexate toxicity manifesting as profound stomatitis and severe myelosuppression, administering urgent intravenous folinic acid (leucovorin) rescue therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, accidental high-dose methotrexate toxicity manifesting as profound stomatitis and severe myelosuppression, administering urgent intravenous folinic acid (leucovorin) rescue therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue. In the clinical management of UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Pharmacology Methotrexate Toxicity Folinic Acid Leucovorin Rescue."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Clinical Pharmacology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15258",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Inte",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 77-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval. Clinical examination and investigative review confirm medico-legal autopsy documenting progressive stiffening of skeletal muscle following ATP depletion, commencing in eyelids, face, neck, and spreading down extremities under Nysten rule. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Medico-legal autopsy documenting progressive stiffening of skeletal muscle following atp depletion, commencing in eyelids, face, neck, and spreading down extremities under nysten rule",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, medico-legal autopsy documenting progressive stiffening of skeletal muscle following ATP depletion, commencing in eyelids, face, neck, and spreading down extremities under Nysten rule represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, medico-legal autopsy documenting progressive stiffening of skeletal muscle following ATP depletion, commencing in eyelids, face, neck, and spreading down extremities under Nysten rule represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval. In the clinical management of UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Rigor Mortis Progression Nysten Law and Post-Mortem Interval."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15259",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 53-year-old male attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning. Clinical examination and investigative review confirm medico-legal examination of cadaver showing purplish dependent cutaneous pooling of blood that blanches on pressure early on but becomes non-blanching fixed hypostasis after 8-12 hours. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Medico-legal examination of cadaver showing purplish dependent cutaneous pooling of blood that blanches on pressure early on but becomes non-blanching fixed hypostasis after 8-12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, medico-legal examination of cadaver showing purplish dependent cutaneous pooling of blood that blanches on pressure early on but becomes non-blanching fixed hypostasis after 8-12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, medico-legal examination of cadaver showing purplish dependent cutaneous pooling of blood that blanches on pressure early on but becomes non-blanching fixed hypostasis after 8-12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning. In the clinical management of UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Post-Mortem Hypostasis Livor Mortis Fixation and Positioning."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15260",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding. Clinical examination and investigative review confirm forensic inspection of gunshot wound showing hard-contact cranial entry characterized by muzzle imprint, soot deposition inside bone table, and star-shaped stellate tearing from expanding blast gases. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Forensic inspection of gunshot wound showing hard-contact cranial entry characterized by muzzle imprint, soot deposition inside bone table, and star-shaped stellate tearing from expanding blast gases",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, forensic inspection of gunshot wound showing hard-contact cranial entry characterized by muzzle imprint, soot deposition inside bone table, and star-shaped stellate tearing from expanding blast gases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, forensic inspection of gunshot wound showing hard-contact cranial entry characterized by muzzle imprint, soot deposition inside bone table, and star-shaped stellate tearing from expanding blast gases represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding. In the clinical management of UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Firearm Injuries Contact Wound Stellate Tears and Wadding."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Forensic Pathology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15261",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old male attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum. Clinical examination and investigative review confirm autopsy of immersed corpse with persistent fine white frothy foam around mouth and nostrils (mushroom of froth), ballooned lungs (emphysema aquosum), and positive acid-resistant diatom recovery from bone marrow. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Autopsy of immersed corpse with persistent fine white frothy foam around mouth and nostrils (mushroom of froth), ballooned lungs (emphysema aquosum), and positive acid-resistant diatom recovery from bone marrow",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, autopsy of immersed corpse with persistent fine white frothy foam around mouth and nostrils (mushroom of froth), ballooned lungs (emphysema aquosum), and positive acid-resistant diatom recovery from bone marrow represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, autopsy of immersed corpse with persistent fine white frothy foam around mouth and nostrils (mushroom of froth), ballooned lungs (emphysema aquosum), and positive acid-resistant diatom recovery from bone marrow represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum. In the clinical management of UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Drowning Diatom Test and Emphysema Aquosum."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15262",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Nervous System",
+    "topic": "UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 45-year-old female is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling. Clinical examination and investigative review confirm forensic examination contrasting hanging (oblique, incomplete, non-continuous ligature mark above thyroid cartilage) with manual strangulation throttling (contusions, nail scratches, fractured thyroid cornu). Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Forensic examination contrasting hanging (oblique, incomplete, non-continuous ligature mark above thyroid cartilage) with manual strangulation throttling (contusions, nail scratches, fractured thyroid cornu)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, forensic examination contrasting hanging (oblique, incomplete, non-continuous ligature mark above thyroid cartilage) with manual strangulation throttling (contusions, nail scratches, fractured thyroid cornu) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, forensic examination contrasting hanging (oblique, incomplete, non-continuous ligature mark above thyroid cartilage) with manual strangulation throttling (contusions, nail scratches, fractured thyroid cornu) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling. In the clinical management of UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Forensic Medicine Strangulation Ligature Mark Hanging vs Throttling."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Forensic Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15263",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 21-year-old male presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule. Clinical examination and investigative review confirm reviewing national EPI infant schedule at 6, 10, and 14 weeks: administering pentavalent (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate (PCV), and rotavirus vaccines. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Reviewing national epi infant schedule at 6, 10, and 14 weeks: administering pentavalent (dtp-hepb-hib), oral polio vaccine (opv), pneumococcal conjugate (pcv), and rotavirus vaccines",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reviewing national EPI infant schedule at 6, 10, and 14 weeks: administering pentavalent (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate (PCV), and rotavirus vaccines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, reviewing national EPI infant schedule at 6, 10, and 14 weeks: administering pentavalent (DTP-HepB-Hib), oral polio vaccine (OPV), pneumococcal conjugate (PCV), and rotavirus vaccines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule. In the clinical management of UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Expanded Programme on Immunization EPI Pakistan Schedule."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15264",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 61-year-old female undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine. Clinical examination and investigative review confirm national public health surveillance protocol for acute flaccid paralysis (AFP) in child under 15 years: collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "National public health surveillance protocol for acute flaccid paralysis (afp) in child under 15 years: collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, national public health surveillance protocol for acute flaccid paralysis (AFP) in child under 15 years: collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, national public health surveillance protocol for acute flaccid paralysis (AFP) in child under 15 years: collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine. In the clinical management of UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Polio Eradication Acute Flaccid Paralysis Surveillance and Inactivated Polio Vaccine."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Public Health Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15265",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Water Purification Slow Sand Filtration and Chlorinatio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old male is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint. Clinical examination and investigative review confirm evaluating municipal municipal water safety: explaining multi-barrier treatment including flocculation, slow sand filtration with Schmutzdecke biological layer, and breakpoint chlorination. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Evaluating municipal municipal water safety: explaining multi-barrier treatment including flocculation, slow sand filtration with schmutzdecke biological layer, and breakpoint chlorination",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating municipal municipal water safety: explaining multi-barrier treatment including flocculation, slow sand filtration with Schmutzdecke biological layer, and breakpoint chlorination represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating municipal municipal water safety: explaining multi-barrier treatment including flocculation, slow sand filtration with Schmutzdecke biological layer, and breakpoint chlorination represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint. In the clinical management of UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Water Purification Slow Sand Filtration and Chlorination Breakpoint."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15266",
+    "exam": "UHS MBBS",
+    "subject": "Biostatistics",
+    "system": "Pregnancy",
+    "topic": "UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 77-year-old female attends the specialized clinical assessment suite of the tertiary care teaching hospital with clinical findings indicative of UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets. Clinical examination and investigative review confirm calculating maternal deaths per 100,000 live births from pregnancy-related complications during pregnancy, childbirth, or within 42 days postpartum, auditing primary causes (hemorrhage, sepsis, eclampsia). Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Calculating maternal deaths per 100,000 live births from pregnancy-related complications during pregnancy, childbirth, or within 42 days postpartum, auditing primary causes (hemorrhage, sepsis, eclampsia)",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, calculating maternal deaths per 100,000 live births from pregnancy-related complications during pregnancy, childbirth, or within 42 days postpartum, auditing primary causes (hemorrhage, sepsis, eclampsia) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, calculating maternal deaths per 100,000 live births from pregnancy-related complications during pregnancy, childbirth, or within 42 days postpartum, auditing primary causes (hemorrhage, sepsis, eclampsia) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets. In the clinical management of UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Maternal Mortality Ratio Definitions and MDG SDG Targets."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Epidemiology Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15267",
+    "exam": "UHS MBBS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 53-year-old male is evaluated on the professorial ward rounds at a UHS-affiliated teaching hospital in Lahore with clinical findings indicative of UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation. Clinical examination and investigative review confirm investigating outbreak of foodborne illness: calculating odds ratio (OR = ad/bc) in retrospective case-control study to evaluate strength of association between contaminated food exposure and illness. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Investigating outbreak of foodborne illness: calculating odds ratio (or = ad/bc) in retrospective case-control study to evaluate strength of association between contaminated food exposure and illness",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, investigating outbreak of foodborne illness: calculating odds ratio (OR = ad/bc) in retrospective case-control study to evaluate strength of association between contaminated food exposure and illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, investigating outbreak of foodborne illness: calculating odds ratio (OR = ad/bc) in retrospective case-control study to evaluate strength of association between contaminated food exposure and illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation. In the clinical management of UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Epidemiology Case-Control Study Odds Ratio Calculation."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Biostatistics Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15268",
+    "exam": "UHS MBBS",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Pr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old female attends the outpatient clinic of the university tertiary care medical center with clinical findings indicative of UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value. Clinical examination and investigative review confirm evaluating diagnostic mammography performance: explaining how positive predictive value (PPV) depends heavily on disease prevalence, whereas sensitivity and specificity remain intrinsic test characteristics. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating diagnostic mammography performance: explaining how positive predictive value (ppv) depends heavily on disease prevalence, whereas sensitivity and specificity remain intrinsic test characteristics",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating diagnostic mammography performance: explaining how positive predictive value (PPV) depends heavily on disease prevalence, whereas sensitivity and specificity remain intrinsic test characteristics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value.",
+        "correct": true
+      },
+      {
+        "text": "Routine intravenous calcium gluconate without ECG evidence of hyperkalemia",
+        "explanation": "Calcium administration without objective hyperkalemic membrane instability or profound hypocalcemia risks life-threatening hypercalcemic arrhythmias.",
+        "correct": false
+      },
+      {
+        "text": "Empiric therapeutic anticoagulation before ruling out intracranial hemorrhage",
+        "explanation": "Full-dose anticoagulation in acute focal neurological deficits before non-contrast head CT risks converting an ischemic stroke into fatal hemorrhage.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, evaluating diagnostic mammography performance: explaining how positive predictive value (PPV) depends heavily on disease prevalence, whereas sensitivity and specificity remain intrinsic test characteristics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value. In the clinical management of UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Screening Tests Sensitivity Specificity and Positive Predictive Value."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15269",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Erad",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old male is admitted to the medical and surgical inpatient service of the teaching hospital with clinical findings indicative of UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication. Clinical examination and investigative review confirm outbreak of dengue fever: implementing vector control strategies targeting daytime-biting Aedes aegypti breeding sites in clean artificial water receptacles and applying temephos larvicide. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Outbreak of dengue fever: implementing vector control strategies targeting daytime-biting aedes aegypti breeding sites in clean artificial water receptacles and applying temephos larvicide",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, outbreak of dengue fever: implementing vector control strategies targeting daytime-biting Aedes aegypti breeding sites in clean artificial water receptacles and applying temephos larvicide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication.",
+        "correct": true
+      },
+      {
+        "text": "Initiating long-acting opioid analgesics for acute uncomplicated low back pain",
+        "explanation": "Opioids for acute low back pain provide no functional advantage over NSAIDs and risk long-term dependency, tolerance, and hyperalgesia.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, outbreak of dengue fever: implementing vector control strategies targeting daytime-biting Aedes aegypti breeding sites in clean artificial water receptacles and applying temephos larvicide represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication. In the clinical management of UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Dengue Fever Vector Control Aedes aegypti Breeding Eradication."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Community Health Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15270",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Inf",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female presents to the emergency receiving ward of the tertiary university hospital with clinical findings indicative of UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration. Clinical examination and investigative review confirm deep unprovoked transdermal bite from suspected stray rabid dog (WHO category III exposure): immediately washing wound with soap and water for 15 minutes, infiltrating rabies immunoglobulin, and giving vaccine series. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Deep unprovoked transdermal bite from suspected stray rabid dog (who category iii exposure): immediately washing wound with soap and water for 15 minutes, infiltrating rabies immunoglobulin, and giving vaccine series",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, deep unprovoked transdermal bite from suspected stray rabid dog (WHO category III exposure): immediately washing wound with soap and water for 15 minutes, infiltrating rabies immunoglobulin, and giving vaccine series represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Observation and repeat biochemical laboratory testing after six weeks",
+        "explanation": "Waiting six weeks without initiating active management allows progressive organ dysfunction and permanent injury to advance.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus as sole empirical intervention",
+        "explanation": "Diuretics reduce intravascular volume but do not address the underlying inflammatory, vascular, or mechanical pathophysiology.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, deep unprovoked transdermal bite from suspected stray rabid dog (WHO category III exposure): immediately washing wound with soap and water for 15 minutes, infiltrating rabies immunoglobulin, and giving vaccine series represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration. In the clinical management of UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Rabies Post-Exposure Prophylaxis Category III Wound Infiltration."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Preventive Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15271",
+    "exam": "UHS MBBS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 2-year-old male undergoes comprehensive bedside clinical examination during departmental teaching rounds with clinical findings indicative of UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours. Clinical examination and investigative review confirm infant born to HBsAg-positive and HBeAg-positive mother: administering intramuscular hepatitis B immune globulin (HBIG) and first dose of recombinant hepatitis B vaccine within 12 hours of delivery. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Induction of emesis with syrup of ipecac followed by oral activated charcoal",
+        "explanation": "Inducing emesis in an obtunded or unstable patient significantly increases the risk of fatal pulmonary aspiration of gastric contents.",
+        "correct": false
+      },
+      {
+        "text": "Oral rehydration solution challenge despite ongoing severe active hemorrhage",
+        "explanation": "Enteral fluid challenge during acute active hemorrhage is contraindicated and delays essential intravenous vascular access and transfusion.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum intravenous aminoglycoside monotherapy",
+        "explanation": "Aminoglycoside monotherapy provides inadequate tissue penetration and carries unacceptable risks of acute tubular necrosis and ototoxicity.",
+        "correct": false
+      },
+      {
+        "text": "Rapid high-volume hypotonic saline infusion without serial monitoring",
+        "explanation": "Rapid infusion of hypotonic fluids risks precipitous drops in serum osmolality, driving acute fatal cerebral edema and brain herniation.",
+        "correct": false
+      },
+      {
+        "text": "Infant born to hbsag-positive and hbeag-positive mother: administering intramuscular hepatitis b immune globulin (hbig) and first dose of recombinant hepatitis b vaccine within 12 hours of delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant born to HBsAg-positive and HBeAg-positive mother: administering intramuscular hepatitis B immune globulin (HBIG) and first dose of recombinant hepatitis B vaccine within 12 hours of delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, infant born to HBsAg-positive and HBeAg-positive mother: administering intramuscular hepatitis B immune globulin (HBIG) and first dose of recombinant hepatitis B vaccine within 12 hours of delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours. In the clinical management of UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Hepatitis B Neonatal Immunoprophylaxis Within 12 Hours."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Community Medicine Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-15272",
+    "exam": "UHS MBBS",
+    "subject": "Pathology",
+    "system": "Respiratory",
+    "topic": "UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcific",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 61-year-old female is examined at the collegiate affiliated referral hospital in Rawalpindi with clinical findings indicative of UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification. Clinical examination and investigative review confirm stone-quarry worker presenting with progressive exertional dyspnea with chest radiography demonstrating multiple bilateral nodular opacities in upper lung fields and eggshell hilar lymph node calcification. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical examination signs, investigations, or management decisions is prioritized under UHS standards?",
+    "options": [
+      {
+        "text": "Application of external mechanical compression without vascular assessment",
+        "explanation": "Applying compressive bandages or devices without documenting arterial patency risks acute limb ischemia and compartment syndrome.",
+        "correct": false
+      },
+      {
+        "text": "Immediate total surgical organ excision without preliminary staging biopsy",
+        "explanation": "Radical organ resection without accurate preoperative histological verification and staging causes unnecessary surgical morbidity and deformity.",
+        "correct": false
+      },
+      {
+        "text": "Empiric intravenous broad-spectrum carbapenem without blood cultures",
+        "explanation": "Starting reserve carbapenems without obtaining preliminary microbiological cultures compromises pathogen identification and promotes carbapenem resistance.",
+        "correct": false
+      },
+      {
+        "text": "Stone-quarry worker presenting with progressive exertional dyspnea with chest radiography demonstrating multiple bilateral nodular opacities in upper lung fields and eggshell hilar lymph node calcification",
+        "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, stone-quarry worker presenting with progressive exertional dyspnea with chest radiography demonstrating multiple bilateral nodular opacities in upper lung fields and eggshell hilar lymph node calcification represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification.",
+        "correct": true
+      },
+      {
+        "text": "Urgent bilateral whole-body radionuclide scintigraphy prior to baseline labs",
+        "explanation": "Radioisotope scintigraphy before basic biochemical and morphological assessment delays emergency care without providing immediate actionable data.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for UHS MBBS, stone-quarry worker presenting with progressive exertional dyspnea with chest radiography demonstrating multiple bilateral nodular opacities in upper lung fields and eggshell hilar lymph node calcification represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification. In the clinical management of UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of UHS Community Medicine Occupational Pneumoconiosis Silicosis Eggshell Calcification."
+    ],
+    "references": [
+      {
+        "label": "University of Health Sciences (UHS) Occupational Health Curriculum",
+        "url": "https://www.uhs.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
