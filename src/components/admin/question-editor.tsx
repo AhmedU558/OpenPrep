@@ -55,7 +55,6 @@ export function QuestionEditor({ initial, meta, taxonomy, transitions, canEdit }
           </div>
         </Card>
       )}
-      {c.source.includes('AI-authored') && <Alert tone="info">AI-authored medical content. Availability status does not certify medical review. Use the review workflow and record a qualified reviewer before removing the unreviewed label.</Alert>}
       {!canEdit && <Alert tone="info">Only admins can edit published or archived questions. Ask an admin to move it back to review.</Alert>}
       <fieldset disabled={!canEdit || pending} className="space-y-6">
         <Card className="grid gap-4 sm:grid-cols-3">

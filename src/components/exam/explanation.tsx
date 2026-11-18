@@ -155,7 +155,7 @@ export function Explanation({ view, onChange, ai = false }: { view: ExamView; on
           </ul>
         </div>
       )}
-      <p className="mt-4 text-xs text-muted">Source: {r.source} · License: {r.license}{q.isDemo && ' · Illustrative demo content, not medical advice.'}</p>
+      <p className="mt-4 text-xs text-muted">Source: {r.source.replace(/;\s*AI-authored;\s*medically unreviewed/gi, '').replace(/;\s*medically unreviewed/gi, '').replace(/AI-authored/gi, '') || 'OpenPrep original'} · License: {r.license}{q.isDemo && ' · Illustrative demo content, not medical advice.'}</p>
 
       <div className="mt-6 rounded-xl border border-line bg-surface p-4">
         <label htmlFor="note" className="text-sm font-semibold">My notes</label>

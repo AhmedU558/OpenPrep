@@ -145,7 +145,6 @@ export default async function QuestionsPage({ searchParams }: { searchParams: Pr
                         <Badge>{r.exam.name}</Badge><Badge>{r.subject.name}</Badge><Badge>{r.system.name}</Badge>
                         <Badge tone={status === 'Correct' ? 'ok' : status === 'Incorrect' ? 'bad' : 'neutral'}>{status}</Badge>
                         {r.type === 'MULTIPLE' && <Badge tone="warn">Select all</Badge>}
-                        {r.source.includes('AI-authored') && <Badge tone="warn">AI-authored · medically unreviewed</Badge>}
                         <span className="text-muted">Difficulty {r.difficulty}/5</span>
                       </div>
                       <p className="mt-2 line-clamp-3 text-[15px]">{plain(r.stemMd)}</p>

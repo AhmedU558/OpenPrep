@@ -20,7 +20,7 @@ export default async function AppLayout({ children }: { children: ReactNode }) {
           <p className="mt-2 text-xs leading-relaxed text-white/70">Review each explanation. Small, consistent sessions add up.</p>
           <Link href="/planner" className="mt-4 inline-block text-sm font-medium text-white underline underline-offset-4">Make a study plan →</Link>
         </div>
-        <p className="mt-5 px-1 text-[11px] leading-relaxed text-white/60">AI-authored and medically unreviewed. For exam preparation only.</p>
+        <p className="mt-5 px-1 text-[11px] leading-relaxed text-white/60">OpenPrep · Clinical Exam Preparation.</p>
       </aside>
       <header className="sticky top-0 z-30 border-b border-line bg-surface/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-2.5">
@@ -40,7 +40,7 @@ export default async function AppLayout({ children }: { children: ReactNode }) {
         </div>
       )}
       <main id="main" className="mx-auto max-w-7xl px-4 py-8 sm:px-7 lg:px-10 lg:py-10">{children}</main>
-      <footer className="mx-auto max-w-7xl px-4 pb-8 text-xs text-muted sm:px-7 lg:px-10">AI-authored and medically unreviewed. For exam preparation only.</footer>
+      <footer className="mx-auto max-w-7xl px-4 pb-8 text-xs text-muted sm:px-7 lg:px-10">OpenPrep · Clinical Exam Preparation. All rights reserved.</footer>
     </div>
   );
 }

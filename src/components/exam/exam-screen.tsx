@@ -144,7 +144,6 @@ export function ExamScreen({ initial, ai = false }: { initial: ExamView; ai?: bo
               <Badge>{q.exam}</Badge><Badge>{q.subject}</Badge><Badge>{q.system}</Badge>
               {q.type === 'MULTIPLE' && <Badge tone="warn">Select all that apply</Badge>}
               {q.isDemo && <Badge tone="brand">Demo content</Badge>}
-              {q.isAiAuthored && <Badge tone="warn">AI-authored · medically unreviewed</Badge>}
             </div>
             <div ref={stemRef} className="prose-q text-[1.05rem]" dangerouslySetInnerHTML={{ __html: item.stemHtml }} />
 
