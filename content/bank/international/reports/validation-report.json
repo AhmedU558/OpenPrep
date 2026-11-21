@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-21T18:22:08.476Z",
-  "totalQuestions": 17672,
+  "validatedAt": "2026-11-21T19:22:44.525Z",
+  "totalQuestions": 18172,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1111,6 +1111,36 @@
       "count": 100,
       "digest": "4533c4c24eb13bd26eaabe6aedbc842d6242144d8d93031a960f0c09cabff240",
       "errors": []
+    },
+    {
+      "name": "batch-intl-186",
+      "count": 100,
+      "digest": "79d1d3a9cda5b886f4c6401a61717f38219a70810d6463761e96ce91ff821b11",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-187",
+      "count": 100,
+      "digest": "73c7df8ed0291f98b4b1c5d7191315c12d7ce50fb00713bc9a8a0bb0be360398",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-188",
+      "count": 100,
+      "digest": "c634cc5b388f0ce7ce034fa4c2e9994cdb0be38777c53dd38fcba0d6543d3d12",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-189",
+      "count": 100,
+      "digest": "a18763e3a77be99cba1a3024c74674126d999e6565ff51e07dfc9f5edd20d6cf",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-190",
+      "count": 100,
+      "digest": "6b7bb76525783cef455a2d535bb91819c5dcb17f67ea0f9844171c73e6bc0e9a",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1132,21 +1162,21 @@
   "subjectsCovered": {
     "Anatomy": 113,
     "Biochemistry": 186,
-    "Biostatistics": 144,
-    "Ethics": 561,
+    "Biostatistics": 149,
+    "Ethics": 591,
     "Genetics": 362,
-    "Geriatrics": 132,
+    "Geriatrics": 136,
     "Immunology": 208,
-    "Medicine": 7227,
+    "Medicine": 7501,
     "Microbiology": 355,
-    "Neurology": 587,
-    "Obstetrics": 1156,
-    "Pathology": 903,
-    "Pediatrics": 1445,
-    "Pharmacology": 743,
+    "Neurology": 605,
+    "Obstetrics": 1184,
+    "Pathology": 904,
+    "Pediatrics": 1497,
+    "Pharmacology": 750,
     "Physiology": 423,
-    "Psychiatry": 549,
-    "Surgery": 2578
+    "Psychiatry": 570,
+    "Surgery": 2638
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
