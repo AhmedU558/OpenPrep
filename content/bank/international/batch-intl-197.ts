@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-18773",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test. Clinical examination and investigative review confirm recommending biennial fecal immunochemical test (FIT) screening for asymptomatic adults aged 50 to 74 years without family history. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Recommending biennial fecal immunochemical test (fit) screening for asymptomatic adults aged 50 to 74 years without family history",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending biennial fecal immunochemical test (FIT) screening for asymptomatic adults aged 50 to 74 years without family history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending biennial fecal immunochemical test (FIT) screening for asymptomatic adults aged 50 to 74 years without family history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test. In the clinical management of MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Colorectal Cancer Screening CTFPHC Fecal Immunochemical Test."
+    ],
+    "references": [
+      {
+        "label": "Canadian Task Force on Preventive Health Care (CTFPHC)",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18774",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada. Clinical examination and investigative review confirm performing cervical cytology every 3 years from age 25 to 69 (or primary high-risk HPV testing every 5 years where implemented). Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Performing cervical cytology every 3 years from age 25 to 69 (or primary high-risk hpv testing every 5 years where implemented)",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing cervical cytology every 3 years from age 25 to 69 (or primary high-risk HPV testing every 5 years where implemented) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing cervical cytology every 3 years from age 25 to 69 (or primary high-risk HPV testing every 5 years where implemented) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada. In the clinical management of MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Cervical Cancer Screening Cytology Pap vs HPV Screening Canada."
+    ],
+    "references": [
+      {
+        "label": "CTFPHC Cervical Cancer Screening Guidelines",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18775",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74. Clinical examination and investigative review confirm discussing individual benefits and harms of screening mammography every 2 to 3 years for women aged 40 to 74 years. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Discussing individual benefits and harms of screening mammography every 2 to 3 years for women aged 40 to 74 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, discussing individual benefits and harms of screening mammography every 2 to 3 years for women aged 40 to 74 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, discussing individual benefits and harms of screening mammography every 2 to 3 years for women aged 40 to 74 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74. In the clinical management of MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Breast Cancer Screening Shared Decision-Making Mammography Age 40-74."
+    ],
+    "references": [
+      {
+        "label": "Canadian Task Force on Preventive Health Care",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18776",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion. Clinical examination and investigative review confirm advising against routine population PSA screening without detailed discussion of overdiagnosis and overtreatment risks. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Advising against routine population psa screening without detailed discussion of overdiagnosis and overtreatment risks",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, advising against routine population PSA screening without detailed discussion of overdiagnosis and overtreatment risks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, advising against routine population PSA screening without detailed discussion of overdiagnosis and overtreatment risks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion. In the clinical management of MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Prostate Cancer PSA Shared Decision-Making Discussion."
+    ],
+    "references": [
+      {
+        "label": "CTFPHC Prostate Cancer Screening Guidelines",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18777",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74. Clinical examination and investigative review confirm recommending annual low-dose chest CT screening up to three consecutive times for adults aged 55 to 74 with >= 30 pack-year smoking history. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Recommending annual low-dose chest ct screening up to three consecutive times for adults aged 55 to 74 with >= 30 pack-year smoking history",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending annual low-dose chest CT screening up to three consecutive times for adults aged 55 to 74 with >= 30 pack-year smoking history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending annual low-dose chest CT screening up to three consecutive times for adults aged 55 to 74 with >= 30 pack-year smoking history represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74. In the clinical management of MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Lung Cancer Screening Low-Dose CT High-Risk Smokers Age 55-74."
+    ],
+    "references": [
+      {
+        "label": "Canadian Task Force on Preventive Health Care",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18778",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80. Clinical examination and investigative review confirm recommending a one-time screening abdominal ultrasound for all men aged 65 to 80 years to detect occult abdominal aortic aneurysms. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Recommending a one-time screening abdominal ultrasound for all men aged 65 to 80 years to detect occult abdominal aortic aneurysms",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending a one-time screening abdominal ultrasound for all men aged 65 to 80 years to detect occult abdominal aortic aneurysms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending a one-time screening abdominal ultrasound for all men aged 65 to 80 years to detect occult abdominal aortic aneurysms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80. In the clinical management of MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Abdominal Aortic Aneurysm One-Time Ultrasound Men Age 65-80."
+    ],
+    "references": [
+      {
+        "label": "CTFPHC Abdominal Aortic Aneurysm Screening Guidelines",
+        "url": "https://canadiantaskforce.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18779",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65. Clinical examination and investigative review confirm ordering screening dual-energy X-ray absorptiometry (DEXA) for all women and men aged >= 65 years or younger adults with fragility fractures. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Ordering screening dual-energy x-ray absorptiometry (dexa) for all women and men aged >= 65 years or younger adults with fragility fractures",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering screening dual-energy X-ray absorptiometry (DEXA) for all women and men aged >= 65 years or younger adults with fragility fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering screening dual-energy X-ray absorptiometry (DEXA) for all women and men aged >= 65 years or younger adults with fragility fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65. In the clinical management of MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Osteoporosis Screening Clinical Risk Factors and DEXA from Age 65."
+    ],
+    "references": [
+      {
+        "label": "Osteoporosis Canada Clinical Practice Guidelines",
+        "url": "https://osteoporosis.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18780",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Year",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years. Clinical examination and investigative review confirm screening asymptomatic adults aged >= 40 years every 3 years using fasting plasma glucose or HbA1c under Diabetes Canada guidelines. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Screening asymptomatic adults aged >= 40 years every 3 years using fasting plasma glucose or hba1c under diabetes canada guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening asymptomatic adults aged >= 40 years every 3 years using fasting plasma glucose or HbA1c under Diabetes Canada guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening asymptomatic adults aged >= 40 years every 3 years using fasting plasma glucose or HbA1c under Diabetes Canada guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years. In the clinical management of MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Diabetes Screening Fasting Plasma Glucose or HbA1c Every 3 Years."
+    ],
+    "references": [
+      {
+        "label": "Diabetes Canada Clinical Practice Guidelines",
+        "url": "https://guidelines.diabetes.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18781",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP. Clinical examination and investigative review confirm measuring blood pressure using an automated office blood pressure (AOBP) device at all appropriate clinical appointments. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Measuring blood pressure using an automated office blood pressure (aobp) device at all appropriate clinical appointments",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring blood pressure using an automated office blood pressure (AOBP) device at all appropriate clinical appointments represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring blood pressure using an automated office blood pressure (AOBP) device at all appropriate clinical appointments represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP. In the clinical management of MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Hypertension Screening Every Routine Visit Automated Office BP."
+    ],
+    "references": [
+      {
+        "label": "Hypertension Canada Comprehensive Guidelines",
+        "url": "https://hypertension.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18782",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange. Clinical examination and investigative review confirm applying the 5 As framework and prescribing dual nicotine replacement therapy or varenicline combined with behavioral support. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Applying the 5 as framework and prescribing dual nicotine replacement therapy or varenicline combined with behavioral support",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, applying the 5 As framework and prescribing dual nicotine replacement therapy or varenicline combined with behavioral support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, applying the 5 As framework and prescribing dual nicotine replacement therapy or varenicline combined with behavioral support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange. In the clinical management of MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Tobacco Cessation 5 As Ask Advise Assess Assist Arrange."
+    ],
+    "references": [
+      {
+        "label": "Canadian Thoracic Society Smoking Cessation Guidelines",
+        "url": "https://cts-sct.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18783",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Ris",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk. Clinical examination and investigative review confirm counseling on Canadian guidance: <= 2 standard drinks per week represents low risk; 3 to 6 drinks represents moderate risk. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Counseling on canadian guidance: <= 2 standard drinks per week represents low risk; 3 to 6 drinks represents moderate risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, counseling on Canadian guidance: <= 2 standard drinks per week represents low risk; 3 to 6 drinks represents moderate risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, counseling on Canadian guidance: <= 2 standard drinks per week represents low risk; 3 to 6 drinks represents moderate risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk. In the clinical management of MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Alcohol Reduction Canada Guidance on Alcohol and Health Low Risk."
+    ],
+    "references": [
+      {
+        "label": "Canadian Centre on Substance Use and Addiction (CCSA)",
+        "url": "https://www.ccsa.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18784",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65. Clinical examination and investigative review confirm administering a single dose of 20-valent pneumococcal conjugate vaccine (PCV20) to all adults aged >= 65 years and immunocompromised. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering a single dose of 20-valent pneumococcal conjugate vaccine (pcv20) to all adults aged >= 65 years and immunocompromised",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering a single dose of 20-valent pneumococcal conjugate vaccine (PCV20) to all adults aged >= 65 years and immunocompromised represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering a single dose of 20-valent pneumococcal conjugate vaccine (PCV20) to all adults aged >= 65 years and immunocompromised represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65. In the clinical management of MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Adult Immunization Pneumococcal Conjugate Vaccine PCV20 Age 65."
+    ],
+    "references": [
+      {
+        "label": "National Advisory Committee on Immunization (NACI)",
+        "url": "https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci.html"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18785",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50. Clinical examination and investigative review confirm administering two intramuscular doses of recombinant zoster vaccine (Shingrix) 2 to 6 months apart for immunocompetent adults aged >= 50. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Administering two intramuscular doses of recombinant zoster vaccine (shingrix) 2 to 6 months apart for immunocompetent adults aged >= 50",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering two intramuscular doses of recombinant zoster vaccine (Shingrix) 2 to 6 months apart for immunocompetent adults aged >= 50 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering two intramuscular doses of recombinant zoster vaccine (Shingrix) 2 to 6 months apart for immunocompetent adults aged >= 50 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50. In the clinical management of MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Herpes Zoster Recombinant Zoster Vaccine Shingrix Age 50."
+    ],
+    "references": [
+      {
+        "label": "NACI Herpes Zoster Guidelines",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18786",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months. Clinical examination and investigative review confirm recommending annual influenza vaccination for all individuals aged >= 6 months, especially high-risk chronic medical conditions and elderly. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Recommending annual influenza vaccination for all individuals aged >= 6 months, especially high-risk chronic medical conditions and elderly",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending annual influenza vaccination for all individuals aged >= 6 months, especially high-risk chronic medical conditions and elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending annual influenza vaccination for all individuals aged >= 6 months, especially high-risk chronic medical conditions and elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months. In the clinical management of MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Influenza Universal Annual Inactivated Vaccine from 6 Months."
+    ],
+    "references": [
+      {
+        "label": "NACI Canadian Immunization Guide: Influenza",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18787",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years. Clinical examination and investigative review confirm administering combined measles-mumps-rubella-varicella (MMRV) vaccine at 12 months and a second dose prior to school entry at 4-6 years. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Administering combined measles-mumps-rubella-varicella (mmrv) vaccine at 12 months and a second dose prior to school entry at 4-6 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering combined measles-mumps-rubella-varicella (MMRV) vaccine at 12 months and a second dose prior to school entry at 4-6 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering combined measles-mumps-rubella-varicella (MMRV) vaccine at 12 months and a second dose prior to school entry at 4-6 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years. In the clinical management of MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Pediatric Immunization Schedule MMRV at 12 Months and 4-6 Years."
+    ],
+    "references": [
+      {
+        "label": "NACI Canadian Immunization Guide",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18788",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 1-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization. Clinical examination and investigative review confirm administering 3-dose hepatitis B vaccine series in infancy and offering screening and vaccination to high-risk adults and healthcare personnel. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering 3-dose hepatitis b vaccine series in infancy and offering screening and vaccination to high-risk adults and healthcare personnel",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering 3-dose hepatitis B vaccine series in infancy and offering screening and vaccination to high-risk adults and healthcare personnel represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering 3-dose hepatitis B vaccine series in infancy and offering screening and vaccination to high-risk adults and healthcare personnel represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization. In the clinical management of MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Hepatitis B Universal Infant and At-Risk Adult Immunization."
+    ],
+    "references": [
+      {
+        "label": "Public Health Agency of Canada (PHAC) Immunization Guide",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18789",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine. Clinical examination and investigative review confirm administering 2-dose series of 9-valent human papillomavirus vaccine (Gardasil-9) in school-based programs for youth aged 9 to 14 years. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Administering 2-dose series of 9-valent human papillomavirus vaccine (gardasil-9) in school-based programs for youth aged 9 to 14 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering 2-dose series of 9-valent human papillomavirus vaccine (Gardasil-9) in school-based programs for youth aged 9 to 14 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering 2-dose series of 9-valent human papillomavirus vaccine (Gardasil-9) in school-based programs for youth aged 9 to 14 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine. In the clinical management of MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive HPV Immunization School-Based Program 9-Valent Vaccine."
+    ],
+    "references": [
+      {
+        "label": "NACI HPV Guidelines",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18790",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg. Clinical examination and investigative review confirm prescribing 0.4 to 1 mg daily folic acid for low-risk women and 4 to 5 mg daily for previous neural tube defect or antiepileptic therapy. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Prescribing 0.4 to 1 mg daily folic acid for low-risk women and 4 to 5 mg daily for previous neural tube defect or antiepileptic therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing 0.4 to 1 mg daily folic acid for low-risk women and 4 to 5 mg daily for previous neural tube defect or antiepileptic therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing 0.4 to 1 mg daily folic acid for low-risk women and 4 to 5 mg daily for previous neural tube defect or antiepileptic therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg. In the clinical management of MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Maternal Folic Acid Preconception Supplementation 0.4 vs 4 mg."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Canada (SOGC)",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18791",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning. Clinical examination and investigative review confirm asking direct non-judgmental questions in private without partner present and connecting with community crisis and transition services. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Asking direct non-judgmental questions in private without partner present and connecting with community crisis and transition services",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, asking direct non-judgmental questions in private without partner present and connecting with community crisis and transition services represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, asking direct non-judgmental questions in private without partner present and connecting with community crisis and transition services represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning. In the clinical management of MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Intimate Partner Violence Routine Inquiry and Safety Planning."
+    ],
+    "references": [
+      {
+        "label": "SOGC Clinical Practice Guidelines: Intimate Partner Violence",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18792",
+    "exam": "MCCQE",
+    "subject": "Geriatrics",
+    "system": "Musculoskeletal",
+    "topic": "MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly. Clinical examination and investigative review confirm evaluating mobility, Timed Up and Go (TUG) test, medication review, home hazards, vision, and prescribing structured balance exercises. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating mobility, timed up and go (tug) test, medication review, home hazards, vision, and prescribing structured balance exercises",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, evaluating mobility, Timed Up and Go (TUG) test, medication review, home hazards, vision, and prescribing structured balance exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, evaluating mobility, Timed Up and Go (TUG) test, medication review, home hazards, vision, and prescribing structured balance exercises represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly. In the clinical management of MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Fall Prevention Comprehensive Multifactorial Assessment Elderly."
+    ],
+    "references": [
+      {
+        "label": "Registered Nurses' Association of Ontario (RNAO) Fall Prevention Guidelines",
+        "url": "https://rnao.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18793",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years. Clinical examination and investigative review confirm screening visual acuity using Lea symbols or tumbling E chart between ages 3 and 5 to detect amblyopia and refractive errors early. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Screening visual acuity using lea symbols or tumbling e chart between ages 3 and 5 to detect amblyopia and refractive errors early",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening visual acuity using Lea symbols or tumbling E chart between ages 3 and 5 to detect amblyopia and refractive errors early represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening visual acuity using Lea symbols or tumbling E chart between ages 3 and 5 to detect amblyopia and refractive errors early represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years. In the clinical management of MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Pediatric Vision Screening Amblyopia from Age 3 to 5 Years."
+    ],
+    "references": [
+      {
+        "label": "Canadian Paediatric Society (CPS) Vision Screening",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18794",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes. Clinical examination and investigative review confirm measuring venous blood lead concentration in infants with pica, older home renovations, or municipal lead service water connections. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Measuring venous blood lead concentration in infants with pica, older home renovations, or municipal lead service water connections",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring venous blood lead concentration in infants with pica, older home renovations, or municipal lead service water connections represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring venous blood lead concentration in infants with pica, older home renovations, or municipal lead service water connections represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes. In the clinical management of MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Lead Exposure Screening High-Risk Pre-1978 Housing and Water Pipes."
+    ],
+    "references": [
+      {
+        "label": "CPS Lead Toxicity Guidelines",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18795",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test. Clinical examination and investigative review confirm performing routine treponemal/non-treponemal serological testing at first prenatal visit and repeating in third trimester in high-incidence areas. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Performing routine treponemal/non-treponemal serological testing at first prenatal visit and repeating in third trimester in high-incidence areas",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing routine treponemal/non-treponemal serological testing at first prenatal visit and repeating in third trimester in high-incidence areas represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing routine treponemal/non-treponemal serological testing at first prenatal visit and repeating in third trimester in high-incidence areas represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test. In the clinical management of MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Syphilis Screening Canadian Resurgence Prenatal Universal Blood Test."
+    ],
+    "references": [
+      {
+        "label": "PHAC Syphilis Screening Guidelines",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18796",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine. Clinical examination and investigative review confirm prescribing daily oral emtricitabine-tenofovir disoproxil fumarate for HIV-negative adults at high ongoing risk of sexual HIV acquisition. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing daily oral emtricitabine-tenofovir disoproxil fumarate for hiv-negative adults at high ongoing risk of sexual hiv acquisition",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing daily oral emtricitabine-tenofovir disoproxil fumarate for HIV-negative adults at high ongoing risk of sexual HIV acquisition represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing daily oral emtricitabine-tenofovir disoproxil fumarate for HIV-negative adults at high ongoing risk of sexual HIV acquisition represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine. In the clinical management of MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive HIV Pre-Exposure Prophylaxis PrEP Daily Tenofovir-Emtricitabine."
+    ],
+    "references": [
+      {
+        "label": "Canadian Guideline on HIV Pre-Exposure Prophylaxis",
+        "url": "https://www.cmaj.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18797",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessme",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment. Clinical examination and investigative review confirm performing tuberculin skin test or interferon-gamma release assay and chest X-ray for immigrants arriving from high-TB burden countries. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Performing tuberculin skin test or interferon-gamma release assay and chest x-ray for immigrants arriving from high-tb burden countries",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing tuberculin skin test or interferon-gamma release assay and chest X-ray for immigrants arriving from high-TB burden countries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing tuberculin skin test or interferon-gamma release assay and chest X-ray for immigrants arriving from high-TB burden countries represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment. In the clinical management of MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Preventive Tuberculosis Screening Latent TB TST vs IGRA Immigrant Assessment."
+    ],
+    "references": [
+      {
+        "label": "Canadian Tuberculosis Standards 8th Edition",
+        "url": "https://www.canada.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18798",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i. Clinical examination and investigative review confirm prescribing ARNI (sacubitril-valsartan), beta-blocker, MRA (spironolactone), and SGLT2i (dapagliflozin) for HFrEF under CCS guidelines. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing arni (sacubitril-valsartan), beta-blocker, mra (spironolactone), and sglt2i (dapagliflozin) for hfref under ccs guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing ARNI (sacubitril-valsartan), beta-blocker, MRA (spironolactone), and SGLT2i (dapagliflozin) for HFrEF under CCS guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing ARNI (sacubitril-valsartan), beta-blocker, MRA (spironolactone), and SGLT2i (dapagliflozin) for HFrEF under CCS guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i. In the clinical management of MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Heart Failure CCS Guidelines GDMT Four Pillars ARNI SGLT2i."
+    ],
+    "references": [
+      {
+        "label": "Canadian Cardiovascular Society (CCS) Heart Failure Guidelines",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18799",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 1",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85. Clinical examination and investigative review confirm diagnosing hypertension when automated office blood pressure mean systolic >= 135 or diastolic >= 85 mm Hg, starting dual therapy for high risk. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Diagnosing hypertension when automated office blood pressure mean systolic >= 135 or diastolic >= 85 mm hg, starting dual therapy for high risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, diagnosing hypertension when automated office blood pressure mean systolic >= 135 or diastolic >= 85 mm Hg, starting dual therapy for high risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, diagnosing hypertension when automated office blood pressure mean systolic >= 135 or diastolic >= 85 mm Hg, starting dual therapy for high risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85. In the clinical management of MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Hypertension Canada Automated Office Blood Pressure Threshold 135-85."
+    ],
+    "references": [
+      {
+        "label": "Hypertension Canada Comprehensive Guidelines",
+        "url": "https://hypertension.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18800",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation. Clinical examination and investigative review confirm prescribing direct oral anticoagulant (DOAC) under the Canadian CHADS-65 algorithm for any patient aged >= 65 or with prior stroke, TIA, or vascular disease. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Prescribing direct oral anticoagulant (doac) under the canadian chads-65 algorithm for any patient aged >= 65 or with prior stroke, tia, or vascular disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing direct oral anticoagulant (DOAC) under the Canadian CHADS-65 algorithm for any patient aged >= 65 or with prior stroke, TIA, or vascular disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing direct oral anticoagulant (DOAC) under the Canadian CHADS-65 algorithm for any patient aged >= 65 or with prior stroke, TIA, or vascular disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation. In the clinical management of MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Atrial Fibrillation CCS Algorithm CHADS-65 Oral Anticoagulation."
+    ],
+    "references": [
+      {
+        "label": "Canadian Cardiovascular Society Atrial Fibrillation Guidelines",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18801",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i. Clinical examination and investigative review confirm adding oral ezetimibe 10 mg and subcutaneous PCSK9 inhibitor evolocumab for persistent LDL-C >= 1.8 mmol/L on maximum tolerated statin. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Adding oral ezetimibe 10 mg and subcutaneous pcsk9 inhibitor evolocumab for persistent ldl-c >= 1.8 mmol/l on maximum tolerated statin",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, adding oral ezetimibe 10 mg and subcutaneous PCSK9 inhibitor evolocumab for persistent LDL-C >= 1.8 mmol/L on maximum tolerated statin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, adding oral ezetimibe 10 mg and subcutaneous PCSK9 inhibitor evolocumab for persistent LDL-C >= 1.8 mmol/L on maximum tolerated statin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i. In the clinical management of MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Dyslipidemia CCS Guidelines Statin Add-On Ezetimibe and PCSK9i."
+    ],
+    "references": [
+      {
+        "label": "CCS Dyslipidemia Clinical Practice Guidelines",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18802",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test. Clinical examination and investigative review confirm requesting cardiac CT angiography as first-line non-invasive anatomical imaging for intermediate pre-test probability stable chest pain. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Requesting cardiac ct angiography as first-line non-invasive anatomical imaging for intermediate pre-test probability stable chest pain",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, requesting cardiac CT angiography as first-line non-invasive anatomical imaging for intermediate pre-test probability stable chest pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, requesting cardiac CT angiography as first-line non-invasive anatomical imaging for intermediate pre-test probability stable chest pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test. In the clinical management of MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Stable Ischemic Heart Disease CT Coronary Angiography vs Stress Test."
+    ],
+    "references": [
+      {
+        "label": "CCS Guidelines for Stable Ischemic Heart Disease",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18803",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification. Clinical examination and investigative review confirm applying the Canadian Syncope Risk Score (CSRS) evaluating clinical signs, ECG abnormalities, and troponin to predict 30-day serious adverse events. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Applying the canadian syncope risk score (csrs) evaluating clinical signs, ecg abnormalities, and troponin to predict 30-day serious adverse events",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, applying the Canadian Syncope Risk Score (CSRS) evaluating clinical signs, ECG abnormalities, and troponin to predict 30-day serious adverse events represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, applying the Canadian Syncope Risk Score (CSRS) evaluating clinical signs, ECG abnormalities, and troponin to predict 30-day serious adverse events represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification. In the clinical management of MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Syncope Canadian Syncope Risk Score Emergency Stratification."
+    ],
+    "references": [
+      {
+        "label": "Canadian Journal of Emergency Medicine & CCS",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18804",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications. Clinical examination and investigative review confirm drawing 3 blood culture sets from separate venepuncture sites and consulting cardiac surgery for persistent bacteremia, heart block, or prosthetic dehiscence. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Drawing 3 blood culture sets from separate venepuncture sites and consulting cardiac surgery for persistent bacteremia, heart block, or prosthetic dehiscence",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, drawing 3 blood culture sets from separate venepuncture sites and consulting cardiac surgery for persistent bacteremia, heart block, or prosthetic dehiscence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, drawing 3 blood culture sets from separate venepuncture sites and consulting cardiac surgery for persistent bacteremia, heart block, or prosthetic dehiscence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications. In the clinical management of MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Cardiology Infective Endocarditis Duke Criteria and Surgical Indications."
+    ],
+    "references": [
+      {
+        "label": "CCS Valvular Heart Disease Guidelines",
+        "url": "https://ccs.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18805",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Perc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent. Clinical examination and investigative review confirm targeting HbA1c <= 7.0% for most adults, <= 6.5% to reduce microvascular complications in newly diagnosed, and 7.1-8.5% in frail elderly. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Targeting hba1c <= 7.0% for most adults, <= 6.5% to reduce microvascular complications in newly diagnosed, and 7.1-8.5% in frail elderly",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, targeting HbA1c <= 7.0% for most adults, <= 6.5% to reduce microvascular complications in newly diagnosed, and 7.1-8.5% in frail elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, targeting HbA1c <= 7.0% for most adults, <= 6.5% to reduce microvascular complications in newly diagnosed, and 7.1-8.5% in frail elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent. In the clinical management of MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetes Canada Glycemic Targets Personalized HbA1c 7.0 Percent."
+    ],
+    "references": [
+      {
+        "label": "Diabetes Canada Clinical Practice Guidelines",
+        "url": "https://guidelines.diabetes.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18806",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification. Clinical examination and investigative review confirm initiating SGLT2 inhibitor (empagliflozin/dapagliflozin) for established heart failure or CKD and GLP-1 RA for atherosclerotic CVD predominance. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating sglt2 inhibitor (empagliflozin/dapagliflozin) for established heart failure or ckd and glp-1 ra for atherosclerotic cvd predominance",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating SGLT2 inhibitor (empagliflozin/dapagliflozin) for established heart failure or CKD and GLP-1 RA for atherosclerotic CVD predominance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating SGLT2 inhibitor (empagliflozin/dapagliflozin) for established heart failure or CKD and GLP-1 RA for atherosclerotic CVD predominance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification. In the clinical management of MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetes SGLT2i and GLP-1 RA Cardiorenal Risk Stratification."
+    ],
+    "references": [
+      {
+        "label": "Diabetes Canada Pharmacotherapy Guidelines",
+        "url": "https://guidelines.diabetes.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18807",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring. Clinical examination and investigative review confirm infusing IV normal saline, monitoring potassium >= 3.3 mmol/L before starting regular insulin 0.1 units/kg/h, adding dextrose when glucose < 14 mmol/L. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv normal saline, monitoring potassium >= 3.3 mmol/l before starting regular insulin 0.1 units/kg/h, adding dextrose when glucose < 14 mmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, infusing IV normal saline, monitoring potassium >= 3.3 mmol/L before starting regular insulin 0.1 units/kg/h, adding dextrose when glucose < 14 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, infusing IV normal saline, monitoring potassium >= 3.3 mmol/L before starting regular insulin 0.1 units/kg/h, adding dextrose when glucose < 14 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring. In the clinical management of MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Diabetic Ketoacidosis Weight-Based IV Insulin and Potassium Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Diabetes Canada DKA Guidelines",
+        "url": "https://guidelines.diabetes.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18808",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine. Clinical examination and investigative review confirm prescribing oral levothyroxine 1.6 mcg/kg/day taken fasting with water, targeting serum TSH 0.5-4.0 mIU/L, rechecking in 6-8 weeks. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral levothyroxine 1.6 mcg/kg/day taken fasting with water, targeting serum tsh 0.5-4.0 miu/l, rechecking in 6-8 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral levothyroxine 1.6 mcg/kg/day taken fasting with water, targeting serum TSH 0.5-4.0 mIU/L, rechecking in 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral levothyroxine 1.6 mcg/kg/day taken fasting with water, targeting serum TSH 0.5-4.0 mIU/L, rechecking in 6-8 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine. In the clinical management of MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Hypothyroidism TSH Reference Range and Weight-Based Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "Canadian Society of Endocrinology and Metabolism (CSEM)",
+        "url": "https://www.endo-metab.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18809",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring. Clinical examination and investigative review confirm initiating oral methimazole 15-30 mg daily and educating on immediate CBC and medical assessment if fever or mouth ulcers develop. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral methimazole 15-30 mg daily and educating on immediate cbc and medical assessment if fever or mouth ulcers develop",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral methimazole 15-30 mg daily and educating on immediate CBC and medical assessment if fever or mouth ulcers develop represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral methimazole 15-30 mg daily and educating on immediate CBC and medical assessment if fever or mouth ulcers develop represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring. In the clinical management of MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Graves Disease Antithyroid Therapy Methimazole and CBC Monitoring."
+    ],
+    "references": [
+      {
+        "label": "CSEM Thyroid Disorders Consensus",
+        "url": "https://www.endo-metab.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18810",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categor",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization. Clinical examination and investigative review confirm classifying into low (< 10%), moderate (10-20%), or high (> 20%) 10-year major osteoporotic fracture risk using Canadian CAROC/FRAX tools. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Classifying into low (< 10%), moderate (10-20%), or high (> 20%) 10-year major osteoporotic fracture risk using canadian caroc/frax tools",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, classifying into low (< 10%), moderate (10-20%), or high (> 20%) 10-year major osteoporotic fracture risk using Canadian CAROC/FRAX tools represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, classifying into low (< 10%), moderate (10-20%), or high (> 20%) 10-year major osteoporotic fracture risk using Canadian CAROC/FRAX tools represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization. In the clinical management of MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Osteoporosis Canada FRAX CAROC 10-Year Fracture Risk Categorization."
+    ],
+    "references": [
+      {
+        "label": "Osteoporosis Canada Clinical Practice Guidelines",
+        "url": "https://osteoporosis.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18811",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indication",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications. Clinical examination and investigative review confirm referring for parathyroidectomy when serum calcium > 0.25 mmol/L above normal, T-score <= -2.5, age < 50, or eGFR < 60 mL/min. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Referring for parathyroidectomy when serum calcium > 0.25 mmol/l above normal, t-score <= -2.5, age < 50, or egfr < 60 ml/min",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, referring for parathyroidectomy when serum calcium > 0.25 mmol/L above normal, T-score <= -2.5, age < 50, or eGFR < 60 mL/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, referring for parathyroidectomy when serum calcium > 0.25 mmol/L above normal, T-score <= -2.5, age < 50, or eGFR < 60 mL/min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications. In the clinical management of MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Primary Hyperparathyroidism Asymptomatic Surgical Indications."
+    ],
+    "references": [
+      {
+        "label": "CSEM Endocrine Surgery Consensus",
+        "url": "https://www.endo-metab.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18812",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening. Clinical examination and investigative review confirm measuring 24-hour urinary free cortisol on two occasions or performing overnight 1 mg dexamethasone suppression test. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Measuring 24-hour urinary free cortisol on two occasions or performing overnight 1 mg dexamethasone suppression test",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring 24-hour urinary free cortisol on two occasions or performing overnight 1 mg dexamethasone suppression test represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, measuring 24-hour urinary free cortisol on two occasions or performing overnight 1 mg dexamethasone suppression test represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening. In the clinical management of MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Endocrinology Cushing Syndrome 24-Hour Urinary Free Cortisol Screening."
+    ],
+    "references": [
+      {
+        "label": "CSEM Adrenal Disease Guidelines",
+        "url": "https://www.endo-metab.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18813",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever St",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies. Clinical examination and investigative review confirm prescribing as-needed low-dose budesonide-formoterol combination inhaler as preferred reliever therapy for individuals aged >= 12 years. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing as-needed low-dose budesonide-formoterol combination inhaler as preferred reliever therapy for individuals aged >= 12 years",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing as-needed low-dose budesonide-formoterol combination inhaler as preferred reliever therapy for individuals aged >= 12 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing as-needed low-dose budesonide-formoterol combination inhaler as preferred reliever therapy for individuals aged >= 12 years represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies. In the clinical management of MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology CTS Asthma Continuum Guideline Inhaled Fast-Acting Reliever Strategies."
+    ],
+    "references": [
+      {
+        "label": "Canadian Thoracic Society (CTS) Asthma Guidelines",
+        "url": "https://cts-sct.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18814",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA. Clinical examination and investigative review confirm prescribing long-acting muscarinic antagonist plus long-acting beta-agonist combination inhaler for moderate-to-severe breathlessness. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing long-acting muscarinic antagonist plus long-acting beta-agonist combination inhaler for moderate-to-severe breathlessness",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing long-acting muscarinic antagonist plus long-acting beta-agonist combination inhaler for moderate-to-severe breathlessness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing long-acting muscarinic antagonist plus long-acting beta-agonist combination inhaler for moderate-to-severe breathlessness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA. In the clinical management of MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology CTS COPD Guidelines Dual Bronchodilation LAMA Plus LABA."
+    ],
+    "references": [
+      {
+        "label": "CTS COPD Clinical Practice Guidelines",
+        "url": "https://cts-sct.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18815",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherap",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy. Clinical examination and investigative review confirm prescribing high-dose oral amoxicillin 1 g three times daily as first-line monotherapy for previously healthy outpatient CAP without comorbidities. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Prescribing high-dose oral amoxicillin 1 g three times daily as first-line monotherapy for previously healthy outpatient cap without comorbidities",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing high-dose oral amoxicillin 1 g three times daily as first-line monotherapy for previously healthy outpatient CAP without comorbidities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing high-dose oral amoxicillin 1 g three times daily as first-line monotherapy for previously healthy outpatient CAP without comorbidities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy. In the clinical management of MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Community-Acquired Pneumonia Outpatient Amoxicillin Monotherapy."
+    ],
+    "references": [
+      {
+        "label": "Association of Medical Microbiology and Infectious Disease Canada (AMMI)",
+        "url": "https://ammi.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18816",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Ninteda",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib. Clinical examination and investigative review confirm initiating oral nintedanib or pirfenidone to preserve lung function in confirmed progressive idiopathic pulmonary fibrosis. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral nintedanib or pirfenidone to preserve lung function in confirmed progressive idiopathic pulmonary fibrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral nintedanib or pirfenidone to preserve lung function in confirmed progressive idiopathic pulmonary fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral nintedanib or pirfenidone to preserve lung function in confirmed progressive idiopathic pulmonary fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib. In the clinical management of MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Idiopathic Pulmonary Fibrosis Antifibrotic Pirfenidone Nintedanib."
+    ],
+    "references": [
+      {
+        "label": "CTS Interstitial Lung Disease Guidelines",
+        "url": "https://cts-sct.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18817",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3. Clinical examination and investigative review confirm arranging level 3 portable nocturnal home sleep testing measuring pulse oximetry, nasal airflow, and respiratory effort for suspected sleep apnea. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Arranging level 3 portable nocturnal home sleep testing measuring pulse oximetry, nasal airflow, and respiratory effort for suspected sleep apnea",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging level 3 portable nocturnal home sleep testing measuring pulse oximetry, nasal airflow, and respiratory effort for suspected sleep apnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging level 3 portable nocturnal home sleep testing measuring pulse oximetry, nasal airflow, and respiratory effort for suspected sleep apnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3. In the clinical management of MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pulmonology Obstructive Sleep Apnea Diagnostic Home Sleep Testing Level 3."
+    ],
+    "references": [
+      {
+        "label": "CTS Sleep Apnea Clinical Practice Guidelines",
+        "url": "https://cts-sct.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18818",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral. Clinical examination and investigative review confirm arranging prompt upper endoscopy for progressive dysphagia, odynophagia, unintentional weight loss, or persistent vomiting. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Arranging prompt upper endoscopy for progressive dysphagia, odynophagia, unintentional weight loss, or persistent vomiting",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging prompt upper endoscopy for progressive dysphagia, odynophagia, unintentional weight loss, or persistent vomiting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging prompt upper endoscopy for progressive dysphagia, odynophagia, unintentional weight loss, or persistent vomiting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral. In the clinical management of MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology GERD Alarm Features Dysphagia Urgent Endoscopy Referral."
+    ],
+    "references": [
+      {
+        "label": "Canadian Association of Gastroenterology (CAG) GERD Guidelines",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18819",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation. Clinical examination and investigative review confirm testing serum anti-tissue transglutaminase (tTG) IgA and total IgA on gluten diet, confirming with endoscopic second duodenal biopsy. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Testing serum anti-tissue transglutaminase (ttg) iga and total iga on gluten diet, confirming with endoscopic second duodenal biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, testing serum anti-tissue transglutaminase (tTG) IgA and total IgA on gluten diet, confirming with endoscopic second duodenal biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, testing serum anti-tissue transglutaminase (tTG) IgA and total IgA on gluten diet, confirming with endoscopic second duodenal biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation. In the clinical management of MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Celiac Disease Diagnostic Flow Anti-tTG IgA Confirmation."
+    ],
+    "references": [
+      {
+        "label": "CAG Clinical Practice Guidelines: Celiac Disease",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18820",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA. Clinical examination and investigative review confirm prescribing oral mesalamine >= 2.4 g daily combined with once-daily rectal mesalamine 1 g enema for active extensive colitis. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral mesalamine >= 2.4 g daily combined with once-daily rectal mesalamine 1 g enema for active extensive colitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral mesalamine >= 2.4 g daily combined with once-daily rectal mesalamine 1 g enema for active extensive colitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral mesalamine >= 2.4 g daily combined with once-daily rectal mesalamine 1 g enema for active extensive colitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA. In the clinical management of MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Ulcerative Colitis Mild-to-Moderate Induction 5-ASA."
+    ],
+    "references": [
+      {
+        "label": "CAG Clinical Practice Guidelines for Ulcerative Colitis",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18821",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic. Clinical examination and investigative review confirm initiating intravenous infliximab 5 mg/kg or subcutaneous adalimumab for moderate-to-severe active luminal or fistulizing Crohn disease. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous infliximab 5 mg/kg or subcutaneous adalimumab for moderate-to-severe active luminal or fistulizing crohn disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating intravenous infliximab 5 mg/kg or subcutaneous adalimumab for moderate-to-severe active luminal or fistulizing Crohn disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating intravenous infliximab 5 mg/kg or subcutaneous adalimumab for moderate-to-severe active luminal or fistulizing Crohn disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic. In the clinical management of MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Crohn Disease Anti-TNF Induction Infliximab Biologic."
+    ],
+    "references": [
+      {
+        "label": "CAG Guidelines on the Medical Management of Crohn's Disease",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18822",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer So",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution. Clinical examination and investigative review confirm initiating goal-directed fluid resuscitation with lactated Ringer solution 200-250 mL/h and oral nutrition within 24 hours as tolerated. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating goal-directed fluid resuscitation with lactated ringer solution 200-250 ml/h and oral nutrition within 24 hours as tolerated",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating goal-directed fluid resuscitation with lactated Ringer solution 200-250 mL/h and oral nutrition within 24 hours as tolerated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating goal-directed fluid resuscitation with lactated Ringer solution 200-250 mL/h and oral nutrition within 24 hours as tolerated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution. In the clinical management of MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Acute Pancreatitis Fluid Resuscitation Lactated Ringer Solution."
+    ],
+    "references": [
+      {
+        "label": "CAG Acute Pancreatitis Clinical Guidelines",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18823",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis A",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment. Clinical examination and investigative review confirm calculating FIB-4 score or ordering vibration-controlled transient elastography (FibroScan) to exclude advanced liver fibrosis. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Calculating fib-4 score or ordering vibration-controlled transient elastography (fibroscan) to exclude advanced liver fibrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, calculating FIB-4 score or ordering vibration-controlled transient elastography (FibroScan) to exclude advanced liver fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, calculating FIB-4 score or ordering vibration-controlled transient elastography (FibroScan) to exclude advanced liver fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment. In the clinical management of MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Non-Alcoholic Fatty Liver Disease Non-Invasive Fibrosis Assessment."
+    ],
+    "references": [
+      {
+        "label": "Canadian Association for the Study of the Liver (CASL)",
+        "url": "https://www.liver.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18824",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound. Clinical examination and investigative review confirm performing abdominal ultrasound with or without serum alpha-fetoprotein every 6 months for all patients with confirmed liver cirrhosis. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing abdominal ultrasound with or without serum alpha-fetoprotein every 6 months for all patients with confirmed liver cirrhosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing abdominal ultrasound with or without serum alpha-fetoprotein every 6 months for all patients with confirmed liver cirrhosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing abdominal ultrasound with or without serum alpha-fetoprotein every 6 months for all patients with confirmed liver cirrhosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound. In the clinical management of MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Gastroenterology Cirrhosis Screening for Hepatocellular Carcinoma Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "CASL Guidelines on Management of Hepatocellular Carcinoma",
+        "url": "https://www.liver.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18825",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i. Clinical examination and investigative review confirm classifying CKD stage using eGFR and urine albumin-to-creatinine ratio (ACR), initiating SGLT2i and ACEi/ARB for renal protection. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Classifying ckd stage using egfr and urine albumin-to-creatinine ratio (acr), initiating sglt2i and acei/arb for renal protection",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, classifying CKD stage using eGFR and urine albumin-to-creatinine ratio (ACR), initiating SGLT2i and ACEi/ARB for renal protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, classifying CKD stage using eGFR and urine albumin-to-creatinine ratio (ACR), initiating SGLT2i and ACEi/ARB for renal protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i. In the clinical management of MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Chronic Kidney Disease KDIGO Staging Albuminuria and SGLT2i."
+    ],
+    "references": [
+      {
+        "label": "Canadian Society of Nephrology (CSN) Clinical Practice Guidelines",
+        "url": "https://www.csnscn.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18826",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup. Clinical examination and investigative review confirm arranging emergency nephrology consultation and urgent percutaneous renal biopsy for rapidly rising creatinine and active urine sediment with RBC casts. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Arranging emergency nephrology consultation and urgent percutaneous renal biopsy for rapidly rising creatinine and active urine sediment with rbc casts",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging emergency nephrology consultation and urgent percutaneous renal biopsy for rapidly rising creatinine and active urine sediment with RBC casts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, arranging emergency nephrology consultation and urgent percutaneous renal biopsy for rapidly rising creatinine and active urine sediment with RBC casts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup. In the clinical management of MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Glomerulonephritis Rapidly Progressive Renal Biopsy Workup."
+    ],
+    "references": [
+      {
+        "label": "CSN Glomerulonephritis Guidelines",
+        "url": "https://www.csnscn.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18827",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy. Clinical examination and investigative review confirm initiating oral vasopressin V2-receptor antagonist tolvaptan in adult ADPKD with high risk of rapid progression to end-stage renal disease. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral vasopressin v2-receptor antagonist tolvaptan in adult adpkd with high risk of rapid progression to end-stage renal disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral vasopressin V2-receptor antagonist tolvaptan in adult ADPKD with high risk of rapid progression to end-stage renal disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral vasopressin V2-receptor antagonist tolvaptan in adult ADPKD with high risk of rapid progression to end-stage renal disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy. In the clinical management of MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Autosomal Dominant Polycystic Kidney Disease Tolvaptan Therapy."
+    ],
+    "references": [
+      {
+        "label": "CSN ADPKD Clinical Recommendations",
+        "url": "https://www.csnscn.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18828",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment. Clinical examination and investigative review confirm staging AKI by serum creatinine rise >= 26.5 mcmol/L within 48 hours or urine output < 0.5 mL/kg/h for 6 hours, restoring euvolemia. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Staging aki by serum creatinine rise >= 26.5 mcmol/l within 48 hours or urine output < 0.5 ml/kg/h for 6 hours, restoring euvolemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, staging AKI by serum creatinine rise >= 26.5 mcmol/L within 48 hours or urine output < 0.5 mL/kg/h for 6 hours, restoring euvolemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, staging AKI by serum creatinine rise >= 26.5 mcmol/L within 48 hours or urine output < 0.5 mL/kg/h for 6 hours, restoring euvolemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment. In the clinical management of MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Acute Kidney Injury KDIGO Criteria and Volume Assessment."
+    ],
+    "references": [
+      {
+        "label": "CSN Acute Kidney Injury Consensus",
+        "url": "https://www.csnscn.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18829",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent St",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones. Clinical examination and investigative review confirm ordering 24-hour urine collection measuring volume, calcium, oxalate, citrate, uric acid, and sodium in recurrent stone formers. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Ordering 24-hour urine collection measuring volume, calcium, oxalate, citrate, uric acid, and sodium in recurrent stone formers",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering 24-hour urine collection measuring volume, calcium, oxalate, citrate, uric acid, and sodium in recurrent stone formers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering 24-hour urine collection measuring volume, calcium, oxalate, citrate, uric acid, and sodium in recurrent stone formers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones. In the clinical management of MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Nephrology Nephrolithiasis 24-Hour Urine Metabolic Evaluation Recurrent Stones."
+    ],
+    "references": [
+      {
+        "label": "Canadian Urological Association (CUA) Guidelines",
+        "url": "https://www.cua.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18830",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab. Clinical examination and investigative review confirm collecting universal vaginal-rectal culture swab at 35 to 37 weeks gestation and administering intrapartum IV penicillin for positive screen. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Collecting universal vaginal-rectal culture swab at 35 to 37 weeks gestation and administering intrapartum iv penicillin for positive screen",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, collecting universal vaginal-rectal culture swab at 35 to 37 weeks gestation and administering intrapartum IV penicillin for positive screen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, collecting universal vaginal-rectal culture swab at 35 to 37 weeks gestation and administering intrapartum IV penicillin for positive screen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab. In the clinical management of MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Prenatal Care Routine Third Trimester GBS Vaginal-Rectal Swab."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Canada (SOGC)",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18831",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing. Clinical examination and investigative review confirm delivering at >= 34 weeks for preeclampsia with severe features (refractory hypertension, thrombocytopenia, elevated transaminases) post-steroids. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Delivering at >= 34 weeks for preeclampsia with severe features (refractory hypertension, thrombocytopenia, elevated transaminases) post-steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, delivering at >= 34 weeks for preeclampsia with severe features (refractory hypertension, thrombocytopenia, elevated transaminases) post-steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, delivering at >= 34 weeks for preeclampsia with severe features (refractory hypertension, thrombocytopenia, elevated transaminases) post-steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing. In the clinical management of MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preeclampsia Definition and Severe Features Delivery Timing."
+    ],
+    "references": [
+      {
+        "label": "SOGC Clinical Practice Guidelines: Hypertension in Pregnancy",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18832",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor. Clinical examination and investigative review confirm administering prophylactic intramuscular or intravenous oxytocin 10 units with delivery of anterior shoulder to prevent uterine atony. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering prophylactic intramuscular or intravenous oxytocin 10 units with delivery of anterior shoulder to prevent uterine atony",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering prophylactic intramuscular or intravenous oxytocin 10 units with delivery of anterior shoulder to prevent uterine atony represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering prophylactic intramuscular or intravenous oxytocin 10 units with delivery of anterior shoulder to prevent uterine atony represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor. In the clinical management of MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Postpartum Hemorrhage SOGC Active Management Third Stage Labor."
+    ],
+    "references": [
+      {
+        "label": "SOGC Postpartum Hemorrhage Guidelines",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18833",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Scree",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen. Clinical examination and investigative review confirm screening with 50 g glucose challenge test at 24-28 weeks (1-hr glucose >= 11.1 mmol/L diagnoses GDM directly; 7.8-11.0 prompts 75g OGTT). Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Screening with 50 g glucose challenge test at 24-28 weeks (1-hr glucose >= 11.1 mmol/l diagnoses gdm directly; 7.8-11.0 prompts 75g ogtt)",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening with 50 g glucose challenge test at 24-28 weeks (1-hr glucose >= 11.1 mmol/L diagnoses GDM directly; 7.8-11.0 prompts 75g OGTT) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, screening with 50 g glucose challenge test at 24-28 weeks (1-hr glucose >= 11.1 mmol/L diagnoses GDM directly; 7.8-11.0 prompts 75g OGTT) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen. In the clinical management of MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Gestational Diabetes Diagnostic Criteria SOGC 50g Glucose Screen."
+    ],
+    "references": [
+      {
+        "label": "SOGC & Diabetes Canada Guidelines",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18834",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethaso",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone. Clinical examination and investigative review confirm administering oral nifedipine tocolysis for 48 hours, intramuscular betamethasone, and IV magnesium sulfate for neuroprotection < 32 weeks. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral nifedipine tocolysis for 48 hours, intramuscular betamethasone, and iv magnesium sulfate for neuroprotection < 32 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering oral nifedipine tocolysis for 48 hours, intramuscular betamethasone, and IV magnesium sulfate for neuroprotection < 32 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering oral nifedipine tocolysis for 48 hours, intramuscular betamethasone, and IV magnesium sulfate for neuroprotection < 32 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone. In the clinical management of MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preterm Labor Tocolysis Indomethacin Nifedipine and Betamethasone."
+    ],
+    "references": [
+      {
+        "label": "SOGC Preterm Labor Clinical Practice Guidelines",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18835",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen. Clinical examination and investigative review confirm prescribing oral erythromycin for 10 days, administering antenatal betamethasone, and planning induction of labor at 37 weeks gestation. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral erythromycin for 10 days, administering antenatal betamethasone, and planning induction of labor at 37 weeks gestation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral erythromycin for 10 days, administering antenatal betamethasone, and planning induction of labor at 37 weeks gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral erythromycin for 10 days, administering antenatal betamethasone, and planning induction of labor at 37 weeks gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen. In the clinical management of MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Preterm Premature Rupture of Membranes Latency Antibiotic Regimen."
+    ],
+    "references": [
+      {
+        "label": "SOGC PPROM Guidelines",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18836",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Couns",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling. Clinical examination and investigative review confirm offering planned trial of labor after cesarean (TOLAC) to women with one previous low transverse hysterotomy and no contraindications. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Offering planned trial of labor after cesarean (tolac) to women with one previous low transverse hysterotomy and no contraindications",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, offering planned trial of labor after cesarean (TOLAC) to women with one previous low transverse hysterotomy and no contraindications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, offering planned trial of labor after cesarean (TOLAC) to women with one previous low transverse hysterotomy and no contraindications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling. In the clinical management of MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Vaginal Birth After Cesarean Section VBAC Eligibility and Counseling."
+    ],
+    "references": [
+      {
+        "label": "SOGC Guidelines on Trial of Labour After Caesarean",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18837",
+    "exam": "MCCQE",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criter",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria. Clinical examination and investigative review confirm administering IM methotrexate 50 mg/m2 for unruptured ectopic pregnancy with baseline hCG < 5000 IU/L, mass < 3.5 cm, and absent cardiac activity. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Administering im methotrexate 50 mg/m2 for unruptured ectopic pregnancy with baseline hcg < 5000 iu/l, mass < 3.5 cm, and absent cardiac activity",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering IM methotrexate 50 mg/m2 for unruptured ectopic pregnancy with baseline hCG < 5000 IU/L, mass < 3.5 cm, and absent cardiac activity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering IM methotrexate 50 mg/m2 for unruptured ectopic pregnancy with baseline hCG < 5000 IU/L, mass < 3.5 cm, and absent cardiac activity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria. In the clinical management of MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Obstetrics Ectopic Pregnancy Single-Dose Intramuscular Methotrexate Criteria."
+    ],
+    "references": [
+      {
+        "label": "SOGC Early Pregnancy Complications Guidelines",
+        "url": "https://sogc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18838",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 12-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines. Clinical examination and investigative review confirm initiating positive pressure ventilation with room air (21% O2) via T-piece resuscitator for term newborn with apnea or HR < 100 bpm. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating positive pressure ventilation with room air (21% o2) via t-piece resuscitator for term newborn with apnea or hr < 100 bpm",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating positive pressure ventilation with room air (21% O2) via T-piece resuscitator for term newborn with apnea or HR < 100 bpm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating positive pressure ventilation with room air (21% O2) via T-piece resuscitator for term newborn with apnea or HR < 100 bpm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines. In the clinical management of MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Neonatal Resuscitation Canadian Paediatric Society NRP Guidelines."
+    ],
+    "references": [
+      {
+        "label": "Canadian Paediatric Society (CPS) Neonatal Resuscitation Guidelines",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18839",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodila",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 13-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators. Clinical examination and investigative review confirm providing supportive hydration and supplemental oxygen for SpO2 < 90%, avoiding routine trial of salbutamol, epinephrine, or systemic steroids. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive hydration and supplemental oxygen for spo2 < 90%, avoiding routine trial of salbutamol, epinephrine, or systemic steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, providing supportive hydration and supplemental oxygen for SpO2 < 90%, avoiding routine trial of salbutamol, epinephrine, or systemic steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, providing supportive hydration and supplemental oxygen for SpO2 < 90%, avoiding routine trial of salbutamol, epinephrine, or systemic steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators. In the clinical management of MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Bronchiolitis CPS Guidelines Supportive Care and No Bronchodilators."
+    ],
+    "references": [
+      {
+        "label": "CPS Position Statement: Bronchiolitis in Children",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18840",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epineph",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine. Clinical examination and investigative review confirm administering single dose of oral dexamethasone 0.6 mg/kg and nebulized racemic epinephrine 1:1000 for moderate-to-severe stridor at rest. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Administering single dose of oral dexamethasone 0.6 mg/kg and nebulized racemic epinephrine 1:1000 for moderate-to-severe stridor at rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering single dose of oral dexamethasone 0.6 mg/kg and nebulized racemic epinephrine 1:1000 for moderate-to-severe stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering single dose of oral dexamethasone 0.6 mg/kg and nebulized racemic epinephrine 1:1000 for moderate-to-severe stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine. In the clinical management of MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Croup Severity Scoring Oral Dexamethasone and Nebulized Epinephrine."
+    ],
+    "references": [
+      {
+        "label": "CPS Acute Management of Croup",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18841",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Consideration",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations. Clinical examination and investigative review confirm reassuring parents regarding excellent prognosis of simple febrile seizures, reserving lumbar puncture for meningeal signs or incomplete immunization. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Reassuring parents regarding excellent prognosis of simple febrile seizures, reserving lumbar puncture for meningeal signs or incomplete immunization",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, reassuring parents regarding excellent prognosis of simple febrile seizures, reserving lumbar puncture for meningeal signs or incomplete immunization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, reassuring parents regarding excellent prognosis of simple febrile seizures, reserving lumbar puncture for meningeal signs or incomplete immunization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations. In the clinical management of MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Febrile Seizure Simple vs Complex Lumbar Puncture Considerations."
+    ],
+    "references": [
+      {
+        "label": "CPS Clinical Practice Statement: Febrile Seizures",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18842",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen. Clinical examination and investigative review confirm obtaining sterile urethral catheterization or suprapubic aspirate urine specimen for culture prior to initiating empiric antibiotics in febrile infant. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining sterile urethral catheterization or suprapubic aspirate urine specimen for culture prior to initiating empiric antibiotics in febrile infant",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, obtaining sterile urethral catheterization or suprapubic aspirate urine specimen for culture prior to initiating empiric antibiotics in febrile infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, obtaining sterile urethral catheterization or suprapubic aspirate urine specimen for culture prior to initiating empiric antibiotics in febrile infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen. In the clinical management of MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Urinary Tract Infection Infant Diagnostic Catheter Specimen."
+    ],
+    "references": [
+      {
+        "label": "CPS Position Statement: Urinary Tract Infection in Infants and Children",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18843",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referra",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral. Clinical examination and investigative review confirm administering M-CHAT-R questionnaire at 18 and 24 months, referring immediately for multidisciplinary assessment when screening is positive. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Administering m-chat-r questionnaire at 18 and 24 months, referring immediately for multidisciplinary assessment when screening is positive",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering M-CHAT-R questionnaire at 18 and 24 months, referring immediately for multidisciplinary assessment when screening is positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering M-CHAT-R questionnaire at 18 and 24 months, referring immediately for multidisciplinary assessment when screening is positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral. In the clinical management of MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Autism Spectrum Disorder Early Screening and Diagnostic Referral."
+    ],
+    "references": [
+      {
+        "label": "CPS Early Detection and Diagnosis of Autism Spectrum Disorder",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18844",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therap",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First. Clinical examination and investigative review confirm initiating parent behavioral management training for preschool children, prescribing oral long-acting psychostimulants for school-aged children. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating parent behavioral management training for preschool children, prescribing oral long-acting psychostimulants for school-aged children",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating parent behavioral management training for preschool children, prescribing oral long-acting psychostimulants for school-aged children represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating parent behavioral management training for preschool children, prescribing oral long-acting psychostimulants for school-aged children represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First. In the clinical management of MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Attention-Deficit Hyperactivity Disorder ADHD Behavioral Therapy First."
+    ],
+    "references": [
+      {
+        "label": "CPS Clinical Practice Guidelines: ADHD",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18845",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy. Clinical examination and investigative review confirm recording a 3-day dietary food diary, optimizing caloric density of formula or meals, and assessing parent-child feeding interactions. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Recording a 3-day dietary food diary, optimizing caloric density of formula or meals, and assessing parent-child feeding interactions",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recording a 3-day dietary food diary, optimizing caloric density of formula or meals, and assessing parent-child feeding interactions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recording a 3-day dietary food diary, optimizing caloric density of formula or meals, and assessing parent-child feeding interactions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy. In the clinical management of MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Failure to Thrive Nutritional Calorie Optimization Strategy."
+    ],
+    "references": [
+      {
+        "label": "CPS Position Statement: Failure to Thrive",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18846",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol. Clinical examination and investigative review confirm prescribing oral polyethylene glycol 3350 (PEG without electrolytes) 1 to 1.5 g/kg/day for 3 to 6 days for fecal disimpaction followed by maintenance. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral polyethylene glycol 3350 (peg without electrolytes) 1 to 1.5 g/kg/day for 3 to 6 days for fecal disimpaction followed by maintenance",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral polyethylene glycol 3350 (PEG without electrolytes) 1 to 1.5 g/kg/day for 3 to 6 days for fecal disimpaction followed by maintenance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, prescribing oral polyethylene glycol 3350 (PEG without electrolytes) 1 to 1.5 g/kg/day for 3 to 6 days for fecal disimpaction followed by maintenance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol. In the clinical management of MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Constipation Incontinence Disimpaction Oral Polyethylene Glycol."
+    ],
+    "references": [
+      {
+        "label": "CPS Practice Point: Functional Constipation",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18847",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram. Clinical examination and investigative review confirm plotting total serum bilirubin on Canadian Paediatric Society hour-specific risk nomogram to guide intensive phototherapy vs exchange transfusion. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Plotting total serum bilirubin on canadian paediatric society hour-specific risk nomogram to guide intensive phototherapy vs exchange transfusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, plotting total serum bilirubin on Canadian Paediatric Society hour-specific risk nomogram to guide intensive phototherapy vs exchange transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, plotting total serum bilirubin on Canadian Paediatric Society hour-specific risk nomogram to guide intensive phototherapy vs exchange transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram. In the clinical management of MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Pediatrics Neonatal Hyperbilirubinemia CPS Phototherapy Hour-Specific Nomogram."
+    ],
+    "references": [
+      {
+        "label": "CPS Guidelines: Detection and Management of Hyperbilirubinemia in Term and Late Preterm Infants",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18848",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appende",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy. Clinical examination and investigative review confirm confirming diagnosis with contrast-enhanced CT abdomen and performing timely laparoscopic appendectomy within 24 hours of admission. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Confirming diagnosis with contrast-enhanced ct abdomen and performing timely laparoscopic appendectomy within 24 hours of admission",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, confirming diagnosis with contrast-enhanced CT abdomen and performing timely laparoscopic appendectomy within 24 hours of admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, confirming diagnosis with contrast-enhanced CT abdomen and performing timely laparoscopic appendectomy within 24 hours of admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy. In the clinical management of MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Acute Appendicitis Adult Clinical Staging and Laparoscopic Appendectomy."
+    ],
+    "references": [
+      {
+        "label": "Canadian Association of General Surgeons (CAGS)",
+        "url": "https://cags-accg.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18849",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecyste",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm performing early index admission laparoscopic cholecystectomy within 72 hours of symptom presentation to reduce readmission and complications. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Performing early index admission laparoscopic cholecystectomy within 72 hours of symptom presentation to reduce readmission and complications",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing early index admission laparoscopic cholecystectomy within 72 hours of symptom presentation to reduce readmission and complications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing early index admission laparoscopic cholecystectomy within 72 hours of symptom presentation to reduce readmission and complications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy. In the clinical management of MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Acute Cholecystitis Tokyo Guidelines Early Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "CAGS Clinical Practice Guidelines",
+        "url": "https://cags-accg.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18850",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Chall",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge. Clinical examination and investigative review confirm initiating nasogastric decompression, IV hydration, and administering oral water-soluble contrast to evaluate need for laparotomy at 24 hours. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Initiating nasogastric decompression, iv hydration, and administering oral water-soluble contrast to evaluate need for laparotomy at 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating nasogastric decompression, IV hydration, and administering oral water-soluble contrast to evaluate need for laparotomy at 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating nasogastric decompression, IV hydration, and administering oral water-soluble contrast to evaluate need for laparotomy at 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge. In the clinical management of MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Small Bowel Obstruction Conservative Management Gastrografin Challenge."
+    ],
+    "references": [
+      {
+        "label": "CAGS Acute Bowel Obstruction Guidelines",
+        "url": "https://cags-accg.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18851",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Mana",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management. Clinical examination and investigative review confirm managing uncomplicated Hinchey I diverticulitis outpatient without antibiotics, scheduling emergency surgery for Hinchey III/IV purulent peritonitis. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Managing uncomplicated hinchey i diverticulitis outpatient without antibiotics, scheduling emergency surgery for hinchey iii/iv purulent peritonitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, managing uncomplicated Hinchey I diverticulitis outpatient without antibiotics, scheduling emergency surgery for Hinchey III/IV purulent peritonitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, managing uncomplicated Hinchey I diverticulitis outpatient without antibiotics, scheduling emergency surgery for Hinchey III/IV purulent peritonitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management. In the clinical management of MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Diverticulitis Hinchey Classification Outpatient vs Operative Management."
+    ],
+    "references": [
+      {
+        "label": "CAGS Colorectal Guidelines",
+        "url": "https://cags-accg.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18852",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair. Clinical examination and investigative review confirm performing totally extraperitoneal (TEP) or transabdominal preperitoneal (TAPP) mesh repair for symptomatic or bilateral inguinal hernias. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing totally extraperitoneal (tep) or transabdominal preperitoneal (tapp) mesh repair for symptomatic or bilateral inguinal hernias",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing totally extraperitoneal (TEP) or transabdominal preperitoneal (TAPP) mesh repair for symptomatic or bilateral inguinal hernias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, performing totally extraperitoneal (TEP) or transabdominal preperitoneal (TAPP) mesh repair for symptomatic or bilateral inguinal hernias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair. In the clinical management of MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Inguinal Hernia Symptomatic Laparoscopic TEP vs TAPP Repair."
+    ],
+    "references": [
+      {
+        "label": "CAGS Hernia Surgery Guidelines",
+        "url": "https://cags-accg.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18853",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Interv",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals. Clinical examination and investigative review confirm scheduling 3-year surveillance colonoscopy for 3 to 10 tubular adenomas, high-grade dysplasia, or villous features >= 10 mm. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Scheduling 3-year surveillance colonoscopy for 3 to 10 tubular adenomas, high-grade dysplasia, or villous features >= 10 mm",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, scheduling 3-year surveillance colonoscopy for 3 to 10 tubular adenomas, high-grade dysplasia, or villous features >= 10 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, scheduling 3-year surveillance colonoscopy for 3 to 10 tubular adenomas, high-grade dysplasia, or villous features >= 10 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals. In the clinical management of MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Colorectal Cancer Post-Polypectomy Surveillance Colonoscopy Intervals."
+    ],
+    "references": [
+      {
+        "label": "CAG & CAGS Colonoscopy Surveillance Guidelines",
+        "url": "https://www.cag-acg.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18854",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy. Clinical examination and investigative review confirm transferring patient with persistent hypotension and free fluid on focused assessment with sonography for trauma (FAST) directly to operating room. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Transferring patient with persistent hypotension and free fluid on focused assessment with sonography for trauma (fast) directly to operating room",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, transferring patient with persistent hypotension and free fluid on focused assessment with sonography for trauma (FAST) directly to operating room represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, transferring patient with persistent hypotension and free fluid on focused assessment with sonography for trauma (FAST) directly to operating room represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy. In the clinical management of MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Abdominal Trauma Hemodynamically Unstable Positive FAST Laparotomy."
+    ],
+    "references": [
+      {
+        "label": "Trauma Association of Canada (TAC) Guidelines",
+        "url": "https://www.traumacanada.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18855",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours. Clinical examination and investigative review confirm administering lactated Ringer solution 2 to 4 mL x body weight (kg) x %TBSA burn, infusing first half over initial 8 hours post-burn. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Administering lactated ringer solution 2 to 4 ml x body weight (kg) x %tbsa burn, infusing first half over initial 8 hours post-burn",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering lactated Ringer solution 2 to 4 mL x body weight (kg) x %TBSA burn, infusing first half over initial 8 hours post-burn represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering lactated Ringer solution 2 to 4 mL x body weight (kg) x %TBSA burn, infusing first half over initial 8 hours post-burn represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours. In the clinical management of MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Burns Canadian Resuscitation Fluid Formula First 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "Canadian Burn Association Guidelines",
+        "url": "https://www.traumacanada.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18856",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features. Clinical examination and investigative review confirm ordering non-contrast head CT for GCS < 15 at 2 hours post-injury, suspected open/depressed skull fracture, or >= 2 episodes of vomiting. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Ordering non-contrast head ct for gcs < 15 at 2 hours post-injury, suspected open/depressed skull fracture, or >= 2 episodes of vomiting",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering non-contrast head CT for GCS < 15 at 2 hours post-injury, suspected open/depressed skull fracture, or >= 2 episodes of vomiting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering non-contrast head CT for GCS < 15 at 2 hours post-injury, suspected open/depressed skull fracture, or >= 2 episodes of vomiting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features. In the clinical management of MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Traumatic Brain Injury Canadian CT Head Rule High Risk Features."
+    ],
+    "references": [
+      {
+        "label": "Canadian CT Head Rule & CAEP Guidelines",
+        "url": "https://caep.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18857",
+    "exam": "MCCQE",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors. Clinical examination and investigative review confirm ordering cervical spine radiography for age >= 65, dangerous mechanism (fall > 1 m / 5 stairs), or paresthesias in extremities. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Ordering cervical spine radiography for age >= 65, dangerous mechanism (fall > 1 m / 5 stairs), or paresthesias in extremities",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering cervical spine radiography for age >= 65, dangerous mechanism (fall > 1 m / 5 stairs), or paresthesias in extremities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, ordering cervical spine radiography for age >= 65, dangerous mechanism (fall > 1 m / 5 stairs), or paresthesias in extremities represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors. In the clinical management of MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Surgery Cervical Spine Trauma Canadian C-Spine Rule High-Risk Factors."
+    ],
+    "references": [
+      {
+        "label": "Canadian C-Spine Rule & CAEP Guidelines",
+        "url": "https://caep.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18858",
+    "exam": "MCCQE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation A",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants. Clinical examination and investigative review confirm initiating oral escitalopram, sertraline, or vortioxetine as first-line pharmacotherapy under CANMAT depression guidelines. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral escitalopram, sertraline, or vortioxetine as first-line pharmacotherapy under canmat depression guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral escitalopram, sertraline, or vortioxetine as first-line pharmacotherapy under CANMAT depression guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral escitalopram, sertraline, or vortioxetine as first-line pharmacotherapy under CANMAT depression guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants. In the clinical management of MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Major Depressive Disorder CANMAT First-Line Second-Generation Antidepressants."
+    ],
+    "references": [
+      {
+        "label": "Canadian Network for Mood and Anxiety Treatments (CANMAT)",
+        "url": "https://www.canmat.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18859",
+    "exam": "MCCQE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypica",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical. Clinical examination and investigative review confirm initiating oral lithium, divalproex, or second-generation antipsychotic (quetiapine, aripiprazole) for acute severe manic episode. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral lithium, divalproex, or second-generation antipsychotic (quetiapine, aripiprazole) for acute severe manic episode",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral lithium, divalproex, or second-generation antipsychotic (quetiapine, aripiprazole) for acute severe manic episode represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating oral lithium, divalproex, or second-generation antipsychotic (quetiapine, aripiprazole) for acute severe manic episode represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical. In the clinical management of MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Bipolar I Disorder Acute Mania CANMAT Lithium Valproate Atypical."
+    ],
+    "references": [
+      {
+        "label": "CANMAT Bipolar Guidelines",
+        "url": "https://www.canmat.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18860",
+    "exam": "MCCQE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metaboli",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome. Clinical examination and investigative review confirm monitoring baseline and ongoing weight, waist circumference, fasting lipid profile, and fasting glucose for patients on second-generation antipsychotics. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Monitoring baseline and ongoing weight, waist circumference, fasting lipid profile, and fasting glucose for patients on second-generation antipsychotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, monitoring baseline and ongoing weight, waist circumference, fasting lipid profile, and fasting glucose for patients on second-generation antipsychotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, monitoring baseline and ongoing weight, waist circumference, fasting lipid profile, and fasting glucose for patients on second-generation antipsychotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome. In the clinical management of MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Schizophrenia Pharmacotherapy Antipsychotic Monitoring Metabolic Syndrome."
+    ],
+    "references": [
+      {
+        "label": "Canadian Psychiatric Association (CPA) Guidelines",
+        "url": "https://www.cpa-apc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18861",
+    "exam": "MCCQE",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT. Clinical examination and investigative review confirm recommending cognitive behavioral therapy and initiating oral escitalopram or duloxetine as first-line treatment for chronic GAD. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Recommending cognitive behavioral therapy and initiating oral escitalopram or duloxetine as first-line treatment for chronic gad",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending cognitive behavioral therapy and initiating oral escitalopram or duloxetine as first-line treatment for chronic GAD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, recommending cognitive behavioral therapy and initiating oral escitalopram or duloxetine as first-line treatment for chronic GAD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT. In the clinical management of MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Generalized Anxiety Disorder CANMAT First-Line SSRI and CBT."
+    ],
+    "references": [
+      {
+        "label": "CANMAT Anxiety Guidelines",
+        "url": "https://www.canmat.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18862",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "Behavioral Health",
+    "topic": "MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone F",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line. Clinical examination and investigative review confirm initiating sublingual buprenorphine-naloxone as preferred first-line opioid agonist treatment (OAT) over methadone for opioid dependence. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating sublingual buprenorphine-naloxone as preferred first-line opioid agonist treatment (oat) over methadone for opioid dependence",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating sublingual buprenorphine-naloxone as preferred first-line opioid agonist treatment (OAT) over methadone for opioid dependence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, initiating sublingual buprenorphine-naloxone as preferred first-line opioid agonist treatment (OAT) over methadone for opioid dependence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line. In the clinical management of MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Psychiatry Opioid Use Disorder Canadian Guideline Buprenorphine-Naloxone First-Line."
+    ],
+    "references": [
+      {
+        "label": "Canadian Centre on Substance Use and Addiction & CRISM Guidelines",
+        "url": "https://crism.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18863",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2. Clinical examination and investigative review confirm evaluating age >= 18, competent capacity, voluntary request, and grievous and irremediable medical condition under Canadian federal legislation. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating age >= 18, competent capacity, voluntary request, and grievous and irremediable medical condition under canadian federal legislation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, evaluating age >= 18, competent capacity, voluntary request, and grievous and irremediable medical condition under Canadian federal legislation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, evaluating age >= 18, competent capacity, voluntary request, and grievous and irremediable medical condition under Canadian federal legislation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2. In the clinical management of MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Assistance in Dying MAID Eligibility Criteria Track 1 and 2."
+    ],
+    "references": [
+      {
+        "label": "Health Canada Guidance on Medical Assistance in Dying",
+        "url": "https://www.canada.ca/en/health-canada/services/medical-assistance-dying.html"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18864",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada. Clinical examination and investigative review confirm consulting statutory substitute decision-maker hierarchy (spouse, adult children, parents, siblings) to ascertain patient prior expressed wishes. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Consulting statutory substitute decision-maker hierarchy (spouse, adult children, parents, siblings) to ascertain patient prior expressed wishes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, consulting statutory substitute decision-maker hierarchy (spouse, adult children, parents, siblings) to ascertain patient prior expressed wishes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, consulting statutory substitute decision-maker hierarchy (spouse, adult children, parents, siblings) to ascertain patient prior expressed wishes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada. In the clinical management of MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Decision-Making Substitute Decision Maker Hierarchy Canada."
+    ],
+    "references": [
+      {
+        "label": "Canadian Medical Association (CMA) Code of Ethics",
+        "url": "https://www.cma.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18865",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety. Clinical examination and investigative review confirm breaching clinical confidentiality to notify police or identifiable intended victim when patient expresses credible imminent threat of lethal violence. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Breaching clinical confidentiality to notify police or identifiable intended victim when patient expresses credible imminent threat of lethal violence",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, breaching clinical confidentiality to notify police or identifiable intended victim when patient expresses credible imminent threat of lethal violence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, breaching clinical confidentiality to notify police or identifiable intended victim when patient expresses credible imminent threat of lethal violence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety. In the clinical management of MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Confidentiality Duty to Warn Immediate Serious Risk Public Safety."
+    ],
+    "references": [
+      {
+        "label": "CMA Code of Ethics and Professionalism",
+        "url": "https://www.cma.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18866",
+    "exam": "MCCQE",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female is evaluated in the emergency department of a Canadian tertiary care centre in Toronto with clinical findings indicative of MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty. Clinical examination and investigative review confirm making immediate statutory telephone report to local provincial child welfare authority when reasonable grounds exist to suspect child neglect or abuse. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Making immediate statutory telephone report to local provincial child welfare authority when reasonable grounds exist to suspect child neglect or abuse",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, making immediate statutory telephone report to local provincial child welfare authority when reasonable grounds exist to suspect child neglect or abuse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, making immediate statutory telephone report to local provincial child welfare authority when reasonable grounds exist to suspect child neglect or abuse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty. In the clinical management of MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Mandatory Reporting Child Abuse and Neglect Provincial Duty."
+    ],
+    "references": [
+      {
+        "label": "Canadian Paediatric Society Safeguarding Statement",
+        "url": "https://cps.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18867",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male presents to the academic medical centre ambulatory clinic in Vancouver with clinical findings indicative of MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law. Clinical examination and investigative review confirm disclosing diagnosis, proposed treatment nature, material and special risks, alternatives, and consequences of refusing treatment under Reibl v Hughes. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Disclosing diagnosis, proposed treatment nature, material and special risks, alternatives, and consequences of refusing treatment under reibl v hughes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, disclosing diagnosis, proposed treatment nature, material and special risks, alternatives, and consequences of refusing treatment under Reibl v Hughes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, disclosing diagnosis, proposed treatment nature, material and special risks, alternatives, and consequences of refusing treatment under Reibl v Hughes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law. In the clinical management of MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Informed Consent Material Risks and Alternatives Canadian Law."
+    ],
+    "references": [
+      {
+        "label": "Canadian Medical Protective Association (CMPA)",
+        "url": "https://www.cmpa-acpm.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18868",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory Coll",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female is admitted to the clinical teaching unit (CTU) of McGill University Health Centre in Montreal with clinical findings indicative of MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College. Clinical examination and investigative review confirm reporting a colleague whose clinical competence or practice is severely impaired by substance use or psychiatric illness to provincial college. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Reporting a colleague whose clinical competence or practice is severely impaired by substance use or psychiatric illness to provincial college",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, reporting a colleague whose clinical competence or practice is severely impaired by substance use or psychiatric illness to provincial college represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, reporting a colleague whose clinical competence or practice is severely impaired by substance use or psychiatric illness to provincial college represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College. In the clinical management of MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Physician Impairment Fitness to Practice Provincial Regulatory College."
+    ],
+    "references": [
+      {
+        "label": "CMPA Duty to Report Concerns Regarding Colleagues",
+        "url": "https://www.cmpa-acpm.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18869",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male undergoes specialist outpatient evaluation at an accredited Canadian hospital with clinical findings indicative of MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22. Clinical examination and investigative review confirm incorporating Indigenous healing concepts, recognizing historical trauma of residential schools, and practicing non-judgmental cultural humility. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Incorporating indigenous healing concepts, recognizing historical trauma of residential schools, and practicing non-judgmental cultural humility",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, incorporating Indigenous healing concepts, recognizing historical trauma of residential schools, and practicing non-judgmental cultural humility represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal and clinical assessment delays care and risks contrast nephropathy.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, incorporating Indigenous healing concepts, recognizing historical trauma of residential schools, and practicing non-judgmental cultural humility represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22. In the clinical management of MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Indigenous Cultural Safety Truth and Reconciliation Calls to Action 22."
+    ],
+    "references": [
+      {
+        "label": "Truth and Reconciliation Commission of Canada: Calls to Action & CMA",
+        "url": "https://www.cma.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18870",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female attends the regional community health centre in Calgary with clinical findings indicative of MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges. Clinical examination and investigative review confirm providing timely, non-judgmental, effective referral to an accessible non-objecting provider for abortion, contraception, or MAID. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Providing timely, non-judgmental, effective referral to an accessible non-objecting provider for abortion, contraception, or maid",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, providing timely, non-judgmental, effective referral to an accessible non-objecting provider for abortion, contraception, or MAID represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges.",
+        "correct": true
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, providing timely, non-judgmental, effective referral to an accessible non-objecting provider for abortion, contraception, or MAID represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges. In the clinical management of MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Conscientious Objection Effective Referral Requirement Provincial Colleges."
+    ],
+    "references": [
+      {
+        "label": "CMA Policy on Conscientious Objection & CMPA",
+        "url": "https://www.cmpa-acpm.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18871",
+    "exam": "MCCQE",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is examined during multidisciplinary team rounds in Edmonton with clinical findings indicative of MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis. Clinical examination and investigative review confirm disclosing clinical error promptly to patient, explaining known facts and clinical consequences, apologizing, and undertaking root-cause analysis. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Disclosing clinical error promptly to patient, explaining known facts and clinical consequences, apologizing, and undertaking root-cause analysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, disclosing clinical error promptly to patient, explaining known facts and clinical consequences, apologizing, and undertaking root-cause analysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, disclosing clinical error promptly to patient, explaining known facts and clinical consequences, apologizing, and undertaking root-cause analysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis. In the clinical management of MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics Medical Error Disclosure Candour and Root Cause Analysis."
+    ],
+    "references": [
+      {
+        "label": "CMPA Disclosing Harm from Healthcare Delivery",
+        "url": "https://www.cmpa-acpm.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-18872",
+    "exam": "MCCQE",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the family practice clinic in Ontario with clinical findings indicative of MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering. Clinical examination and investigative review confirm administering monitored continuous subcutaneous or intravenous midazolam for intractable refractory physical suffering in terminal illness. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical management decisions is prioritized under Canadian clinical practice guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering monitored continuous subcutaneous or intravenous midazolam for intractable refractory physical suffering in terminal illness",
+        "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering monitored continuous subcutaneous or intravenous midazolam for intractable refractory physical suffering in terminal illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MCCQE, administering monitored continuous subcutaneous or intravenous midazolam for intractable refractory physical suffering in terminal illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering. In the clinical management of MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MCCQE Ethics End-of-Life Care Palliative Sedation Refractory Suffering."
+    ],
+    "references": [
+      {
+        "label": "Canadian Hospice Palliative Care Association (CHPCA)",
+        "url": "https://www.chpca.ca/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
