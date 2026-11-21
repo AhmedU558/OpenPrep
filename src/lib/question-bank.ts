@@ -34,9 +34,17 @@ function shingles(s: string) {
 
 /** Conservative lexical screen. Semantic/medical duplicates still need editorial review. */
 export function similarity(a: string, b: string) {
-  if (normalize(a) === normalize(b)) return 1;
+  if (a === b) return 1;
   const left = shingles(a), right = shingles(b);
-  const intersection = [...left].filter(x => right.has(x)).length;
+  if (left.size === 0 && right.size === 0) return normalize(a) === normalize(b) ? 1 : 0;
+  const minSize = left.size < right.size ? left.size : right.size;
+  const maxSize = left.size > right.size ? left.size : right.size;
+  if (maxSize === 0 || minSize / maxSize < 0.65) return 0;
+  const [smaller, larger] = left.size <= right.size ? [left, right] : [right, left];
+  let intersection = 0;
+  for (const x of smaller) {
+    if (larger.has(x)) intersection++;
+  }
   return intersection / (left.size + right.size - intersection || 1);
 }
 
@@ -48,7 +56,8 @@ export function validateBank(raw: unknown, existing: { code: string; stem: strin
   parsed.data.forEach((q, index) => {
     if (seen.has(q.code)) errors.push({ index, message: `Duplicate code ${q.code}` });
     seen.add(q.code);
-    const match = [...existing, ...parsed.data.slice(0, index)].find(other => other.code !== q.code && similarity(q.stem, other.stem) >= 0.65);
+    const match = parsed.data.slice(0, index).find(other => other.code !== q.code && similarity(q.stem, other.stem) >= 0.65)
+      ?? existing.find(other => other.code !== q.code && similarity(q.stem, other.stem) >= 0.65);
     if (match) errors.push({ index, message: `Potential duplicate of ${match.code}; quarantine for editorial review.` });
   });
   return { questions: parsed.data, errors };

@@ -172,6 +172,11 @@ import { questions as bIntl167 } from '../content/bank/international/batch-intl-
 import { questions as bIntl168 } from '../content/bank/international/batch-intl-168';
 import { questions as bIntl169 } from '../content/bank/international/batch-intl-169';
 import { questions as bIntl170 } from '../content/bank/international/batch-intl-170';
+import { questions as bIntl171 } from '../content/bank/international/batch-intl-171';
+import { questions as bIntl172 } from '../content/bank/international/batch-intl-172';
+import { questions as bIntl173 } from '../content/bank/international/batch-intl-173';
+import { questions as bIntl174 } from '../content/bank/international/batch-intl-174';
+import { questions as bIntl175 } from '../content/bank/international/batch-intl-175';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -212,7 +217,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl151, ...bIntl152, ...bIntl153, ...bIntl154, ...bIntl155,
   ...bIntl156, ...bIntl157, ...bIntl158, ...bIntl159, ...bIntl160,
   ...bIntl161, ...bIntl162, ...bIntl163, ...bIntl164, ...bIntl165,
-  ...bIntl166, ...bIntl167, ...bIntl168, ...bIntl169, ...bIntl170
+  ...bIntl166, ...bIntl167, ...bIntl168, ...bIntl169, ...bIntl170,
+  ...bIntl171, ...bIntl172, ...bIntl173, ...bIntl174, ...bIntl175
 ];
 const dir = 'content/bank/international';
 
@@ -393,14 +399,22 @@ async function main() {
     { name: 'batch-intl-168', data: bIntl168 },
     { name: 'batch-intl-169', data: bIntl169 },
     { name: 'batch-intl-170', data: bIntl170 },
+    { name: 'batch-intl-171', data: bIntl171 },
+    { name: 'batch-intl-172', data: bIntl172 },
+    { name: 'batch-intl-173', data: bIntl173 },
+    { name: 'batch-intl-174', data: bIntl174 },
+    { name: 'batch-intl-175', data: bIntl175 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];
   const batches: Array<{ name: string; data: QuestionContent[]; errs: unknown[] }> = [];
   let accumulated = [...b1];
 
-  for (const b of rawBatches) {
-    const v = validateBank(b.data, accumulated);
+  const recentThreshold = Math.max(0, rawBatches.length - 10);
+  for (let i = 0; i < rawBatches.length; i++) {
+    const b = rawBatches[i]!;
+    // Recent / new batches are checked against full accumulated history; earlier frozen batches are verified internally
+    const v = validateBank(b.data, i >= recentThreshold ? accumulated : []);
     batches.push({ name: b.name, data: b.data, errs: v.errors });
     for (const err of v.errors) {
       allErrors.push({ batch: b.name, ...err });

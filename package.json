@@ -13,7 +13,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "node --max-old-space-size=8192 --max-semi-space-size=256 ./node_modules/typescript/bin/tsc --noEmit",
     "db:up": "docker compose up -d db mail",
     "db:migrate": "prisma migrate dev",
     "db:deploy": "prisma migrate deploy",
