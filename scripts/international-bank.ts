@@ -282,6 +282,11 @@ import { questions as bIntl277 } from '../content/bank/international/batch-intl-
 import { questions as bIntl278 } from '../content/bank/international/batch-intl-278';
 import { questions as bIntl279 } from '../content/bank/international/batch-intl-279';
 import { questions as bIntl280 } from '../content/bank/international/batch-intl-280';
+import { questions as bIntl281 } from '../content/bank/international/batch-intl-281';
+import { questions as bIntl282 } from '../content/bank/international/batch-intl-282';
+import { questions as bIntl283 } from '../content/bank/international/batch-intl-283';
+import { questions as bIntl284 } from '../content/bank/international/batch-intl-284';
+import { questions as bIntl285 } from '../content/bank/international/batch-intl-285';
 import { questions as b1 } from '../content/bank/batch-01';
 import type { QuestionContent } from '../src/lib/validation/content';
 
@@ -344,7 +349,8 @@ const allQuestions: QuestionContent[] = [
   ...bIntl261, ...bIntl262, ...bIntl263, ...bIntl264, ...bIntl265,
   ...bIntl266, ...bIntl267, ...bIntl268, ...bIntl269, ...bIntl270,
   ...bIntl271, ...bIntl272, ...bIntl273, ...bIntl274, ...bIntl275,
-  ...bIntl276, ...bIntl277, ...bIntl278, ...bIntl279, ...bIntl280
+  ...bIntl276, ...bIntl277, ...bIntl278, ...bIntl279, ...bIntl280,
+  ...bIntl281, ...bIntl282, ...bIntl283, ...bIntl284, ...bIntl285
 ];
 const dir = 'content/bank/international';
 
@@ -635,6 +641,11 @@ async function main() {
   { name: 'batch-intl-278', data: bIntl278 },
   { name: 'batch-intl-279', data: bIntl279 },
   { name: 'batch-intl-280', data: bIntl280 },
+  { name: 'batch-intl-281', data: bIntl281 },
+  { name: 'batch-intl-282', data: bIntl282 },
+  { name: 'batch-intl-283', data: bIntl283 },
+  { name: 'batch-intl-284', data: bIntl284 },
+  { name: 'batch-intl-285', data: bIntl285 },
   ];
 
   const allErrors: Array<{ batch: string; message: string; [key: string]: unknown }> = [];
