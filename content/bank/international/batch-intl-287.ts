@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-27773",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scint",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis. Clinical examination and investigative review confirm confirming Perugini grade 2 or 3 cardiac uptake on 99mTc-DPD bone scintigraphy and prescribing oral tafamidis 61 mg daily. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Confirming perugini grade 2 or 3 cardiac uptake on 99mtc-dpd bone scintigraphy and prescribing oral tafamidis 61 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, confirming Perugini grade 2 or 3 cardiac uptake on 99mTc-DPD bone scintigraphy and prescribing oral tafamidis 61 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, confirming Perugini grade 2 or 3 cardiac uptake on 99mTc-DPD bone scintigraphy and prescribing oral tafamidis 61 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis. In the clinical management of MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Transthyretin Cardiac Amyloidosis ATTR Wild-Type 99mTc-DPD Scintigraphy Oral Tafamidis."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines on Diagnosis and Treatment of Acute and Chronic Heart Failure",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27774",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhan",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence. Clinical examination and investigative review confirm demonstrating hemodynamic ventricular interdependence on simultaneous biventricular cardiac catheterization prior to pericardiectomy. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating hemodynamic ventricular interdependence on simultaneous biventricular cardiac catheterization prior to pericardiectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, demonstrating hemodynamic ventricular interdependence on simultaneous biventricular cardiac catheterization prior to pericardiectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, demonstrating hemodynamic ventricular interdependence on simultaneous biventricular cardiac catheterization prior to pericardiectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence. In the clinical management of MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Constrictive Pericarditis Dip-and-Plateau Square Root Sign Enhanced Ventricular Interdependence."
+    ],
+    "references": [
+      {
+        "label": "British Cardiovascular Society Pericardial Disease Consensus",
+        "url": "https://www.britishcardiovascularsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27775",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT). Clinical examination and investigative review confirm performing intracoronary optical coherence tomography and cardiac magnetic resonance imaging to elucidate the MINOCA etiology. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Performing intracoronary optical coherence tomography and cardiac magnetic resonance imaging to elucidate the minoca etiology",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing intracoronary optical coherence tomography and cardiac magnetic resonance imaging to elucidate the MINOCA etiology represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT).",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing intracoronary optical coherence tomography and cardiac magnetic resonance imaging to elucidate the MINOCA etiology represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT). In the clinical management of MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Acute Coronary Syndrome MINOCA Fractional Flow Reserve Optical Coherence Tomography (OCT)."
+    ],
+    "references": [
+      {
+        "label": "ESC Working Group on Cardiovascular Pharmacotherapy MINOCA Consensus",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27776",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator. Clinical examination and investigative review confirm implanting an implantable cardioverter-defibrillator (ICD) for secondary prevention in documented syncope or aborted cardiac arrest. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Implanting an implantable cardioverter-defibrillator (icd) for secondary prevention in documented syncope or aborted cardiac arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, implanting an implantable cardioverter-defibrillator (ICD) for secondary prevention in documented syncope or aborted cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, implanting an implantable cardioverter-defibrillator (ICD) for secondary prevention in documented syncope or aborted cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator. In the clinical management of MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology High-Risk Brugada Syndrome Type 1 Coved ST Elevation Subcutaneous Implantable Cardioverter-Defibrillator."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines for Management of Patients with Ventricular Arrhythmias",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27777",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Nep",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration. Clinical examination and investigative review confirm switching from ACE inhibitor to sacubitril-valsartan after a 36-hour washout period, titrating to 97/103 mg twice daily. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Switching from ace inhibitor to sacubitril-valsartan after a 36-hour washout period, titrating to 97/103 mg twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, switching from ACE inhibitor to sacubitril-valsartan after a 36-hour washout period, titrating to 97/103 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, switching from ACE inhibitor to sacubitril-valsartan after a 36-hour washout period, titrating to 97/103 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration. In the clinical management of MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Heart Failure Reduced Ejection Fraction Sacubitril-Valsartan Neprilysin Inhibitor Titration."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Chronic Heart Failure in Adults",
+        "url": "https://www.nice.org.uk/guidance/ng106"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27778",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy. Clinical examination and investigative review confirm referring for transaortic surgical septal myectomy (Morrow procedure) or alcohol septal ablation for persistent severe symptoms. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Referring for transaortic surgical septal myectomy (morrow procedure) or alcohol septal ablation for persistent severe symptoms",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, referring for transaortic surgical septal myectomy (Morrow procedure) or alcohol septal ablation for persistent severe symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, referring for transaortic surgical septal myectomy (Morrow procedure) or alcohol septal ablation for persistent severe symptoms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy. In the clinical management of MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory Gradient > 50 mm Hg Surgical Septal Myectomy."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines on Diagnosis and Management of Hypertrophic Cardiomyopathy",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27779",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofre",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation. Clinical examination and investigative review confirm performing catheter-based bilateral renal artery radiofrequency sympathetic denervation for confirmed drug-resistant hypertension. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Performing catheter-based bilateral renal artery radiofrequency sympathetic denervation for confirmed drug-resistant hypertension",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing catheter-based bilateral renal artery radiofrequency sympathetic denervation for confirmed drug-resistant hypertension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing catheter-based bilateral renal artery radiofrequency sympathetic denervation for confirmed drug-resistant hypertension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation. In the clinical management of MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Resistant Hypertension Renal Denervation Catheter-Based Radiofrequency Ablation."
+    ],
+    "references": [
+      {
+        "label": "British and Irish Hypertension Society (BIHS) Renal Denervation Consensus",
+        "url": "https://bihsoc.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27780",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOA",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin. Clinical examination and investigative review confirm discontinuing aspirin at hospital discharge and maintaining dual therapy with a DOAC and clopidogrel for 12 months. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Discontinuing aspirin at hospital discharge and maintaining dual therapy with a doac and clopidogrel for 12 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, discontinuing aspirin at hospital discharge and maintaining dual therapy with a DOAC and clopidogrel for 12 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, discontinuing aspirin at hospital discharge and maintaining dual therapy with a DOAC and clopidogrel for 12 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin. In the clinical management of MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Atrial Fibrillation Post-PCI High Bleeding Risk Dual Therapy DOAC plus Clopidogrel Discontinuing Aspirin."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines for Management of Atrial Fibrillation",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27781",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Re",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone. Clinical examination and investigative review confirm administering synergistic dual beta-lactam therapy with intravenous ampicillin 2 g every 4 hours plus ceftriaxone 2 g twice daily for 6 weeks. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Administering synergistic dual beta-lactam therapy with intravenous ampicillin 2 g every 4 hours plus ceftriaxone 2 g twice daily for 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering synergistic dual beta-lactam therapy with intravenous ampicillin 2 g every 4 hours plus ceftriaxone 2 g twice daily for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering synergistic dual beta-lactam therapy with intravenous ampicillin 2 g every 4 hours plus ceftriaxone 2 g twice daily for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone. In the clinical management of MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Infective Endocarditis Enterococcal High-Level Aminoglycoside Resistance Ampicillin plus Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "British Society for Antimicrobial Chemotherapy Endocarditis Guidelines",
+        "url": "https://bsac.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27782",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricula",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin. Clinical examination and investigative review confirm admitting to high-dependency monitoring with therapeutic low-molecular-weight heparin and rescue thrombolysis contingency. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Admitting to high-dependency monitoring with therapeutic low-molecular-weight heparin and rescue thrombolysis contingency",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, admitting to high-dependency monitoring with therapeutic low-molecular-weight heparin and rescue thrombolysis contingency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, admitting to high-dependency monitoring with therapeutic low-molecular-weight heparin and rescue thrombolysis contingency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin. In the clinical management of MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Cardiology Acute Pulmonary Embolism Intermediate-High Risk Right Ventricular Strain Echocardiography and Troponin."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines for Diagnosis and Management of Acute Pulmonary Embolism",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27783",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antib",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab. Clinical examination and investigative review confirm adding subcutaneous mepolizumab 100 mg every 4 weeks or benralizumab 30 mg for severe uncontrolled eosinophilic asthma. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Adding subcutaneous mepolizumab 100 mg every 4 weeks or benralizumab 30 mg for severe uncontrolled eosinophilic asthma",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, adding subcutaneous mepolizumab 100 mg every 4 weeks or benralizumab 30 mg for severe uncontrolled eosinophilic asthma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, adding subcutaneous mepolizumab 100 mg every 4 weeks or benralizumab 30 mg for severe uncontrolled eosinophilic asthma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab. In the clinical management of MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Severe Eosinophilic Asthma High FeNO Anti-IL-5 Monoclonal Antibody Mepolizumab or Benralizumab."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Mepolizumab for Severe Refractory Eosinophilic Asthma",
+        "url": "https://www.nice.org.uk/guidance/ta671"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27784",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobron",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement. Clinical examination and investigative review confirm performing bronchoscopic placement of one-way endobronchial valves to achieve targeted lobar atelectasis in absence of collateral ventilation. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Performing bronchoscopic placement of one-way endobronchial valves to achieve targeted lobar atelectasis in absence of collateral ventilation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing bronchoscopic placement of one-way endobronchial valves to achieve targeted lobar atelectasis in absence of collateral ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing bronchoscopic placement of one-way endobronchial valves to achieve targeted lobar atelectasis in absence of collateral ventilation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement. In the clinical management of MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Chronic Obstructive Pulmonary Disease Severe Emphysema Endobronchial Zephyr Valve Placement."
+    ],
+    "references": [
+      {
+        "label": "NICE Interventional Procedures Guidance Bronchoscopic Lung Volume Reduction",
+        "url": "https://www.nice.org.uk/guidance/ipg641"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27785",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine K",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD. Clinical examination and investigative review confirm prescribing oral nintedanib 150 mg twice daily with hepatic transaminase monitoring to slow progressive lung fibrosis. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral nintedanib 150 mg twice daily with hepatic transaminase monitoring to slow progressive lung fibrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral nintedanib 150 mg twice daily with hepatic transaminase monitoring to slow progressive lung fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral nintedanib 150 mg twice daily with hepatic transaminase monitoring to slow progressive lung fibrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD. In the clinical management of MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Idiopathic Pulmonary Fibrosis Rapid FVC Decline Oral Tyrosine Kinase Inhibitor Nintedanib 150 mg BD."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Nintedanib for Idiopathic Pulmonary Fibrosis",
+        "url": "https://www.nice.org.uk/guidance/ta379"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27786",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Me",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy. Clinical examination and investigative review confirm initiating weekly low-dose oral methotrexate or intravenous infliximab 5 mg/kg for steroid-refractory progressive pulmonary sarcoidosis. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating weekly low-dose oral methotrexate or intravenous infliximab 5 mg/kg for steroid-refractory progressive pulmonary sarcoidosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating weekly low-dose oral methotrexate or intravenous infliximab 5 mg/kg for steroid-refractory progressive pulmonary sarcoidosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating weekly low-dose oral methotrexate or intravenous infliximab 5 mg/kg for steroid-refractory progressive pulmonary sarcoidosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy. In the clinical management of MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Sarcoidosis Refractory Pulmonary Stage IV Oral Infliximab or Methotrexate Second-Line Therapy."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Sarcoidosis Working Group",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27787",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage. Clinical examination and investigative review confirm performing therapeutic whole-lung lavage under general anesthesia with double-lumen endotracheal tube separation. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing therapeutic whole-lung lavage under general anesthesia with double-lumen endotracheal tube separation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing therapeutic whole-lung lavage under general anesthesia with double-lumen endotracheal tube separation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing therapeutic whole-lung lavage under general anesthesia with double-lumen endotracheal tube separation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage. In the clinical management of MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Pulmonary Alveolar Proteinosis Anti-GM-CSF Antibodies Periodic Acid-Schiff Positive Whole-Lung Lavage."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Rare Diffuse Lung Disease Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27788",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA). Clinical examination and investigative review confirm referring to the national pulmonary endarterectomy center for curative bilateral surgical pulmonary endarterectomy under deep hypothermia. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Referring to the national pulmonary endarterectomy center for curative bilateral surgical pulmonary endarterectomy under deep hypothermia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, referring to the national pulmonary endarterectomy center for curative bilateral surgical pulmonary endarterectomy under deep hypothermia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA).",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, referring to the national pulmonary endarterectomy center for curative bilateral surgical pulmonary endarterectomy under deep hypothermia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA). In the clinical management of MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Chronic Thromboembolic Pulmonary Hypertension (CTEPH) Operable Pulmonary Endarterectomy (PEA)."
+    ],
+    "references": [
+      {
+        "label": "Royal Papworth Hospital CTEPH National Clinical Protocol",
+        "url": "https://royalpapworth.nhs.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27789",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Iva",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del. Clinical examination and investigative review confirm prescribing oral elexacaftor-tezacaftor-ivacaftor combined with ivacaftor to restore CFTR channel gating and chloride transport. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral elexacaftor-tezacaftor-ivacaftor combined with ivacaftor to restore cftr channel gating and chloride transport",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral elexacaftor-tezacaftor-ivacaftor combined with ivacaftor to restore CFTR channel gating and chloride transport represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral elexacaftor-tezacaftor-ivacaftor combined with ivacaftor to restore CFTR channel gating and chloride transport represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del. In the clinical management of MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Cystic Fibrosis Adult CFTR Modulator Elexacaftor-Tezacaftor-Ivacaftor (Kaftrio) Dual F508del."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Kaftrio for Cystic Fibrosis",
+        "url": "https://www.nice.org.uk/guidance/ta838"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27790",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pl",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion. Clinical examination and investigative review confirm inserting a tunneled indwelling pleural catheter for intermittent ambulatory fluid drainage in non-expandable trapped lung. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Inserting a tunneled indwelling pleural catheter for intermittent ambulatory fluid drainage in non-expandable trapped lung",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, inserting a tunneled indwelling pleural catheter for intermittent ambulatory fluid drainage in non-expandable trapped lung represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, inserting a tunneled indwelling pleural catheter for intermittent ambulatory fluid drainage in non-expandable trapped lung represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion. In the clinical management of MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Malignant Pleural Effusion Recurrent Trapped Lung Indwelling Pleural Catheter (PleurX) Insertion."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Pleural Disease Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27791",
+    "exam": "MRCP",
+    "subject": "Immunology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion. Clinical examination and investigative review confirm enforcing complete eradication of avian exposure, high-efficiency particulate air filtration, and oral prednisolone taper. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Enforcing complete eradication of avian exposure, high-efficiency particulate air filtration, and oral prednisolone taper",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, enforcing complete eradication of avian exposure, high-efficiency particulate air filtration, and oral prednisolone taper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, enforcing complete eradication of avian exposure, high-efficiency particulate air filtration, and oral prednisolone taper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion. In the clinical management of MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Hypersensitivity Pneumonitis Non-Fibrotic Pigeon Fancier Avian Precipitins Complete Environmental Exclusion."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Hypersensitivity Pneumonitis Consensus",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27792",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Producti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium. Clinical examination and investigative review confirm prescribing twice-daily nebulized colistimethate sodium 1 to 2 million units long-term to suppress bacterial load and exacerbations. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing twice-daily nebulized colistimethate sodium 1 to 2 million units long-term to suppress bacterial load and exacerbations",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing twice-daily nebulized colistimethate sodium 1 to 2 million units long-term to suppress bacterial load and exacerbations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing twice-daily nebulized colistimethate sodium 1 to 2 million units long-term to suppress bacterial load and exacerbations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium. In the clinical management of MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Pulmonology Bronchiectasis Pseudomonal Colonization Chronic Sputum Production Inhaled Colistimethate Sodium."
+    ],
+    "references": [
+      {
+        "label": "British Thoracic Society Non-CF Bronchiectasis Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27793",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct. Clinical examination and investigative review confirm performing high-resolution MRCP demonstrating multifocal biliary strictures and saccular dilations, colonoscopy for IBD screening. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Performing high-resolution mrcp demonstrating multifocal biliary strictures and saccular dilations, colonoscopy for ibd screening",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing high-resolution MRCP demonstrating multifocal biliary strictures and saccular dilations, colonoscopy for IBD screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing high-resolution MRCP demonstrating multifocal biliary strictures and saccular dilations, colonoscopy for IBD screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct. In the clinical management of MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Primary Sclerosing Cholangitis Magnetic Resonance Cholangiopancreatography (MRCP) Beaded Duct."
+    ],
+    "references": [
+      {
+        "label": "British Society of Gastroenterology (BSG) PSC Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27794",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Pre",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine. Clinical examination and investigative review confirm initiating oral prednisolone 30 mg daily tapered alongside maintenance azathioprine 1 to 2 mg/kg/day with TPMT testing. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 30 mg daily tapered alongside maintenance azathioprine 1 to 2 mg/kg/day with tpmt testing",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral prednisolone 30 mg daily tapered alongside maintenance azathioprine 1 to 2 mg/kg/day with TPMT testing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral prednisolone 30 mg daily tapered alongside maintenance azathioprine 1 to 2 mg/kg/day with TPMT testing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine. In the clinical management of MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Autoimmune Hepatitis Type 1 ANA and ASMA Positive Oral Prednisolone and Azathioprine."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines for Management of Autoimmune Hepatitis",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27795",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue. Clinical examination and investigative review confirm administering intravenous infliximab 5 mg/kg or cyclosporine on day 3 of intravenous hydrocortisone if stool frequency > 8 or CRP > 45. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering intravenous infliximab 5 mg/kg or cyclosporine on day 3 of intravenous hydrocortisone if stool frequency > 8 or crp > 45",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous infliximab 5 mg/kg or cyclosporine on day 3 of intravenous hydrocortisone if stool frequency > 8 or CRP > 45 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous infliximab 5 mg/kg or cyclosporine on day 3 of intravenous hydrocortisone if stool frequency > 8 or CRP > 45 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue. In the clinical management of MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Acute Severe Ulcerative Colitis Intravenous Hydrocortisone Day 3 Review Infliximab Rescue."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines for Management of Inflammatory Bowel Disease in Adults",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27796",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Inflixim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton. Clinical examination and investigative review confirm inserting loose non-cutting setons under anesthesia followed by anti-TNF infliximab induction with therapeutic drug monitoring. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Inserting loose non-cutting setons under anesthesia followed by anti-tnf infliximab induction with therapeutic drug monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, inserting loose non-cutting setons under anesthesia followed by anti-TNF infliximab induction with therapeutic drug monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, inserting loose non-cutting setons under anesthesia followed by anti-TNF infliximab induction with therapeutic drug monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton. In the clinical management of MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Crohn Disease Perianal Fistula Complex Pelvic MRI Infliximab and Surgical Draining Seton."
+    ],
+    "references": [
+      {
+        "label": "BSG Perianal Crohn's Disease Consensus",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27797",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine. Clinical examination and investigative review confirm prescribing oral D-penicillamine or trientine dihydrochloride titrated to copper excretion with pyridoxine supplementation. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral d-penicillamine or trientine dihydrochloride titrated to copper excretion with pyridoxine supplementation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral D-penicillamine or trientine dihydrochloride titrated to copper excretion with pyridoxine supplementation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral D-penicillamine or trientine dihydrochloride titrated to copper excretion with pyridoxine supplementation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine. In the clinical management of MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Wilson Disease Low Ceruloplasmin Elevated 24-Hour Urinary Copper Oral Chelator Penicillamine."
+    ],
+    "references": [
+      {
+        "label": "BSG Liver Rare Disease Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27798",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipre",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin. Clinical examination and investigative review confirm administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin. In the clinical management of MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Cirrhosis Hepatorenal Syndrome Type 1 Intravenous Terlipressin Continuous Infusion and Albumin."
+    ],
+    "references": [
+      {
+        "label": "BSG and British Association for the Study of the Liver (BASL) Cirrhosis Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27799",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide. Clinical examination and investigative review confirm prescribing once-weekly subcutaneous semaglutide 2.4 mg combined with structured lifestyle intervention to promote MASH resolution. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-weekly subcutaneous semaglutide 2.4 mg combined with structured lifestyle intervention to promote mash resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing once-weekly subcutaneous semaglutide 2.4 mg combined with structured lifestyle intervention to promote MASH resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing once-weekly subcutaneous semaglutide 2.4 mg combined with structured lifestyle intervention to promote MASH resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide. In the clinical management of MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Non-Alcoholic Steatohepatitis MASH Advanced Fibrosis GLP-1 Receptor Agonist Semaglutide."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Non-Alcoholic Fatty Liver Disease",
+        "url": "https://www.nice.org.uk/guidance/ng49"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27800",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach En",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation. Clinical examination and investigative review confirm performing sessions of endoscopic argon plasma coagulation (APC) across vascular ectatic stripes to control transfusion-dependent bleeding. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Performing sessions of endoscopic argon plasma coagulation (apc) across vascular ectatic stripes to control transfusion-dependent bleeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing sessions of endoscopic argon plasma coagulation (APC) across vascular ectatic stripes to control transfusion-dependent bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing sessions of endoscopic argon plasma coagulation (APC) across vascular ectatic stripes to control transfusion-dependent bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation. In the clinical management of MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Gastric Antral Vascular Ectasia GAVE Watermelon Stomach Endoscopic Argon Plasma Coagulation."
+    ],
+    "references": [
+      {
+        "label": "BSG Endoscopic Hemostasis Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27801",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diar",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily. Clinical examination and investigative review confirm prescribing oral controlled-ileal-release budesonide 9 mg once daily for 8 weeks with dramatic reduction in stool frequency. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral controlled-ileal-release budesonide 9 mg once daily for 8 weeks with dramatic reduction in stool frequency",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral controlled-ileal-release budesonide 9 mg once daily for 8 weeks with dramatic reduction in stool frequency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral controlled-ileal-release budesonide 9 mg once daily for 8 weeks with dramatic reduction in stool frequency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily. In the clinical management of MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Microscopic Colitis Lymphocytic vs Collagenous Watery Diarrhea Oral Budesonide 9 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines on Investigation of Chronic Diarrhoea",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27802",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50. Clinical examination and investigative review confirm initiating weekly therapeutic phlebotomy of 450 to 500 mL targeting serum ferritin between 50 and 100 mcg/L. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating weekly therapeutic phlebotomy of 450 to 500 ml targeting serum ferritin between 50 and 100 mcg/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating weekly therapeutic phlebotomy of 450 to 500 mL targeting serum ferritin between 50 and 100 mcg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating weekly therapeutic phlebotomy of 450 to 500 mL targeting serum ferritin between 50 and 100 mcg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50. In the clinical management of MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Gastroenterology Hereditary Hemochromatosis HFE C282Y Homozygosity Ferritin > 1000 Therapeutic Phlebotomy Target 50."
+    ],
+    "references": [
+      {
+        "label": "BSG Genetic Haemochromatosis Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27803",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Ph",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration. Clinical examination and investigative review confirm initiating oral non-competitive alpha-blocker phenoxybenzamine 10 mg twice daily titrated to orthostatic blood pressure before beta-blockade. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral non-competitive alpha-blocker phenoxybenzamine 10 mg twice daily titrated to orthostatic blood pressure before beta-blockade",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral non-competitive alpha-blocker phenoxybenzamine 10 mg twice daily titrated to orthostatic blood pressure before beta-blockade represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral non-competitive alpha-blocker phenoxybenzamine 10 mg twice daily titrated to orthostatic blood pressure before beta-blockade represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration. In the clinical management of MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Pheochromocytoma Paraganglioma Preoperative Alpha-Blockade Phenoxybenzamine Titration."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Endocrine Hypertension Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27804",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone. Clinical examination and investigative review confirm performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia and prescribing oral spironolactone. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia and prescribing oral spironolactone",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia and prescribing oral spironolactone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia and prescribing oral spironolactone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone. In the clinical management of MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Primary Aldosteronism Conn Syndrome Bilateral Adrenal Vein Sampling Oral Spironolactone."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society and Society for Endocrinology Primary Aldosteronism Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27805",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression. Clinical examination and investigative review confirm administering immediate intravenous hydrocortisone 100 mg bolus and emergency transsphenoidal surgical decompression for visual impairment. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering immediate intravenous hydrocortisone 100 mg bolus and emergency transsphenoidal surgical decompression for visual impairment",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering immediate intravenous hydrocortisone 100 mg bolus and emergency transsphenoidal surgical decompression for visual impairment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering immediate intravenous hydrocortisone 100 mg bolus and emergency transsphenoidal surgical decompression for visual impairment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression. In the clinical management of MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Pituitary Apoplexy Sudden Severe Headache Visual Field Defect Urgent IV Hydrocortisone and Decompression."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Pituitary Apoplexy Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27806",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Int",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse. Clinical examination and investigative review confirm administering 12-week pulse intravenous methylprednisolone cumulative dose 4.5 g (500 mg weekly for 6 weeks, then 250 mg for 6 weeks). Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Administering 12-week pulse intravenous methylprednisolone cumulative dose 4.5 g (500 mg weekly for 6 weeks, then 250 mg for 6 weeks)",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering 12-week pulse intravenous methylprednisolone cumulative dose 4.5 g (500 mg weekly for 6 weeks, then 250 mg for 6 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering 12-week pulse intravenous methylprednisolone cumulative dose 4.5 g (500 mg weekly for 6 weeks, then 250 mg for 6 weeks) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse. In the clinical management of MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Graves Ophthalmopathy Active Moderate-to-Severe High-Dose Intravenous Methylprednisolone Pulse."
+    ],
+    "references": [
+      {
+        "label": "EUGOGO and British Thyroid Association Thyroid Eye Disease Guidelines",
+        "url": "https://www.british-thyroid-association.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27807",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Cont",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM). Clinical examination and investigative review confirm providing real-time continuous glucose monitoring (rtCGM) with customizable alarm thresholds to detect unheralded nocturnal hypoglycemia. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Providing real-time continuous glucose monitoring (rtcgm) with customizable alarm thresholds to detect unheralded nocturnal hypoglycemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, providing real-time continuous glucose monitoring (rtCGM) with customizable alarm thresholds to detect unheralded nocturnal hypoglycemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM).",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, providing real-time continuous glucose monitoring (rtCGM) with customizable alarm thresholds to detect unheralded nocturnal hypoglycemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM). In the clinical management of MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Type 1 Diabetes Mellitus Impaired Hypoglycemia Awareness Continuous Glucose Monitoring (CGM)."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Type 1 Diabetes in Adults",
+        "url": "https://www.nice.org.uk/guidance/ng17"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27808",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resect",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper. Clinical examination and investigative review confirm performing transsphenoidal selective adenomectomy with early morning cortisol surveillance to confirm biochemical remission. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Performing transsphenoidal selective adenomectomy with early morning cortisol surveillance to confirm biochemical remission",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing transsphenoidal selective adenomectomy with early morning cortisol surveillance to confirm biochemical remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing transsphenoidal selective adenomectomy with early morning cortisol surveillance to confirm biochemical remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper. In the clinical management of MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Cushing Disease Transsphenoidal Pituitary Microadenoma Resection Postoperative Hydrocortisone Taper."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Cushing's Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27809",
+    "exam": "MRCP",
+    "subject": "Genetics",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation M",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism. Clinical examination and investigative review confirm screening for AIRE gene mutations, measuring 21-hydroxylase antibodies, and replacing calcium, calcitriol, and corticosteroids. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Screening for aire gene mutations, measuring 21-hydroxylase antibodies, and replacing calcium, calcitriol, and corticosteroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, screening for AIRE gene mutations, measuring 21-hydroxylase antibodies, and replacing calcium, calcitriol, and corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, screening for AIRE gene mutations, measuring 21-hydroxylase antibodies, and replacing calcium, calcitriol, and corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism. In the clinical management of MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Autoimmune Polyglandular Syndrome Type 1 AIRE Gene Mutation Mucocutaneous Candidiasis Hypoparathyroidism."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Rare Diseases Working Group",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27810",
+    "exam": "MRCP",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failur",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement. Clinical examination and investigative review confirm initiating replacement with oral hydrocortisone first, followed by levothyroxine, estrogen-progestogen, and growth hormone. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating replacement with oral hydrocortisone first, followed by levothyroxine, estrogen-progestogen, and growth hormone",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating replacement with oral hydrocortisone first, followed by levothyroxine, estrogen-progestogen, and growth hormone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating replacement with oral hydrocortisone first, followed by levothyroxine, estrogen-progestogen, and growth hormone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement. In the clinical management of MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Hypopituitarism Sheehan Syndrome Postpartum Hemorrhage Failure of Lactation Hormone Replacement."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Hypopituitarism Consensus",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27811",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion In",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction. Clinical examination and investigative review confirm administering intravenous magnesium sulfate 2 g over 20 minutes to restore parathyroid hormone release and end-organ responsiveness. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous magnesium sulfate 2 g over 20 minutes to restore parathyroid hormone release and end-organ responsiveness",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous magnesium sulfate 2 g over 20 minutes to restore parathyroid hormone release and end-organ responsiveness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous magnesium sulfate 2 g over 20 minutes to restore parathyroid hormone release and end-organ responsiveness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction. In the clinical management of MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Hypomagnesemic Hypocalcemia Refractory to Calcium Infusion Intravenous Magnesium Sulfate Correction."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Emergency Guidance",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27812",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Ele",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy. Clinical examination and investigative review confirm performing genetic testing for germline RET mutations, total thyroidectomy with central compartment neck dissection, and surveillance. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing genetic testing for germline ret mutations, total thyroidectomy with central compartment neck dissection, and surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing genetic testing for germline RET mutations, total thyroidectomy with central compartment neck dissection, and surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing genetic testing for germline RET mutations, total thyroidectomy with central compartment neck dissection, and surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy. In the clinical management of MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Endocrinology Medullary Thyroid Carcinoma RET Proto-Oncogene Calcitonin Elevation Total Thyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "British Thyroid Association Thyroid Cancer Guidelines",
+        "url": "https://www.british-thyroid-association.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27813",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Ritu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids. Clinical examination and investigative review confirm administering intravenous rituximab 375 mg/m2 weekly for 4 weeks with oral avacopan or low-dose oral glucocorticoid taper. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous rituximab 375 mg/m2 weekly for 4 weeks with oral avacopan or low-dose oral glucocorticoid taper",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous rituximab 375 mg/m2 weekly for 4 weeks with oral avacopan or low-dose oral glucocorticoid taper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous rituximab 375 mg/m2 weekly for 4 weeks with oral avacopan or low-dose oral glucocorticoid taper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids. In the clinical management of MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology ANCA-Associated Vasculitis Granulomatosis with Polyangiitis Rituximab and Reduced-Dose Glucocorticoids."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association ANCA Vasculitis Clinical Guidelines",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27814",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide. Clinical examination and investigative review confirm initiating daily 4-liter plasma exchange for 14 days combined with oral cyclophosphamide and pulsed methylprednisolone. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating daily 4-liter plasma exchange for 14 days combined with oral cyclophosphamide and pulsed methylprednisolone",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating daily 4-liter plasma exchange for 14 days combined with oral cyclophosphamide and pulsed methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating daily 4-liter plasma exchange for 14 days combined with oral cyclophosphamide and pulsed methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide. In the clinical management of MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Anti-GBM Disease Goodpasture Syndrome Crescentic Glomerulonephritis Emergent Plasma Exchange and Cyclophosphamide."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association Glomerulonephritis Guidelines",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27815",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Synd",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy. Clinical examination and investigative review confirm administering intravenous rituximab 1 g two doses 2 weeks apart with serial anti-PLA2R antibody titers monitoring. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering intravenous rituximab 1 g two doses 2 weeks apart with serial anti-pla2r antibody titers monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous rituximab 1 g two doses 2 weeks apart with serial anti-PLA2R antibody titers monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous rituximab 1 g two doses 2 weeks apart with serial anti-PLA2R antibody titers monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy. In the clinical management of MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Membranous Nephropathy PLA2R Antibodies High-Risk Nephrotic Syndrome Rituximab Immunotherapy."
+    ],
+    "references": [
+      {
+        "label": "KDIGO and UK Kidney Association Membranous Nephropathy Guidelines",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27816",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mof",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids. Clinical examination and investigative review confirm initiating oral mycophenolate mofetil 2 to 3 g daily combined with intravenous pulse methylprednisolone and hydroxychloroquine. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral mycophenolate mofetil 2 to 3 g daily combined with intravenous pulse methylprednisolone and hydroxychloroquine",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral mycophenolate mofetil 2 to 3 g daily combined with intravenous pulse methylprednisolone and hydroxychloroquine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral mycophenolate mofetil 2 to 3 g daily combined with intravenous pulse methylprednisolone and hydroxychloroquine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids. In the clinical management of MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Lupus Nephritis Class IV Diffuse Proliferative Mycophenolate Mofetil and Low-Dose Glucocorticoids."
+    ],
+    "references": [
+      {
+        "label": "British Society for Rheumatology and UK Kidney Association SLE Guidelines",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27817",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist. Clinical examination and investigative review confirm prescribing oral tolvaptan in split daily doses to slow cyst expansion with monthly liver enzyme surveillance for hepatotoxicity. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral tolvaptan in split daily doses to slow cyst expansion with monthly liver enzyme surveillance for hepatotoxicity",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral tolvaptan in split daily doses to slow cyst expansion with monthly liver enzyme surveillance for hepatotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral tolvaptan in split daily doses to slow cyst expansion with monthly liver enzyme surveillance for hepatotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist. In the clinical management of MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan Vasopressin Antagonist."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Tolvaptan for Autosomal Dominant Polycystic Kidney Disease",
+        "url": "https://www.nice.org.uk/guidance/ta358"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27818",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy. Clinical examination and investigative review confirm administering intravenous methylprednisolone 500 mg daily for 3 days followed by oral prednisone taper and biopsy review. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous methylprednisolone 500 mg daily for 3 days followed by oral prednisone taper and biopsy review",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous methylprednisolone 500 mg daily for 3 days followed by oral prednisone taper and biopsy review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous methylprednisolone 500 mg daily for 3 days followed by oral prednisone taper and biopsy review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy. In the clinical management of MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Renal Transplantation Acute T-Cell Mediated Rejection Intravenous Methylprednisolone Pulse Therapy."
+    ],
+    "references": [
+      {
+        "label": "British Transplantation Society Kidney Transplantation Guidelines",
+        "url": "https://bts.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27819",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ul",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate. Clinical examination and investigative review confirm administering intravenous sodium thiosulfate 25 g post-hemodialysis three times weekly with surgical wound debridement avoidance. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous sodium thiosulfate 25 g post-hemodialysis three times weekly with surgical wound debridement avoidance",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous sodium thiosulfate 25 g post-hemodialysis three times weekly with surgical wound debridement avoidance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous sodium thiosulfate 25 g post-hemodialysis three times weekly with surgical wound debridement avoidance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate. In the clinical management of MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Calciphylaxis Calcific Uremic Arteriolopathy Painful Necrotic Ulcers Intravenous Sodium Thiosulfate."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association Calciphylaxis Working Group",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27820",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Conti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin. Clinical examination and investigative review confirm administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering continuous intravenous terlipressin infusion starting at 2 mg/day with intravenous 20% human albumin 1 g/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin. In the clinical management of MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Hepatorenal Syndrome Type 1 Cirrhosis Ascites Terlipressin Continuous Infusion and 20% Albumin."
+    ],
+    "references": [
+      {
+        "label": "UK Kidney Association and BASL Guidelines",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27821",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase. Clinical examination and investigative review confirm initiating biweekly intravenous enzyme replacement therapy with agalsidase beta or oral chaperone migalastat for amenable mutations. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating biweekly intravenous enzyme replacement therapy with agalsidase beta or oral chaperone migalastat for amenable mutations",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating biweekly intravenous enzyme replacement therapy with agalsidase beta or oral chaperone migalastat for amenable mutations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating biweekly intravenous enzyme replacement therapy with agalsidase beta or oral chaperone migalastat for amenable mutations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase. In the clinical management of MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology Fabry Disease X-Linked Alpha-Galactosidase A Deficiency Neuropathic Pain Enzyme Replacement Agalsidase."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Fabry Disease Enzyme Replacement",
+        "url": "https://www.nice.org.uk/guidance/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27822",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon). Clinical examination and investigative review confirm prescribing targeted-release oral budesonide 16 mg daily for 9 months to suppress mucosal IgA1 galactose-deficient production. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing targeted-release oral budesonide 16 mg daily for 9 months to suppress mucosal iga1 galactose-deficient production",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing targeted-release oral budesonide 16 mg daily for 9 months to suppress mucosal IgA1 galactose-deficient production represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon).",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing targeted-release oral budesonide 16 mg daily for 9 months to suppress mucosal IgA1 galactose-deficient production represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon). In the clinical management of MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Nephrology IgA Nephropathy High Risk Proteinuria > 1 g/day Targeted-Release Formulation Oral Budesonide (Nefecon)."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Budesonide for Treating Primary IgA Nephropathy",
+        "url": "https://www.nice.org.uk/guidance/ta937"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27823",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours. Clinical examination and investigative review confirm performing catheter-directed mechanical thrombectomy with stent-retrieval based on CT perfusion target mismatch within 24 hours. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Performing catheter-directed mechanical thrombectomy with stent-retrieval based on ct perfusion target mismatch within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing catheter-directed mechanical thrombectomy with stent-retrieval based on CT perfusion target mismatch within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing catheter-directed mechanical thrombectomy with stent-retrieval based on CT perfusion target mismatch within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours. In the clinical management of MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Acute Ischemic Stroke Large Vessel Occlusion ICA/MCA Mechanical Thrombectomy within 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Stroke and TIA Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng128"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27824",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized An",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab. Clinical examination and investigative review confirm initiating intravenous ocrelizumab 600 mg every 6 months to profoundly reduce annualized relapse rates and MRI lesions. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous ocrelizumab 600 mg every 6 months to profoundly reduce annualized relapse rates and mri lesions",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating intravenous ocrelizumab 600 mg every 6 months to profoundly reduce annualized relapse rates and MRI lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating intravenous ocrelizumab 600 mg every 6 months to profoundly reduce annualized relapse rates and MRI lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab. In the clinical management of MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Multiple Sclerosis Relapsing-Remitting High-Efficacy Humanized Anti-CD20 Monoclonal Ocrelizumab."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Ocrelizumab for Relapsing-Remitting Multiple Sclerosis",
+        "url": "https://www.nice.org.uk/guidance/ta533"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27825",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion. Clinical examination and investigative review confirm initiating continuous daytime intrajejunal levodopa-carbidopa gel via PEG-J tube to abolish debilitating off-periods. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating continuous daytime intrajejunal levodopa-carbidopa gel via peg-j tube to abolish debilitating off-periods",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating continuous daytime intrajejunal levodopa-carbidopa gel via PEG-J tube to abolish debilitating off-periods represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating continuous daytime intrajejunal levodopa-carbidopa gel via PEG-J tube to abolish debilitating off-periods represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion. In the clinical management of MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Parkinson Disease Advanced Motor Fluctuations Levodopa-Carbidopa Intestinal Gel (Duodopa) Infusion."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Parkinson's Disease in Adults",
+        "url": "https://www.nice.org.uk/guidance/ng71"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27826",
+    "exam": "MRCP",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG. Clinical examination and investigative review confirm administering 5 sessions of therapeutic plasma exchange or IVIG 2 g/kg with serial vital capacity spirometry in high-dependency unit. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering 5 sessions of therapeutic plasma exchange or ivig 2 g/kg with serial vital capacity spirometry in high-dependency unit",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering 5 sessions of therapeutic plasma exchange or IVIG 2 g/kg with serial vital capacity spirometry in high-dependency unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering 5 sessions of therapeutic plasma exchange or IVIG 2 g/kg with serial vital capacity spirometry in high-dependency unit represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG. In the clinical management of MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Myasthenia Gravis Acute Myasthenic Crisis Respiratory Compromise Plasma Exchange or IVIG."
+    ],
+    "references": [
+      {
+        "label": "Association of British Neurologists (ABN) Myasthenia Gravis Guidelines",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27827",
+    "exam": "MRCP",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days. Clinical examination and investigative review confirm administering intravenous immunoglobulin (IVIG) 0.4 g/kg daily for 5 days with avoidance of systemic corticosteroids. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous immunoglobulin (ivig) 0.4 g/kg daily for 5 days with avoidance of systemic corticosteroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous immunoglobulin (IVIG) 0.4 g/kg daily for 5 days with avoidance of systemic corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous immunoglobulin (IVIG) 0.4 g/kg daily for 5 days with avoidance of systemic corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days. In the clinical management of MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyradiculoneuropathy IVIG 0.4 g/kg for 5 Days."
+    ],
+    "references": [
+      {
+        "label": "ABN Guidelines for Treatment of Guillain-Barre Syndrome",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27828",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetri",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG. Clinical examination and investigative review confirm prescribing periodic maintenance intravenous or subcutaneous immunoglobulin to preserve motor function and prevent disability. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing periodic maintenance intravenous or subcutaneous immunoglobulin to preserve motor function and prevent disability",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing periodic maintenance intravenous or subcutaneous immunoglobulin to preserve motor function and prevent disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing periodic maintenance intravenous or subcutaneous immunoglobulin to preserve motor function and prevent disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG. In the clinical management of MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Symmetric Sensorimotor Weakness Maintenance IVIG."
+    ],
+    "references": [
+      {
+        "label": "ABN Peripheral Neuropathy Guidelines",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27829",
+    "exam": "MRCP",
+    "subject": "Immunology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone. Clinical examination and investigative review confirm initiating high-dose intravenous methylprednisolone 1 g daily, IVIG, and pelvic MRI/ultrasound to identify and resect ovarian teratoma. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating high-dose intravenous methylprednisolone 1 g daily, ivig, and pelvic mri/ultrasound to identify and resect ovarian teratoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating high-dose intravenous methylprednisolone 1 g daily, IVIG, and pelvic MRI/ultrasound to identify and resect ovarian teratoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating high-dose intravenous methylprednisolone 1 g daily, IVIG, and pelvic MRI/ultrasound to identify and resect ovarian teratoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone. In the clinical management of MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Autoimmune Encephalitis Anti-NMDA Receptor Psychiatric Features Teratoma Screening and IV Methylprednisolone."
+    ],
+    "references": [
+      {
+        "label": "ABN Guidelines on Autoimmune Encephalitis",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27830",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole. Clinical examination and investigative review confirm initiating nocturnal non-invasive bilevel positive airway pressure (NIV) and prescribing oral riluzole 50 mg twice daily. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating nocturnal non-invasive bilevel positive airway pressure (niv) and prescribing oral riluzole 50 mg twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating nocturnal non-invasive bilevel positive airway pressure (NIV) and prescribing oral riluzole 50 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating nocturnal non-invasive bilevel positive airway pressure (NIV) and prescribing oral riluzole 50 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole. In the clinical management of MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Amyotrophic Lateral Sclerosis Bulbar Signs FVC < 50% Non-Invasive Ventilation and Oral Riluzole."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Motor Neurone Disease Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng42"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27831",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Press",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide. Clinical examination and investigative review confirm prescribing oral acetazolamide 1 to 2 g daily in divided doses combined with structured weight loss and automated perimetry. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral acetazolamide 1 to 2 g daily in divided doses combined with structured weight loss and automated perimetry",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral acetazolamide 1 to 2 g daily in divided doses combined with structured weight loss and automated perimetry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral acetazolamide 1 to 2 g daily in divided doses combined with structured weight loss and automated perimetry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide. In the clinical management of MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm Oral Acetazolamide."
+    ],
+    "references": [
+      {
+        "label": "Association of British Neurologists IIH Guidelines",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27832",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Leveti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg. Clinical examination and investigative review confirm administering intravenous levetiracetam 60 mg/kg (max 4.5 g) or intravenous sodium valproate 40 mg/kg infused over 10 minutes. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous levetiracetam 60 mg/kg (max 4.5 g) or intravenous sodium valproate 40 mg/kg infused over 10 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous levetiracetam 60 mg/kg (max 4.5 g) or intravenous sodium valproate 40 mg/kg infused over 10 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous levetiracetam 60 mg/kg (max 4.5 g) or intravenous sodium valproate 40 mg/kg infused over 10 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg. In the clinical management of MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Neurology Status Epilepticus Benzodiazepine-Refractory Convulsive IV Levetiracetam 60 mg/kg or Valproate 40 mg/kg."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Epilepsies in Children, Young People and Adults",
+        "url": "https://www.nice.org.uk/guidance/ng217"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27833",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARD",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab. Clinical examination and investigative review confirm adding subcutaneous adalimumab 40 mg alternate weeks to methotrexate for active moderate-to-severe disease (DAS28 > 5.1). Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Adding subcutaneous adalimumab 40 mg alternate weeks to methotrexate for active moderate-to-severe disease (das28 > 5.1)",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, adding subcutaneous adalimumab 40 mg alternate weeks to methotrexate for active moderate-to-severe disease (DAS28 > 5.1) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, adding subcutaneous adalimumab 40 mg alternate weeks to methotrexate for active moderate-to-severe disease (DAS28 > 5.1) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab. In the clinical management of MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Rheumatoid Arthritis Inadequate Response to Conventional DMARDs Anti-TNF Biologic Adalimumab."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Adalimumab for Rheumatoid Arthritis",
+        "url": "https://www.nice.org.uk/guidance/ta375"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27834",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolon",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days. Clinical examination and investigative review confirm administering intravenous methylprednisolone 1 g daily for 3 days followed by high-dose oral prednisolone and tocilizumab. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous methylprednisolone 1 g daily for 3 days followed by high-dose oral prednisolone and tocilizumab",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous methylprednisolone 1 g daily for 3 days followed by high-dose oral prednisolone and tocilizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous methylprednisolone 1 g daily for 3 days followed by high-dose oral prednisolone and tocilizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days. In the clinical management of MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Giant Cell Arteritis Visual Loss Intravenous Methylprednisolone Pulse 1 g Daily for 3 Days."
+    ],
+    "references": [
+      {
+        "label": "British Society for Rheumatology (BSR) GCA Guidelines",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27835",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hyper",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition. Clinical examination and investigative review confirm prescribing oral captopril with rapid dose titration avoiding angiotensin receptor blockers and avoiding systemic corticosteroids. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral captopril with rapid dose titration avoiding angiotensin receptor blockers and avoiding systemic corticosteroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral captopril with rapid dose titration avoiding angiotensin receptor blockers and avoiding systemic corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral captopril with rapid dose titration avoiding angiotensin receptor blockers and avoiding systemic corticosteroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition. In the clinical management of MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Systemic Sclerosis Scleroderma Renal Crisis Acute Severe Hypertension Oral Captopril ACE Inhibition."
+    ],
+    "references": [
+      {
+        "label": "BSR and British Health Professionals in Rheumatology Guidelines for Systemic Sclerosis",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27836",
+    "exam": "MRCP",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Sten",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation. Clinical examination and investigative review confirm performing rigid bronchoscopic intralesional corticosteroid injection and balloon tracheoplasty for non-inflammatory fibrous stenosis. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing rigid bronchoscopic intralesional corticosteroid injection and balloon tracheoplasty for non-inflammatory fibrous stenosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing rigid bronchoscopic intralesional corticosteroid injection and balloon tracheoplasty for non-inflammatory fibrous stenosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing rigid bronchoscopic intralesional corticosteroid injection and balloon tracheoplasty for non-inflammatory fibrous stenosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation. In the clinical management of MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Granulomatosis with Polyangiitis ANCA Positive Subglottic Stenosis Endoscopic Balloon Dilatation."
+    ],
+    "references": [
+      {
+        "label": "BSR Vasculitis Guidelines",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27837",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab. Clinical examination and investigative review confirm administering subcutaneous mepolizumab 300 mg every 4 weeks to induce remission and reduce oral corticosteroid dependency. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering subcutaneous mepolizumab 300 mg every 4 weeks to induce remission and reduce oral corticosteroid dependency",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous mepolizumab 300 mg every 4 weeks to induce remission and reduce oral corticosteroid dependency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous mepolizumab 300 mg every 4 weeks to induce remission and reduce oral corticosteroid dependency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab. In the clinical management of MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss) Severe Asthma Anti-IL-5 Mepolizumab."
+    ],
+    "references": [
+      {
+        "label": "BSR and European Vasculitis Study Group (EUVAS) Guidelines",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27838",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Cor",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab. Clinical examination and investigative review confirm administering high-dose systemic corticosteroids combined with intravenous infliximab or oral azathioprine to prevent blindness. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering high-dose systemic corticosteroids combined with intravenous infliximab or oral azathioprine to prevent blindness",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering high-dose systemic corticosteroids combined with intravenous infliximab or oral azathioprine to prevent blindness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering high-dose systemic corticosteroids combined with intravenous infliximab or oral azathioprine to prevent blindness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab. In the clinical management of MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Beh\u00e7et Syndrome Severe Posterior Uveitis Hypopyon Systemic Corticosteroids and Azathioprine or Infliximab."
+    ],
+    "references": [
+      {
+        "label": "BSR Guidelines on Management of Behcet's Disease",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27839",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monocl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab. Clinical examination and investigative review confirm prescribing subcutaneous secukinumab 150 mg weekly for 5 weeks followed by monthly maintenance for active radiographic axSpA. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing subcutaneous secukinumab 150 mg weekly for 5 weeks followed by monthly maintenance for active radiographic axspa",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing subcutaneous secukinumab 150 mg weekly for 5 weeks followed by monthly maintenance for active radiographic axSpA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing subcutaneous secukinumab 150 mg weekly for 5 weeks followed by monthly maintenance for active radiographic axSpA represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab. In the clinical management of MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Ankylosing Spondylitis Severe Axial Disease Anti-IL-17A Monoclonal Antibody Secukinumab."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Secukinumab for Ankylosing Spondylitis",
+        "url": "https://www.nice.org.uk/guidance/ta407"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27840",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Syn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib. Clinical examination and investigative review confirm prescribing oral Janus kinase (JAK) inhibitor upadacitinib 15 mg daily for active psoriatic arthritis failing bDMARDs. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral janus kinase (jak) inhibitor upadacitinib 15 mg daily for active psoriatic arthritis failing bdmards",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral Janus kinase (JAK) inhibitor upadacitinib 15 mg daily for active psoriatic arthritis failing bDMARDs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral Janus kinase (JAK) inhibitor upadacitinib 15 mg daily for active psoriatic arthritis failing bDMARDs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib. In the clinical management of MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Psoriatic Arthritis Polyarticular Dactylitis Oral Targeted Synthetic DMARD Tofacitinib or Upadacitinib."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Upadacitinib for Psoriatic Arthritis",
+        "url": "https://www.nice.org.uk/guidance/ta768"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27841",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Top",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops. Clinical examination and investigative review confirm prescribing preservative-free artificial tears and topical cyclosporine 0.05% ophthalmic emulsion twice daily for ocular inflammation. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing preservative-free artificial tears and topical cyclosporine 0.05% ophthalmic emulsion twice daily for ocular inflammation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing preservative-free artificial tears and topical cyclosporine 0.05% ophthalmic emulsion twice daily for ocular inflammation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing preservative-free artificial tears and topical cyclosporine 0.05% ophthalmic emulsion twice daily for ocular inflammation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops. In the clinical management of MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Primary Sjogren Syndrome Severe Keratoconjunctivitis Sicca Topical Cyclosporine 0.05% Eye Drops."
+    ],
+    "references": [
+      {
+        "label": "BSR Sjogren's Syndrome Guidelines",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27842",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Wea",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG). Clinical examination and investigative review confirm administering intravenous immunoglobulin (IVIG) 2 g/kg monthly for 3 to 6 months for treatment-refractory inflammatory myopathy. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous immunoglobulin (ivig) 2 g/kg monthly for 3 to 6 months for treatment-refractory inflammatory myopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous immunoglobulin (IVIG) 2 g/kg monthly for 3 to 6 months for treatment-refractory inflammatory myopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG).",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous immunoglobulin (IVIG) 2 g/kg monthly for 3 to 6 months for treatment-refractory inflammatory myopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG). In the clinical management of MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Rheumatology Refractory Dermatomyositis Gottron Papules Proximal Muscle Weakness Intravenous Immunoglobulin (IVIG)."
+    ],
+    "references": [
+      {
+        "label": "BSR Guidelines for Management of Idiopathic Inflammatory Myopathies",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27843",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Recep",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim. Clinical examination and investigative review confirm prescribing oral eltrombopag 50 mg daily or weekly subcutaneous romiplostim targeting platelet counts between 50 and 150. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral eltrombopag 50 mg daily or weekly subcutaneous romiplostim targeting platelet counts between 50 and 150",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral eltrombopag 50 mg daily or weekly subcutaneous romiplostim targeting platelet counts between 50 and 150 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral eltrombopag 50 mg daily or weekly subcutaneous romiplostim targeting platelet counts between 50 and 150 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim. In the clinical management of MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Immune Thrombocytopenia Refractory Chronic Thrombopoietin Receptor Agonist Eltrombopag or Romiplostim."
+    ],
+    "references": [
+      {
+        "label": "British Society for Haematology (BSH) ITP Guidelines",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27844",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX. Clinical examination and investigative review confirm initiating immediate daily plasma exchange, high-dose methylprednisolone, rituximab, and anti-vWF nanobody caplacizumab. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate daily plasma exchange, high-dose methylprednisolone, rituximab, and anti-vwf nanobody caplacizumab",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating immediate daily plasma exchange, high-dose methylprednisolone, rituximab, and anti-vWF nanobody caplacizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating immediate daily plasma exchange, high-dose methylprednisolone, rituximab, and anti-vWF nanobody caplacizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX. In the clinical management of MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Thrombotic Thrombocytopenic Purpura Microangiopathic Hemolytic Anemia ADAMTS13 Caplacizumab and PEX."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Diagnosis and Management of TTP",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27845",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravas",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab. Clinical examination and investigative review confirm initiating terminal complement C5 inhibitor eculizumab or ravulizumab to abort intravascular hemolysis and prevent thrombosis. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating terminal complement c5 inhibitor eculizumab or ravulizumab to abort intravascular hemolysis and prevent thrombosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating terminal complement C5 inhibitor eculizumab or ravulizumab to abort intravascular hemolysis and prevent thrombosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating terminal complement C5 inhibitor eculizumab or ravulizumab to abort intravascular hemolysis and prevent thrombosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab. In the clinical management of MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Paroxysmal Nocturnal Hemoglobinuria CD55/CD59 Negative Intravascular Hemolysis Monoclonal Eculizumab."
+    ],
+    "references": [
+      {
+        "label": "BSH PNH National Consensus Guidelines",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27846",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Secon",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib. Clinical examination and investigative review confirm prescribing second-generation tyrosine kinase inhibitor dasatinib 100 mg daily with serial quantitative RT-qPCR monitoring. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing second-generation tyrosine kinase inhibitor dasatinib 100 mg daily with serial quantitative rt-qpcr monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing second-generation tyrosine kinase inhibitor dasatinib 100 mg daily with serial quantitative RT-qPCR monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing second-generation tyrosine kinase inhibitor dasatinib 100 mg daily with serial quantitative RT-qPCR monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib. In the clinical management of MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Chronic Myeloid Leukemia BCR-ABL1 Philadelphia Chromosome Second-Generation TKI Dasatinib or Nilotinib."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Management of Chronic Myeloid Leukaemia",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27847",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydrox",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin. Clinical examination and investigative review confirm initiating cytoreductive oral hydroxycarbamide titrated to hematocrit < 0.45 alongside daily low-dose aspirin and venesection. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating cytoreductive oral hydroxycarbamide titrated to hematocrit < 0.45 alongside daily low-dose aspirin and venesection",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating cytoreductive oral hydroxycarbamide titrated to hematocrit < 0.45 alongside daily low-dose aspirin and venesection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating cytoreductive oral hydroxycarbamide titrated to hematocrit < 0.45 alongside daily low-dose aspirin and venesection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin. In the clinical management of MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Polycythemia Vera JAK2 V617F Mutation High Risk Age > 60 Hydroxycarbamide and Low-Dose Aspirin."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Diagnosis and Management of Myeloproliferative Neoplasms",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27848",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JA",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib. Clinical examination and investigative review confirm prescribing oral ruxolitinib 15 to 20 mg twice daily to reduce splenomegaly, alleviate constitutional symptoms, and improve survival. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral ruxolitinib 15 to 20 mg twice daily to reduce splenomegaly, alleviate constitutional symptoms, and improve survival",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral ruxolitinib 15 to 20 mg twice daily to reduce splenomegaly, alleviate constitutional symptoms, and improve survival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral ruxolitinib 15 to 20 mg twice daily to reduce splenomegaly, alleviate constitutional symptoms, and improve survival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib. In the clinical management of MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Primary Myelofibrosis JAK2 Mutation Severe Splenomegaly JAK1/JAK2 Inhibitor Ruxolitinib."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on Management of Primary Myelofibrosis",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27849",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retino",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide. Clinical examination and investigative review confirm initiating emergency oral ATRA 45 mg/m2 daily combined with intravenous arsenic trioxide (ATO) immediately on morphological suspicion. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Initiating emergency oral atra 45 mg/m2 daily combined with intravenous arsenic trioxide (ato) immediately on morphological suspicion",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating emergency oral ATRA 45 mg/m2 daily combined with intravenous arsenic trioxide (ATO) immediately on morphological suspicion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating emergency oral ATRA 45 mg/m2 daily combined with intravenous arsenic trioxide (ATO) immediately on morphological suspicion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide. In the clinical management of MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Acute Promyelocytic Leukemia PML-RARA t(15;17) All-Trans Retinoic Acid (ATRA) and Arsenic Trioxide."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Management of Acute Myeloid Leukaemia in Adults",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27850",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anem",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily. Clinical examination and investigative review confirm prescribing oral lenalidomide 10 mg daily on days 1 to 21 of 28-day cycles to achieve transfusion independence and cytogenetic response. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral lenalidomide 10 mg daily on days 1 to 21 of 28-day cycles to achieve transfusion independence and cytogenetic response",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral lenalidomide 10 mg daily on days 1 to 21 of 28-day cycles to achieve transfusion independence and cytogenetic response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral lenalidomide 10 mg daily on days 1 to 21 of 28-day cycles to achieve transfusion independence and cytogenetic response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily. In the clinical management of MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Myelodysplastic Syndrome 5q Deletion Transfusion-Dependent Anemia Oral Lenalidomide 10 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Management of Myelodysplastic Syndromes",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27851",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd). Clinical examination and investigative review confirm administering subcutaneous anti-CD38 monoclonal antibody daratumumab combined with VRd to overcome therapeutic resistance. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering subcutaneous anti-cd38 monoclonal antibody daratumumab combined with vrd to overcome therapeutic resistance",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous anti-CD38 monoclonal antibody daratumumab combined with VRd to overcome therapeutic resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous anti-CD38 monoclonal antibody daratumumab combined with VRd to overcome therapeutic resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd). In the clinical management of MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Multiple Myeloma Relapsed Refractory Quadruplet Daratumumab Bortezomib Lenalidomide Dexamethasone (D-VRd)."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Management of Multiple Myeloma",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27852",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive I",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone. Clinical examination and investigative review confirm initiating oral prednisolone 1 mg/kg/day with folic acid supplementation and thromboembolism prophylaxis. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 1 mg/kg/day with folic acid supplementation and thromboembolism prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral prednisolone 1 mg/kg/day with folic acid supplementation and thromboembolism prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating oral prednisolone 1 mg/kg/day with folic acid supplementation and thromboembolism prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone. In the clinical management of MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Haematology Warm Autoimmune Hemolytic Anemia Direct Antiglobulin Positive IgG First-Line Oral Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Diagnosis and Treatment of Autoimmune Hemolytic Anemia",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27853",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimox",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids. Clinical examination and investigative review confirm prescribing high-dose intravenous co-trimoxazole 120 mg/kg/day with oral prednisolone for PaO2 < 9.3 kPa (room air). Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose intravenous co-trimoxazole 120 mg/kg/day with oral prednisolone for pao2 < 9.3 kpa (room air)",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing high-dose intravenous co-trimoxazole 120 mg/kg/day with oral prednisolone for PaO2 < 9.3 kPa (room air) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing high-dose intravenous co-trimoxazole 120 mg/kg/day with oral prednisolone for PaO2 < 9.3 kPa (room air) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids. In the clinical management of MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease HIV Pneumocystis Jirovecii Pneumonia CD4 < 200 Co-Trimoxazole and Adjunctive Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "British HIV Association (BHIVA) Opportunistic Infections Guidelines",
+        "url": "https://www.bhiva.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27854",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphoteric",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction. Clinical examination and investigative review confirm administering intravenous liposomal amphotericin B 3 mg/kg/day plus oral flucytosine 100 mg/kg/day for 2 weeks. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous liposomal amphotericin b 3 mg/kg/day plus oral flucytosine 100 mg/kg/day for 2 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous liposomal amphotericin B 3 mg/kg/day plus oral flucytosine 100 mg/kg/day for 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous liposomal amphotericin B 3 mg/kg/day plus oral flucytosine 100 mg/kg/day for 2 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction. In the clinical management of MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Cryptococcal Meningitis HIV Patient Liposomal Amphotericin B and Flucytosine Induction."
+    ],
+    "references": [
+      {
+        "label": "BHIVA Opportunistic Infections Management Guidelines",
+        "url": "https://www.bhiva.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27855",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam. Clinical examination and investigative review confirm prescribing intravenous ceftazidime-avibactam 2.5 g every 8 hours for KPC or OXA-48 carbapenemase bloodstream infection. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing intravenous ceftazidime-avibactam 2.5 g every 8 hours for kpc or oxa-48 carbapenemase bloodstream infection",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing intravenous ceftazidime-avibactam 2.5 g every 8 hours for KPC or OXA-48 carbapenemase bloodstream infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing intravenous ceftazidime-avibactam 2.5 g every 8 hours for KPC or OXA-48 carbapenemase bloodstream infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam. In the clinical management of MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Multidrug-Resistant Carbapenemase Producing Klebsiella Pneumoniae Ceftazidime-Avibactam."
+    ],
+    "references": [
+      {
+        "label": "British Society for Antimicrobial Chemotherapy Guidelines",
+        "url": "https://bsac.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27856",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days. Clinical examination and investigative review confirm prescribing oral fidaxomicin 200 mg twice daily for 10 days or pulsed-tapered regimen for recurrent infection. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral fidaxomicin 200 mg twice daily for 10 days or pulsed-tapered regimen for recurrent infection",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral fidaxomicin 200 mg twice daily for 10 days or pulsed-tapered regimen for recurrent infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing oral fidaxomicin 200 mg twice daily for 10 days or pulsed-tapered regimen for recurrent infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days. In the clinical management of MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Clostridioides Difficile Recurrent Colitis Oral Fidaxomicin 200 mg Twice Daily for 10 Days."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Clostridioides Difficile Infection",
+        "url": "https://www.nice.org.uk/guidance/ng199"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27857",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign F",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole. Clinical examination and investigative review confirm initiating intravenous voriconazole 6 mg/kg every 12 hours for 2 doses then 4 mg/kg with therapeutic drug monitoring. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous voriconazole 6 mg/kg every 12 hours for 2 doses then 4 mg/kg with therapeutic drug monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating intravenous voriconazole 6 mg/kg every 12 hours for 2 doses then 4 mg/kg with therapeutic drug monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating intravenous voriconazole 6 mg/kg every 12 hours for 2 doses then 4 mg/kg with therapeutic drug monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole. In the clinical management of MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Invasive Pulmonary Aspergillosis Neutropenic Halo Sign First-Line Intravenous Voriconazole."
+    ],
+    "references": [
+      {
+        "label": "British Society for Medical Mycology Guidelines",
+        "url": "https://www.bsmm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27858",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Cef",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days. Clinical examination and investigative review confirm administering intravenous ceftriaxone 2 g once daily for 21 days for central nervous system Lyme borreliosis. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous ceftriaxone 2 g once daily for 21 days for central nervous system lyme borreliosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous ceftriaxone 2 g once daily for 21 days for central nervous system Lyme borreliosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous ceftriaxone 2 g once daily for 21 days for central nervous system Lyme borreliosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days. In the clinical management of MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Lyme Neuroborreliosis Facial Nerve Palsy Intravenous Ceftriaxone 2 g Daily for 21 Days."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Lyme Disease",
+        "url": "https://www.nice.org.uk/guidance/ng95"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27859",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS. Clinical examination and investigative review confirm administering intravenous flucloxacillin 2 g every 4 to 6 hours for confirmed methicillin-sensitive Staphylococcus aureus bacteremia. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous flucloxacillin 2 g every 4 to 6 hours for confirmed methicillin-sensitive staphylococcus aureus bacteremia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous flucloxacillin 2 g every 4 to 6 hours for confirmed methicillin-sensitive Staphylococcus aureus bacteremia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering intravenous flucloxacillin 2 g every 4 to 6 hours for confirmed methicillin-sensitive Staphylococcus aureus bacteremia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS. In the clinical management of MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Native Valve Staphylococcal Sepsis Methicillin-Sensitive High-Dose IV Flucloxacillin 2 g QDS."
+    ],
+    "references": [
+      {
+        "label": "BSAC Endocarditis Clinical Guidelines",
+        "url": "https://bsac.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27860",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy. Clinical examination and investigative review confirm prescribing intravenous meropenem 1 g every 8 hours or high-dose oral azithromycin for ceftriaxone-resistant Salmonella Typhi. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing intravenous meropenem 1 g every 8 hours or high-dose oral azithromycin for ceftriaxone-resistant salmonella typhi",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing intravenous meropenem 1 g every 8 hours or high-dose oral azithromycin for ceftriaxone-resistant Salmonella Typhi represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, prescribing intravenous meropenem 1 g every 8 hours or high-dose oral azithromycin for ceftriaxone-resistant Salmonella Typhi represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy. In the clinical management of MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Enteric Fever Extensively Drug-Resistant Azithromycin or Meropenem Inpatient Therapy."
+    ],
+    "references": [
+      {
+        "label": "UK Health Security Agency (UKHSA) Enteric Fever Guidelines",
+        "url": "https://www.gov.uk/government/organisations/uk-health-security-agency"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27861",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy. Clinical examination and investigative review confirm initiating 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of dual therapy. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of dual therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of dual therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of dual therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy. In the clinical management of MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Tuberculous Pleural Effusion Light Criteria Exudate ADA > 40 Standard Quadruple HRZE Therapy."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Tuberculosis",
+        "url": "https://www.nice.org.uk/guidance/ng33"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27862",
+    "exam": "MRCP",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antivi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease. Clinical examination and investigative review confirm obtaining lesion swabs for orthopoxvirus DNA PCR and prescribing oral tecovirimat 600 mg twice daily for severe disease. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Obtaining lesion swabs for orthopoxvirus dna pcr and prescribing oral tecovirimat 600 mg twice daily for severe disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, obtaining lesion swabs for orthopoxvirus DNA PCR and prescribing oral tecovirimat 600 mg twice daily for severe disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, obtaining lesion swabs for orthopoxvirus DNA PCR and prescribing oral tecovirimat 600 mg twice daily for severe disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease. In the clinical management of MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Infectious Disease Mpox Monkeypox Clade Ib PCR Swab Confirmation and Antiviral Tecovirimat for Severe Disease."
+    ],
+    "references": [
+      {
+        "label": "UKHSA Mpox Guidance and Clinical Protocols",
+        "url": "https://www.gov.uk/government/organisations/uk-health-security-agency"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27863",
+    "exam": "MRCP",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assess",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 88-year-old male is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning. Clinical examination and investigative review confirm performing a comprehensive geriatric assessment (CGA) to coordinate medical, functional, and social support interventions. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Performing a comprehensive geriatric assessment (cga) to coordinate medical, functional, and social support interventions",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing a comprehensive geriatric assessment (CGA) to coordinate medical, functional, and social support interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, performing a comprehensive geriatric assessment (CGA) to coordinate medical, functional, and social support interventions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning. In the clinical management of MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Frailty Syndrome Multidimensional Comprehensive Geriatric Assessment (CGA) and Care Planning."
+    ],
+    "references": [
+      {
+        "label": "British Geriatrics Society (BGS) Comprehensive Geriatric Assessment Guidelines",
+        "url": "https://www.bgs.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27864",
+    "exam": "MRCP",
+    "subject": "Geriatrics",
+    "system": "Behavioral Health",
+    "topic": "MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 65-year-old female undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation. Clinical examination and investigative review confirm treating the underlying precipitant (infection, dehydration) and providing a calm, well-lit room with continuous family reorientation. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Treating the underlying precipitant (infection, dehydration) and providing a calm, well-lit room with continuous family reorientation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, treating the underlying precipitant (infection, dehydration) and providing a calm, well-lit room with continuous family reorientation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, treating the underlying precipitant (infection, dehydration) and providing a calm, well-lit room with continuous family reorientation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation. In the clinical management of MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Delirium Acute Hyperactive Confusional State Identifying Sepsis Non-Pharmacological Orientation."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Delirium Prevention, Diagnosis and Management",
+        "url": "https://www.nice.org.uk/guidance/cg103"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27865",
+    "exam": "MRCP",
+    "subject": "Geriatrics",
+    "system": "Cardiovascular",
+    "topic": "MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocorti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 66-year-old male attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy. Clinical examination and investigative review confirm instituting physical counter-pressure maneuvers, hydration, and low-dose oral fludrocortisone 50 to 100 mcg daily. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Instituting physical counter-pressure maneuvers, hydration, and low-dose oral fludrocortisone 50 to 100 mcg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, instituting physical counter-pressure maneuvers, hydration, and low-dose oral fludrocortisone 50 to 100 mcg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, instituting physical counter-pressure maneuvers, hydration, and low-dose oral fludrocortisone 50 to 100 mcg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy. In the clinical management of MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Orthostatic Hypotension Postural SBP Drop > 20 mm Hg Fludrocortisone or Midodrine Therapy."
+    ],
+    "references": [
+      {
+        "label": "BGS Falls and Syncope Guidelines",
+        "url": "https://www.bgs.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27866",
+    "exam": "MRCP",
+    "subject": "Geriatrics",
+    "system": "General Principles",
+    "topic": "MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STO",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 67-year-old female is examined in the ambulatory emergency care unit of a regional NHS teaching hospital with clinical findings indicative of MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing. Clinical examination and investigative review confirm applying validated STOPP/START criteria to systematically discontinue inappropriate medications and reduce adverse drug events. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Applying validated stopp/start criteria to systematically discontinue inappropriate medications and reduce adverse drug events",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, applying validated STOPP/START criteria to systematically discontinue inappropriate medications and reduce adverse drug events represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, applying validated STOPP/START criteria to systematically discontinue inappropriate medications and reduce adverse drug events represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing. In the clinical management of MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Polypharmacy Potentially Inappropriate Medications Screening STOPP/START Criteria Deprescribing."
+    ],
+    "references": [
+      {
+        "label": "British Geriatrics Society Polypharmacy Guidance",
+        "url": "https://www.bgs.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27867",
+    "exam": "MRCP",
+    "subject": "Geriatrics",
+    "system": "Nervous System",
+    "topic": "MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascul",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 68-year-old male attends the acute medical unit (AMU) of an NHS foundation trust hospital in London with clinical findings indicative of MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction. Clinical examination and investigative review confirm optimizing vascular risk factors including strict blood pressure control, statin therapy, and antiplatelet therapy. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Optimizing vascular risk factors including strict blood pressure control, statin therapy, and antiplatelet therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, optimizing vascular risk factors including strict blood pressure control, statin therapy, and antiplatelet therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, optimizing vascular risk factors including strict blood pressure control, statin therapy, and antiplatelet therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction. In the clinical management of MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Geriatrics Vascular Dementia Post-Stroke Cognitive Deficit Brain MRI Vascular Leukoaraiosis Risk Reduction."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Dementia Assessment and Management",
+        "url": "https://www.nice.org.uk/guidance/ng97"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27868",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is evaluated in the outpatient specialty consultative clinic at Queen Elizabeth Hospital Birmingham with clinical findings indicative of MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener. Clinical examination and investigative review confirm co-prescribing oral senna combined with docusate sodium or macrogol whenever regularly scheduled opioids are initiated. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Co-prescribing oral senna combined with docusate sodium or macrogol whenever regularly scheduled opioids are initiated",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, co-prescribing oral senna combined with docusate sodium or macrogol whenever regularly scheduled opioids are initiated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, co-prescribing oral senna combined with docusate sodium or macrogol whenever regularly scheduled opioids are initiated represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener. In the clinical management of MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Opioid-Induced Constipation Cancer Pain Stimulant Laxative Senna plus Stool Softener."
+    ],
+    "references": [
+      {
+        "label": "Association for Palliative Medicine (APM) Constipation Guidelines",
+        "url": "https://apmonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27869",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral De",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male presents to the clinical assessment unit of a major teaching hospital in Leeds with clinical findings indicative of MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily. Clinical examination and investigative review confirm administering immediate oral dexamethasone 16 mg daily with PPI cover and arranging emergency whole-spine MRI within 24 hours. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering immediate oral dexamethasone 16 mg daily with ppi cover and arranging emergency whole-spine mri within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering immediate oral dexamethasone 16 mg daily with PPI cover and arranging emergency whole-spine MRI within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering immediate oral dexamethasone 16 mg daily with PPI cover and arranging emergency whole-spine MRI within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily. In the clinical management of MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Metastatic Spinal Cord Compression Urgent High-Dose Oral Dexamethasone 16 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Spinal Metastases and Metastatic Spinal Cord Compression",
+        "url": "https://www.nice.org.uk/guidance/ng234"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27870",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcut",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is admitted to the acute medical intake ward at Royal Infirmary of Edinburgh with clinical findings indicative of MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration. Clinical examination and investigative review confirm administering low-dose subcutaneous morphine 2.5 to 5 mg prn to alleviate the distressing sensation of dyspnea. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering low-dose subcutaneous morphine 2.5 to 5 mg prn to alleviate the distressing sensation of dyspnea",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering low-dose subcutaneous morphine 2.5 to 5 mg prn to alleviate the distressing sensation of dyspnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering low-dose subcutaneous morphine 2.5 to 5 mg prn to alleviate the distressing sensation of dyspnea represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration. In the clinical management of MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Terminal Breathlessness Intractable Dyspnea Low-Dose Subcutaneous Morphine Titration."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Care of Dying Adults in the Last Days of Life",
+        "url": "https://www.nice.org.uk/guidance/ng31"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27871",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous G",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male undergoes specialist evaluation in the medical cardiology / nephrology unit at Manchester University NHS Foundation Trust with clinical findings indicative of MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine. Clinical examination and investigative review confirm administering subcutaneous glycopyrronium 200 mcg or hyoscine butylbromide 20 mg with gentle head repositioning. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering subcutaneous glycopyrronium 200 mcg or hyoscine butylbromide 20 mg with gentle head repositioning",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous glycopyrronium 200 mcg or hyoscine butylbromide 20 mg with gentle head repositioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, administering subcutaneous glycopyrronium 200 mcg or hyoscine butylbromide 20 mg with gentle head repositioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine. In the clinical management of MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Terminal Respiratory Secretions Death Rattle Subcutaneous Glycopyrronium or Hyoscine."
+    ],
+    "references": [
+      {
+        "label": "APM Clinical Guidelines for Palliative Care",
+        "url": "https://apmonline.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-27872",
+    "exam": "MRCP",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the tertiary inpatient specialty service of Addenbrooke's Hospital Cambridge with clinical findings indicative of MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion. Clinical examination and investigative review confirm initiating continuous subcutaneous octreotide 300 to 600 mcg/day to reduce gastrointestinal secretions and colicky pain. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating continuous subcutaneous octreotide 300 to 600 mcg/day to reduce gastrointestinal secretions and colicky pain",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating continuous subcutaneous octreotide 300 to 600 mcg/day to reduce gastrointestinal secretions and colicky pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCP, initiating continuous subcutaneous octreotide 300 to 600 mcg/day to reduce gastrointestinal secretions and colicky pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion. In the clinical management of MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCP Palliative Care Inoperable Malignant Bowel Obstruction Nausea Vomiting Subcutaneous Octreotide Infusion."
+    ],
+    "references": [
+      {
+        "label": "NICE Guidelines Palliative Care Symptom Management",
+        "url": "https://www.nice.org.uk/guidance/ng31"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
