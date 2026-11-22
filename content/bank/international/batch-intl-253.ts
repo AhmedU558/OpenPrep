@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-24373",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Hematology",
+    "topic": "NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil. Clinical examination and investigative review confirm demonstrating marked polyclonal IgM elevation with high malaria antibody titers and initiating long-term daily proguanil prophylaxis. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating marked polyclonal igm elevation with high malaria antibody titers and initiating long-term daily proguanil prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating marked polyclonal IgM elevation with high malaria antibody titers and initiating long-term daily proguanil prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating marked polyclonal IgM elevation with high malaria antibody titers and initiating long-term daily proguanil prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil. In the clinical management of NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Tropical Splenomegaly Syndrome Hyperreactive Malarial Splenomegaly Long-Term Proguanil."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Programme India",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24374",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Support",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care. Clinical examination and investigative review confirm confirming viral RNA via RT-PCR, isolating patient, and providing aggressive intensive fluid resuscitation and platelet transfusions. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Confirming viral rna via rt-pcr, isolating patient, and providing aggressive intensive fluid resuscitation and platelet transfusions",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming viral RNA via RT-PCR, isolating patient, and providing aggressive intensive fluid resuscitation and platelet transfusions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming viral RNA via RT-PCR, isolating patient, and providing aggressive intensive fluid resuscitation and platelet transfusions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care. In the clinical management of NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Kyasanur Forest Disease Monkey Fever Tick-Borne Flavivirus Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "Indian Council of Medical Research KFD Guidelines",
+        "url": "https://main.icmr.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24375",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Dox",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg. Clinical examination and investigative review confirm identifying pathognomonic eschar and initiating oral doxycycline 100 mg twice daily for 7 days or oral azithromycin. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Identifying pathognomonic eschar and initiating oral doxycycline 100 mg twice daily for 7 days or oral azithromycin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying pathognomonic eschar and initiating oral doxycycline 100 mg twice daily for 7 days or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying pathognomonic eschar and initiating oral doxycycline 100 mg twice daily for 7 days or oral azithromycin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg. In the clinical management of NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Scrub Typhus Orientia tsutsugamushi Acute Febrile Illness Oral Doxycycline 100 mg."
+    ],
+    "references": [
+      {
+        "label": "National Centre for Disease Control NCDC Guidelines",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24376",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Mi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral. Clinical examination and investigative review confirm confirming Leishmania amastigotes on slit-skin smear and prescribing oral miltefosine 50 mg twice daily for 12 weeks. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Confirming leishmania amastigotes on slit-skin smear and prescribing oral miltefosine 50 mg twice daily for 12 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming Leishmania amastigotes on slit-skin smear and prescribing oral miltefosine 50 mg twice daily for 12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming Leishmania amastigotes on slit-skin smear and prescribing oral miltefosine 50 mg twice daily for 12 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral. In the clinical management of NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Visceral Leishmaniasis Post-Kala-Azar Dermal Leishmaniasis PKDL Miltefosine Oral."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Programme",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24377",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Renal",
+    "topic": "NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone. Clinical examination and investigative review confirm initiating intravenous crystalline penicillin G 1.5 million units every 6 hours or IV ceftriaxone alongside renal support. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous crystalline penicillin g 1.5 million units every 6 hours or iv ceftriaxone alongside renal support",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating intravenous crystalline penicillin G 1.5 million units every 6 hours or IV ceftriaxone alongside renal support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating intravenous crystalline penicillin G 1.5 million units every 6 hours or IV ceftriaxone alongside renal support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone. In the clinical management of NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Leptospirosis Weil Disease Jaundice Renal Failure IV Penicillin G or Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "Indian Guidelines for Leptospirosis Management",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24378",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaqu",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid. Clinical examination and investigative review confirm initiating BPaL regimen comprising bedaquiline, pretomanid, and linezolid for 6 months under national programmatic management. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating bpal regimen comprising bedaquiline, pretomanid, and linezolid for 6 months under national programmatic management",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating BPaL regimen comprising bedaquiline, pretomanid, and linezolid for 6 months under national programmatic management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating BPaL regimen comprising bedaquiline, pretomanid, and linezolid for 6 months under national programmatic management represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid. In the clinical management of NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Pulmonary Tuberculosis Multi-Drug Resistant MDR-TB All-Oral Bedaquiline Pretomanid Linezolid."
+    ],
+    "references": [
+      {
+        "label": "National Tuberculosis Elimination Program NTEP India",
+        "url": "https://tbcindia.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24379",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral D",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring. Clinical examination and investigative review confirm measuring serum ALT every 3 to 6 months and HBV DNA annually with screening ultrasound for hepatocellular carcinoma. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Measuring serum alt every 3 to 6 months and hbv dna annually with screening ultrasound for hepatocellular carcinoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, measuring serum ALT every 3 to 6 months and HBV DNA annually with screening ultrasound for hepatocellular carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, measuring serum ALT every 3 to 6 months and HBV DNA annually with screening ultrasound for hepatocellular carcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring. In the clinical management of NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Hepatitis B Inactive Carrier Status Serial ALT and Viral DNA Monitoring."
+    ],
+    "references": [
+      {
+        "label": "Indian National Association for Study of the Liver (INASL)",
+        "url": "https://inasl.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24380",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir. Clinical examination and investigative review confirm prescribing oral sofosbuvir 400 mg plus daclatasvir 60 mg daily for 12 weeks achieving sustained virological response > 95%. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing oral sofosbuvir 400 mg plus daclatasvir 60 mg daily for 12 weeks achieving sustained virological response > 95%",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral sofosbuvir 400 mg plus daclatasvir 60 mg daily for 12 weeks achieving sustained virological response > 95% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral sofosbuvir 400 mg plus daclatasvir 60 mg daily for 12 weeks achieving sustained virological response > 95% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir. In the clinical management of NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Hepatitis C Pan-Genotypic Direct Acting Antivirals Sofosbuvir and Daclatasvir."
+    ],
+    "references": [
+      {
+        "label": "INASL Consensus on Hepatitis C Management",
+        "url": "https://inasl.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24381",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Lumina",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide. Clinical examination and investigative review confirm prescribing oral metronidazole 750 mg three times daily for 10 days followed by diloxanide furoate 500 mg for 10 days. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral metronidazole 750 mg three times daily for 10 days followed by diloxanide furoate 500 mg for 10 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral metronidazole 750 mg three times daily for 10 days followed by diloxanide furoate 500 mg for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral metronidazole 750 mg three times daily for 10 days followed by diloxanide furoate 500 mg for 10 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide. In the clinical management of NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Amebic Liver Abscess Large Cavity Metronidazole Followed by Luminal Diloxanide."
+    ],
+    "references": [
+      {
+        "label": "Association of Physicians of India (API) Guidelines",
+        "url": "https://www.apiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24382",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Nervous System",
+    "topic": "NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone. Clinical examination and investigative review confirm administering oral albendazole 15 mg/kg/day with praziquantel 50 mg/kg/day under cover of oral dexamethasone and anticonvulsants. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral albendazole 15 mg/kg/day with praziquantel 50 mg/kg/day under cover of oral dexamethasone and anticonvulsants",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral albendazole 15 mg/kg/day with praziquantel 50 mg/kg/day under cover of oral dexamethasone and anticonvulsants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral albendazole 15 mg/kg/day with praziquantel 50 mg/kg/day under cover of oral dexamethasone and anticonvulsants represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone. In the clinical management of NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Neurocysticercosis Ring-Enhancing Lesion Albendazole Praziquantel and Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Neurology Guidelines",
+        "url": "https://ianindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24383",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Cardiovascular",
+    "topic": "NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Do",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin. Clinical examination and investigative review confirm prescribing oral penicillin V for 10 days followed by secondary prophylaxis and oral aspirin 80-100 mg/kg/day for arthritis. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral penicillin v for 10 days followed by secondary prophylaxis and oral aspirin 80-100 mg/kg/day for arthritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral penicillin V for 10 days followed by secondary prophylaxis and oral aspirin 80-100 mg/kg/day for arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral penicillin V for 10 days followed by secondary prophylaxis and oral aspirin 80-100 mg/kg/day for arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin. In the clinical management of NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Acute Rheumatic Fever Jones Criteria Oral Penicillin V and High-Dose Aspirin."
+    ],
+    "references": [
+      {
+        "label": "Cardiological Society of India Rheumatic Fever Guidelines",
+        "url": "https://csi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24384",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone a",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate. Clinical examination and investigative review confirm initiating oral prednisolone 1 mg/kg/day with oral methotrexate 15-20 mg weekly and MR angiography monitoring of aorta. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 1 mg/kg/day with oral methotrexate 15-20 mg weekly and mr angiography monitoring of aorta",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral prednisolone 1 mg/kg/day with oral methotrexate 15-20 mg weekly and MR angiography monitoring of aorta represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral prednisolone 1 mg/kg/day with oral methotrexate 15-20 mg weekly and MR angiography monitoring of aorta represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate. In the clinical management of NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Takayasu Arteritis Pulseless Disease High-Dose Oral Prednisolone and Methotrexate."
+    ],
+    "references": [
+      {
+        "label": "Indian Rheumatology Association Vasculitis Guidelines",
+        "url": "https://indianrheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24385",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral C",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC. Clinical examination and investigative review confirm confirming Wilkins echocardiographic score <= 8 and absence of left atrial thrombus prior to Inoue balloon commissurotomy. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Confirming wilkins echocardiographic score <= 8 and absence of left atrial thrombus prior to inoue balloon commissurotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming Wilkins echocardiographic score <= 8 and absence of left atrial thrombus prior to Inoue balloon commissurotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming Wilkins echocardiographic score <= 8 and absence of left atrial thrombus prior to Inoue balloon commissurotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC. In the clinical management of NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Mitral Stenosis Severe Rheumatic Percutaneous Transvenous Mitral Commissurotomy PTMC."
+    ],
+    "references": [
+      {
+        "label": "Cardiological Society of India Valvular Disease",
+        "url": "https://csi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24386",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy. Clinical examination and investigative review confirm administering oral bromocriptine to suppress prolactin cleavage products alongside guideline-directed medical heart failure therapy. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral bromocriptine to suppress prolactin cleavage products alongside guideline-directed medical heart failure therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral bromocriptine to suppress prolactin cleavage products alongside guideline-directed medical heart failure therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral bromocriptine to suppress prolactin cleavage products alongside guideline-directed medical heart failure therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy. In the clinical management of NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Dilated Cardiomyopathy Peripartum Early Recovery Bromocriptine and Quadruple HF Therapy."
+    ],
+    "references": [
+      {
+        "label": "Cardiological Society of India Heart Failure Guidelines",
+        "url": "https://csi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24387",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler. Clinical examination and investigative review confirm prescribing once-daily inhaled long-acting muscarinic antagonist tiotropium 18 mcg alongside non-smoking kitchen ventilation counseling. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-daily inhaled long-acting muscarinic antagonist tiotropium 18 mcg alongside non-smoking kitchen ventilation counseling",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily inhaled long-acting muscarinic antagonist tiotropium 18 mcg alongside non-smoking kitchen ventilation counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily inhaled long-acting muscarinic antagonist tiotropium 18 mcg alongside non-smoking kitchen ventilation counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler. In the clinical management of NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Chronic Obstructive Pulmonary Disease Biomass Smoke Exposure Tiotropium Dry Powder Inhaler."
+    ],
+    "references": [
+      {
+        "label": "Indian Chest Society COPD Guidelines",
+        "url": "https://indianchestsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24388",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids. Clinical examination and investigative review confirm prescribing oral prednisolone 0.5 mg/kg/day tapering over 3 months combined with oral itraconazole 200 mg twice daily. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral prednisolone 0.5 mg/kg/day tapering over 3 months combined with oral itraconazole 200 mg twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral prednisolone 0.5 mg/kg/day tapering over 3 months combined with oral itraconazole 200 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral prednisolone 0.5 mg/kg/day tapering over 3 months combined with oral itraconazole 200 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids. In the clinical management of NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Allergic Bronchopulmonary Aspergillosis ABPA Central Bronchiectasis Oral Itraconazole and Steroids."
+    ],
+    "references": [
+      {
+        "label": "Indian Chest Society Pulmonary Mycosis Guidelines",
+        "url": "https://indianchestsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24389",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Die",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC. Clinical examination and investigative review confirm prescribing oral diethylcarbamazine 6 mg/kg/day in three divided doses for 21 days with dramatic symptom resolution. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral diethylcarbamazine 6 mg/kg/day in three divided doses for 21 days with dramatic symptom resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral diethylcarbamazine 6 mg/kg/day in three divided doses for 21 days with dramatic symptom resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral diethylcarbamazine 6 mg/kg/day in three divided doses for 21 days with dramatic symptom resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC. In the clinical management of NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Tropical Pulmonary Eosinophilia Microfilarial Dirofilaria Oral Diethylcarbamazine DEC."
+    ],
+    "references": [
+      {
+        "label": "National Vector Borne Disease Control Program Filariasis",
+        "url": "https://nvbdcp.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24390",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolut",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone. Clinical examination and investigative review confirm ordering non-contrast high-resolution chest CT demonstrating UIP pattern and initiating oral antifibrotic pirfenidone. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Ordering non-contrast high-resolution chest ct demonstrating uip pattern and initiating oral antifibrotic pirfenidone",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ordering non-contrast high-resolution chest CT demonstrating UIP pattern and initiating oral antifibrotic pirfenidone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, ordering non-contrast high-resolution chest CT demonstrating UIP pattern and initiating oral antifibrotic pirfenidone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone. In the clinical management of NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Idiopathic Pulmonary Fibrosis Subpleural Honeycombing High-Resolution CT Pirfenidone."
+    ],
+    "references": [
+      {
+        "label": "Indian Chest Society Diffuse Parenchymal Lung Diseases",
+        "url": "https://indianchestsociety.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24391",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metf",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line. Clinical examination and investigative review confirm initiating oral metformin 1000 mg plus dapagliflozin 10 mg daily providing simultaneous glycemic control and renal protection. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral metformin 1000 mg plus dapagliflozin 10 mg daily providing simultaneous glycemic control and renal protection",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral metformin 1000 mg plus dapagliflozin 10 mg daily providing simultaneous glycemic control and renal protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral metformin 1000 mg plus dapagliflozin 10 mg daily providing simultaneous glycemic control and renal protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line. In the clinical management of NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Type 2 Diabetes Mellitus Cardiorenal Syndrome Dual SGLT2i and Metformin First-Line."
+    ],
+    "references": [
+      {
+        "label": "Research Society for the Study of Diabetes in India (RSSDI)",
+        "url": "https://rssdi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24392",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation a",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose. Clinical examination and investigative review confirm discontinuing SGLT2 inhibitor, infusing 5% dextrose with normal saline, and administering fixed-rate intravenous regular insulin. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Discontinuing sglt2 inhibitor, infusing 5% dextrose with normal saline, and administering fixed-rate intravenous regular insulin",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, discontinuing SGLT2 inhibitor, infusing 5% dextrose with normal saline, and administering fixed-rate intravenous regular insulin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, discontinuing SGLT2 inhibitor, infusing 5% dextrose with normal saline, and administering fixed-rate intravenous regular insulin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose. In the clinical management of NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Diabetic Ketoacidosis Euglycemic SGLT2 Inhibitor Discontinuation and IV Insulin Dextrose."
+    ],
+    "references": [
+      {
+        "label": "RSSDI Guidelines on Inpatient Diabetes Management",
+        "url": "https://rssdi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24393",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parath",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy. Clinical examination and investigative review confirm performing dual-phase technetium-99m sestamibi scintigraphy and scheduling minimally invasive focused parathyroid adenomectomy. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Performing dual-phase technetium-99m sestamibi scintigraphy and scheduling minimally invasive focused parathyroid adenomectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing dual-phase technetium-99m sestamibi scintigraphy and scheduling minimally invasive focused parathyroid adenomectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing dual-phase technetium-99m sestamibi scintigraphy and scheduling minimally invasive focused parathyroid adenomectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy. In the clinical management of NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Primary Hyperparathyroidism Brown Tumors Sestamibi Scan and Parathyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society of India Clinical Practice Guidelines",
+        "url": "https://endocrinesocietyindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24394",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement. Clinical examination and investigative review confirm initiating physiological oral hydrocortisone followed by oral levothyroxine, estrogen-progestin, and growth hormone replacement. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating physiological oral hydrocortisone followed by oral levothyroxine, estrogen-progestin, and growth hormone replacement",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating physiological oral hydrocortisone followed by oral levothyroxine, estrogen-progestin, and growth hormone replacement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating physiological oral hydrocortisone followed by oral levothyroxine, estrogen-progestin, and growth hormone replacement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement. In the clinical management of NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Sheehan Syndrome Postpartum Pituitary Necrosis Comprehensive Hormone Replacement."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society of India Hypopituitarism Guidelines",
+        "url": "https://endocrinesocietyindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24395",
+    "exam": "NEET PG",
+    "subject": "Immunology",
+    "system": "Renal",
+    "topic": "NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycoph",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil. Clinical examination and investigative review confirm inducing remission with oral mycophenolate mofetil 2-3 g/day in divided doses combined with intravenous pulse methylprednisolone. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Inducing remission with oral mycophenolate mofetil 2-3 g/day in divided doses combined with intravenous pulse methylprednisolone",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inducing remission with oral mycophenolate mofetil 2-3 g/day in divided doses combined with intravenous pulse methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inducing remission with oral mycophenolate mofetil 2-3 g/day in divided doses combined with intravenous pulse methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil. In the clinical management of NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Systemic Lupus Erythematosus Class IV Diffuse Proliferative Mycophenolate Mofetil."
+    ],
+    "references": [
+      {
+        "label": "Indian Rheumatology Association Lupus Protocols",
+        "url": "https://indianrheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24396",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and An",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept. Clinical examination and investigative review confirm prescribing continuous therapeutic-dose oral celecoxib or naproxen and initiating subcutaneous etanercept 50 mg weekly. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing continuous therapeutic-dose oral celecoxib or naproxen and initiating subcutaneous etanercept 50 mg weekly",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing continuous therapeutic-dose oral celecoxib or naproxen and initiating subcutaneous etanercept 50 mg weekly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing continuous therapeutic-dose oral celecoxib or naproxen and initiating subcutaneous etanercept 50 mg weekly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept. In the clinical management of NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Ankylosing Spondylitis Bamboo Spine Sacroiliitis Oral NSAID and Anti-TNF Etanercept."
+    ],
+    "references": [
+      {
+        "label": "Indian Rheumatology Association Spondyloarthropathy Guidelines",
+        "url": "https://indianrheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24397",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Su",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine. Clinical examination and investigative review confirm initiating triple oral conventional synthetic DMARD therapy (methotrexate 15 mg, sulfasalazine 2 g, hydroxychloroquine 300 mg daily). Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating triple oral conventional synthetic dmard therapy (methotrexate 15 mg, sulfasalazine 2 g, hydroxychloroquine 300 mg daily)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating triple oral conventional synthetic DMARD therapy (methotrexate 15 mg, sulfasalazine 2 g, hydroxychloroquine 300 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating triple oral conventional synthetic DMARD therapy (methotrexate 15 mg, sulfasalazine 2 g, hydroxychloroquine 300 mg daily) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine. In the clinical management of NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Medicine Rheumatoid Arthritis Sero-Positive High DAS28 Methotrexate Plus Sulfasalazine and Hydroxychloroquine."
+    ],
+    "references": [
+      {
+        "label": "Indian Rheumatology Association RA Standards",
+        "url": "https://indianrheumatology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24398",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Withi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours. Clinical examination and investigative review confirm initiating preoperative IV third-generation cephalosporin and metronidazole, fluid resuscitation, and emergent laparoscopic appendectomy. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Initiating preoperative iv third-generation cephalosporin and metronidazole, fluid resuscitation, and emergent laparoscopic appendectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating preoperative IV third-generation cephalosporin and metronidazole, fluid resuscitation, and emergent laparoscopic appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating preoperative IV third-generation cephalosporin and metronidazole, fluid resuscitation, and emergent laparoscopic appendectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours. In the clinical management of NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Acute Appendicitis Alvarado Score 9 Laparoscopic Appendectomy Within 12 Hours."
+    ],
+    "references": [
+      {
+        "label": "Association of Surgeons of India (ASI) Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24399",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy. Clinical examination and investigative review confirm performing en bloc gallbladder resection with 2 cm wedge liver resection of segments IVb/V and regional lymphadenectomy. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Performing en bloc gallbladder resection with 2 cm wedge liver resection of segments ivb/v and regional lymphadenectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing en bloc gallbladder resection with 2 cm wedge liver resection of segments IVb/V and regional lymphadenectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing en bloc gallbladder resection with 2 cm wedge liver resection of segments IVb/V and regional lymphadenectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy. In the clinical management of NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Gallbladder Carcinoma Focal Fundal Wall Thickening Extended Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Surgical Oncology (IASO)",
+        "url": "https://iaso.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24400",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and R",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy. Clinical examination and investigative review confirm performing complete excision of extrahepatic biliary cyst to eliminate cholangiocarcinoma risk followed by Roux-en-Y reconstruction. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing complete excision of extrahepatic biliary cyst to eliminate cholangiocarcinoma risk followed by roux-en-y reconstruction",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing complete excision of extrahepatic biliary cyst to eliminate cholangiocarcinoma risk followed by Roux-en-Y reconstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing complete excision of extrahepatic biliary cyst to eliminate cholangiocarcinoma risk followed by Roux-en-Y reconstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy. In the clinical management of NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Choledochal Cyst Type 1 Fusiform Dilation Total Cyst Excision and Roux-en-Y Hepaticojejunostomy."
+    ],
+    "references": [
+      {
+        "label": "ASI Hepato-Pancreato-Biliary Guidelines",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24401",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophyla",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis. Clinical examination and investigative review confirm administering oral albendazole 400 mg twice daily followed by ultrasound-guided puncture, aspiration, hypertonic saline injection, and re-aspiration. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral albendazole 400 mg twice daily followed by ultrasound-guided puncture, aspiration, hypertonic saline injection, and re-aspiration",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral albendazole 400 mg twice daily followed by ultrasound-guided puncture, aspiration, hypertonic saline injection, and re-aspiration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral albendazole 400 mg twice daily followed by ultrasound-guided puncture, aspiration, hypertonic saline injection, and re-aspiration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis. In the clinical management of NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Hydatid Cyst Liver Echinococcus PAIR Technique Albendazole Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "ASI Liver Infection Protocols",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24402",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction. Clinical examination and investigative review confirm performing emergency laparotomy, longitudinal enterotomy upstream to the obstruction, bezoar removal, and transverse closure. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency laparotomy, longitudinal enterotomy upstream to the obstruction, bezoar removal, and transverse closure",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency laparotomy, longitudinal enterotomy upstream to the obstruction, bezoar removal, and transverse closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency laparotomy, longitudinal enterotomy upstream to the obstruction, bezoar removal, and transverse closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction. In the clinical management of NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Small Bowel Obstruction Phytobezoar Gangrene Enterotomy and Bezoar Extraction."
+    ],
+    "references": [
+      {
+        "label": "ASI Emergency Surgery Protocols",
+        "url": "https://asiindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24403",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectom",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy. Clinical examination and investigative review confirm performing subtotal gastrectomy with en bloc D2 lymph node dissection and Roux-en-Y gastrojejunostomy reconstruction. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Performing subtotal gastrectomy with en bloc d2 lymph node dissection and roux-en-y gastrojejunostomy reconstruction",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing subtotal gastrectomy with en bloc D2 lymph node dissection and Roux-en-Y gastrojejunostomy reconstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing subtotal gastrectomy with en bloc D2 lymph node dissection and Roux-en-Y gastrojejunostomy reconstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy. In the clinical management of NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Carcinoma Stomach Antral Adenocarcinoma Radical Subtotal Gastrectomy D2 Lymphadenectomy."
+    ],
+    "references": [
+      {
+        "label": "IASO Gastric Cancer Guidelines",
+        "url": "https://iaso.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24404",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or B",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT. Clinical examination and investigative review confirm offering breast-conserving surgery with sentinel node biopsy and adjuvant whole-breast radiotherapy or modified radical mastectomy. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Offering breast-conserving surgery with sentinel node biopsy and adjuvant whole-breast radiotherapy or modified radical mastectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, offering breast-conserving surgery with sentinel node biopsy and adjuvant whole-breast radiotherapy or modified radical mastectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, offering breast-conserving surgery with sentinel node biopsy and adjuvant whole-breast radiotherapy or modified radical mastectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT. In the clinical management of NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Breast Cancer Invasive Ductal T2N1 Modified Radical Mastectomy or BCT."
+    ],
+    "references": [
+      {
+        "label": "IASO Breast Cancer Consensus Guidelines",
+        "url": "https://iaso.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24405",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection. Clinical examination and investigative review confirm performing total thyroidectomy with prophylactic or therapeutic central neck lymph node dissection and radioiodine ablation staging. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing total thyroidectomy with prophylactic or therapeutic central neck lymph node dissection and radioiodine ablation staging",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing total thyroidectomy with prophylactic or therapeutic central neck lymph node dissection and radioiodine ablation staging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing total thyroidectomy with prophylactic or therapeutic central neck lymph node dissection and radioiodine ablation staging represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection. In the clinical management of NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Papillary Thyroid Carcinoma 3 cm Nodule Total Thyroidectomy Central Compartment Dissection."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Endocrine Surgeons (IAES)",
+        "url": "https://iaes.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24406",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Ho",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser. Clinical examination and investigative review confirm performing retrograde ureterorenoscopy, holmium:YAG laser contact lithotripsy, and double-J ureteral stenting. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Performing retrograde ureterorenoscopy, holmium:yag laser contact lithotripsy, and double-j ureteral stenting",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing retrograde ureterorenoscopy, holmium:YAG laser contact lithotripsy, and double-J ureteral stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing retrograde ureterorenoscopy, holmium:YAG laser contact lithotripsy, and double-J ureteral stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser. In the clinical management of NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Urolithiasis 9 mm Upper Ureteric Calculus Rigid Ureteroscopy and Holmium Laser."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of India (USI) Guidelines",
+        "url": "https://usi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24407",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg. Clinical examination and investigative review confirm inserting 16 Fr Foley catheter, initiating oral selective alpha-1A blocker silodosin 8 mg daily, and trial without catheter in 3 days. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Inserting 16 fr foley catheter, initiating oral selective alpha-1a blocker silodosin 8 mg daily, and trial without catheter in 3 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inserting 16 Fr Foley catheter, initiating oral selective alpha-1A blocker silodosin 8 mg daily, and trial without catheter in 3 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inserting 16 Fr Foley catheter, initiating oral selective alpha-1A blocker silodosin 8 mg daily, and trial without catheter in 3 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg. In the clinical management of NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-Blocker Silodosin 8 mg."
+    ],
+    "references": [
+      {
+        "label": "USI BPH Clinical Guidelines",
+        "url": "https://usi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24408",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy. Clinical examination and investigative review confirm performing emergency midline scrotal exploration, manual detorsion within 6 hours, and non-absorbable three-point fixation of both testes. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency midline scrotal exploration, manual detorsion within 6 hours, and non-absorbable three-point fixation of both testes",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency midline scrotal exploration, manual detorsion within 6 hours, and non-absorbable three-point fixation of both testes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency midline scrotal exploration, manual detorsion within 6 hours, and non-absorbable three-point fixation of both testes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy. In the clinical management of NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Testicular Torsion Acute Scrotal Pain Emergency Scrotal Exploration Bilateral Orchidopexy."
+    ],
+    "references": [
+      {
+        "label": "USI Pediatric and Scrotal Emergencies",
+        "url": "https://usi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24409",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotom",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation. Clinical examination and investigative review confirm performing immediate emergency trauma craniotomy, evacuating arterial hematoma, and securing bleeding middle meningeal vessels. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Performing immediate emergency trauma craniotomy, evacuating arterial hematoma, and securing bleeding middle meningeal vessels",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing immediate emergency trauma craniotomy, evacuating arterial hematoma, and securing bleeding middle meningeal vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing immediate emergency trauma craniotomy, evacuating arterial hematoma, and securing bleeding middle meningeal vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation. In the clinical management of NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Extradural Hematoma Lucid Interval Biconvex Mass Emergent Craniotomy and Clot Evacuation."
+    ],
+    "references": [
+      {
+        "label": "Neurological Society of India Trauma Guidelines",
+        "url": "https://neurosocietyindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24410",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade I",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail. Clinical examination and investigative review confirm stabilizing in skeletal traction and performing closed reamed locked antegrade intramedullary nailing under fluoroscopy. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Stabilizing in skeletal traction and performing closed reamed locked antegrade intramedullary nailing under fluoroscopy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, stabilizing in skeletal traction and performing closed reamed locked antegrade intramedullary nailing under fluoroscopy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, stabilizing in skeletal traction and performing closed reamed locked antegrade intramedullary nailing under fluoroscopy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail. In the clinical management of NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Femoral Shaft Fracture Closed Adult AO Type 32-A Reamed Antegrade Intramedullary Nail."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Association (IOA) Trauma Guidelines",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24411",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning. Clinical examination and investigative review confirm assessing anterior interosseous nerve and radial pulse and performing emergency closed reduction with divergent or crossed Kirschner wires. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Assessing anterior interosseous nerve and radial pulse and performing emergency closed reduction with divergent or crossed kirschner wires",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, assessing anterior interosseous nerve and radial pulse and performing emergency closed reduction with divergent or crossed Kirschner wires represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, assessing anterior interosseous nerve and radial pulse and performing emergency closed reduction with divergent or crossed Kirschner wires represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning. In the clinical management of NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Supracondylar Humerus Fracture Gartland Type III Closed Reduction Percutaneous Pinning."
+    ],
+    "references": [
+      {
+        "label": "Pediatric Orthopaedic Society of India (POSI)",
+        "url": "https://posi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24412",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting. Clinical examination and investigative review confirm initiating weekly Ponseti manipulative stretching and toe-to-groin plaster casting followed by percutaneous tenotomy of Achilles tendon. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating weekly ponseti manipulative stretching and toe-to-groin plaster casting followed by percutaneous tenotomy of achilles tendon",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating weekly Ponseti manipulative stretching and toe-to-groin plaster casting followed by percutaneous tenotomy of Achilles tendon represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating weekly Ponseti manipulative stretching and toe-to-groin plaster casting followed by percutaneous tenotomy of Achilles tendon represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting. In the clinical management of NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Congenital Talipes Equinovarus Clubfoot Ponseti Serial Manipulation and Casting."
+    ],
+    "references": [
+      {
+        "label": "POSI Clubfoot Guidelines",
+        "url": "https://posi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24413",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting. Clinical examination and investigative review confirm performing wide unroofing, mechanical burr high-speed curettage, chemical cautery with phenol, and packing with polymethylmethacrylate cement. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Performing wide unroofing, mechanical burr high-speed curettage, chemical cautery with phenol, and packing with polymethylmethacrylate cement",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing wide unroofing, mechanical burr high-speed curettage, chemical cautery with phenol, and packing with polymethylmethacrylate cement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing wide unroofing, mechanical burr high-speed curettage, chemical cautery with phenol, and packing with polymethylmethacrylate cement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting. In the clinical management of NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Giant Cell Tumor of Bone Epiphyseal Lytic Lesion Extended Curettage and Bone Grafting."
+    ],
+    "references": [
+      {
+        "label": "Indian Musculoskeletal Oncology Society",
+        "url": "https://imog.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24414",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Lim",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection. Clinical examination and investigative review confirm administering MAP chemotherapy (high-dose methotrexate, doxorubicin, cisplatin) followed by wide radical limb-sparing resection and prosthesis. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering map chemotherapy (high-dose methotrexate, doxorubicin, cisplatin) followed by wide radical limb-sparing resection and prosthesis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering MAP chemotherapy (high-dose methotrexate, doxorubicin, cisplatin) followed by wide radical limb-sparing resection and prosthesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering MAP chemotherapy (high-dose methotrexate, doxorubicin, cisplatin) followed by wide radical limb-sparing resection and prosthesis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection. In the clinical management of NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Osteosarcoma Distal Femoral Metaphysis Neoadjuvant Chemotherapy Limb Salvage Resection."
+    ],
+    "references": [
+      {
+        "label": "Indian Orthopaedic Oncology Guidelines",
+        "url": "https://ioaindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24415",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA. Clinical examination and investigative review confirm infusing lactated Ringer solution calculating 4 mL x kg body weight x % burn, infusing 50% in first 8 hours and 50% over subsequent 16 hours. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Infusing lactated ringer solution calculating 4 ml x kg body weight x % burn, infusing 50% in first 8 hours and 50% over subsequent 16 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing lactated Ringer solution calculating 4 mL x kg body weight x % burn, infusing 50% in first 8 hours and 50% over subsequent 16 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing lactated Ringer solution calculating 4 mL x kg body weight x % burn, infusing 50% in first 8 hours and 50% over subsequent 16 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA. In the clinical management of NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Thermal Burns 35% TBSA Parkland Formula Resuscitation 4 mL/kg/%TBSA."
+    ],
+    "references": [
+      {
+        "label": "National Academy of Burns India (NABI)",
+        "url": "https://burnsindia.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24416",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Lase",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA. Clinical examination and investigative review confirm performing Doppler ultrasound reflux mapping followed by outpatient percutaneous endovenous laser ablation and compression stocking therapy. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Performing doppler ultrasound reflux mapping followed by outpatient percutaneous endovenous laser ablation and compression stocking therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing Doppler ultrasound reflux mapping followed by outpatient percutaneous endovenous laser ablation and compression stocking therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing Doppler ultrasound reflux mapping followed by outpatient percutaneous endovenous laser ablation and compression stocking therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA. In the clinical management of NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Varicose Veins Great Saphenous Incompetence Endovenous Thermal Laser Ablation EVLA."
+    ],
+    "references": [
+      {
+        "label": "Vascular Society of India Guidelines",
+        "url": "https://vsi.net.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24417",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emerg",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy. Clinical examination and investigative review confirm performing emergency laparotomy, transverse arteriotomy of SMA, Fogarty balloon catheter embolectomy, and assessment of bowel viability. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency laparotomy, transverse arteriotomy of sma, fogarty balloon catheter embolectomy, and assessment of bowel viability",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency laparotomy, transverse arteriotomy of SMA, Fogarty balloon catheter embolectomy, and assessment of bowel viability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing emergency laparotomy, transverse arteriotomy of SMA, Fogarty balloon catheter embolectomy, and assessment of bowel viability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy. In the clinical management of NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Embolectomy."
+    ],
+    "references": [
+      {
+        "label": "VSI Acute Vascular Emergencies",
+        "url": "https://vsi.net.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24418",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage. Clinical examination and investigative review confirm securing the airway via awake fiberoptic intubation or tracheostomy followed by bilateral submandibular incisions and drain placement. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Securing the airway via awake fiberoptic intubation or tracheostomy followed by bilateral submandibular incisions and drain placement",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, securing the airway via awake fiberoptic intubation or tracheostomy followed by bilateral submandibular incisions and drain placement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, securing the airway via awake fiberoptic intubation or tracheostomy followed by bilateral submandibular incisions and drain placement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage. In the clinical management of NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Deep Neck Space Infection Ludwig Angina Awake Fiberoptic Intubation and Drainage."
+    ],
+    "references": [
+      {
+        "label": "Association of Otolaryngologists of India (AOI)",
+        "url": "https://aoi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24419",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation. Clinical examination and investigative review confirm performing transnasal rigid endoscopic visualization and clip ligation or bipolar cautery of the sphenopalatine artery branches. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing transnasal rigid endoscopic visualization and clip ligation or bipolar cautery of the sphenopalatine artery branches",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing transnasal rigid endoscopic visualization and clip ligation or bipolar cautery of the sphenopalatine artery branches represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing transnasal rigid endoscopic visualization and clip ligation or bipolar cautery of the sphenopalatine artery branches represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation. In the clinical management of NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Epistaxis Severe Posterior Sphenopalatine Artery Bleeding Endoscopic SPA Ligation."
+    ],
+    "references": [
+      {
+        "label": "AOI Rhinology Guidelines",
+        "url": "https://aoi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24420",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Masto",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy. Clinical examination and investigative review confirm performing modified radical canal-wall-down mastoidectomy to exteriorize disease, eradicate cholesteatoma, and reconstruct hearing. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing modified radical canal-wall-down mastoidectomy to exteriorize disease, eradicate cholesteatoma, and reconstruct hearing",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing modified radical canal-wall-down mastoidectomy to exteriorize disease, eradicate cholesteatoma, and reconstruct hearing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing modified radical canal-wall-down mastoidectomy to exteriorize disease, eradicate cholesteatoma, and reconstruct hearing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy. In the clinical management of NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Chronic Suppurative Otitis Media Atticoantral Canal Wall Down Mastoidectomy."
+    ],
+    "references": [
+      {
+        "label": "AOI Otology Guidelines",
+        "url": "https://aoi.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24421",
+    "exam": "NEET PG",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable P",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL. Clinical examination and investigative review confirm performing clear corneal sutureless micro-incision phacoemulsification with in-the-bag implantation of foldable hydrophobic acrylic lens. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Performing clear corneal sutureless micro-incision phacoemulsification with in-the-bag implantation of foldable hydrophobic acrylic lens",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing clear corneal sutureless micro-incision phacoemulsification with in-the-bag implantation of foldable hydrophobic acrylic lens represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing clear corneal sutureless micro-incision phacoemulsification with in-the-bag implantation of foldable hydrophobic acrylic lens represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL. In the clinical management of NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Senile Cataract Visually Significant Phacoemulsification Foldable Posterior Chamber IOL."
+    ],
+    "references": [
+      {
+        "label": "All India Ophthalmological Society (AIOS)",
+        "url": "https://aios.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24422",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Pr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy. Clinical examination and investigative review confirm performing primary enucleation with long optic nerve harvest avoiding tumor biopsy to prevent extraocular metastasis. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Performing primary enucleation with long optic nerve harvest avoiding tumor biopsy to prevent extraocular metastasis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing primary enucleation with long optic nerve harvest avoiding tumor biopsy to prevent extraocular metastasis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing primary enucleation with long optic nerve harvest avoiding tumor biopsy to prevent extraocular metastasis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy. In the clinical management of NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Surgery Retinoblastoma Unilateral Leukocoria Group E Enucleation Without Preceding Biopsy."
+    ],
+    "references": [
+      {
+        "label": "AIOS Ocular Oncology Guidelines",
+        "url": "https://aios.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24423",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet. Clinical examination and investigative review confirm initiating cautious starter formula F-75 (75 kcal/100 mL) alongside empiric oral ampicillin and gentamicin avoiding high protein. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Initiating cautious starter formula f-75 (75 kcal/100 ml) alongside empiric oral ampicillin and gentamicin avoiding high protein",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating cautious starter formula F-75 (75 kcal/100 mL) alongside empiric oral ampicillin and gentamicin avoiding high protein represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating cautious starter formula F-75 (75 kcal/100 mL) alongside empiric oral ampicillin and gentamicin avoiding high protein represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet. In the clinical management of NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Severe Acute Malnutrition SAM Complicated Inpatient Starter F-75 Diet."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Pediatrics SAM Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24424",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days. Clinical examination and investigative review confirm administering rapid 100 mL/kg IV Ringer lactate volume resuscitation followed by low-osmolarity ORS and oral zinc 20 mg daily for 14 days. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Administering rapid 100 ml/kg iv ringer lactate volume resuscitation followed by low-osmolarity ors and oral zinc 20 mg daily for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering rapid 100 mL/kg IV Ringer lactate volume resuscitation followed by low-osmolarity ORS and oral zinc 20 mg daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering rapid 100 mL/kg IV Ringer lactate volume resuscitation followed by low-osmolarity ORS and oral zinc 20 mg daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days. In the clinical management of NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Watery Diarrhea Hypovolemic Shock IV Ringer Lactate and Zinc Oral 14 Days."
+    ],
+    "references": [
+      {
+        "label": "IAP Diarrheal Disease Management",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24425",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gent",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin. Clinical examination and investigative review confirm initiating intravenous ampicillin 100 mg/kg/day plus IV gentamicin 5 mg/kg once daily for 10 days with automated blood culture monitoring. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Initiating intravenous ampicillin 100 mg/kg/day plus iv gentamicin 5 mg/kg once daily for 10 days with automated blood culture monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating intravenous ampicillin 100 mg/kg/day plus IV gentamicin 5 mg/kg once daily for 10 days with automated blood culture monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating intravenous ampicillin 100 mg/kg/day plus IV gentamicin 5 mg/kg once daily for 10 days with automated blood culture monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin. In the clinical management of NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Neonatal Sepsis Early-Onset Blood Culture IV Ampicillin and Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "National Neonatology Forum (NNF) India",
+        "url": "https://nnfindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24426",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Photot",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram. Clinical examination and investigative review confirm plotting serum total bilirubin on gestational-age specific Bhutani nomogram and initiating intensive continuous double-surface LED phototherapy. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Plotting serum total bilirubin on gestational-age specific bhutani nomogram and initiating intensive continuous double-surface led phototherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, plotting serum total bilirubin on gestational-age specific Bhutani nomogram and initiating intensive continuous double-surface LED phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, plotting serum total bilirubin on gestational-age specific Bhutani nomogram and initiating intensive continuous double-surface LED phototherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram. In the clinical management of NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Neonatal Hyperbilirubinemia Severe Jaundice Hour-Specific Phototherapy Nomogram."
+    ],
+    "references": [
+      {
+        "label": "NNF Clinical Practice Guidelines for Jaundice",
+        "url": "https://nnfindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24427",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 1",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily. Clinical examination and investigative review confirm prescribing oral levothyroxine sodium 10-15 mcg/kg/day started within the first two weeks of life to prevent permanent mental retardation. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral levothyroxine sodium 10-15 mcg/kg/day started within the first two weeks of life to prevent permanent mental retardation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral levothyroxine sodium 10-15 mcg/kg/day started within the first two weeks of life to prevent permanent mental retardation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral levothyroxine sodium 10-15 mcg/kg/day started within the first two weeks of life to prevent permanent mental retardation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily. In the clinical management of NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Congenital Hypothyroidism Newborn Screening Oral Levothyroxine 10-15 mcg/kg Daily."
+    ],
+    "references": [
+      {
+        "label": "Indian Society for Pediatric and Adolescent Endocrinology (ISPAE)",
+        "url": "https://ispae.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24428",
+    "exam": "NEET PG",
+    "subject": "Genetics",
+    "system": "Endocrine",
+    "topic": "NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone. Clinical examination and investigative review confirm prescribing oral hydrocortisone 10-15 mg/m2/day in three divided doses alongside fludrocortisone 0.1 mg/day and oral sodium chloride supplements. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral hydrocortisone 10-15 mg/m2/day in three divided doses alongside fludrocortisone 0.1 mg/day and oral sodium chloride supplements",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral hydrocortisone 10-15 mg/m2/day in three divided doses alongside fludrocortisone 0.1 mg/day and oral sodium chloride supplements represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral hydrocortisone 10-15 mg/m2/day in three divided doses alongside fludrocortisone 0.1 mg/day and oral sodium chloride supplements represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone. In the clinical management of NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Congenital Adrenal Hyperplasia Salt-Wasting Oral Hydrocortisone and Fludrocortisone."
+    ],
+    "references": [
+      {
+        "label": "ISPAE CAH Guidelines",
+        "url": "https://ispae.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24429",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Chol",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU. Clinical examination and investigative review confirm prescribing oral cholecalciferol 60,000 IU once weekly for 6 weeks followed by maintenance 400-600 IU daily and oral calcium. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral cholecalciferol 60,000 iu once weekly for 6 weeks followed by maintenance 400-600 iu daily and oral calcium",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral cholecalciferol 60,000 IU once weekly for 6 weeks followed by maintenance 400-600 IU daily and oral calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral cholecalciferol 60,000 IU once weekly for 6 weeks followed by maintenance 400-600 IU daily and oral calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU. In the clinical management of NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Vitamin D Deficiency Nutritional Rickets Stoss Therapy Oral Cholecalciferol 60,000 IU."
+    ],
+    "references": [
+      {
+        "label": "IAP Bone and Mineral Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24430",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 12-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg. Clinical examination and investigative review confirm administering single-dose oral dexamethasone 0.15 mg/kg alongside racemic epinephrine nebulization for severe stridor with chest indrawing. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering single-dose oral dexamethasone 0.15 mg/kg alongside racemic epinephrine nebulization for severe stridor with chest indrawing",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single-dose oral dexamethasone 0.15 mg/kg alongside racemic epinephrine nebulization for severe stridor with chest indrawing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single-dose oral dexamethasone 0.15 mg/kg alongside racemic epinephrine nebulization for severe stridor with chest indrawing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg. In the clinical management of NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg."
+    ],
+    "references": [
+      {
+        "label": "IAP Respiratory Chapter Protocols",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24431",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 13-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support. Clinical examination and investigative review confirm providing supportive humidified oxygen to maintain SpO2 >= 92% and nasogastric feeding support avoiding routine bronchodilators or steroids. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive humidified oxygen to maintain spo2 >= 92% and nasogastric feeding support avoiding routine bronchodilators or steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, providing supportive humidified oxygen to maintain SpO2 >= 92% and nasogastric feeding support avoiding routine bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, providing supportive humidified oxygen to maintain SpO2 >= 92% and nasogastric feeding support avoiding routine bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support. In the clinical management of NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Bronchiolitis First Episode Humidified Supplemental Oxygen and Feeding Support."
+    ],
+    "references": [
+      {
+        "label": "IAP Bronchiolitis Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24432",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antip",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education. Clinical examination and investigative review confirm reassuring parents regarding benign course, avoiding routine EEG or CT brain, and educating on home fever control with paracetamol. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Reassuring parents regarding benign course, avoiding routine eeg or ct brain, and educating on home fever control with paracetamol",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, reassuring parents regarding benign course, avoiding routine EEG or CT brain, and educating on home fever control with paracetamol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, reassuring parents regarding benign course, avoiding routine EEG or CT brain, and educating on home fever control with paracetamol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education. In the clinical management of NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Febrile Seizure Simple Generalized Parental Counseling and Antipyretic Education."
+    ],
+    "references": [
+      {
+        "label": "IAP Neurology Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24433",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Eth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide. Clinical examination and investigative review confirm prescribing oral ethosuximide 15-20 mg/kg/day in two divided doses or oral valproate as first-line anticonvulsant monotherapy. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral ethosuximide 15-20 mg/kg/day in two divided doses or oral valproate as first-line anticonvulsant monotherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral ethosuximide 15-20 mg/kg/day in two divided doses or oral valproate as first-line anticonvulsant monotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral ethosuximide 15-20 mg/kg/day in two divided doses or oral valproate as first-line anticonvulsant monotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide. In the clinical management of NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Absence Seizures Typical 3-Hz Spike and Wave First-Line Oral Ethosuximide."
+    ],
+    "references": [
+      {
+        "label": "IAP Pediatric Epilepsy Guidelines",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24434",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin. Clinical examination and investigative review confirm administering single infusion IVIG 2 g/kg over 12 hours alongside oral high-dose aspirin 30-50 mg/kg/day and baseline 2D echocardiography. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering single infusion ivig 2 g/kg over 12 hours alongside oral high-dose aspirin 30-50 mg/kg/day and baseline 2d echocardiography",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single infusion IVIG 2 g/kg over 12 hours alongside oral high-dose aspirin 30-50 mg/kg/day and baseline 2D echocardiography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single infusion IVIG 2 g/kg over 12 hours alongside oral high-dose aspirin 30-50 mg/kg/day and baseline 2D echocardiography represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin. In the clinical management of NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Kawasaki Disease Prolonged High Fever Intravenous Immunoglobulin 2 g/kg and Aspirin."
+    ],
+    "references": [
+      {
+        "label": "IAP Pediatric Rheumatology Protocols",
+        "url": "https://iapindia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24435",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis. Clinical examination and investigative review confirm monitoring serial blood pressure and weekly dipstick urinalysis for 6 months to detect occult proliferative glomerulonephritis. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Monitoring serial blood pressure and weekly dipstick urinalysis for 6 months to detect occult proliferative glomerulonephritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, monitoring serial blood pressure and weekly dipstick urinalysis for 6 months to detect occult proliferative glomerulonephritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, monitoring serial blood pressure and weekly dipstick urinalysis for 6 months to detect occult proliferative glomerulonephritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis. In the clinical management of NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Henoch-Schonlein Purpura Palpable Purpura Serial Blood Pressure and Urinalysis."
+    ],
+    "references": [
+      {
+        "label": "Indian Society of Pediatric Nephrology (ISPN)",
+        "url": "https://ispn-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24436",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Predni",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2. Clinical examination and investigative review confirm prescribing oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 alternate days for 6 weeks. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 alternate days for 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 alternate days for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral prednisolone 60 mg/m2/day single morning dose for 6 weeks followed by 40 mg/m2 alternate days for 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2. In the clinical management of NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Nephrotic Syndrome Steroid-Sensitive Initial Episode Oral Prednisolone 60 mg/m2."
+    ],
+    "references": [
+      {
+        "label": "ISPN Guidelines for Nephrotic Syndrome",
+        "url": "https://ispn-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24437",
+    "exam": "NEET PG",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide. Clinical examination and investigative review confirm administering oral furosemide 1-2 mg/kg, strict sodium and fluid restriction, and blood pressure monitoring until diuresis occurs. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral furosemide 1-2 mg/kg, strict sodium and fluid restriction, and blood pressure monitoring until diuresis occurs",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral furosemide 1-2 mg/kg, strict sodium and fluid restriction, and blood pressure monitoring until diuresis occurs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering oral furosemide 1-2 mg/kg, strict sodium and fluid restriction, and blood pressure monitoring until diuresis occurs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide. In the clinical management of NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pediatrics Acute Post-Streptococcal Glomerulonephritis Fluid Overload Oral Furosemide."
+    ],
+    "references": [
+      {
+        "label": "ISPN Glomerulonephritis Standards",
+        "url": "https://ispn-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24438",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g No",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL. Clinical examination and investigative review confirm diagnosing GDM with 2-hour plasma glucose >= 140 mg/dL following 75 g oral glucose load in fasting or non-fasting state. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Diagnosing gdm with 2-hour plasma glucose >= 140 mg/dl following 75 g oral glucose load in fasting or non-fasting state",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, diagnosing GDM with 2-hour plasma glucose >= 140 mg/dL following 75 g oral glucose load in fasting or non-fasting state represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, diagnosing GDM with 2-hour plasma glucose >= 140 mg/dL following 75 g oral glucose load in fasting or non-fasting state represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL. In the clinical management of NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Gestational Diabetes Mellitus DIPSI Criteria Oral Glucose 75g Non-Fasting > 140 mg/dL."
+    ],
+    "references": [
+      {
+        "label": "Diabetes in Pregnancy Study Group India (DIPSI)",
+        "url": "https://dipsi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24439",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose. Clinical examination and investigative review confirm administering IV magnesium sulfate 4 g loading dose over 20 minutes followed by 1 g/h continuous IV maintenance infusion. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv magnesium sulfate 4 g loading dose over 20 minutes followed by 1 g/h continuous iv maintenance infusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering IV magnesium sulfate 4 g loading dose over 20 minutes followed by 1 g/h continuous IV maintenance infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering IV magnesium sulfate 4 g loading dose over 20 minutes followed by 1 g/h continuous IV maintenance infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose. In the clinical management of NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Severe Preeclampsia BP >= 160/110 Magnesium Sulfate Zuspan Regimen Loading Dose."
+    ],
+    "references": [
+      {
+        "label": "Federation of Obstetric and Gynaecological Societies of India (FOGSI)",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24440",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Ex",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery. Clinical examination and investigative review confirm controlling convulsions with IV magnesium sulfate, stabilizing maternal hemodynamics, and proceeding with delivery regardless of gestation. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Controlling convulsions with iv magnesium sulfate, stabilizing maternal hemodynamics, and proceeding with delivery regardless of gestation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, controlling convulsions with IV magnesium sulfate, stabilizing maternal hemodynamics, and proceeding with delivery regardless of gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, controlling convulsions with IV magnesium sulfate, stabilizing maternal hemodynamics, and proceeding with delivery regardless of gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery. In the clinical management of NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Eclampsia Convulsive Fit Active Magnesium Sulfate Loading and Expedited Delivery."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Eclampsia Clinical Practice Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24441",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU. Clinical examination and investigative review confirm administering intramuscular oxytocin 10 IU immediately after delivery of anterior shoulder, controlled cord traction, and uterine massage. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Administering intramuscular oxytocin 10 iu immediately after delivery of anterior shoulder, controlled cord traction, and uterine massage",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering intramuscular oxytocin 10 IU immediately after delivery of anterior shoulder, controlled cord traction, and uterine massage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering intramuscular oxytocin 10 IU immediately after delivery of anterior shoulder, controlled cord traction, and uterine massage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU. In the clinical management of NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Postpartum Hemorrhage Active Management of Third Stage AMTSL IM Oxytocin 10 IU."
+    ],
+    "references": [
+      {
+        "label": "FOGSI AMTSL Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24442",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation. Clinical examination and investigative review confirm resuscitating with packed red cells, fresh frozen plasma, inserting Foley catheter, and expediting immediate vaginal or cesarean delivery. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Resuscitating with packed red cells, fresh frozen plasma, inserting foley catheter, and expediting immediate vaginal or cesarean delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, resuscitating with packed red cells, fresh frozen plasma, inserting Foley catheter, and expediting immediate vaginal or cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, resuscitating with packed red cells, fresh frozen plasma, inserting Foley catheter, and expediting immediate vaginal or cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation. In the clinical management of NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Antepartum Hemorrhage Abruptio Placentae Coagulopathy Aggressive PRBC Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "FOGSI APH Clinical Practice Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24443",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks. Clinical examination and investigative review confirm scheduling elective cesarean delivery at 36+0 to 37+0 weeks avoiding all digital vaginal examinations to prevent catastrophic hemorrhage. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Scheduling elective cesarean delivery at 36+0 to 37+0 weeks avoiding all digital vaginal examinations to prevent catastrophic hemorrhage",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, scheduling elective cesarean delivery at 36+0 to 37+0 weeks avoiding all digital vaginal examinations to prevent catastrophic hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, scheduling elective cesarean delivery at 36+0 to 37+0 weeks avoiding all digital vaginal examinations to prevent catastrophic hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks. In the clinical management of NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Placenta Previa Complete Internal Os Coverage Elective Cesarean Section at 36-37 Weeks."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Placenta Previa Management",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24444",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin a",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids. Clinical examination and investigative review confirm prescribing oral erythromycin 250 mg four times daily for 10 days alongside intramuscular betamethasone 12 mg two doses 24 hours apart. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral erythromycin 250 mg four times daily for 10 days alongside intramuscular betamethasone 12 mg two doses 24 hours apart",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral erythromycin 250 mg four times daily for 10 days alongside intramuscular betamethasone 12 mg two doses 24 hours apart represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing oral erythromycin 250 mg four times daily for 10 days alongside intramuscular betamethasone 12 mg two doses 24 hours apart represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids. In the clinical management of NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin and Antenatal Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Preterm Labour Protocols",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24445",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy. Clinical examination and investigative review confirm stabilizing circulatory collapse with rapid IV fluid boluses and proceeding to urgent surgical laparoscopy with unilateral salpingectomy. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Stabilizing circulatory collapse with rapid iv fluid boluses and proceeding to urgent surgical laparoscopy with unilateral salpingectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, stabilizing circulatory collapse with rapid IV fluid boluses and proceeding to urgent surgical laparoscopy with unilateral salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, stabilizing circulatory collapse with rapid IV fluid boluses and proceeding to urgent surgical laparoscopy with unilateral salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy. In the clinical management of NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Ruptured Tubal Ectopic Pregnancy Hemoperitoneum Emergent Laparoscopic Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Ectopic Pregnancy Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24446",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin. Clinical examination and investigative review confirm initiating external beam pelvic radiotherapy and brachytherapy combined with weekly radiosensitizing intravenous cisplatin 40 mg/m2. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating external beam pelvic radiotherapy and brachytherapy combined with weekly radiosensitizing intravenous cisplatin 40 mg/m2",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating external beam pelvic radiotherapy and brachytherapy combined with weekly radiosensitizing intravenous cisplatin 40 mg/m2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating external beam pelvic radiotherapy and brachytherapy combined with weekly radiosensitizing intravenous cisplatin 40 mg/m2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin. In the clinical management of NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Cervical Cancer FIGO Stage IIB Concurrent Chemoradiotherapy with Cisplatin."
+    ],
+    "references": [
+      {
+        "label": "Association of Gynaecological Oncologists of India (AGOI)",
+        "url": "https://agoi.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24447",
+    "exam": "NEET PG",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System. Clinical examination and investigative review confirm inserting 52 mg levonorgestrel-releasing intrauterine system (LNG-IUS) with repeat endometrial biopsy every 3 to 6 months. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Inserting 52 mg levonorgestrel-releasing intrauterine system (lng-ius) with repeat endometrial biopsy every 3 to 6 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inserting 52 mg levonorgestrel-releasing intrauterine system (LNG-IUS) with repeat endometrial biopsy every 3 to 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, inserting 52 mg levonorgestrel-releasing intrauterine system (LNG-IUS) with repeat endometrial biopsy every 3 to 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System. In the clinical management of NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Obstetrics Endometrial Hyperplasia with Atypia Premenopausal Levonorgestrel Intrauterine System."
+    ],
+    "references": [
+      {
+        "label": "FOGSI Gynaecology Guidelines",
+        "url": "https://www.fogsi.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24448",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions. Clinical examination and investigative review confirm administering repeated IV atropine 2 mg boluses doubling the dose every 3 to 5 minutes until pulmonary secretions and bronchospasm fully dry. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering repeated iv atropine 2 mg boluses doubling the dose every 3 to 5 minutes until pulmonary secretions and bronchospasm fully dry",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering repeated IV atropine 2 mg boluses doubling the dose every 3 to 5 minutes until pulmonary secretions and bronchospasm fully dry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering repeated IV atropine 2 mg boluses doubling the dose every 3 to 5 minutes until pulmonary secretions and bronchospasm fully dry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions. In the clinical management of NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Organophosphate Poisoning Atropinization End-Point Clear Chest and Dry Secretions."
+    ],
+    "references": [
+      {
+        "label": "National Poisons Information Centre India",
+        "url": "https://www.aiims.edu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24449",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV a",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine. Clinical examination and investigative review confirm infusing 10 vials of polyvalent ASV alongside IV neostigmine 0.5 mg with glycopyrrolate trial for post-synaptic neuromuscular paralysis. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Infusing 10 vials of polyvalent asv alongside iv neostigmine 0.5 mg with glycopyrrolate trial for post-synaptic neuromuscular paralysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing 10 vials of polyvalent ASV alongside IV neostigmine 0.5 mg with glycopyrrolate trial for post-synaptic neuromuscular paralysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing 10 vials of polyvalent ASV alongside IV neostigmine 0.5 mg with glycopyrrolate trial for post-synaptic neuromuscular paralysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine. In the clinical management of NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Snakebite Neurotoxic Krait Envenomation Anti-Snake Venom ASV and Neostigmine."
+    ],
+    "references": [
+      {
+        "label": "National Snakebite Management Protocol India",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24450",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Bloo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT. Clinical examination and investigative review confirm performing bedside 20WBCT in clean dry glass tube and administering 10 vials polyvalent ASV if blood remains unclotted after 20 minutes. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing bedside 20wbct in clean dry glass tube and administering 10 vials polyvalent asv if blood remains unclotted after 20 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing bedside 20WBCT in clean dry glass tube and administering 10 vials polyvalent ASV if blood remains unclotted after 20 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, performing bedside 20WBCT in clean dry glass tube and administering 10 vials polyvalent ASV if blood remains unclotted after 20 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT. In the clinical management of NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Snakebite Vasculotoxic Viper Envenomation 20-Minute Whole Blood Clotting Test 20WBCT."
+    ],
+    "references": [
+      {
+        "label": "National Center for Disease Control Snakebite Guidelines",
+        "url": "https://ncdc.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24451",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine. Clinical examination and investigative review confirm initiating weight-adjusted intravenous N-acetylcysteine (NAC) three-bag infusion protocol based on the Rumack-Matthew nomogram. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating weight-adjusted intravenous n-acetylcysteine (nac) three-bag infusion protocol based on the rumack-matthew nomogram",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating weight-adjusted intravenous N-acetylcysteine (NAC) three-bag infusion protocol based on the Rumack-Matthew nomogram represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating weight-adjusted intravenous N-acetylcysteine (NAC) three-bag infusion protocol based on the Rumack-Matthew nomogram represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine. In the clinical management of NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Paracetamol Poisoning Overdose 4-Hour Serum Level Intravenous N-Acetylcysteine."
+    ],
+    "references": [
+      {
+        "label": "Indian Society of Critical Care Medicine (ISCCM)",
+        "url": "https://isccm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24452",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Conti",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion. Clinical examination and investigative review confirm infusing intravenous deferoxamine at 15 mg/kg/h targeting vin ros\u00e9 urine discoloration clearance and serum iron normalization. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Infusing intravenous deferoxamine at 15 mg/kg/h targeting vin ros\u00e9 urine discoloration clearance and serum iron normalization",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing intravenous deferoxamine at 15 mg/kg/h targeting vin ros\u00e9 urine discoloration clearance and serum iron normalization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing intravenous deferoxamine at 15 mg/kg/h targeting vin ros\u00e9 urine discoloration clearance and serum iron normalization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion. In the clinical management of NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Iron Toxicity Severe Pediatric Ingestion IV Deferoxamine Continuous Infusion."
+    ],
+    "references": [
+      {
+        "label": "ISCCM Toxicology Guidelines",
+        "url": "https://isccm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24453",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody. Clinical examination and investigative review confirm administering empiric or calculated doses of IV digoxin-specific Fab fragments for life-threatening hyperkalemia or arrhythmias. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering empiric or calculated doses of iv digoxin-specific fab fragments for life-threatening hyperkalemia or arrhythmias",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering empiric or calculated doses of IV digoxin-specific Fab fragments for life-threatening hyperkalemia or arrhythmias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering empiric or calculated doses of IV digoxin-specific Fab fragments for life-threatening hyperkalemia or arrhythmias represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody. In the clinical management of NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Digoxin Toxicity Bidirectional Ventricular Tachycardia Digoxin-Specific Fab Antibody."
+    ],
+    "references": [
+      {
+        "label": "ISCCM Poisoning Guidelines",
+        "url": "https://isccm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24454",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialy",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis. Clinical examination and investigative review confirm initiating aggressive 0.9% normal saline hydration and arranging emergent hemodialysis for serum level > 4.0 mEq/L or severe neurotoxicity. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating aggressive 0.9% normal saline hydration and arranging emergent hemodialysis for serum level > 4.0 meq/l or severe neurotoxicity",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating aggressive 0.9% normal saline hydration and arranging emergent hemodialysis for serum level > 4.0 mEq/L or severe neurotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating aggressive 0.9% normal saline hydration and arranging emergent hemodialysis for serum level > 4.0 mEq/L or severe neurotoxicity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis. In the clinical management of NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Lithium Toxicity Severe Neurological Signs Emergency Hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "ISCCM Critical Care Toxicology",
+        "url": "https://isccm.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24455",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Su",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal. Clinical examination and investigative review confirm administering slow IV protamine sulfate 1 mg per 100 units unfractionated heparin administered over past 2 hours (maximum 50 mg). Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering slow iv protamine sulfate 1 mg per 100 units unfractionated heparin administered over past 2 hours (maximum 50 mg)",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering slow IV protamine sulfate 1 mg per 100 units unfractionated heparin administered over past 2 hours (maximum 50 mg) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering slow IV protamine sulfate 1 mg per 100 units unfractionated heparin administered over past 2 hours (maximum 50 mg) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal. In the clinical management of NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Heparin Overdose Unfractionated Major Bleeding IV Protamine Sulfate Reversal."
+    ],
+    "references": [
+      {
+        "label": "Indian Society of Haematology and Blood Transfusion (ISHBT)",
+        "url": "https://ishbt.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24456",
+    "exam": "NEET PG",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate. Clinical examination and investigative review confirm infusing 4-factor prothrombin complex concentrate (PCC) 25-50 IU/kg alongside IV vitamin K 10 mg over 30 minutes. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Infusing 4-factor prothrombin complex concentrate (pcc) 25-50 iu/kg alongside iv vitamin k 10 mg over 30 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing 4-factor prothrombin complex concentrate (PCC) 25-50 IU/kg alongside IV vitamin K 10 mg over 30 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, infusing 4-factor prothrombin complex concentrate (PCC) 25-50 IU/kg alongside IV vitamin K 10 mg over 30 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate. In the clinical management of NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pharmacology Warfarin Overdose Life-Threatening Bleeding Four-Factor Prothrombin Complex Concentrate."
+    ],
+    "references": [
+      {
+        "label": "ISHBT Anticoagulation Reversal Guidelines",
+        "url": "https://ishbt.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24457",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Pos",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive. Clinical examination and investigative review confirm demonstrating diagnostic binucleated Reed-Sternberg cells with prominent owl-eye inclusion-like nucleoli expressing CD30 and CD15. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating diagnostic binucleated reed-sternberg cells with prominent owl-eye inclusion-like nucleoli expressing cd30 and cd15",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating diagnostic binucleated Reed-Sternberg cells with prominent owl-eye inclusion-like nucleoli expressing CD30 and CD15 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating diagnostic binucleated Reed-Sternberg cells with prominent owl-eye inclusion-like nucleoli expressing CD30 and CD15 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive. In the clinical management of NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Hodgkin Lymphoma Classical Reed-Sternberg Cells CD30 and CD15 Positive."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Pathologists and Microbiologists (IAPM)",
+        "url": "https://iapm.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24458",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib. Clinical examination and investigative review confirm demonstrating t(9;22) translocation creating BCR-ABL1 on RT-PCR and prescribing daily oral imatinib mesylate 400 mg. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Demonstrating t(9;22) translocation creating bcr-abl1 on rt-pcr and prescribing daily oral imatinib mesylate 400 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating t(9;22) translocation creating BCR-ABL1 on RT-PCR and prescribing daily oral imatinib mesylate 400 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, demonstrating t(9;22) translocation creating BCR-ABL1 on RT-PCR and prescribing daily oral imatinib mesylate 400 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib. In the clinical management of NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Chronic Myeloid Leukemia Philadelphia Chromosome BCR-ABL1 Tyrosine Kinase Inhibitor Imatinib."
+    ],
+    "references": [
+      {
+        "label": "ISHBT Guidelines on CML",
+        "url": "https://ishbt.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24459",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Hematology",
+    "topic": "NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Crit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria. Clinical examination and investigative review confirm confirming bone marrow aspirate demonstrating >= 10% monoclonal plasma cells alongside hypercalcemia, renal impairment, anemia, and lytic bone lesions. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Confirming bone marrow aspirate demonstrating >= 10% monoclonal plasma cells alongside hypercalcemia, renal impairment, anemia, and lytic bone lesions",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming bone marrow aspirate demonstrating >= 10% monoclonal plasma cells alongside hypercalcemia, renal impairment, anemia, and lytic bone lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming bone marrow aspirate demonstrating >= 10% monoclonal plasma cells alongside hypercalcemia, renal impairment, anemia, and lytic bone lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria. In the clinical management of NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Multiple Myeloma Bone Marrow Clonal Plasma Cells >= 10% CRAB Criteria."
+    ],
+    "references": [
+      {
+        "label": "ISHBT Myeloma Practice Guidelines",
+        "url": "https://ishbt.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24460",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis. Clinical examination and investigative review confirm identifying duodenal mucosal blunting with marked intraepithelial lymphocytosis (> 25 lymphocytes/100 enterocytes) and crypt hyperplasia. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Identifying duodenal mucosal blunting with marked intraepithelial lymphocytosis (> 25 lymphocytes/100 enterocytes) and crypt hyperplasia",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying duodenal mucosal blunting with marked intraepithelial lymphocytosis (> 25 lymphocytes/100 enterocytes) and crypt hyperplasia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying duodenal mucosal blunting with marked intraepithelial lymphocytosis (> 25 lymphocytes/100 enterocytes) and crypt hyperplasia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis. In the clinical management of NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Celiac Disease Marsh III Subtotal Villous Atrophy Intraepithelial Lymphocytosis."
+    ],
+    "references": [
+      {
+        "label": "IAPM Gastrointestinal Pathology Guidelines",
+        "url": "https://iapm.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24461",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue G",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells. Clinical examination and investigative review confirm confirming columnar metaplasia with Alcian blue-positive mucin-secreting goblet cells proximal to the gastroesophageal junction. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Confirming columnar metaplasia with alcian blue-positive mucin-secreting goblet cells proximal to the gastroesophageal junction",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming columnar metaplasia with Alcian blue-positive mucin-secreting goblet cells proximal to the gastroesophageal junction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, confirming columnar metaplasia with Alcian blue-positive mucin-secreting goblet cells proximal to the gastroesophageal junction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells. In the clinical management of NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Pathology Barrett Esophagus Specialized Intestinal Metaplasia Alcian Blue Goblet Cells."
+    ],
+    "references": [
+      {
+        "label": "IAPM Diagnostic Surgical Pathology",
+        "url": "https://iapm.org.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24462",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application. Clinical examination and investigative review confirm evaluating professional practice against the standard of ordinary skilled healthcare practitioners exercising reasonable clinical care. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating professional practice against the standard of ordinary skilled healthcare practitioners exercising reasonable clinical care",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating professional practice against the standard of ordinary skilled healthcare practitioners exercising reasonable clinical care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, evaluating professional practice against the standard of ordinary skilled healthcare practitioners exercising reasonable clinical care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application. In the clinical management of NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Medical Law Consumer Protection Act Medical Negligence Bolam Test Application."
+    ],
+    "references": [
+      {
+        "label": "Indian Medical Association Ethics Guidelines",
+        "url": "https://ima-india.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24463",
+    "exam": "NEET PG",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magis",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording. Clinical examination and investigative review confirm recording dying declaration by executive magistrate or treating physician after certifying composite mental fitness and sound disposing mind. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Recording dying declaration by executive magistrate or treating physician after certifying composite mental fitness and sound disposing mind",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, recording dying declaration by executive magistrate or treating physician after certifying composite mental fitness and sound disposing mind represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, recording dying declaration by executive magistrate or treating physician after certifying composite mental fitness and sound disposing mind represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording. In the clinical management of NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Medical Law Dying Declaration Section 32 Indian Evidence Act Magistrate Recording."
+    ],
+    "references": [
+      {
+        "label": "Indian Academy of Forensic Medicine (IAFM)",
+        "url": "https://iafmonline.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24464",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timel",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline. Clinical examination and investigative review confirm documenting rigor mortis developing sequentially from eyelids, neck, and lower jaw downwards to lower extremities over 12 hours. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Documenting rigor mortis developing sequentially from eyelids, neck, and lower jaw downwards to lower extremities over 12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, documenting rigor mortis developing sequentially from eyelids, neck, and lower jaw downwards to lower extremities over 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, documenting rigor mortis developing sequentially from eyelids, neck, and lower jaw downwards to lower extremities over 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline. In the clinical management of NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Post-Mortem Rigor Mortis Nysten Law Caudo-Cranial Flaccidity Timeline."
+    ],
+    "references": [
+      {
+        "label": "IAFM Medico-Legal Manual",
+        "url": "https://iafmonline.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24465",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage. Clinical examination and investigative review confirm distinguishing antemortem hanging ligature mark (oblique, non-continuous, grooved, dry parchment-like above thyroid) from strangulation. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Distinguishing antemortem hanging ligature mark (oblique, non-continuous, grooved, dry parchment-like above thyroid) from strangulation",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, distinguishing antemortem hanging ligature mark (oblique, non-continuous, grooved, dry parchment-like above thyroid) from strangulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, distinguishing antemortem hanging ligature mark (oblique, non-continuous, grooved, dry parchment-like above thyroid) from strangulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage. In the clinical management of NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Post-Mortem Hanging Ligature Mark Inverted V-Shape Above Thyroid Cartilage."
+    ],
+    "references": [
+      {
+        "label": "IAFM Forensic Pathology Guidelines",
+        "url": "https://iafmonline.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24466",
+    "exam": "NEET PG",
+    "subject": "Pathology",
+    "system": "General Principles",
+    "topic": "NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Derm",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is admitted to the emergency clinical observation ward of King George's Medical University Lucknow with clinical findings indicative of NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis. Clinical examination and investigative review confirm identifying circular abrasion collar with surrounding punctate powder tattooing (peppering) embedded indelibly within the dermis. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Identifying circular abrasion collar with surrounding punctate powder tattooing (peppering) embedded indelibly within the dermis",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying circular abrasion collar with surrounding punctate powder tattooing (peppering) embedded indelibly within the dermis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, identifying circular abrasion collar with surrounding punctate powder tattooing (peppering) embedded indelibly within the dermis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis. In the clinical management of NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Forensic Firearm Injury Close-Range Tattooing Unburnt Powder Grains in Dermis."
+    ],
+    "references": [
+      {
+        "label": "IAFM Ballistics and Wounding",
+        "url": "https://iafmonline.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24467",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male presents to the academic medical centre ambulatory care clinic at PGIMER Chandigarh with clinical findings indicative of NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy. Clinical examination and investigative review confirm initiating WHO paucibacillary multidrug therapy comprising monthly supervised rifampicin 600 mg and daily self-administered dapsone 100 mg. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Initiating who paucibacillary multidrug therapy comprising monthly supervised rifampicin 600 mg and daily self-administered dapsone 100 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating WHO paucibacillary multidrug therapy comprising monthly supervised rifampicin 600 mg and daily self-administered dapsone 100 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating WHO paucibacillary multidrug therapy comprising monthly supervised rifampicin 600 mg and daily self-administered dapsone 100 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy. In the clinical management of NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Leprosy Borderline Tuberculoid Hypopigmented Hypoesthetic Patch Multidrug Therapy."
+    ],
+    "references": [
+      {
+        "label": "National Leprosy Eradication Programme NLEP India",
+        "url": "https://nlep.nic.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24468",
+    "exam": "NEET PG",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is evaluated in the clinical diagnostic unit of Christian Medical College Vellore with clinical findings indicative of NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol. Clinical examination and investigative review confirm prescribing once-daily fixed-dose combination calcipotriol and clobetasol propionate ointment for 4 weeks for chronic plaque lesions. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-daily fixed-dose combination calcipotriol and clobetasol propionate ointment for 4 weeks for chronic plaque lesions",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily fixed-dose combination calcipotriol and clobetasol propionate ointment for 4 weeks for chronic plaque lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily fixed-dose combination calcipotriol and clobetasol propionate ointment for 4 weeks for chronic plaque lesions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol. In the clinical management of NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Psoriasis Plaque Vulgaris Auspitz Sign Silvery Scales Topical Calcipotriol and Clobetasol."
+    ],
+    "references": [
+      {
+        "label": "Indian Association of Dermatologists, Venereologists and Leprologists (IADVL)",
+        "url": "https://iadvl.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24469",
+    "exam": "NEET PG",
+    "subject": "Immunology",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Predni",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male undergoes specialist consultation at the postgraduate teaching hospital of Madras Medical College with clinical findings indicative of NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine. Clinical examination and investigative review confirm initiating oral prednisolone 1 mg/kg/day combined with oral azathioprine 2 mg/kg/day or IV rituximab cycle for severe pemphigus. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 1 mg/kg/day combined with oral azathioprine 2 mg/kg/day or iv rituximab cycle for severe pemphigus",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral prednisolone 1 mg/kg/day combined with oral azathioprine 2 mg/kg/day or IV rituximab cycle for severe pemphigus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, initiating oral prednisolone 1 mg/kg/day combined with oral azathioprine 2 mg/kg/day or IV rituximab cycle for severe pemphigus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine. In the clinical management of NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Pemphigus Vulgaris Flaccid Bullae Positive Nikolsky Oral Prednisolone and Azathioprine."
+    ],
+    "references": [
+      {
+        "label": "IADVL Bullous Diseases Guidelines",
+        "url": "https://iadvl.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24470",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Appl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is examined at the rural health training center affiliated with JIPMER Puducherry with clinical findings indicative of NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application. Clinical examination and investigative review confirm applying 5% permethrin dermal cream neck-to-toe overnight for 8 to 14 hours and repeating after 7 days treating all household contacts. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Applying 5% permethrin dermal cream neck-to-toe overnight for 8 to 14 hours and repeating after 7 days treating all household contacts",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, applying 5% permethrin dermal cream neck-to-toe overnight for 8 to 14 hours and repeating after 7 days treating all household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, applying 5% permethrin dermal cream neck-to-toe overnight for 8 to 14 hours and repeating after 7 days treating all household contacts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application. In the clinical management of NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Scabies Web Space Burrows Topical 5% Permethrin Whole Body Application."
+    ],
+    "references": [
+      {
+        "label": "IADVL Guidelines for Parasitic Dermatoses",
+        "url": "https://iadvl.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24471",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male attends the specialty multidisciplinary clinic at Seth GS Medical College & KEM Hospital Mumbai with clinical findings indicative of NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream. Clinical examination and investigative review confirm prescribing once-daily topical allylamine terbinafine 1% cream applied 2 cm beyond advancing border for 2 weeks avoiding steroids. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-daily topical allylamine terbinafine 1% cream applied 2 cm beyond advancing border for 2 weeks avoiding steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily topical allylamine terbinafine 1% cream applied 2 cm beyond advancing border for 2 weeks avoiding steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, prescribing once-daily topical allylamine terbinafine 1% cream applied 2 cm beyond advancing border for 2 weeks avoiding steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream. In the clinical management of NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Tinea Corporis Annular Erythematous Plaque Topical Terbinafine 1% Cream."
+    ],
+    "references": [
+      {
+        "label": "IADVL Antifungal Treatment Consensus",
+        "url": "https://iadvl.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-24472",
+    "exam": "NEET PG",
+    "subject": "Microbiology",
+    "system": "Dermatology",
+    "topic": "NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the outpatient medical pavilion of AIIMS New Delhi for specialist evaluation with clinical findings indicative of NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G. Clinical examination and investigative review confirm administering single-dose intramuscular benzathine penicillin G 2.4 million units following baseline RPR/VDRL non-treponemal titer. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Administering single-dose intramuscular benzathine penicillin g 2.4 million units following baseline rpr/vdrl non-treponemal titer",
+        "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single-dose intramuscular benzathine penicillin G 2.4 million units following baseline RPR/VDRL non-treponemal titer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for NEET PG, administering single-dose intramuscular benzathine penicillin G 2.4 million units following baseline RPR/VDRL non-treponemal titer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G. In the clinical management of NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of NEET Dermatology Syphilis Primary Chancre Painless Indurated Ulcer Single-Dose IM Benzathine Penicillin G."
+    ],
+    "references": [
+      {
+        "label": "National AIDS Control Organisation NACO STI Guidelines",
+        "url": "https://naco.gov.in/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
