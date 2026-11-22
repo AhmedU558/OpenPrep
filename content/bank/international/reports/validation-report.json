@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-22T19:59:01.032Z",
-  "totalQuestions": 29672,
+  "validatedAt": "2026-11-22T20:14:46.773Z",
+  "totalQuestions": 30172,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1831,6 +1831,36 @@
       "count": 100,
       "digest": "7ee8dc09bc1d44825bc8a3f40d6de31d92a4b5172ac8d036ce31f9b4a3b8585e",
       "errors": []
+    },
+    {
+      "name": "batch-intl-306",
+      "count": 100,
+      "digest": "acb65bda12fb37f7f328f91b25caf035afbae2b6f60d2af0440c6eeece4e5671",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-307",
+      "count": 100,
+      "digest": "412eefd7056e78ac8a71d303711bce7be0fd769d61581fe1fce0ecc1cf96995d",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-308",
+      "count": 100,
+      "digest": "aab25227409863253d798b8588f9a035ce83c6f672e0bc8f875d1f5971016f02",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-309",
+      "count": 100,
+      "digest": "2537aefc7b01d78fcf131e73e413320f138b8d28eee89cf1ded10e30aa8160a8",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-310",
+      "count": 100,
+      "digest": "2bf47f47105bb47b787d9c3593cd7bbc2e58ab8a8c89c55a19fd28a4468001c5",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1852,21 +1882,21 @@
   "subjectsCovered": {
     "Anatomy": 137,
     "Biochemistry": 210,
-    "Biostatistics": 194,
-    "Ethics": 943,
+    "Biostatistics": 196,
+    "Ethics": 956,
     "Genetics": 404,
-    "Geriatrics": 176,
+    "Geriatrics": 181,
     "Immunology": 271,
-    "Medicine": 10861,
-    "Microbiology": 660,
-    "Neurology": 827,
-    "Obstetrics": 2167,
-    "Pathology": 1133,
-    "Pediatrics": 2575,
-    "Pharmacology": 2873,
+    "Medicine": 10926,
+    "Microbiology": 664,
+    "Neurology": 829,
+    "Obstetrics": 2171,
+    "Pathology": 1146,
+    "Pediatrics": 2598,
+    "Pharmacology": 3130,
     "Physiology": 448,
-    "Psychiatry": 841,
-    "Surgery": 4952
+    "Psychiatry": 848,
+    "Surgery": 5057
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
