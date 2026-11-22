@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-22T15:12:47.198Z",
-  "totalQuestions": 22172,
+  "validatedAt": "2026-11-22T15:32:29.544Z",
+  "totalQuestions": 22672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1381,6 +1381,36 @@
       "count": 100,
       "digest": "8c86d6839f4d47909257ae5fb2a93d4342d22703b90833c3f8598787e69c2293",
       "errors": []
+    },
+    {
+      "name": "batch-intl-231",
+      "count": 100,
+      "digest": "7337cdea92b2a3c064715936967b52a66269aff71e9cc33429944a38ef3955f8",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-232",
+      "count": 100,
+      "digest": "010f239d68ffbf2130baae38a7e858c1ad4e0e26996af9a3bbb72d50521b9055",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-233",
+      "count": 100,
+      "digest": "231a6629fa6ee5afa84571dd1afbd48a269f43bb9406dde96c332141c4cea2a9",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-234",
+      "count": 100,
+      "digest": "bbf199ea616528a1845934913cc35dbbda1d09dd28609f33c8ce241ad2038a91",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-235",
+      "count": 100,
+      "digest": "36098a6b3ef63c20c9f3093b25cae349de7257335e848dccfd9c21f367f4ebaa",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1402,21 +1432,21 @@
   "subjectsCovered": {
     "Anatomy": 113,
     "Biochemistry": 186,
-    "Biostatistics": 158,
-    "Ethics": 753,
+    "Biostatistics": 161,
+    "Ethics": 757,
     "Genetics": 362,
     "Geriatrics": 144,
     "Immunology": 208,
-    "Medicine": 9392,
+    "Medicine": 9606,
     "Microbiology": 355,
-    "Neurology": 728,
-    "Obstetrics": 1648,
-    "Pathology": 942,
-    "Pediatrics": 1921,
-    "Pharmacology": 757,
+    "Neurology": 745,
+    "Obstetrics": 1694,
+    "Pathology": 952,
+    "Pediatrics": 1981,
+    "Pharmacology": 778,
     "Physiology": 423,
-    "Psychiatry": 694,
-    "Surgery": 3388
+    "Psychiatry": 704,
+    "Surgery": 3503
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

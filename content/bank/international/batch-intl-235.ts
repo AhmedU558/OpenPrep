@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-22573",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibri",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J. Clinical examination and investigative review confirm delivering immediate unsynchronized biphasic shock at 200 J followed by immediate resumption of chest compressions for 2 minutes. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Delivering immediate unsynchronized biphasic shock at 200 j followed by immediate resumption of chest compressions for 2 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, delivering immediate unsynchronized biphasic shock at 200 J followed by immediate resumption of chest compressions for 2 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, delivering immediate unsynchronized biphasic shock at 200 J followed by immediate resumption of chest compressions for 2 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J. In the clinical management of MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Ventricular Fibrillation Pulseless VT Unsynchronized Defibrillation 200 J."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Adult Advanced Life Support (ALS) Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22574",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 t",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes. Clinical examination and investigative review confirm administering IV adrenaline 1 mg immediately and every 3 to 5 minutes while systematically evaluating reversible 4Hs and 4Ts causes. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv adrenaline 1 mg immediately and every 3 to 5 minutes while systematically evaluating reversible 4hs and 4ts causes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV adrenaline 1 mg immediately and every 3 to 5 minutes while systematically evaluating reversible 4Hs and 4Ts causes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV adrenaline 1 mg immediately and every 3 to 5 minutes while systematically evaluating reversible 4Hs and 4Ts causes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes. In the clinical management of MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Asystole PEA Non-Shockable Rhythm Epinephrine 1 mg Every 3 to 5 Minutes."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK ALS Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22575",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh. Clinical examination and investigative review confirm administering immediate intramuscular adrenaline 500 mcg into mid-outer thigh with high-flow oxygen and rapid crystalloid bolus 500-1000 mL. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering immediate intramuscular adrenaline 500 mcg into mid-outer thigh with high-flow oxygen and rapid crystalloid bolus 500-1000 ml",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering immediate intramuscular adrenaline 500 mcg into mid-outer thigh with high-flow oxygen and rapid crystalloid bolus 500-1000 mL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering immediate intramuscular adrenaline 500 mcg into mid-outer thigh with high-flow oxygen and rapid crystalloid bolus 500-1000 mL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh. In the clinical management of MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Anaphylactic Shock Intramuscular Adrenaline 1:1000 500 mcg Anterolateral Thigh."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Anaphylaxis Management Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22576",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopress",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line. Clinical examination and investigative review confirm initiating central line norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following 30 mL/kg fluid resuscitation. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating central line norepinephrine infusion targeting mean arterial pressure >= 65 mm hg following 30 ml/kg fluid resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating central line norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following 30 mL/kg fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating central line norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following 30 mL/kg fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line. In the clinical management of MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Septic Shock Refractory Hypotension Norepinephrine Vasopressor First-Line."
+    ],
+    "references": [
+      {
+        "label": "Surviving Sepsis Campaign International Guidelines & RCEM",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22577",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Nor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine. Clinical examination and investigative review confirm initiating peripheral or central norepinephrine combined with dobutamine infusion to support coronary perfusion pressure and inotropy. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating peripheral or central norepinephrine combined with dobutamine infusion to support coronary perfusion pressure and inotropy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating peripheral or central norepinephrine combined with dobutamine infusion to support coronary perfusion pressure and inotropy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating peripheral or central norepinephrine combined with dobutamine infusion to support coronary perfusion pressure and inotropy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine. In the clinical management of MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Cardiogenic Shock Severe Hypotension Inotrope Dobutamine Norepinephrine."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Practice Standards for Cardiogenic Shock",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22578",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Pr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion. Clinical examination and investigative review confirm activating emergency major hemorrhage protocol transfusing packed RBCs, FFP, and platelets in 1:1:1 ratio with IV tranexamic acid 1 g. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Activating emergency major hemorrhage protocol transfusing packed rbcs, ffp, and platelets in 1:1:1 ratio with iv tranexamic acid 1 g",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, activating emergency major hemorrhage protocol transfusing packed RBCs, FFP, and platelets in 1:1:1 ratio with IV tranexamic acid 1 g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, activating emergency major hemorrhage protocol transfusing packed RBCs, FFP, and platelets in 1:1:1 ratio with IV tranexamic acid 1 g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion. In the clinical management of MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Massive Upper Gastrointestinal Bleeding Major Haemorrhage Protocol Transfusion."
+    ],
+    "references": [
+      {
+        "label": "NICE Blood Transfusion Guidelines (NG24) & RCEM",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22579",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy. Clinical examination and investigative review confirm initiating high-flow nasal cannula (HFNC) at 50 to 60 L/min with titrated FiO2 to maintain SpO2 92% to 96% in acute hypoxemic failure. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating high-flow nasal cannula (hfnc) at 50 to 60 l/min with titrated fio2 to maintain spo2 92% to 96% in acute hypoxemic failure",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating high-flow nasal cannula (HFNC) at 50 to 60 L/min with titrated FiO2 to maintain SpO2 92% to 96% in acute hypoxemic failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating high-flow nasal cannula (HFNC) at 50 to 60 L/min with titrated FiO2 to maintain SpO2 92% to 96% in acute hypoxemic failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy. In the clinical management of MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Hypoxemic Respiratory Failure High-Flow Nasal Cannula Oxygen Therapy."
+    ],
+    "references": [
+      {
+        "label": "RCEM and British Thoracic Society Emergency Oxygen Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22580",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracoc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G. Clinical examination and investigative review confirm inserting 14-gauge cannula in 2nd intercostal space mid-clavicular line or 5th intercostal space anterior axillary line immediately. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Inserting 14-gauge cannula in 2nd intercostal space mid-clavicular line or 5th intercostal space anterior axillary line immediately",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, inserting 14-gauge cannula in 2nd intercostal space mid-clavicular line or 5th intercostal space anterior axillary line immediately represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, inserting 14-gauge cannula in 2nd intercostal space mid-clavicular line or 5th intercostal space anterior axillary line immediately represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G. In the clinical management of MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Tension Pneumothorax Immediate Needle Decompression Thoracocentesis 14G."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Major Trauma Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22581",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-3",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr. Clinical examination and investigative review confirm inserting 28 to 32 Fr intercostal drain in 5th intercostal space anterior to mid-axillary line with auto-transfusion preparation. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Inserting 28 to 32 fr intercostal drain in 5th intercostal space anterior to mid-axillary line with auto-transfusion preparation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, inserting 28 to 32 Fr intercostal drain in 5th intercostal space anterior to mid-axillary line with auto-transfusion preparation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, inserting 28 to 32 Fr intercostal drain in 5th intercostal space anterior to mid-axillary line with auto-transfusion preparation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr. In the clinical management of MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Massive Hemothorax Dullness Shock Wide-Bore Chest Drain 28-32 Fr."
+    ],
+    "references": [
+      {
+        "label": "RCEM Trauma Care Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22582",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Perica",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis. Clinical examination and investigative review confirm performing emergency subxiphoid needle pericardiocentesis under point-of-care ultrasound guidance for pulseless electrical activity. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency subxiphoid needle pericardiocentesis under point-of-care ultrasound guidance for pulseless electrical activity",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency subxiphoid needle pericardiocentesis under point-of-care ultrasound guidance for pulseless electrical activity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency subxiphoid needle pericardiocentesis under point-of-care ultrasound guidance for pulseless electrical activity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis. In the clinical management of MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Cardiac Tamponade Beck Triad Urgent Ultrasound-Guided Pericardiocentesis."
+    ],
+    "references": [
+      {
+        "label": "RCEM Point-of-Care Ultrasound (POCUS) Protocols",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22583",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Press",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation. Clinical examination and investigative review confirm providing thoracic epidural analgesia or erector spinae plane block with non-invasive positive pressure support to prevent atelectasis. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Providing thoracic epidural analgesia or erector spinae plane block with non-invasive positive pressure support to prevent atelectasis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing thoracic epidural analgesia or erector spinae plane block with non-invasive positive pressure support to prevent atelectasis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing thoracic epidural analgesia or erector spinae plane block with non-invasive positive pressure support to prevent atelectasis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation. In the clinical management of MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Flail Chest Paradoxical Respiration Analgesia Positive Pressure Ventilation."
+    ],
+    "references": [
+      {
+        "label": "RCEM Major Trauma Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22584",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion. Clinical examination and investigative review confirm maintaining systolic BP >= 100 mm Hg (MAP >= 80 mm Hg) with isotonic crystalloids or vasopressors to ensure adequate cerebral perfusion. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining systolic bp >= 100 mm hg (map >= 80 mm hg) with isotonic crystalloids or vasopressors to ensure adequate cerebral perfusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, maintaining systolic BP >= 100 mm Hg (MAP >= 80 mm Hg) with isotonic crystalloids or vasopressors to ensure adequate cerebral perfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, maintaining systolic BP >= 100 mm Hg (MAP >= 80 mm Hg) with isotonic crystalloids or vasopressors to ensure adequate cerebral perfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion. In the clinical management of MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Traumatic Brain Injury Target MAP >= 80 mm Hg Cerebral Perfusion."
+    ],
+    "references": [
+      {
+        "label": "NICE Head Injury: Assessment and Early Management (NG232)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22585",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Glucon",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent. Clinical examination and investigative review confirm administering IV 10% calcium gluconate 30 mL over 5 to 10 minutes for membrane stabilization followed by IV insulin-glucose. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv 10% calcium gluconate 30 ml over 5 to 10 minutes for membrane stabilization followed by iv insulin-glucose",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% calcium gluconate 30 mL over 5 to 10 minutes for membrane stabilization followed by IV insulin-glucose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% calcium gluconate 30 mL over 5 to 10 minutes for membrane stabilization followed by IV insulin-glucose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent. In the clinical management of MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Severe Hyperkalemia Potassium 7.2 Intravenous Calcium Gluconate 10 Percent."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Emergency Treatment of Hyperkalaemia",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22586",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crysta",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation. Clinical examination and investigative review confirm infusing IV 0.9% sodium chloride 1000 mL in the first hour and postponing insulin until potassium is verified > 3.3 mmol/L. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv 0.9% sodium chloride 1000 ml in the first hour and postponing insulin until potassium is verified > 3.3 mmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV 0.9% sodium chloride 1000 mL in the first hour and postponing insulin until potassium is verified > 3.3 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV 0.9% sodium chloride 1000 mL in the first hour and postponing insulin until potassium is verified > 3.3 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation. In the clinical management of MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Diabetic Ketoacidosis Shock 0.9 Percent Normal Saline Crystalloid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "Joint British Diabetes Societies (JBDS) & RCEM Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22587",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus. Clinical examination and investigative review confirm administering IV 10% glucose 150 to 200 mL over 10 to 15 minutes with rechecking of capillary blood glucose after 10 minutes. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 10% glucose 150 to 200 ml over 10 to 15 minutes with rechecking of capillary blood glucose after 10 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% glucose 150 to 200 mL over 10 to 15 minutes with rechecking of capillary blood glucose after 10 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% glucose 150 to 200 mL over 10 to 15 minutes with rechecking of capillary blood glucose after 10 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus. In the clinical management of MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Hypoglycemia Coma IV 10 Percent Dextrose 150 to 200 mL Bolus."
+    ],
+    "references": [
+      {
+        "label": "Joint British Diabetes Societies Inpatient Hypoglycaemia Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22588",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Imme",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling. Clinical examination and investigative review confirm initiating immediate whole-body cold water immersion or evaporative cooling targeting core temperature reduction < 39 C within 30 min. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate whole-body cold water immersion or evaporative cooling targeting core temperature reduction < 39 c within 30 min",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate whole-body cold water immersion or evaporative cooling targeting core temperature reduction < 39 C within 30 min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate whole-body cold water immersion or evaporative cooling targeting core temperature reduction < 39 C within 30 min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling. In the clinical management of MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Severe Hyperthermia Heat Stroke Rapid Evaporative Immersion Cooling."
+    ],
+    "references": [
+      {
+        "label": "RCEM Environmental Emergencies Clinical Guidance",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22589",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Mo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal. Clinical examination and investigative review confirm handling gently to avoid precipitating ventricular fibrillation and initiating active internal rewarming or extracorporeal life support. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Handling gently to avoid precipitating ventricular fibrillation and initiating active internal rewarming or extracorporeal life support",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, handling gently to avoid precipitating ventricular fibrillation and initiating active internal rewarming or extracorporeal life support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, handling gently to avoid precipitating ventricular fibrillation and initiating active internal rewarming or extracorporeal life support represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal. In the clinical management of MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Severe Accidental Hypothermia Core Temp < 28 C Minimizing Movement Extracorporeal."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Guidelines on Accidental Hypothermia",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22590",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion. Clinical examination and investigative review confirm administering IV magnesium sulfate 2 g (8 mmol) in 100 mL saline over 20 minutes alongside continuous nebulized bronchodilators. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv magnesium sulfate 2 g (8 mmol) in 100 ml saline over 20 minutes alongside continuous nebulized bronchodilators",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV magnesium sulfate 2 g (8 mmol) in 100 mL saline over 20 minutes alongside continuous nebulized bronchodilators represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV magnesium sulfate 2 g (8 mmol) in 100 mL saline over 20 minutes alongside continuous nebulized bronchodilators represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion. In the clinical management of MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Status Asthmaticus Impending Arrest IV Magnesium Sulfate 2 g Infusion."
+    ],
+    "references": [
+      {
+        "label": "BTS/SIGN British Guideline on the Management of Asthma",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22591",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide. Clinical examination and investigative review confirm administering IV furosemide 40 to 80 mg bolus alongside sublingual or IV glyceryl trinitrate infusion for acute cardiogenic edema. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv furosemide 40 to 80 mg bolus alongside sublingual or iv glyceryl trinitrate infusion for acute cardiogenic edema",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV furosemide 40 to 80 mg bolus alongside sublingual or IV glyceryl trinitrate infusion for acute cardiogenic edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV furosemide 40 to 80 mg bolus alongside sublingual or IV glyceryl trinitrate infusion for acute cardiogenic edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide. In the clinical management of MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Decompensated Heart Failure Severe Pulmonary Edema IV Furosemide."
+    ],
+    "references": [
+      {
+        "label": "NICE Acute Heart Failure: Diagnosis and Management (CG187)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22592",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg. Clinical examination and investigative review confirm administering IV alteplase 50 mg bolus over 15 minutes during cardiac arrest or severe shock from confirmed massive pulmonary embolism. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv alteplase 50 mg bolus over 15 minutes during cardiac arrest or severe shock from confirmed massive pulmonary embolism",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV alteplase 50 mg bolus over 15 minutes during cardiac arrest or severe shock from confirmed massive pulmonary embolism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV alteplase 50 mg bolus over 15 minutes during cardiac arrest or severe shock from confirmed massive pulmonary embolism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg. In the clinical management of MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Massive Pulmonary Embolism Shock Systemic Thrombolysis Alteplase 50 mg."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK and BTS PE Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22593",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Nee",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy. Clinical examination and investigative review confirm performing emergency surgical or needle cricothyroidotomy when cannot intubate cannot oxygenate (CICO) scenario develops. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency surgical or needle cricothyroidotomy when cannot intubate cannot oxygenate (cico) scenario develops",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency surgical or needle cricothyroidotomy when cannot intubate cannot oxygenate (CICO) scenario develops represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency surgical or needle cricothyroidotomy when cannot intubate cannot oxygenate (CICO) scenario develops represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy. In the clinical management of MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Upper Airway Obstruction Foreign Body Epiglottitis Needle Cricothyroidotomy."
+    ],
+    "references": [
+      {
+        "label": "Difficult Airway Society (DAS) 2015 Guidelines for Management of Unanticipated Difficult Intubation",
+        "url": "https://das.uk.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22594",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit. Clinical examination and investigative review confirm administering IV hydroxocobalamin 5 g over 15 minutes for smoke inhalation with severe metabolic lactic acidosis pH < 7.15. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv hydroxocobalamin 5 g over 15 minutes for smoke inhalation with severe metabolic lactic acidosis ph < 7.15",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV hydroxocobalamin 5 g over 15 minutes for smoke inhalation with severe metabolic lactic acidosis pH < 7.15 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV hydroxocobalamin 5 g over 15 minutes for smoke inhalation with severe metabolic lactic acidosis pH < 7.15 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit. In the clinical management of MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Cyanide Poisoning Smoke Inhalation IV Hydroxocobalamin Cyanokit."
+    ],
+    "references": [
+      {
+        "label": "RCEM Toxicology Guidance & NPIS",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22595",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lip",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion. Clinical examination and investigative review confirm administering IV 20% lipid emulsion bolus 1.5 mL/kg followed by 0.25 mL/kg/min infusion for bupivacaine-induced cardiac arrest. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv 20% lipid emulsion bolus 1.5 ml/kg followed by 0.25 ml/kg/min infusion for bupivacaine-induced cardiac arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 20% lipid emulsion bolus 1.5 mL/kg followed by 0.25 mL/kg/min infusion for bupivacaine-induced cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 20% lipid emulsion bolus 1.5 mL/kg followed by 0.25 mL/kg/min infusion for bupivacaine-induced cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion. In the clinical management of MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Acute Local Anesthetic Systemic Toxicity LAST 20 Percent Lipid Emulsion."
+    ],
+    "references": [
+      {
+        "label": "Association of Anaesthetists (AAGBI) Safety Guideline: Management of Severe Local Anaesthetic Toxicity",
+        "url": "https://anaesthetists.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22596",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET. Clinical examination and investigative review confirm initiating regular insulin 1 unit/kg bolus followed by 0.5 to 1 unit/kg/h infusion with concentrated dextrose infusion for CCB shock. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating regular insulin 1 unit/kg bolus followed by 0.5 to 1 unit/kg/h infusion with concentrated dextrose infusion for ccb shock",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating regular insulin 1 unit/kg bolus followed by 0.5 to 1 unit/kg/h infusion with concentrated dextrose infusion for CCB shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating regular insulin 1 unit/kg bolus followed by 0.5 to 1 unit/kg/h infusion with concentrated dextrose infusion for CCB shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET. In the clinical management of MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Calcium Channel Blocker Toxicity High-Dose Insulin Euglycemic Therapy HIET."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Toxicology Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22597",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Gluc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus. Clinical examination and investigative review confirm administering slow IV glucagon 5 mg over 5 minutes repeated at 10 minutes followed by maintenance infusion for beta-blocker shock. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Administering slow iv glucagon 5 mg over 5 minutes repeated at 10 minutes followed by maintenance infusion for beta-blocker shock",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering slow IV glucagon 5 mg over 5 minutes repeated at 10 minutes followed by maintenance infusion for beta-blocker shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering slow IV glucagon 5 mg over 5 minutes repeated at 10 minutes followed by maintenance infusion for beta-blocker shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus. In the clinical management of MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Resuscitation Beta-Blocker Overdose Severe Bradycardia Hypotension IV Glucagon 5 mg Bolus."
+    ],
+    "references": [
+      {
+        "label": "RCEM Toxicology Guidelines & TOXBASE",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22598",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Bi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder. Clinical examination and investigative review confirm applying commercial pelvic binder centered symmetrically over the greater trochanters to reduce pelvic volume and venous bleeding. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Applying commercial pelvic binder centered symmetrically over the greater trochanters to reduce pelvic volume and venous bleeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying commercial pelvic binder centered symmetrically over the greater trochanters to reduce pelvic volume and venous bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying commercial pelvic binder centered symmetrically over the greater trochanters to reduce pelvic volume and venous bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder. In the clinical management of MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Pelvic Ring Disruption Hemodynamic Instability Commercial Pelvic Binder."
+    ],
+    "references": [
+      {
+        "label": "RCEM Major Trauma Clinical Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22599",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment. Clinical examination and investigative review confirm applying traction Thomas splint or Hare traction splint for femoral shaft fracture alignment and tamponade of thigh hematoma. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Applying traction thomas splint or hare traction splint for femoral shaft fracture alignment and tamponade of thigh hematoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying traction Thomas splint or Hare traction splint for femoral shaft fracture alignment and tamponade of thigh hematoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying traction Thomas splint or Hare traction splint for femoral shaft fracture alignment and tamponade of thigh hematoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment. In the clinical management of MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Open Femoral Shaft Fracture Hemorrhage Thomas Splint Alignment."
+    ],
+    "references": [
+      {
+        "label": "British Orthopaedic Association Standards for Trauma (BOAST)",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22600",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrha",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control. Clinical examination and investigative review confirm applying windlass limb tourniquet 5 to 7 cm proximal to amputation site tightened until distal bleeding ceases and recording time. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Applying windlass limb tourniquet 5 to 7 cm proximal to amputation site tightened until distal bleeding ceases and recording time",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying windlass limb tourniquet 5 to 7 cm proximal to amputation site tightened until distal bleeding ceases and recording time represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying windlass limb tourniquet 5 to 7 cm proximal to amputation site tightened until distal bleeding ceases and recording time represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control. In the clinical management of MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Amputation Mangled Extremity Tourniquet Arterial Hemorrhage Control."
+    ],
+    "references": [
+      {
+        "label": "RCEM Major Trauma Care Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22601",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding. Clinical examination and investigative review confirm identifying absent lung sliding and stratosphere sign on M-mode POCUS to diagnose occult traumatic pneumothorax. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Identifying absent lung sliding and stratosphere sign on m-mode pocus to diagnose occult traumatic pneumothorax",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, identifying absent lung sliding and stratosphere sign on M-mode POCUS to diagnose occult traumatic pneumothorax represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, identifying absent lung sliding and stratosphere sign on M-mode POCUS to diagnose occult traumatic pneumothorax represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding. In the clinical management of MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Traumatic Pneumothorax Point-of-Care Ultrasound Absence Lung Sliding."
+    ],
+    "references": [
+      {
+        "label": "RCEM Ultrasound Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22602",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdom",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury. Clinical examination and investigative review confirm identifying anechoic fluid stripe in hepatorenal space (Morison's pouch) indicating hemoperitoneum requiring surgical exploration. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Identifying anechoic fluid stripe in hepatorenal space (morison's pouch) indicating hemoperitoneum requiring surgical exploration",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, identifying anechoic fluid stripe in hepatorenal space (Morison's pouch) indicating hemoperitoneum requiring surgical exploration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, identifying anechoic fluid stripe in hepatorenal space (Morison's pouch) indicating hemoperitoneum requiring surgical exploration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury. In the clinical management of MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma FAST Ultrasound Morison Pouch Free Fluid Hemoperitoneum Blunt Abdominal Injury."
+    ],
+    "references": [
+      {
+        "label": "RCEM Point-of-Care Ultrasound Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22603",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours T",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration. Clinical examination and investigative review confirm calculating 4 mL x weight (kg) x %TBSA burn of Ringer lactate with half given in first 8 hours targeting urine output 0.5 to 1.0 mL/kg/h. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Calculating 4 ml x weight (kg) x %tbsa burn of ringer lactate with half given in first 8 hours targeting urine output 0.5 to 1.0 ml/kg/h",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, calculating 4 mL x weight (kg) x %TBSA burn of Ringer lactate with half given in first 8 hours targeting urine output 0.5 to 1.0 mL/kg/h represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, calculating 4 mL x weight (kg) x %TBSA burn of Ringer lactate with half given in first 8 hours targeting urine output 0.5 to 1.0 mL/kg/h represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration. In the clinical management of MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Severe Burn Injury Parkland Formula Ringer Lactate First 24 Hours Titration."
+    ],
+    "references": [
+      {
+        "label": "British Burn Association First Aid and Fluid Guidelines",
+        "url": "https://www.britishburnassociation.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22604",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasci",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy. Clinical examination and investigative review confirm measuring intracompartmental pressure within 30 mm Hg of diastolic BP and arranging emergency four-compartment leg fasciotomy. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Measuring intracompartmental pressure within 30 mm hg of diastolic bp and arranging emergency four-compartment leg fasciotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, measuring intracompartmental pressure within 30 mm Hg of diastolic BP and arranging emergency four-compartment leg fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, measuring intracompartmental pressure within 30 mm Hg of diastolic BP and arranging emergency four-compartment leg fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy. In the clinical management of MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Compartment Syndrome Leg Pain on Passive Stretch Urgent Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "BOAST Guidelines for Management of Compartment Syndrome",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22605",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement. Clinical examination and investigative review confirm administering IV co-amoxiclav or cefuroxime within 1 hour and proceeding to joint ortho-plastic wound debridement within 24 hours. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv co-amoxiclav or cefuroxime within 1 hour and proceeding to joint ortho-plastic wound debridement within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV co-amoxiclav or cefuroxime within 1 hour and proceeding to joint ortho-plastic wound debridement within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV co-amoxiclav or cefuroxime within 1 hour and proceeding to joint ortho-plastic wound debridement within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement. In the clinical management of MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Open Tibial Fracture Gustilo Grade IIIA Prophylactic Cefuroxime and Debridement."
+    ],
+    "references": [
+      {
+        "label": "BOAST Open Fracture Management Standards",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22606",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis. Clinical examination and investigative review confirm performing procedural sedation and emergency closed reduction using inline traction (Allis maneuver) within 4 hours to prevent avascular necrosis. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Performing procedural sedation and emergency closed reduction using inline traction (allis maneuver) within 4 hours to prevent avascular necrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing procedural sedation and emergency closed reduction using inline traction (Allis maneuver) within 4 hours to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing procedural sedation and emergency closed reduction using inline traction (Allis maneuver) within 4 hours to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis. In the clinical management of MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Posterior Hip Dislocation Sciatic Nerve Emergency Closed Reduction Allis."
+    ],
+    "references": [
+      {
+        "label": "BOAST Traumatic Hip Dislocation Guidelines",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22607",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index. Clinical examination and investigative review confirm measuring ankle-brachial index (ABI) and performing CT angiography for popliteal artery intimal tear in all knee dislocations. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Measuring ankle-brachial index (abi) and performing ct angiography for popliteal artery intimal tear in all knee dislocations",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, measuring ankle-brachial index (ABI) and performing CT angiography for popliteal artery intimal tear in all knee dislocations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, measuring ankle-brachial index (ABI) and performing CT angiography for popliteal artery intimal tear in all knee dislocations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index. In the clinical management of MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Knee Dislocation Multi-Ligamentous Injury Distal Pulse Ankle-Brachial Index."
+    ],
+    "references": [
+      {
+        "label": "BOAST Vascular Injuries Associated with Trauma",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22608",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clea",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance. Clinical examination and investigative review confirm applying Canadian C-Spine Rule assessing high risk, low risk, and active 45-degree neck rotation to clear cervical spine clinically. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Applying canadian c-spine rule assessing high risk, low risk, and active 45-degree neck rotation to clear cervical spine clinically",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying Canadian C-Spine Rule assessing high risk, low risk, and active 45-degree neck rotation to clear cervical spine clinically represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, applying Canadian C-Spine Rule assessing high risk, low risk, and active 45-degree neck rotation to clear cervical spine clinically represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance. In the clinical management of MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Spinal Cord Injury Canadian C-Spine Rule Exclusion Radiography Clearance."
+    ],
+    "references": [
+      {
+        "label": "NICE Head Injury and Cervical Spine Assessment (NG232)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22609",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor. Clinical examination and investigative review confirm infusing IV noradrenaline to maintain MAP >= 85 mm Hg and IV atropine for neurogenic bradycardia and vasomotor collapse. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv noradrenaline to maintain map >= 85 mm hg and iv atropine for neurogenic bradycardia and vasomotor collapse",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV noradrenaline to maintain MAP >= 85 mm Hg and IV atropine for neurogenic bradycardia and vasomotor collapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV noradrenaline to maintain MAP >= 85 mm Hg and IV atropine for neurogenic bradycardia and vasomotor collapse represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor. In the clinical management of MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Neurogenic Shock High Cervical Transection Bradycardia Hypotension Vasopressor."
+    ],
+    "references": [
+      {
+        "label": "RCEM Neurotrauma Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22610",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance N",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube. Clinical examination and investigative review confirm ordering urgent non-contrast CT brain and strictly avoiding nasogastric tube or nasopharyngeal airway to prevent intracranial entry. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Ordering urgent non-contrast ct brain and strictly avoiding nasogastric tube or nasopharyngeal airway to prevent intracranial entry",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, ordering urgent non-contrast CT brain and strictly avoiding nasogastric tube or nasopharyngeal airway to prevent intracranial entry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, ordering urgent non-contrast CT brain and strictly avoiding nasogastric tube or nasopharyngeal airway to prevent intracranial entry represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube. In the clinical management of MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Base of Skull Fracture Battle Sign Raccoon Eyes CT Head Avoidance NG Tube."
+    ],
+    "references": [
+      {
+        "label": "NICE Head Injury Guidelines (NG232)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22611",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Ca",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care. Clinical examination and investigative review confirm providing supportive oxygenation, elevating head of bed, and evaluating for blunt tracheobronchial and cardiac contusions. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive oxygenation, elevating head of bed, and evaluating for blunt tracheobronchial and cardiac contusions",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing supportive oxygenation, elevating head of bed, and evaluating for blunt tracheobronchial and cardiac contusions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing supportive oxygenation, elevating head of bed, and evaluating for blunt tracheobronchial and cardiac contusions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care. In the clinical management of MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Asphyxia Crush Injury Petechial Mask Supportive Oxygen Care."
+    ],
+    "references": [
+      {
+        "label": "RCEM Trauma Clinical Guidance",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22612",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Inser",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning. Clinical examination and investigative review confirm confirming intrathoracic stomach gas bubble on chest radiograph and performing laparotomy repair while avoiding blind trocar drain. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Confirming intrathoracic stomach gas bubble on chest radiograph and performing laparotomy repair while avoiding blind trocar drain",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, confirming intrathoracic stomach gas bubble on chest radiograph and performing laparotomy repair while avoiding blind trocar drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, confirming intrathoracic stomach gas bubble on chest radiograph and performing laparotomy repair while avoiding blind trocar drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning. In the clinical management of MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Diaphragmatic Rupture Left Hemithorax Bowel Sounds Chest Tube Insertion Warning."
+    ],
+    "references": [
+      {
+        "label": "RCEM Thoracoabdominal Trauma Standards",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22613",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy. Clinical examination and investigative review confirm transferring patient immediately for neurosurgical decompressive craniotomy for expanding biconvex hematoma with midline shift > 5 mm. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Transferring patient immediately for neurosurgical decompressive craniotomy for expanding biconvex hematoma with midline shift > 5 mm",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, transferring patient immediately for neurosurgical decompressive craniotomy for expanding biconvex hematoma with midline shift > 5 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, transferring patient immediately for neurosurgical decompressive craniotomy for expanding biconvex hematoma with midline shift > 5 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy. In the clinical management of MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Extradural Hematoma Middle Meningeal Artery Pterion Fracture Craniotomy."
+    ],
+    "references": [
+      {
+        "label": "NICE Head Injury Management (NG232)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22614",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therap",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol. Clinical examination and investigative review confirm administering IV 20% mannitol 1 g/kg or 3% hypertonic saline alongside emergency neurosurgical referral for acute subdural hematoma. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 20% mannitol 1 g/kg or 3% hypertonic saline alongside emergency neurosurgical referral for acute subdural hematoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 20% mannitol 1 g/kg or 3% hypertonic saline alongside emergency neurosurgical referral for acute subdural hematoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 20% mannitol 1 g/kg or 3% hypertonic saline alongside emergency neurosurgical referral for acute subdural hematoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol. In the clinical management of MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Acute Subdural Hematoma Crescentic Hyperdensity Hyperosmolar Therapy Mannitol."
+    ],
+    "references": [
+      {
+        "label": "RCEM Emergency Neurotrauma Management",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22615",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Av",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure. Clinical examination and investigative review confirm placing rigid protective eye shield resting on orbital rim, avoiding intraocular pressure elevation, and urgent ophthalmology transfer. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Placing rigid protective eye shield resting on orbital rim, avoiding intraocular pressure elevation, and urgent ophthalmology transfer",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, placing rigid protective eye shield resting on orbital rim, avoiding intraocular pressure elevation, and urgent ophthalmology transfer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, placing rigid protective eye shield resting on orbital rim, avoiding intraocular pressure elevation, and urgent ophthalmology transfer represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure. In the clinical management of MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Traumatic Penetrating Eye Injury Ruptured Globe Rigid Eye Shield Avoidance Pressure."
+    ],
+    "references": [
+      {
+        "label": "RCEM and Royal College of Ophthalmologists Ocular Trauma Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22616",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Canthol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis. Clinical examination and investigative review confirm performing emergency bedside lateral canthotomy and inferior cantholysis to decompress elevated intraocular pressure > 40 mm Hg. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency bedside lateral canthotomy and inferior cantholysis to decompress elevated intraocular pressure > 40 mm hg",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency bedside lateral canthotomy and inferior cantholysis to decompress elevated intraocular pressure > 40 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing emergency bedside lateral canthotomy and inferior cantholysis to decompress elevated intraocular pressure > 40 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis. In the clinical management of MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Retrobulbar Hematoma Acute Proptosis Lateral Canthotomy and Cantholysis."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Guidelines for Lateral Canthotomy",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22617",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litm",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization. Clinical examination and investigative review confirm irrigating immediately with 1 to 2 liters of normal saline until conjunctival sac pH tests neutral (pH 7.0-7.4) on litmus paper. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Irrigating immediately with 1 to 2 liters of normal saline until conjunctival sac ph tests neutral (ph 7.0-7.4) on litmus paper",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, irrigating immediately with 1 to 2 liters of normal saline until conjunctival sac pH tests neutral (pH 7.0-7.4) on litmus paper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, irrigating immediately with 1 to 2 liters of normal saline until conjunctival sac pH tests neutral (pH 7.0-7.4) on litmus paper represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization. In the clinical management of MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Chemical Eye Burn Alkali Acid Copious Normal Saline Irrigation Litmus Neutralization."
+    ],
+    "references": [
+      {
+        "label": "RCEM Chemical Injury Practice Standards",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22618",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint. Clinical examination and investigative review confirm immobilizing in thumb spica splint with repeat clinical review and radiographs or early MRI in 10 to 14 days for scaphoid tenderness. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Immobilizing in thumb spica splint with repeat clinical review and radiographs or early mri in 10 to 14 days for scaphoid tenderness",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, immobilizing in thumb spica splint with repeat clinical review and radiographs or early MRI in 10 to 14 days for scaphoid tenderness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, immobilizing in thumb spica splint with repeat clinical review and radiographs or early MRI in 10 to 14 days for scaphoid tenderness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint. In the clinical management of MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Scaphoid Waist Fracture Anatomical Snuffbox Tenderness Thumb Spica Splint."
+    ],
+    "references": [
+      {
+        "label": "BOAST Scaphoid Fracture Management Guidelines",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22619",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Ma",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation. Clinical examination and investigative review confirm performing hematoma block regional anesthesia and closed reduction with traction and volar splinting for displaced distal radius fracture. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing hematoma block regional anesthesia and closed reduction with traction and volar splinting for displaced distal radius fracture",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing hematoma block regional anesthesia and closed reduction with traction and volar splinting for displaced distal radius fracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing hematoma block regional anesthesia and closed reduction with traction and volar splinting for displaced distal radius fracture represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation. In the clinical management of MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Colles Fracture Distal Radius Dorsal Displacement Hematoma Block Manipulation."
+    ],
+    "references": [
+      {
+        "label": "BOAST Distal Radius Fracture Standards",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22620",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Puls",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction. Clinical examination and investigative review confirm transferring immediately for emergency orthopedic manipulation and percutaneous K-wire fixation under general anesthesia. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Transferring immediately for emergency orthopedic manipulation and percutaneous k-wire fixation under general anesthesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, transferring immediately for emergency orthopedic manipulation and percutaneous K-wire fixation under general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, transferring immediately for emergency orthopedic manipulation and percutaneous K-wire fixation under general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction. In the clinical management of MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Supracondylar Humerus Fracture Gartland Type III Absent Radial Pulse Emergency Reduction."
+    ],
+    "references": [
+      {
+        "label": "BOAST Supracondylar Fractures in Children",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22621",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair. Clinical examination and investigative review confirm cleansing wound, splinting wrist in 30-degree extension, and arranging formal surgical repair under local tourniquet within 7 days. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Cleansing wound, splinting wrist in 30-degree extension, and arranging formal surgical repair under local tourniquet within 7 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, cleansing wound, splinting wrist in 30-degree extension, and arranging formal surgical repair under local tourniquet within 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, cleansing wound, splinting wrist in 30-degree extension, and arranging formal surgical repair under local tourniquet within 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair. In the clinical management of MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma Extensor Digitorum Tendon Laceration Zone VI Delayed Primary Repair."
+    ],
+    "references": [
+      {
+        "label": "British Society for Surgery of the Hand (BSSH) Guidelines",
+        "url": "https://www.bssh.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22622",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative De",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement. Clinical examination and investigative review confirm arranging immediate surgical exploratory debridement and decompression for non-apparent paint gun puncture to prevent finger gangrene. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Arranging immediate surgical exploratory debridement and decompression for non-apparent paint gun puncture to prevent finger gangrene",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging immediate surgical exploratory debridement and decompression for non-apparent paint gun puncture to prevent finger gangrene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging immediate surgical exploratory debridement and decompression for non-apparent paint gun puncture to prevent finger gangrene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement. In the clinical management of MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Trauma High-Pressure Paint Gun Injection Pulp Space Emergency Operative Debridement."
+    ],
+    "references": [
+      {
+        "label": "BSSH Hand Trauma Guidelines",
+        "url": "https://www.bssh.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22623",
+    "exam": "MRCEM",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window. Clinical examination and investigative review confirm administering IV alteplase 0.9 mg/kg within 4.5 hours of symptom onset after immediate non-contrast CT excludes hemorrhage. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv alteplase 0.9 mg/kg within 4.5 hours of symptom onset after immediate non-contrast ct excludes hemorrhage",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV alteplase 0.9 mg/kg within 4.5 hours of symptom onset after immediate non-contrast CT excludes hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV alteplase 0.9 mg/kg within 4.5 hours of symptom onset after immediate non-contrast CT excludes hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window. In the clinical management of MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Ischemic Stroke IV Alteplase Thrombolysis 4.5 Hour Window."
+    ],
+    "references": [
+      {
+        "label": "NICE Stroke and TIA Guidelines (NG128)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22624",
+    "exam": "MRCEM",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hou",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours. Clinical examination and investigative review confirm arranging emergency transfer for endovascular catheter thrombectomy for proximal MCA occlusion within 24 hours of onset. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Arranging emergency transfer for endovascular catheter thrombectomy for proximal mca occlusion within 24 hours of onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging emergency transfer for endovascular catheter thrombectomy for proximal MCA occlusion within 24 hours of onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging emergency transfer for endovascular catheter thrombectomy for proximal MCA occlusion within 24 hours of onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours. In the clinical management of MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Large Vessel Occlusion Stroke Mechanical Thrombectomy 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "NICE Mechanical Thrombectomy for Acute Ischaemic Stroke (NG128)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22625",
+    "exam": "MRCEM",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam. Clinical examination and investigative review confirm administering IV lorazepam 4 mg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg loading infusion for seizures > 5 min. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv lorazepam 4 mg over 2 minutes followed immediately by iv levetiracetam 60 mg/kg loading infusion for seizures > 5 min",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV lorazepam 4 mg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg loading infusion for seizures > 5 min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV lorazepam 4 mg over 2 minutes followed immediately by IV levetiracetam 60 mg/kg loading infusion for seizures > 5 min represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam. In the clinical management of MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Status Epilepticus First-Line IV Lorazepam 4 mg Second-Line Levetiracetam."
+    ],
+    "references": [
+      {
+        "label": "RCEM Emergency Management of Status Epilepticus",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22626",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexame",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone. Clinical examination and investigative review confirm administering IV dexamethasone 10 mg alongside IV ceftriaxone 2 g within 1 hour of arrival for suspected purulent meningitis. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv dexamethasone 10 mg alongside iv ceftriaxone 2 g within 1 hour of arrival for suspected purulent meningitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV dexamethasone 10 mg alongside IV ceftriaxone 2 g within 1 hour of arrival for suspected purulent meningitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV dexamethasone 10 mg alongside IV ceftriaxone 2 g within 1 hour of arrival for suspected purulent meningitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone. In the clinical management of MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Bacterial Meningitis Purpuric Rash IV Ceftriaxone and Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "NICE Meningitis (Bacterial) and Meningococcal Disease (CG102)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22627",
+    "exam": "MRCEM",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture. Clinical examination and investigative review confirm performing non-contrast head CT within 6 hours or lumbar puncture at 12 hours for spectrophotometric bilirubin xanthochromia. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Performing non-contrast head ct within 6 hours or lumbar puncture at 12 hours for spectrophotometric bilirubin xanthochromia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing non-contrast head CT within 6 hours or lumbar puncture at 12 hours for spectrophotometric bilirubin xanthochromia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing non-contrast head CT within 6 hours or lumbar puncture at 12 hours for spectrophotometric bilirubin xanthochromia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture. In the clinical management of MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Subarachnoid Hemorrhage Sudden Thunderclap Headache Plain Head CT Lumbar Puncture."
+    ],
+    "references": [
+      {
+        "label": "RCEM Thunderclap Headache Clinical Practice Guideline",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22628",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolon",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg. Clinical examination and investigative review confirm initiating immediate oral prednisolone 60 mg daily to preserve contralateral vision while arranging urgent temporal biopsy. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate oral prednisolone 60 mg daily to preserve contralateral vision while arranging urgent temporal biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate oral prednisolone 60 mg daily to preserve contralateral vision while arranging urgent temporal biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate oral prednisolone 60 mg daily to preserve contralateral vision while arranging urgent temporal biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg. In the clinical management of MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Giant Cell Arteritis Sudden Vision Loss Immediate Oral Prednisolone 60 mg."
+    ],
+    "references": [
+      {
+        "label": "BSR Guideline on Giant Cell Arteritis & RCEM",
+        "url": "https://www.rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22629",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Piloc",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine. Clinical examination and investigative review confirm administering IV acetazolamide 500 mg, topical 2% pilocarpine, and topical timolol with urgent ophthalmology referral. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv acetazolamide 500 mg, topical 2% pilocarpine, and topical timolol with urgent ophthalmology referral",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV acetazolamide 500 mg, topical 2% pilocarpine, and topical timolol with urgent ophthalmology referral represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV acetazolamide 500 mg, topical 2% pilocarpine, and topical timolol with urgent ophthalmology referral represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine. In the clinical management of MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Angle-Closure Glaucoma Mid-Dilated Pupil Acetazolamide Pilocarpine."
+    ],
+    "references": [
+      {
+        "label": "Royal College of Ophthalmologists Glaucoma Emergency Protocols",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22630",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy. Clinical examination and investigative review confirm administering IV terlipressin 2 mg bolus and prophylactic ceftriaxone 1 g prior to urgent upper endoscopy within 24 hours. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv terlipressin 2 mg bolus and prophylactic ceftriaxone 1 g prior to urgent upper endoscopy within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV terlipressin 2 mg bolus and prophylactic ceftriaxone 1 g prior to urgent upper endoscopy within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV terlipressin 2 mg bolus and prophylactic ceftriaxone 1 g prior to urgent upper endoscopy within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy. In the clinical management of MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Upper GI Bleeding Terlipressin Prophylactic Ceftriaxone Endoscopy."
+    ],
+    "references": [
+      {
+        "label": "NICE Acute Upper Gastrointestinal Bleeding (CG141)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22631",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP. Clinical examination and investigative review confirm initiating broad-spectrum IV piperacillin-tazobactam 4.5 g and arranging emergency ERCP biliary decompression within 24 hours. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Initiating broad-spectrum iv piperacillin-tazobactam 4.5 g and arranging emergency ercp biliary decompression within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating broad-spectrum IV piperacillin-tazobactam 4.5 g and arranging emergency ERCP biliary decompression within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating broad-spectrum IV piperacillin-tazobactam 4.5 g and arranging emergency ERCP biliary decompression within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP. In the clinical management of MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Cholangitis Tokyo Guidelines Charcot Triad IV Piperacillin-Tazobactam ERCP."
+    ],
+    "references": [
+      {
+        "label": "Tokyo Guidelines 2018 for Acute Cholangitis & RCEM",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22632",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Propo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio. Clinical examination and investigative review confirm performing urgent biphasic CT angiography of mesenteric vessels and proceeding to emergency laparotomy for bowel infarction. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing urgent biphasic ct angiography of mesenteric vessels and proceeding to emergency laparotomy for bowel infarction",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing urgent biphasic CT angiography of mesenteric vessels and proceeding to emergency laparotomy for bowel infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing urgent biphasic CT angiography of mesenteric vessels and proceeding to emergency laparotomy for bowel infarction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio. In the clinical management of MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Intestinal Ischemia SMA Embolism Abdominal Pain Out of Proportion CT Angio."
+    ],
+    "references": [
+      {
+        "label": "RCEM Emergency Vascular Surgery Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22633",
+    "exam": "MRCEM",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP <",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair. Clinical examination and investigative review confirm titrating IV labetalol infusion targeting heart rate < 60 bpm and systolic BP 100 to 120 mm Hg prior to emergent cardiac surgery. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Titrating iv labetalol infusion targeting heart rate < 60 bpm and systolic bp 100 to 120 mm hg prior to emergent cardiac surgery",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, titrating IV labetalol infusion targeting heart rate < 60 bpm and systolic BP 100 to 120 mm Hg prior to emergent cardiac surgery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, titrating IV labetalol infusion targeting heart rate < 60 bpm and systolic BP 100 to 120 mm Hg prior to emergent cardiac surgery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair. In the clinical management of MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Aortic Dissection Stanford Type A IV Labetalol Systolic BP < 120 Urgent Repair."
+    ],
+    "references": [
+      {
+        "label": "RCEM Acute Aortic Syndrome Practice Guidance",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22634",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI. Clinical examination and investigative review confirm activating primary percutaneous coronary intervention (PPCI) pathway with aspirin, ticagrelor, and unfractionated heparin. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Activating primary percutaneous coronary intervention (ppci) pathway with aspirin, ticagrelor, and unfractionated heparin",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, activating primary percutaneous coronary intervention (PPCI) pathway with aspirin, ticagrelor, and unfractionated heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, activating primary percutaneous coronary intervention (PPCI) pathway with aspirin, ticagrelor, and unfractionated heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI. In the clinical management of MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute STEMI Anterior Wall Reperfusion Door-to-Balloon < 90 Minutes Primary PCI."
+    ],
+    "references": [
+      {
+        "label": "NICE Acute Coronary Syndromes (NG185)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22635",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride I",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization. Clinical examination and investigative review confirm administering IV 10% calcium chloride 10 mL via central line or wide-bore cannula over 5 minutes for sine-wave ECG complexes. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Administering iv 10% calcium chloride 10 ml via central line or wide-bore cannula over 5 minutes for sine-wave ecg complexes",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% calcium chloride 10 mL via central line or wide-bore cannula over 5 minutes for sine-wave ECG complexes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 10% calcium chloride 10 mL via central line or wide-bore cannula over 5 minutes for sine-wave ECG complexes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization. In the clinical management of MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hyperkalemia 7.5 mmol/L 10 Percent Calcium Chloride IV Membrane Stabilization."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Hyperkalemia Emergency Protocols",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22636",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Sal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus. Clinical examination and investigative review confirm administering IV 3% hypertonic saline 100 to 150 mL bolus over 10 to 20 minutes targeting acute 5 mmol/L sodium elevation to stop seizures. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 3% hypertonic saline 100 to 150 ml bolus over 10 to 20 minutes targeting acute 5 mmol/l sodium elevation to stop seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 3% hypertonic saline 100 to 150 mL bolus over 10 to 20 minutes targeting acute 5 mmol/L sodium elevation to stop seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 3% hypertonic saline 100 to 150 mL bolus over 10 to 20 minutes targeting acute 5 mmol/L sodium elevation to stop seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus. In the clinical management of MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hyponatremia Sodium 112 Coma 3 Percent Hypertonic Saline 100 mL Bolus."
+    ],
+    "references": [
+      {
+        "label": "European Society of Endocrinology Hyponatraemia Consensus",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22637",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous. Clinical examination and investigative review confirm administering subcutaneous octreotide 50 mcg every 6 to 8 hours to suppress recurrent insulin secretion from sulfonylurea poisoning. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering subcutaneous octreotide 50 mcg every 6 to 8 hours to suppress recurrent insulin secretion from sulfonylurea poisoning",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering subcutaneous octreotide 50 mcg every 6 to 8 hours to suppress recurrent insulin secretion from sulfonylurea poisoning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering subcutaneous octreotide 50 mcg every 6 to 8 hours to suppress recurrent insulin secretion from sulfonylurea poisoning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous. In the clinical management of MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Acute Severe Hypoglycemia Sulfonylurea Overdose Octreotide 50 mcg Subcutaneous."
+    ],
+    "references": [
+      {
+        "label": "RCEM Toxicology Guidance on Oral Hypoglycaemics",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22638",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol. Clinical examination and investigative review confirm administering intravenous N-acetylcysteine infusion for 21 hours for paracetamol concentration plotted on or above treatment line. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous n-acetylcysteine infusion for 21 hours for paracetamol concentration plotted on or above treatment line",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering intravenous N-acetylcysteine infusion for 21 hours for paracetamol concentration plotted on or above treatment line represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering intravenous N-acetylcysteine infusion for 21 hours for paracetamol concentration plotted on or above treatment line represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol. In the clinical management of MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Paracetamol Overdose Rumack-Matthew Nomogram IV N-Acetylcysteine 21-Hour Protocol."
+    ],
+    "references": [
+      {
+        "label": "Commission on Human Medicines (CHM) / MHRA Paracetamol Guidelines",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22639",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg. Clinical examination and investigative review confirm administering IV naloxone 400 mcg titrated incrementally every 2 to 3 minutes targeting adequate spontaneous ventilation rather than full alert. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv naloxone 400 mcg titrated incrementally every 2 to 3 minutes targeting adequate spontaneous ventilation rather than full alert",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV naloxone 400 mcg titrated incrementally every 2 to 3 minutes targeting adequate spontaneous ventilation rather than full alert represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV naloxone 400 mcg titrated incrementally every 2 to 3 minutes targeting adequate spontaneous ventilation rather than full alert represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg. In the clinical management of MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Opioid Overdose Respiratory Depression Pinpoint Pupils IV Titrated Naloxone 400 mcg."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Guidelines for Opioid Toxicity",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22640",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway M",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management. Clinical examination and investigative review confirm providing supportive airway management and mechanical ventilation while strictly avoiding routine flumazenil due to seizure precipitation. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Providing supportive airway management and mechanical ventilation while strictly avoiding routine flumazenil due to seizure precipitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing supportive airway management and mechanical ventilation while strictly avoiding routine flumazenil due to seizure precipitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing supportive airway management and mechanical ventilation while strictly avoiding routine flumazenil due to seizure precipitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management. In the clinical management of MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Benzodiazepine Overdose Severe Hypoventilation Supportive Airway Management."
+    ],
+    "references": [
+      {
+        "label": "RCEM Toxicology Practice Standards",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22641",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbona",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent. Clinical examination and investigative review confirm administering IV 8.4% sodium bicarbonate 100 mL boluses targeting blood pH 7.45 to 7.55 and QRS narrowing < 100 ms. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 8.4% sodium bicarbonate 100 ml boluses targeting blood ph 7.45 to 7.55 and qrs narrowing < 100 ms",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 8.4% sodium bicarbonate 100 mL boluses targeting blood pH 7.45 to 7.55 and QRS narrowing < 100 ms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 8.4% sodium bicarbonate 100 mL boluses targeting blood pH 7.45 to 7.55 and QRS narrowing < 100 ms represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent. In the clinical management of MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Tricyclic Antidepressant Overdose QRS > 100 ms IV Sodium Bicarbonate 8.4 Percent."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Guidance on Tricyclic Toxicity",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22642",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow O",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask. Clinical examination and investigative review confirm administering 100% normobaric oxygen via reservoir bag mask until carboxyhemoglobin falls below 5% and neurological symptoms clear. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Administering 100% normobaric oxygen via reservoir bag mask until carboxyhemoglobin falls below 5% and neurological symptoms clear",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering 100% normobaric oxygen via reservoir bag mask until carboxyhemoglobin falls below 5% and neurological symptoms clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering 100% normobaric oxygen via reservoir bag mask until carboxyhemoglobin falls below 5% and neurological symptoms clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask. In the clinical management of MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Carbon Monoxide Poisoning Smoke Inhalation 100 Percent High-Flow Oxygen Tight-Fitting Mask."
+    ],
+    "references": [
+      {
+        "label": "RCEM Environmental and Inhalation Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22643",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol. Clinical examination and investigative review confirm administering IV atropine 2 to 3 mg boluses doubled every 5 minutes until bronchorrhea and bronchospasm fully clear. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv atropine 2 to 3 mg boluses doubled every 5 minutes until bronchorrhea and bronchospasm fully clear",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV atropine 2 to 3 mg boluses doubled every 5 minutes until bronchorrhea and bronchospasm fully clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV atropine 2 to 3 mg boluses doubled every 5 minutes until bronchorrhea and bronchospasm fully clear represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol. In the clinical management of MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Organophosphate Poisoning Cholinergic Crisis IV Atropine Doubling Dosing Protocol."
+    ],
+    "references": [
+      {
+        "label": "World Health Organization and RCEM Guidelines for Organophosphate Toxicity",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22644",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Al",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization. Clinical examination and investigative review confirm infusing IV sodium bicarbonate aiming for urinary pH 7.5 to 8.5 to enhance renal salicylate clearance and scheduling hemodialysis. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv sodium bicarbonate aiming for urinary ph 7.5 to 8.5 to enhance renal salicylate clearance and scheduling hemodialysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV sodium bicarbonate aiming for urinary pH 7.5 to 8.5 to enhance renal salicylate clearance and scheduling hemodialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV sodium bicarbonate aiming for urinary pH 7.5 to 8.5 to enhance renal salicylate clearance and scheduling hemodialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization. In the clinical management of MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Salicylate Toxicity Aspirin Metabolic Acidosis Tinnitus Urinary Alkalinization."
+    ],
+    "references": [
+      {
+        "label": "RCEM Toxicology Guidelines for Salicylates",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22645",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Def",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine. Clinical examination and investigative review confirm initiating continuous IV deferoxamine infusion at 15 mg/kg/h for severe iron toxicity with metabolic acidosis and lethargy. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Initiating continuous iv deferoxamine infusion at 15 mg/kg/h for severe iron toxicity with metabolic acidosis and lethargy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating continuous IV deferoxamine infusion at 15 mg/kg/h for severe iron toxicity with metabolic acidosis and lethargy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating continuous IV deferoxamine infusion at 15 mg/kg/h for severe iron toxicity with metabolic acidosis and lethargy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine. In the clinical management of MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Iron Poisoning Pediatric Hemorrhagic Shock Radiopaque Pills IV Deferoxamine."
+    ],
+    "references": [
+      {
+        "label": "RCEM Pediatric Toxicology Guidance",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22646",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole an",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis. Clinical examination and investigative review confirm administering IV fomepizole 15 mg/kg loading dose to inhibit alcohol dehydrogenase with urgent hemodialysis for severe toxic alcohol poisoning. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv fomepizole 15 mg/kg loading dose to inhibit alcohol dehydrogenase with urgent hemodialysis for severe toxic alcohol poisoning",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV fomepizole 15 mg/kg loading dose to inhibit alcohol dehydrogenase with urgent hemodialysis for severe toxic alcohol poisoning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV fomepizole 15 mg/kg loading dose to inhibit alcohol dehydrogenase with urgent hemodialysis for severe toxic alcohol poisoning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis. In the clinical management of MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Methanol Poisoning High Anion Gap Metabolic Acidosis Fomepizole and Hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "RCEM and NPIS Toxic Alcohols Clinical Guidance",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22647",
+    "exam": "MRCEM",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure F",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole. Clinical examination and investigative review confirm initiating IV fomepizole loading infusion and aggressive saline hydration with emergency hemodialysis for ethylene glycol ingestion. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating iv fomepizole loading infusion and aggressive saline hydration with emergency hemodialysis for ethylene glycol ingestion",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating IV fomepizole loading infusion and aggressive saline hydration with emergency hemodialysis for ethylene glycol ingestion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating IV fomepizole loading infusion and aggressive saline hydration with emergency hemodialysis for ethylene glycol ingestion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole. In the clinical management of MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Medical Ethylene Glycol Poisoning Calcium Oxalate Crystals Renal Failure Fomepizole."
+    ],
+    "references": [
+      {
+        "label": "NPIS Guidelines for Toxic Alcohols",
+        "url": "https://www.toxbase.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22648",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg. Clinical examination and investigative review confirm administering single-dose oral dexamethasone 0.15 mg/kg with nebulized adrenaline 1:1000 400 mcg/kg for stridor at rest. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering single-dose oral dexamethasone 0.15 mg/kg with nebulized adrenaline 1:1000 400 mcg/kg for stridor at rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering single-dose oral dexamethasone 0.15 mg/kg with nebulized adrenaline 1:1000 400 mcg/kg for stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering single-dose oral dexamethasone 0.15 mg/kg with nebulized adrenaline 1:1000 400 mcg/kg for stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg. In the clinical management of MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Severe Croup Stridor at Rest Single Dose Oral Dexamethasone 0.15 mg/kg."
+    ],
+    "references": [
+      {
+        "label": "NICE Croup Guidelines & RCEM",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22649",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal S",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding. Clinical examination and investigative review confirm providing minimal handling, gentle nasal suction, and NG tube feeding support while avoiding bronchodilators or steroids. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Providing minimal handling, gentle nasal suction, and ng tube feeding support while avoiding bronchodilators or steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing minimal handling, gentle nasal suction, and NG tube feeding support while avoiding bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing minimal handling, gentle nasal suction, and NG tube feeding support while avoiding bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding. In the clinical management of MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Acute Bronchiolitis Subcostal Recession Minimal Handling Nasal Suction Feeding."
+    ],
+    "references": [
+      {
+        "label": "NICE Bronchiolitis in Children (NG9)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22650",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and An",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic. Clinical examination and investigative review confirm reassuring parents regarding excellent benign prognosis, educating on antipyretic comfort, and advising seizure first-aid. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassuring parents regarding excellent benign prognosis, educating on antipyretic comfort, and advising seizure first-aid",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, reassuring parents regarding excellent benign prognosis, educating on antipyretic comfort, and advising seizure first-aid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, reassuring parents regarding excellent benign prognosis, educating on antipyretic comfort, and advising seizure first-aid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic. In the clinical management of MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Febrile Seizure Simple Generalized Tonoclonic Reassurance and Antipyretic."
+    ],
+    "references": [
+      {
+        "label": "NICE Fever in Under 5s (NG143)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22651",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Lev",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam. Clinical examination and investigative review confirm administering weight-adjusted buccal midazolam 0.5 mg/kg (or IV lorazepam 0.1 mg/kg) followed by IV levetiracetam 40 mg/kg. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering weight-adjusted buccal midazolam 0.5 mg/kg (or iv lorazepam 0.1 mg/kg) followed by iv levetiracetam 40 mg/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering weight-adjusted buccal midazolam 0.5 mg/kg (or IV lorazepam 0.1 mg/kg) followed by IV levetiracetam 40 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering weight-adjusted buccal midazolam 0.5 mg/kg (or IV lorazepam 0.1 mg/kg) followed by IV levetiracetam 40 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam. In the clinical management of MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Status Epilepticus Buccal Midazolam 0.5 mg/kg Second-Line IV Levetiracetam."
+    ],
+    "references": [
+      {
+        "label": "APLS UK Status Epilepticus Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22652",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 m",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus. Clinical examination and investigative review confirm administering IV 0.9% normal saline 20 mL/kg rapid bolus over 20 minutes for signs of shock followed by slow rehydration. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 0.9% normal saline 20 ml/kg rapid bolus over 20 minutes for signs of shock followed by slow rehydration",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 0.9% normal saline 20 mL/kg rapid bolus over 20 minutes for signs of shock followed by slow rehydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 0.9% normal saline 20 mL/kg rapid bolus over 20 minutes for signs of shock followed by slow rehydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus. In the clinical management of MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Severe Dehydration Gastroenteritis 10 Percent Fluid Deficit 20 mL/kg Bolus."
+    ],
+    "references": [
+      {
+        "label": "NICE Diarrhoea and Vomiting Caused by Gastroenteritis in Children (CG84)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22653",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate I",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone. Clinical examination and investigative review confirm administering immediate IV or IM ceftriaxone 80 mg/kg without waiting for lumbar puncture in child with purpuric petechial rash. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering immediate iv or im ceftriaxone 80 mg/kg without waiting for lumbar puncture in child with purpuric petechial rash",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering immediate IV or IM ceftriaxone 80 mg/kg without waiting for lumbar puncture in child with purpuric petechial rash represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering immediate IV or IM ceftriaxone 80 mg/kg without waiting for lumbar puncture in child with purpuric petechial rash represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone. In the clinical management of MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Suspected Meningococcal Sepsis Non-Blanching Purpura Immediate IV Ceftriaxone."
+    ],
+    "references": [
+      {
+        "label": "NICE Meningitis and Septicaemia in Children (CG102)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22654",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rig",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 12-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy. Clinical examination and investigative review confirm performing alternating 5 back blows and 5 chest thrusts in infant, transitioning to urgent rigid bronchoscopy for persistent obstruction. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Performing alternating 5 back blows and 5 chest thrusts in infant, transitioning to urgent rigid bronchoscopy for persistent obstruction",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing alternating 5 back blows and 5 chest thrusts in infant, transitioning to urgent rigid bronchoscopy for persistent obstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing alternating 5 back blows and 5 chest thrusts in infant, transitioning to urgent rigid bronchoscopy for persistent obstruction represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy. In the clinical management of MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Inhaled Foreign Body Sudden Choking Back Blows Chest Thrusts Rigid Bronchoscopy."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Paediatric Basic Life Support",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22655",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema R",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 13-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction. Clinical examination and investigative review confirm performing ultrasound-guided air or contrast enema reduction for ileocolic intussusception in hemodynamically stable infant. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing ultrasound-guided air or contrast enema reduction for ileocolic intussusception in hemodynamically stable infant",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing ultrasound-guided air or contrast enema reduction for ileocolic intussusception in hemodynamically stable infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing ultrasound-guided air or contrast enema reduction for ileocolic intussusception in hemodynamically stable infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction. In the clinical management of MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Intussusception Intermittent Colic Red Currant Jelly Air Enema Reduction."
+    ],
+    "references": [
+      {
+        "label": "RCEM Paediatric Emergency Medicine Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22656",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic M",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis. Clinical examination and investigative review confirm infusing IV 0.45% saline with 5% dextrose and potassium chloride to correct hypochloremic alkalosis before Ramstedt pyloromyotomy. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv 0.45% saline with 5% dextrose and potassium chloride to correct hypochloremic alkalosis before ramstedt pyloromyotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV 0.45% saline with 5% dextrose and potassium chloride to correct hypochloremic alkalosis before Ramstedt pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, infusing IV 0.45% saline with 5% dextrose and potassium chloride to correct hypochloremic alkalosis before Ramstedt pyloromyotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis. In the clinical management of MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Pyloric Stenosis Non-Bilious Projectile Vomiting Hypochloremic Metabolic Alkalosis."
+    ],
+    "references": [
+      {
+        "label": "RCEM and British Association of Paediatric Surgeons",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22657",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway. Clinical examination and investigative review confirm avoiding distressing procedures and transferring immediately to theater for senior anesthesiologist endotracheal intubation. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Avoiding distressing procedures and transferring immediately to theater for senior anesthesiologist endotracheal intubation",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, avoiding distressing procedures and transferring immediately to theater for senior anesthesiologist endotracheal intubation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, avoiding distressing procedures and transferring immediately to theater for senior anesthesiologist endotracheal intubation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway. In the clinical management of MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Epiglottitis Toxic Drooling Tripod Posture Senior Anaesthetist Immediate Airway."
+    ],
+    "references": [
+      {
+        "label": "Difficult Airway Society Paediatric Airway Guidelines",
+        "url": "https://das.uk.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22658",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Surv",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding. Clinical examination and investigative review confirm admitting under pediatric safeguarding team and ordering complete skeletal survey and CT brain for unexplained fractures. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Admitting under pediatric safeguarding team and ordering complete skeletal survey and ct brain for unexplained fractures",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, admitting under pediatric safeguarding team and ordering complete skeletal survey and CT brain for unexplained fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, admitting under pediatric safeguarding team and ordering complete skeletal survey and CT brain for unexplained fractures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding. In the clinical management of MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Non-Accidental Injury Corner Metaphyseal Fractures Skeletal Survey Safeguarding."
+    ],
+    "references": [
+      {
+        "label": "NICE Child Maltreatment Assessment (CG89)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22659",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning. Clinical examination and investigative review confirm maintaining non-weight-bearing status and arranging urgent percutaneous single-screw fixation to prevent avascular necrosis. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining non-weight-bearing status and arranging urgent percutaneous single-screw fixation to prevent avascular necrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, maintaining non-weight-bearing status and arranging urgent percutaneous single-screw fixation to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, maintaining non-weight-bearing status and arranging urgent percutaneous single-screw fixation to prevent avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning. In the clinical management of MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Slipped Upper Femoral Epiphysis SUFE Limp Groin Pain Urgent Pinning."
+    ],
+    "references": [
+      {
+        "label": "BOAST Paediatric Orthopaedic Standards",
+        "url": "https://www.boa.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22660",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers An",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia. Clinical examination and investigative review confirm providing oral ibuprofen analgesia, bed rest, and outpatient ultrasound review after Kocher criteria rule out septic arthritis. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Providing oral ibuprofen analgesia, bed rest, and outpatient ultrasound review after kocher criteria rule out septic arthritis",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing oral ibuprofen analgesia, bed rest, and outpatient ultrasound review after Kocher criteria rule out septic arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing oral ibuprofen analgesia, bed rest, and outpatient ultrasound review after Kocher criteria rule out septic arthritis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia. In the clinical management of MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Transient Synovitis Irritable Hip Normal Inflammatory Markers Analgesia."
+    ],
+    "references": [
+      {
+        "label": "RCEM Paediatric Musculoskeletal Guidance",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22661",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol. Clinical examination and investigative review confirm administering IV 3% hypertonic saline 3 to 5 mL/kg or 20% mannitol 0.5 to 1 g/kg immediately for headache and bradycardia. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv 3% hypertonic saline 3 to 5 ml/kg or 20% mannitol 0.5 to 1 g/kg immediately for headache and bradycardia",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 3% hypertonic saline 3 to 5 mL/kg or 20% mannitol 0.5 to 1 g/kg immediately for headache and bradycardia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV 3% hypertonic saline 3 to 5 mL/kg or 20% mannitol 0.5 to 1 g/kg immediately for headache and bradycardia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol. In the clinical management of MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Diabetic Ketoacidosis Cerebral Edema 3 Percent Hypertonic Saline Mannitol."
+    ],
+    "references": [
+      {
+        "label": "BSPED Guidelines for Management of DKA in Children",
+        "url": "https://www.bsped.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22662",
+    "exam": "MRCEM",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin. Clinical examination and investigative review confirm initiating empirical IV ampicillin and gentamicin within 1 hour after obtaining blood cultures and lumbar puncture for neonate. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating empirical iv ampicillin and gentamicin within 1 hour after obtaining blood cultures and lumbar puncture for neonate",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating empirical IV ampicillin and gentamicin within 1 hour after obtaining blood cultures and lumbar puncture for neonate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating empirical IV ampicillin and gentamicin within 1 hour after obtaining blood cultures and lumbar puncture for neonate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin. In the clinical management of MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Pediatric Neonatal Sepsis Lethargy Temperature Instability Ampicillin and Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "NICE Neonatal Infection: Antibiotics for Prevention and Treatment (NG195)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22663",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus. Clinical examination and investigative review confirm administering IV magnesium sulfate 4 g loading infusion over 10 minutes followed by 1 g/h maintenance infusion to treat seizures. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv magnesium sulfate 4 g loading infusion over 10 minutes followed by 1 g/h maintenance infusion to treat seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV magnesium sulfate 4 g loading infusion over 10 minutes followed by 1 g/h maintenance infusion to treat seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, administering IV magnesium sulfate 4 g loading infusion over 10 minutes followed by 1 g/h maintenance infusion to treat seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus. In the clinical management of MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Severe Pre-Eclampsia Eclampsia IV Magnesium Sulfate 4 g Loading Bolus."
+    ],
+    "references": [
+      {
+        "label": "RCOG Green-top Guideline on Severe Pre-eclampsia and Eclampsia",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22664",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscita",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery. Clinical examination and investigative review confirm initiating immediate wide-bore IV crystalloid access, activating massive obstetric hemorrhage protocol, and emergency Cesarean delivery. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate wide-bore iv crystalloid access, activating massive obstetric hemorrhage protocol, and emergency cesarean delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate wide-bore IV crystalloid access, activating massive obstetric hemorrhage protocol, and emergency Cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating immediate wide-bore IV crystalloid access, activating massive obstetric hemorrhage protocol, and emergency Cesarean delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery. In the clinical management of MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Severe Antepartum Hemorrhage Placental Abruption Fluid Resuscitation Emergency Delivery."
+    ],
+    "references": [
+      {
+        "label": "RCOG Antepartum Hemorrhage Guidelines",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22665",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytoci",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion. Clinical examination and investigative review confirm performing continuous bimanual uterine compression, infusing IV oxytocin 40 units in 500 mL saline, and administering IM carboprost. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing continuous bimanual uterine compression, infusing iv oxytocin 40 units in 500 ml saline, and administering im carboprost",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing continuous bimanual uterine compression, infusing IV oxytocin 40 units in 500 mL saline, and administering IM carboprost represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, performing continuous bimanual uterine compression, infusing IV oxytocin 40 units in 500 mL saline, and administering IM carboprost represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion. In the clinical management of MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Postpartum Hemorrhage Uterine Atony Bimanual Compression Oxytocin Infusion."
+    ],
+    "references": [
+      {
+        "label": "RCOG Postpartum Hemorrhage Practice Standards",
+        "url": "https://www.rcog.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22666",
+    "exam": "MRCEM",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is evaluated in the emergency department resuscitation bay of a major UK trauma center with clinical findings indicative of MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy. Clinical examination and investigative review confirm initiating cross-match blood transfusion and transferring directly to theater for urgent laparoscopic salpingectomy for hemoperitoneum. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Initiating cross-match blood transfusion and transferring directly to theater for urgent laparoscopic salpingectomy for hemoperitoneum",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating cross-match blood transfusion and transferring directly to theater for urgent laparoscopic salpingectomy for hemoperitoneum represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, initiating cross-match blood transfusion and transferring directly to theater for urgent laparoscopic salpingectomy for hemoperitoneum represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy. In the clinical management of MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Obstetric Ruptured Ectopic Pregnancy Hemoperitoneum Immediate Laparoscopic Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "NICE Ectopic Pregnancy and Miscarriage (NG126)",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22667",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core H",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male presents to the acute emergency observation and rapid assessment stream of an NHS foundation trust hospital with clinical findings indicative of MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating. Clinical examination and investigative review confirm instituting warmed humidified oxygen, warmed IV saline 42 C, and thoracic lavage while avoiding peripheral limb active rewarming. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Instituting warmed humidified oxygen, warmed iv saline 42 c, and thoracic lavage while avoiding peripheral limb active rewarming",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, instituting warmed humidified oxygen, warmed IV saline 42 C, and thoracic lavage while avoiding peripheral limb active rewarming represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, instituting warmed humidified oxygen, warmed IV saline 42 C, and thoracic lavage while avoiding peripheral limb active rewarming represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating. In the clinical management of MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Severe Hypothermia Rewarming Collapse Active Internal Core Heating."
+    ],
+    "references": [
+      {
+        "label": "RCEM Environmental Emergencies Clinical Guideline",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22668",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Sta",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the emergency department urgent care walk-in stream with acute symptoms with clinical findings indicative of MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion. Clinical examination and investigative review confirm distinguishing heat stroke by central nervous system encephalopathy and initiating immediate cold-water immersion < 10 C. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Distinguishing heat stroke by central nervous system encephalopathy and initiating immediate cold-water immersion < 10 c",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, distinguishing heat stroke by central nervous system encephalopathy and initiating immediate cold-water immersion < 10 C represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, distinguishing heat stroke by central nervous system encephalopathy and initiating immediate cold-water immersion < 10 C represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion. In the clinical management of MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Heat Exhaustion vs Exertional Heat Stroke Altered Mental Status Ice Immersion."
+    ],
+    "references": [
+      {
+        "label": "RCEM Clinical Guidelines on Hyperthermia",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22669",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexameth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male is triaged to the acute resuscitation cubicle of an emergency medicine receiving unit in London with clinical findings indicative of MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag. Clinical examination and investigative review confirm arranging immediate descent of at least 1,000 meters, administering oral/IV dexamethasone 8 mg, and using portable hyperbaric chamber. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Arranging immediate descent of at least 1,000 meters, administering oral/iv dexamethasone 8 mg, and using portable hyperbaric chamber",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging immediate descent of at least 1,000 meters, administering oral/IV dexamethasone 8 mg, and using portable hyperbaric chamber represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging immediate descent of at least 1,000 meters, administering oral/IV dexamethasone 8 mg, and using portable hyperbaric chamber represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag. In the clinical management of MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental High-Altitude Cerebral Edema HACE Immediate Descent Dexamethasone Hyperbaric Bag."
+    ],
+    "references": [
+      {
+        "label": "RCEM and Wilderness Medical Society Altitude Guidelines",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22670",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female undergoes emergency specialty assessment in the regional major trauma center resuscitation room with clinical findings indicative of MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine. Clinical examination and investigative review confirm arranging emergency descent, administering high-flow oxygen, and prescribing oral extended-release nifedipine 20 to 30 mg twice daily. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Arranging emergency descent, administering high-flow oxygen, and prescribing oral extended-release nifedipine 20 to 30 mg twice daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging emergency descent, administering high-flow oxygen, and prescribing oral extended-release nifedipine 20 to 30 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, arranging emergency descent, administering high-flow oxygen, and prescribing oral extended-release nifedipine 20 to 30 mg twice daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine. In the clinical management of MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental High-Altitude Pulmonary Edema HAPE Immediate Descent Oxygen Nifedipine."
+    ],
+    "references": [
+      {
+        "label": "RCEM Guidelines on High Altitude Illness",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22671",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Ki",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male is evaluated by the emergency medicine team in the pediatric emergency suite with clinical findings indicative of MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring. Clinical examination and investigative review confirm placing on continuous 24-hour cardiac telemetry, assessing for deep occult compartment burns, and monitoring serum creatine kinase. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Placing on continuous 24-hour cardiac telemetry, assessing for deep occult compartment burns, and monitoring serum creatine kinase",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, placing on continuous 24-hour cardiac telemetry, assessing for deep occult compartment burns, and monitoring serum creatine kinase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, placing on continuous 24-hour cardiac telemetry, assessing for deep occult compartment burns, and monitoring serum creatine kinase represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring. In the clinical management of MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Electric Shock High-Voltage Cardiac Telemetry CK Creatine Kinase Monitoring."
+    ],
+    "references": [
+      {
+        "label": "RCEM Electrical Injury Practice Standards",
+        "url": "https://rcem.ac.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-22672",
+    "exam": "MRCEM",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary E",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female presents with acute collapse to the emergency department clinical decision unit with clinical findings indicative of MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP. Clinical examination and investigative review confirm providing lung-protective mechanical ventilation with positive end-expiratory pressure (PEEP) for acute non-cardiogenic edema. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or emergency guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Providing lung-protective mechanical ventilation with positive end-expiratory pressure (peep) for acute non-cardiogenic edema",
+        "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing lung-protective mechanical ventilation with positive end-expiratory pressure (PEEP) for acute non-cardiogenic edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for MRCEM, providing lung-protective mechanical ventilation with positive end-expiratory pressure (PEEP) for acute non-cardiogenic edema represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP. In the clinical management of MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of MRCEM Environmental Submersion Drowning Laryngospasm Non-Cardiogenic Pulmonary Edema PEEP."
+    ],
+    "references": [
+      {
+        "label": "RCEM and Resuscitation Council UK Drowning Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
