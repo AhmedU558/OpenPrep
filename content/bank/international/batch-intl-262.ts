@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-25273",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation. Clinical examination and investigative review confirm calculating 5-year absolute CVD risk >= 10% on Australian CVD risk calculator and initiating moderate-to-high intensity statin. Vital signs demonstrate blood pressure 135/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Calculating 5-year absolute cvd risk >= 10% on australian cvd risk calculator and initiating moderate-to-high intensity statin",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating 5-year absolute CVD risk >= 10% on Australian CVD risk calculator and initiating moderate-to-high intensity statin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating 5-year absolute CVD risk >= 10% on Australian CVD risk calculator and initiating moderate-to-high intensity statin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation. In the clinical management of AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Absolute Cardiovascular Disease Risk Australian CVD Calculator and Statin Initiation."
+    ],
+    "references": [
+      {
+        "label": "Australian Heart Foundation CVD Risk Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25274",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria. Clinical examination and investigative review confirm prescribing oral empagliflozin 10 mg or dapagliflozin 10 mg under PBS criteria for patients with inadequate control on metformin. Vital signs demonstrate blood pressure 136/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral empagliflozin 10 mg or dapagliflozin 10 mg under pbs criteria for patients with inadequate control on metformin",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral empagliflozin 10 mg or dapagliflozin 10 mg under PBS criteria for patients with inadequate control on metformin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral empagliflozin 10 mg or dapagliflozin 10 mg under PBS criteria for patients with inadequate control on metformin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria. In the clinical management of AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Type 2 Diabetes Glycemic Control Metformin and SGLT2 Inhibitor PBS Subsidized Criteria."
+    ],
+    "references": [
+      {
+        "label": "RACGP Guidelines for Management of Type 2 Diabetes",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25275",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Dermatology",
+    "topic": "AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excisi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy. Clinical examination and investigative review confirm performing complete diagnostic excisional biopsy with 2 mm lateral margin down to subcutaneous fat avoiding initial shave or punch biopsy. Vital signs demonstrate blood pressure 137/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing complete diagnostic excisional biopsy with 2 mm lateral margin down to subcutaneous fat avoiding initial shave or punch biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing complete diagnostic excisional biopsy with 2 mm lateral margin down to subcutaneous fat avoiding initial shave or punch biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing complete diagnostic excisional biopsy with 2 mm lateral margin down to subcutaneous fat avoiding initial shave or punch biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy. In the clinical management of AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Cutaneous Melanoma Dermoscopy ABCDE Criteria and 2 mm Margin Excision Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Melanoma Guidelines",
+        "url": "https://www.cancer.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25276",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Reh",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation. Clinical examination and investigative review confirm prescribing dual LAMA-LABA inhaler and referring to structured 8-week outpatient pulmonary rehabilitation program. Vital signs demonstrate blood pressure 138/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing dual lama-laba inhaler and referring to structured 8-week outpatient pulmonary rehabilitation program",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing dual LAMA-LABA inhaler and referring to structured 8-week outpatient pulmonary rehabilitation program represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing dual LAMA-LABA inhaler and referring to structured 8-week outpatient pulmonary rehabilitation program represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation. In the clinical management of AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Obstructive Pulmonary Disease COPD-X Plan and Pulmonary Rehabilitation."
+    ],
+    "references": [
+      {
+        "label": "Lung Foundation Australia COPD-X Guidelines",
+        "url": "https://lungfoundation.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25277",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Musculoskeletal",
+    "topic": "AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID. Clinical examination and investigative review confirm recommending land-based strengthening exercise, weight reduction, and topical diclofenac gel before considering oral analgesics or opioids. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Recommending land-based strengthening exercise, weight reduction, and topical diclofenac gel before considering oral analgesics or opioids",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, recommending land-based strengthening exercise, weight reduction, and topical diclofenac gel before considering oral analgesics or opioids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, recommending land-based strengthening exercise, weight reduction, and topical diclofenac gel before considering oral analgesics or opioids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID. In the clinical management of AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Knee Osteoarthritis First-Line Structured Exercise Weight Loss and Topical NSAID."
+    ],
+    "references": [
+      {
+        "label": "RACGP Clinical Guideline for Knee Osteoarthritis",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25278",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly. Clinical examination and investigative review confirm administering 60 mg subcutaneous denosumab every 6 months ensuring adequate calcium and vitamin D with dental review prior to therapy. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering 60 mg subcutaneous denosumab every 6 months ensuring adequate calcium and vitamin d with dental review prior to therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 60 mg subcutaneous denosumab every 6 months ensuring adequate calcium and vitamin D with dental review prior to therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 60 mg subcutaneous denosumab every 6 months ensuring adequate calcium and vitamin D with dental review prior to therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly. In the clinical management of AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Primary Osteoporosis FRAX Assessment and Subcutaneous Denosumab 60 mg Six-Monthly."
+    ],
+    "references": [
+      {
+        "label": "RACGP Osteoporosis Management Clinical Guidelines",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25279",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gast",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy. Clinical examination and investigative review confirm arranging bidirectional endoscopy to identify occult gastrointestinal malignancy for any adult male with confirmed microcytic iron deficiency. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Arranging bidirectional endoscopy to identify occult gastrointestinal malignancy for any adult male with confirmed microcytic iron deficiency",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, arranging bidirectional endoscopy to identify occult gastrointestinal malignancy for any adult male with confirmed microcytic iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, arranging bidirectional endoscopy to identify occult gastrointestinal malignancy for any adult male with confirmed microcytic iron deficiency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy. In the clinical management of AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Iron Deficiency Anemia in Men Age > 50 Double Endoscopy Urgent Gastroscopy and Colonoscopy."
+    ],
+    "references": [
+      {
+        "label": "Gastroenterological Society of Australia GESA Guidelines",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25280",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74. Clinical examination and investigative review confirm participating in home immunochemical fecal occult blood test screening every 2 years, referring directly for colonoscopy if positive. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Participating in home immunochemical fecal occult blood test screening every 2 years, referring directly for colonoscopy if positive",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, participating in home immunochemical fecal occult blood test screening every 2 years, referring directly for colonoscopy if positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, participating in home immunochemical fecal occult blood test screening every 2 years, referring directly for colonoscopy if positive represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74. In the clinical management of AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine National Bowel Cancer Screening Program Biennial iFOBT from Age 50 to 74."
+    ],
+    "references": [
+      {
+        "label": "Australian Government National Bowel Cancer Screening",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25281",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus H",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25. Clinical examination and investigative review confirm offering clinician-collected or self-collected vaginal hr-HPV cervical screening test every 5 years for women aged 25 to 74. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Offering clinician-collected or self-collected vaginal hr-hpv cervical screening test every 5 years for women aged 25 to 74",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering clinician-collected or self-collected vaginal hr-HPV cervical screening test every 5 years for women aged 25 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering clinician-collected or self-collected vaginal hr-HPV cervical screening test every 5 years for women aged 25 to 74 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25. In the clinical management of AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine National Cervical Screening Program 5-Yearly Human Papillomavirus HPV Test from Age 25."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia National Cervical Screening",
+        "url": "https://www.cancer.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25282",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Sur",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound. Clinical examination and investigative review confirm monitoring serum ALT, HBV DNA, and performing 6-monthly liver ultrasound for hepatocellular carcinoma in high-risk ethnic groups. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Monitoring serum alt, hbv dna, and performing 6-monthly liver ultrasound for hepatocellular carcinoma in high-risk ethnic groups",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, monitoring serum ALT, HBV DNA, and performing 6-monthly liver ultrasound for hepatocellular carcinoma in high-risk ethnic groups represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, monitoring serum ALT, HBV DNA, and performing 6-monthly liver ultrasound for hepatocellular carcinoma in high-risk ethnic groups represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound. In the clinical management of AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Hepatitis B Inactive Carrier Status Six-Monthly ALT and Surveillance Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "GESA Australian Hepatitis B Management Guidelines",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25283",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing. Clinical examination and investigative review confirm performing Q fever skin test and antibody serology before administering Q-Vax vaccine to prevent severe hypersensitivity reactions. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Performing q fever skin test and antibody serology before administering q-vax vaccine to prevent severe hypersensitivity reactions",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing Q fever skin test and antibody serology before administering Q-Vax vaccine to prevent severe hypersensitivity reactions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing Q fever skin test and antibody serology before administering Q-Vax vaccine to prevent severe hypersensitivity reactions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing. In the clinical management of AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Q Fever Coxiella burnetii Abattoir Worker Pre-Vaccination Skin and Serological Testing."
+    ],
+    "references": [
+      {
+        "label": "Australian Immunisation Handbook Q Fever",
+        "url": "https://immunisationhandbook.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25284",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing. Clinical examination and investigative review confirm confirming diagnostic 4-fold rise in IgG or reactive IgM, managing symmetrically distributed arthralgia with oral NSAIDs and physical therapy. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Confirming diagnostic 4-fold rise in igg or reactive igm, managing symmetrically distributed arthralgia with oral nsaids and physical therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming diagnostic 4-fold rise in IgG or reactive IgM, managing symmetrically distributed arthralgia with oral NSAIDs and physical therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming diagnostic 4-fold rise in IgG or reactive IgM, managing symmetrically distributed arthralgia with oral NSAIDs and physical therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing. In the clinical management of AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Ross River Virus Polyarthritis Maculopapular Rash and IgM Serology Testing."
+    ],
+    "references": [
+      {
+        "label": "Australian Government Department of Health Ross River Virus",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25285",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Musculoskeletal",
+    "topic": "AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance. Clinical examination and investigative review confirm diagnosing mosquito-borne infection via serology, reassuring patient of benign self-limiting course, and prescribing paracetamol and rest. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnosing mosquito-borne infection via serology, reassuring patient of benign self-limiting course, and prescribing paracetamol and rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing mosquito-borne infection via serology, reassuring patient of benign self-limiting course, and prescribing paracetamol and rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing mosquito-borne infection via serology, reassuring patient of benign self-limiting course, and prescribing paracetamol and rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance. In the clinical management of AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Barmah Forest Virus Mosquito-Borne Alphavirus Arthralgia and Reassurance."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines eTG Complete Barmah Forest",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25286",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "Respiratory",
+    "topic": "AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia In",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction. Clinical examination and investigative review confirm initiating intensive phase IV ceftazidime 2 g every 6 hours for minimum 14 days followed by oral trimethoprim-sulfamethoxazole for 3 to 6 months. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intensive phase iv ceftazidime 2 g every 6 hours for minimum 14 days followed by oral trimethoprim-sulfamethoxazole for 3 to 6 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating intensive phase IV ceftazidime 2 g every 6 hours for minimum 14 days followed by oral trimethoprim-sulfamethoxazole for 3 to 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating intensive phase IV ceftazidime 2 g every 6 hours for minimum 14 days followed by oral trimethoprim-sulfamethoxazole for 3 to 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction. In the clinical management of AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Melioidosis Burkholderia pseudomallei Top End Northern Australia Intravenous Ceftazidime Induction."
+    ],
+    "references": [
+      {
+        "label": "Northern Territory Health Melioidosis Treatment Guidelines",
+        "url": "https://health.nt.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25287",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Su",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care. Clinical examination and investigative review confirm notifying local public health unit within 24 hours, managing acute viremic phase with oral fluids and paracetamol, avoiding NSAIDs. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Notifying local public health unit within 24 hours, managing acute viremic phase with oral fluids and paracetamol, avoiding nsaids",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying local public health unit within 24 hours, managing acute viremic phase with oral fluids and paracetamol, avoiding NSAIDs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying local public health unit within 24 hours, managing acute viremic phase with oral fluids and paracetamol, avoiding NSAIDs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care. In the clinical management of AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Dengue Fever Far North Queensland Aedes aegypti Notification and Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "Queensland Health Dengue Clinical Protocol",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25288",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily with",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours. Clinical examination and investigative review confirm prescribing oral valaciclovir 1000 mg three times daily for 7 days initiated within 72 hours of rash onset to reduce post-herpetic neuralgia. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral valaciclovir 1000 mg three times daily for 7 days initiated within 72 hours of rash onset to reduce post-herpetic neuralgia",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral valaciclovir 1000 mg three times daily for 7 days initiated within 72 hours of rash onset to reduce post-herpetic neuralgia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral valaciclovir 1000 mg three times daily for 7 days initiated within 72 hours of rash onset to reduce post-herpetic neuralgia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours. In the clinical management of AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Herpes Zoster Shingles Oral Valaciclovir 1 g Three Times Daily within 72 Hours."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Dermatology Valaciclovir",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25289",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval. Clinical examination and investigative review confirm prescribing sacubitril-valsartan, bisoprolol, spironolactone, and empagliflozin optimizing dosing to improve survival in EF <= 40%. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing sacubitril-valsartan, bisoprolol, spironolactone, and empagliflozin optimizing dosing to improve survival in ef <= 40%",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing sacubitril-valsartan, bisoprolol, spironolactone, and empagliflozin optimizing dosing to improve survival in EF <= 40% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing sacubitril-valsartan, bisoprolol, spironolactone, and empagliflozin optimizing dosing to improve survival in EF <= 40% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval. In the clinical management of AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Heart Failure Reduced Ejection Fraction Four Pillars GDMT PBS Approval."
+    ],
+    "references": [
+      {
+        "label": "National Heart Foundation and CSANZ HF Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25290",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban. Clinical examination and investigative review confirm prescribing oral rivaroxaban 20 mg once daily for non-valvular atrial fibrillation with stroke risk score >= 1 for men or >= 2 for women. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Prescribing oral rivaroxaban 20 mg once daily for non-valvular atrial fibrillation with stroke risk score >= 1 for men or >= 2 for women",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral rivaroxaban 20 mg once daily for non-valvular atrial fibrillation with stroke risk score >= 1 for men or >= 2 for women represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral rivaroxaban 20 mg once daily for non-valvular atrial fibrillation with stroke risk score >= 1 for men or >= 2 for women represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban. In the clinical management of AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Atrial Fibrillation Stroke Prevention CHA2DS2-VA Score Oral Anticoagulant Rivaroxaban."
+    ],
+    "references": [
+      {
+        "label": "National Heart Foundation CSANZ Atrial Fibrillation",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25291",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen. Clinical examination and investigative review confirm prescribing bismuth subcitrate, metronidazole, tetracycline, and esomeprazole twice daily for 14 days achieving high eradication. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing bismuth subcitrate, metronidazole, tetracycline, and esomeprazole twice daily for 14 days achieving high eradication",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing bismuth subcitrate, metronidazole, tetracycline, and esomeprazole twice daily for 14 days achieving high eradication represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing bismuth subcitrate, metronidazole, tetracycline, and esomeprazole twice daily for 14 days achieving high eradication represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen. In the clinical management of AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Helicobacter pylori Quadruple Eradication Therapy Bismuth-Based 14-Day Regimen."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Gastrointestinal H. pylori",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25292",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibit",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril. Clinical examination and investigative review confirm initiating oral ramipril 2.5 mg daily titrated up to 10 mg daily achieving urinary albumin reduction > 30% while monitoring creatinine. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral ramipril 2.5 mg daily titrated up to 10 mg daily achieving urinary albumin reduction > 30% while monitoring creatinine",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral ramipril 2.5 mg daily titrated up to 10 mg daily achieving urinary albumin reduction > 30% while monitoring creatinine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral ramipril 2.5 mg daily titrated up to 10 mg daily achieving urinary albumin reduction > 30% while monitoring creatinine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril. In the clinical management of AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chronic Kidney Disease Stage 3 Non-Diabetic Albuminuria ACE Inhibitor Ramipril."
+    ],
+    "references": [
+      {
+        "label": "Kidney Health Australia Caring for Australians with Renal Impairment",
+        "url": "https://kidney.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25293",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobili",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique. Clinical examination and investigative review confirm applying broad elastic pressure immobilisation bandage over entire bitten limb, splinting, keeping patient immobile, and performing 20WBCT. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Applying broad elastic pressure immobilisation bandage over entire bitten limb, splinting, keeping patient immobile, and performing 20wbct",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying broad elastic pressure immobilisation bandage over entire bitten limb, splinting, keeping patient immobile, and performing 20WBCT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying broad elastic pressure immobilisation bandage over entire bitten limb, splinting, keeping patient immobile, and performing 20WBCT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique. In the clinical management of AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Australasian Elapid Snakebite Eastern Brown Snake Pressure Immobilisation Bandage Technique."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council ARC Guideline 9.4.8",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25294",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domesti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application. Clinical examination and investigative review confirm dousing adherent tentacles with domestic vinegar (4-6% acetic acid) for minimum 30 seconds to inactivate undischarged nematocysts, and antivenom. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Dousing adherent tentacles with domestic vinegar (4-6% acetic acid) for minimum 30 seconds to inactivate undischarged nematocysts, and antivenom",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, dousing adherent tentacles with domestic vinegar (4-6% acetic acid) for minimum 30 seconds to inactivate undischarged nematocysts, and antivenom represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, dousing adherent tentacles with domestic vinegar (4-6% acetic acid) for minimum 30 seconds to inactivate undischarged nematocysts, and antivenom represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application. In the clinical management of AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Chironex fleckeri Box Jellyfish Stinger Severe Pain Copious Domestic Vinegar Application."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council ARC Jellyfish Guidelines",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25295",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Appl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia. Clinical examination and investigative review confirm applying local ice pack or cold compress, administering oral or IV analgesia, and reserving redback spider antivenom for severe systemic signs. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Applying local ice pack or cold compress, administering oral or iv analgesia, and reserving redback spider antivenom for severe systemic signs",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying local ice pack or cold compress, administering oral or IV analgesia, and reserving redback spider antivenom for severe systemic signs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying local ice pack or cold compress, administering oral or IV analgesia, and reserving redback spider antivenom for severe systemic signs represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia. In the clinical management of AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Redback Spiderbite Latrodectus hasselti Intense Pain Cold Pack Application and Analgesia."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Toxicology Spiderbite Protocol",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25296",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Nervous System",
+    "topic": "AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration. Clinical examination and investigative review confirm initiating continuous artificial ventilation and airway support immediately to manage complete motor and diaphragmatic paralysis. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating continuous artificial ventilation and airway support immediately to manage complete motor and diaphragmatic paralysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating continuous artificial ventilation and airway support immediately to manage complete motor and diaphragmatic paralysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating continuous artificial ventilation and airway support immediately to manage complete motor and diaphragmatic paralysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration. In the clinical management of AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Blue-Ringed Octopus Bite Tetrodotoxin Paralysis Immediate Mouth-to-Mask Artificial Respiration."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council ARC Marine Stings",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25297",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Dermatology",
+    "topic": "AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius. Clinical examination and investigative review confirm immersing affected hand or foot in tolerably hot water (45 C) for up to 90 minutes to denature heat-labile venom protein toxins. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Immersing affected hand or foot in tolerably hot water (45 c) for up to 90 minutes to denature heat-labile venom protein toxins",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, immersing affected hand or foot in tolerably hot water (45 C) for up to 90 minutes to denature heat-labile venom protein toxins represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, immersing affected hand or foot in tolerably hot water (45 C) for up to 90 minutes to denature heat-labile venom protein toxins represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius. In the clinical management of AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Synanceia Stonefish Envenomation Puncture Wound Immediate Hot Water Immersion 45 Degrees Celsius."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Toxicology Marine Envenomation",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25298",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid. Clinical examination and investigative review confirm activating MTP with equal proportions of PRBCs, fresh frozen plasma, and platelets, administering IV tranexamic acid 1 g within 3 hours. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Activating mtp with equal proportions of prbcs, fresh frozen plasma, and platelets, administering iv tranexamic acid 1 g within 3 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, activating MTP with equal proportions of PRBCs, fresh frozen plasma, and platelets, administering IV tranexamic acid 1 g within 3 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, activating MTP with equal proportions of PRBCs, fresh frozen plasma, and platelets, administering IV tranexamic acid 1 g within 3 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid. In the clinical management of AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Major Trauma Massive Transfusion Protocol MTP Ratio 1 to 1 to 1 and Early Tranexamic Acid."
+    ],
+    "references": [
+      {
+        "label": "National Blood Authority Australia MTP Guidelines",
+        "url": "https://www.blood.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25299",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporat",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling. Clinical examination and investigative review confirm removing clothing, spraying with tepid water while fanning, and applying ice packs to neck, axillae, and groins to lower temperature rapidly. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Removing clothing, spraying with tepid water while fanning, and applying ice packs to neck, axillae, and groins to lower temperature rapidly",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, removing clothing, spraying with tepid water while fanning, and applying ice packs to neck, axillae, and groins to lower temperature rapidly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, removing clothing, spraying with tepid water while fanning, and applying ice packs to neck, axillae, and groins to lower temperature rapidly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling. In the clinical management of AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Classical Heat Stroke Core Temperature > 40 C Rapid Evaporative and Conductive Cooling."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council ARC Guideline 9.3.4",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25300",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm. Clinical examination and investigative review confirm evaluating baseline and 1-hour high-sensitivity cardiac troponin T/I to safely discharge low-risk non-ischemic patients from emergency. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Evaluating baseline and 1-hour high-sensitivity cardiac troponin t/i to safely discharge low-risk non-ischemic patients from emergency",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, evaluating baseline and 1-hour high-sensitivity cardiac troponin T/I to safely discharge low-risk non-ischemic patients from emergency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, evaluating baseline and 1-hour high-sensitivity cardiac troponin T/I to safely discharge low-risk non-ischemic patients from emergency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm. In the clinical management of AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Coronary Syndrome High-Sensitivity Troponin 0-to-1-Hour Rapid Rule-Out Algorithm."
+    ],
+    "references": [
+      {
+        "label": "National Heart Foundation CSANZ ACS Algorithm",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25301",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compression",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation. Clinical examination and investigative review confirm delivering 30 compressions to 2 ventilations at 100 to 120 beats/min with minimal interruptions and shocking VF/pulseless VT without delay. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Delivering 30 compressions to 2 ventilations at 100 to 120 beats/min with minimal interruptions and shocking vf/pulseless vt without delay",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, delivering 30 compressions to 2 ventilations at 100 to 120 beats/min with minimal interruptions and shocking VF/pulseless VT without delay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, delivering 30 compressions to 2 ventilations at 100 to 120 beats/min with minimal interruptions and shocking VF/pulseless VT without delay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation. In the clinical management of AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Out-of-Hospital Adult Cardiac Arrest High-Quality Chest Compressions and Immediate AED Defibrillation."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council Basic Life Support",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25302",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombect",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours. Clinical examination and investigative review confirm arranging immediate CT perfusion and CT angiogram and transferring for catheter-directed mechanical thrombectomy up to 24-hour window. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Arranging immediate ct perfusion and ct angiogram and transferring for catheter-directed mechanical thrombectomy up to 24-hour window",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, arranging immediate CT perfusion and CT angiogram and transferring for catheter-directed mechanical thrombectomy up to 24-hour window represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, arranging immediate CT perfusion and CT angiogram and transferring for catheter-directed mechanical thrombectomy up to 24-hour window represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours. In the clinical management of AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Ischemic Stroke Large Vessel Occlusion Endovascular Thrombectomy within 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Clinical Guidelines",
+        "url": "https://informme.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25303",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh. Clinical examination and investigative review confirm administering 0.5 mL of 1:1000 adrenaline IM immediately, placing patient supine with legs elevated, and repeating adrenaline at 5 minutes. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering 0.5 ml of 1:1000 adrenaline im immediately, placing patient supine with legs elevated, and repeating adrenaline at 5 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 0.5 mL of 1:1000 adrenaline IM immediately, placing patient supine with legs elevated, and repeating adrenaline at 5 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 0.5 mL of 1:1000 adrenaline IM immediately, placing patient supine with legs elevated, and repeating adrenaline at 5 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh. In the clinical management of AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Severe Anaphylaxis Adult Intramuscular Adrenaline 0.5 mg into Lateral Mid-Thigh."
+    ],
+    "references": [
+      {
+        "label": "ASCIA Guidelines for Acute Management of Anaphylaxis",
+        "url": "https://www.allergy.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25304",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anter",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line. Clinical examination and investigative review confirm performing needle decompression in 5th intercostal space anterior axillary line followed promptly by insertion of intercostal chest catheter. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Performing needle decompression in 5th intercostal space anterior axillary line followed promptly by insertion of intercostal chest catheter",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing needle decompression in 5th intercostal space anterior axillary line followed promptly by insertion of intercostal chest catheter represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing needle decompression in 5th intercostal space anterior axillary line followed promptly by insertion of intercostal chest catheter represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line. In the clinical management of AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Tension Pneumothorax Immediate 14-Gauge Decompression 5th ICS Anterior Axillary Line."
+    ],
+    "references": [
+      {
+        "label": "Australian Resuscitation Council ARC Trauma Guidelines",
+        "url": "https://resus.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25305",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Ev",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes. Clinical examination and investigative review confirm delivering 12 separate puffs of salbutamol 100 mcg via large-volume spacer every 20 minutes with oral prednisolone 50 mg. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Delivering 12 separate puffs of salbutamol 100 mcg via large-volume spacer every 20 minutes with oral prednisolone 50 mg",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, delivering 12 separate puffs of salbutamol 100 mcg via large-volume spacer every 20 minutes with oral prednisolone 50 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, delivering 12 separate puffs of salbutamol 100 mcg via large-volume spacer every 20 minutes with oral prednisolone 50 mg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes. In the clinical management of AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Severe Asthma Flare Inhaled Salbutamol via Spacer 12 Puffs Every 20 Minutes."
+    ],
+    "references": [
+      {
+        "label": "National Asthma Council Australia Australian Asthma Handbook",
+        "url": "https://www.nationalasthma.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25306",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148. Clinical examination and investigative review confirm infusing 30 mL/kg of buffered crystalloid Plasmalyte within first 3 hours and obtaining blood cultures before starting broad-spectrum antibiotics. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Infusing 30 ml/kg of buffered crystalloid plasmalyte within first 3 hours and obtaining blood cultures before starting broad-spectrum antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 30 mL/kg of buffered crystalloid Plasmalyte within first 3 hours and obtaining blood cultures before starting broad-spectrum antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 30 mL/kg of buffered crystalloid Plasmalyte within first 3 hours and obtaining blood cultures before starting broad-spectrum antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148. In the clinical management of AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Sepsis Septic Shock Balanced Crystalloid Resuscitation 30 mL-kg Plasmalyte-148."
+    ],
+    "references": [
+      {
+        "label": "Australian Sepsis Network Clinical Pathway",
+        "url": "https://www.australiansepsisnetwork.net.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25307",
+    "exam": "AMC",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate I",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion. Clinical examination and investigative review confirm infusing 0.9% normal saline with potassium chloride and initiating intravenous actrapid regular insulin 0.1 units/kg/hr. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Infusing 0.9% normal saline with potassium chloride and initiating intravenous actrapid regular insulin 0.1 units/kg/hr",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 0.9% normal saline with potassium chloride and initiating intravenous actrapid regular insulin 0.1 units/kg/hr represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 0.9% normal saline with potassium chloride and initiating intravenous actrapid regular insulin 0.1 units/kg/hr represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion. In the clinical management of AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Diabetic Ketoacidosis Normal Saline Fluid Protocol and Fixed-Rate Insulin Infusion."
+    ],
+    "references": [
+      {
+        "label": "Australian Diabetes Society ADS DKA Guidelines",
+        "url": "https://diabetessociety.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25308",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acet",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen. Clinical examination and investigative review confirm administering 20-hour IV acetylcysteine protocol with repeated serum paracetamol levels for massive ingestion or modified-release tablets. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering 20-hour iv acetylcysteine protocol with repeated serum paracetamol levels for massive ingestion or modified-release tablets",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 20-hour IV acetylcysteine protocol with repeated serum paracetamol levels for massive ingestion or modified-release tablets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 20-hour IV acetylcysteine protocol with repeated serum paracetamol levels for massive ingestion or modified-release tablets represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen. In the clinical management of AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Paracetamol Overdose Modified-Release Formulation Double Acetylcysteine Regimen."
+    ],
+    "references": [
+      {
+        "label": "Clinical Toxicology Guidelines Paracetamol Australia",
+        "url": "https://www.mja.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25309",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol. Clinical examination and investigative review confirm administering low-dose oral or IM droperidol 2.5 to 5 mg for acute violent delirium when verbal de-escalation strategies have failed. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering low-dose oral or im droperidol 2.5 to 5 mg for acute violent delirium when verbal de-escalation strategies have failed",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering low-dose oral or IM droperidol 2.5 to 5 mg for acute violent delirium when verbal de-escalation strategies have failed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering low-dose oral or IM droperidol 2.5 to 5 mg for acute violent delirium when verbal de-escalation strategies have failed represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol. In the clinical management of AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Agitation Delirium Severe Distress Low-Dose Oral Haloperidol vs Droperidol."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Psychotropic Agitation Protocol",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25310",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bol",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline. Clinical examination and investigative review confirm infusing 100 mL IV bolus of 3% sodium chloride over 10 minutes, repeating twice if neurological seizure or obtundation persists. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Infusing 100 ml iv bolus of 3% sodium chloride over 10 minutes, repeating twice if neurological seizure or obtundation persists",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 100 mL IV bolus of 3% sodium chloride over 10 minutes, repeating twice if neurological seizure or obtundation persists represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing 100 mL IV bolus of 3% sodium chloride over 10 minutes, repeating twice if neurological seizure or obtundation persists represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline. In the clinical management of AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Severe Symptomatic Hyponatremia Acute Water Intoxication 100 mL Bolus 3 Percent Hypertonic Saline."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Endocrinology Hyponatremia",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25311",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization. Clinical examination and investigative review confirm maintaining manual inline cervical stabilization and using soft collar with vacuum mattress to prevent pressure ulceration and elevated ICP. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Maintaining manual inline cervical stabilization and using soft collar with vacuum mattress to prevent pressure ulceration and elevated icp",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, maintaining manual inline cervical stabilization and using soft collar with vacuum mattress to prevent pressure ulceration and elevated ICP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, maintaining manual inline cervical stabilization and using soft collar with vacuum mattress to prevent pressure ulceration and elevated ICP represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization. In the clinical management of AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Acute Spinal Cord Injury Immobilization Rigid Cervical Collar Avoidance and Inline Stabilization."
+    ],
+    "references": [
+      {
+        "label": "Australian Trauma Society ATLS Protocol",
+        "url": "https://www.atls.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25312",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single We",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus. Clinical examination and investigative review confirm administering weight-adjusted IV tenecteplase bolus for PE presenting with sustained systemic hypotension or cardiac arrest. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering weight-adjusted iv tenecteplase bolus for pe presenting with sustained systemic hypotension or cardiac arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering weight-adjusted IV tenecteplase bolus for PE presenting with sustained systemic hypotension or cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering weight-adjusted IV tenecteplase bolus for PE presenting with sustained systemic hypotension or cardiac arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus. In the clinical management of AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Medicine Massive Pulmonary Embolism Shock Intravenous Tenecteplase Single Weight-Based Bolus."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Cardiovascular Thrombolysis in PE",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25313",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy with",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours. Clinical examination and investigative review confirm confirming diagnosis clinically or with targeted ultrasound and performing three-port laparoscopic appendectomy within 24 hours. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Confirming diagnosis clinically or with targeted ultrasound and performing three-port laparoscopic appendectomy within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming diagnosis clinically or with targeted ultrasound and performing three-port laparoscopic appendectomy within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming diagnosis clinically or with targeted ultrasound and performing three-port laparoscopic appendectomy within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours. In the clinical management of AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Appendicitis Alvarado Score and Laparoscopic Appendectomy within 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Surgeons RACS Emergency Surgery",
+        "url": "https://www.surgeons.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25314",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscop",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm identifying gallbladder wall thickening > 4 mm and sonographic Murphy sign and scheduling laparoscopic cholecystectomy within 72 hours. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Identifying gallbladder wall thickening > 4 mm and sonographic murphy sign and scheduling laparoscopic cholecystectomy within 72 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, identifying gallbladder wall thickening > 4 mm and sonographic Murphy sign and scheduling laparoscopic cholecystectomy within 72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, identifying gallbladder wall thickening > 4 mm and sonographic Murphy sign and scheduling laparoscopic cholecystectomy within 72 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy. In the clinical management of AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Calculous Cholecystitis Tokyo Guidelines 2018 Early Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Surgeons Biliary Guidelines",
+        "url": "https://www.surgeons.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25315",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique. Clinical examination and investigative review confirm performing transabdominal preperitoneal (TAPP) laparoscopic repair or open Lichtenstein mesh hernioplasty under local/general anesthesia. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing transabdominal preperitoneal (tapp) laparoscopic repair or open lichtenstein mesh hernioplasty under local/general anesthesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing transabdominal preperitoneal (TAPP) laparoscopic repair or open Lichtenstein mesh hernioplasty under local/general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing transabdominal preperitoneal (TAPP) laparoscopic repair or open Lichtenstein mesh hernioplasty under local/general anesthesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique. In the clinical management of AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Symptomatic Inguinal Hernia Tension-Free Mesh Repair Lichtenstein vs TAPP Technique."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Surgeons Hernia Protocol",
+        "url": "https://www.surgeons.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25316",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exerc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol. Clinical examination and investigative review confirm prescribing 12-week supervised exercise program and oral cilostazol 100 mg twice daily for patients with ankle-brachial index 0.6 to 0.8. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing 12-week supervised exercise program and oral cilostazol 100 mg twice daily for patients with ankle-brachial index 0.6 to 0.8",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing 12-week supervised exercise program and oral cilostazol 100 mg twice daily for patients with ankle-brachial index 0.6 to 0.8 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing 12-week supervised exercise program and oral cilostazol 100 mg twice daily for patients with ankle-brachial index 0.6 to 0.8 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol. In the clinical management of AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Peripheral Artery Disease Intermittent Claudication Supervised Exercise and Cilostazol."
+    ],
+    "references": [
+      {
+        "label": "Australian and New Zealand Society for Vascular Surgery ANZSVS",
+        "url": "https://www.anzsvs.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25317",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy. Clinical examination and investigative review confirm performing non-contrast CT KUB to measure stone size and prescribing oral tamsulosin 0.4 mg daily for distal ureteric stones <= 5 mm. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Performing non-contrast ct kub to measure stone size and prescribing oral tamsulosin 0.4 mg daily for distal ureteric stones <= 5 mm",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing non-contrast CT KUB to measure stone size and prescribing oral tamsulosin 0.4 mg daily for distal ureteric stones <= 5 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing non-contrast CT KUB to measure stone size and prescribing oral tamsulosin 0.4 mg daily for distal ureteric stones <= 5 mm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy. In the clinical management of AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Renal Colic Calculus Unenhanced Low-Dose CT KUB and Tamsulosin Expulsive Therapy."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of Australia and New Zealand USANZ",
+        "url": "https://www.usanz.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25318",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74. Clinical examination and investigative review confirm recommending biennial two-view digital screening mammography for asymptomatic women aged 50 to 74 with individual risk counseling. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Recommending biennial two-view digital screening mammography for asymptomatic women aged 50 to 74 with individual risk counseling",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, recommending biennial two-view digital screening mammography for asymptomatic women aged 50 to 74 with individual risk counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, recommending biennial two-view digital screening mammography for asymptomatic women aged 50 to 74 with individual risk counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74. In the clinical management of AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Screening Mammography BreastScreen Australia Free Biennial Mammogram from Age 50 to 74."
+    ],
+    "references": [
+      {
+        "label": "BreastScreen Australia National Policy Guidelines",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25319",
+    "exam": "AMC",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle As",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy. Clinical examination and investigative review confirm evaluating high-risk sonographic features (hypoechoic, taller-than-wide, microcalcifications) and performing ultrasound-guided FNAB. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating high-risk sonographic features (hypoechoic, taller-than-wide, microcalcifications) and performing ultrasound-guided fnab",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, evaluating high-risk sonographic features (hypoechoic, taller-than-wide, microcalcifications) and performing ultrasound-guided FNAB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, evaluating high-risk sonographic features (hypoechoic, taller-than-wide, microcalcifications) and performing ultrasound-guided FNAB represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy. In the clinical management of AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Solitary Thyroid Nodule AUS-TIRADS Classification and Fine-Needle Aspiration Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Australian Endocrine Surgeons Guidelines",
+        "url": "https://www.endocrinesurgeons.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25320",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent. Clinical examination and investigative review confirm reserving supplemental oxygen for oxygen saturation < 90%, avoiding routine bronchodilators, steroids, or chest physiotherapy. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reserving supplemental oxygen for oxygen saturation < 90%, avoiding routine bronchodilators, steroids, or chest physiotherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, reserving supplemental oxygen for oxygen saturation < 90%, avoiding routine bronchodilators, steroids, or chest physiotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, reserving supplemental oxygen for oxygen saturation < 90%, avoiding routine bronchodilators, steroids, or chest physiotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent. In the clinical management of AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Acute Bronchiolitis PREDICT Australasian Guidelines Supplemental Oxygen Threshold SpO2 < 90 Percent."
+    ],
+    "references": [
+      {
+        "label": "Australasian College for Emergency Medicine PREDICT Bronchiolitis",
+        "url": "https://predict.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25321",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation. Clinical examination and investigative review confirm administering oral dexamethasone 0.15 mg/kg with cold humid air and reserving nebulized adrenaline 1:1000 for stridor at rest. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral dexamethasone 0.15 mg/kg with cold humid air and reserving nebulized adrenaline 1:1000 for stridor at rest",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral dexamethasone 0.15 mg/kg with cold humid air and reserving nebulized adrenaline 1:1000 for stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral dexamethasone 0.15 mg/kg with cold humid air and reserving nebulized adrenaline 1:1000 for stridor at rest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation. In the clinical management of AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Viral Croup Barking Cough Single Dose Oral Dexamethasone 0.15 mg-kg Formulation."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Croup Guidelines",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25322",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinj",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg. Clinical examination and investigative review confirm prescribing EpiPen Jr (150 mcg) for weight 10 to 20 kg or EpiPen (300 mcg) for weight > 20 kg with written emergency ASCIA anaphylaxis plan. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing epipen jr (150 mcg) for weight 10 to 20 kg or epipen (300 mcg) for weight > 20 kg with written emergency ascia anaphylaxis plan",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing EpiPen Jr (150 mcg) for weight 10 to 20 kg or EpiPen (300 mcg) for weight > 20 kg with written emergency ASCIA anaphylaxis plan represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing EpiPen Jr (150 mcg) for weight 10 to 20 kg or EpiPen (300 mcg) for weight > 20 kg with written emergency ASCIA anaphylaxis plan represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg. In the clinical management of AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Severe IgE Anaphylaxis Child ASCIA Action Plan Adrenaline Autoinjector EpiPen 150 vs 300 mcg."
+    ],
+    "references": [
+      {
+        "label": "Australasian Society of Clinical Immunology and Allergy ASCIA",
+        "url": "https://www.allergy.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25323",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceft",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing. Clinical examination and investigative review confirm administering IV/IM ceftriaxone 100 mg/kg immediately without waiting for LP and notifying state public health unit for rifampicin prophylaxis. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv/im ceftriaxone 100 mg/kg immediately without waiting for lp and notifying state public health unit for rifampicin prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IV/IM ceftriaxone 100 mg/kg immediately without waiting for LP and notifying state public health unit for rifampicin prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IV/IM ceftriaxone 100 mg/kg immediately without waiting for LP and notifying state public health unit for rifampicin prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing. In the clinical management of AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Invasive Meningococcal Disease Toxic Rash Urgent Intravenous Ceftriaxone and Public Health Tracing."
+    ],
+    "references": [
+      {
+        "label": "Australian Immunisation Handbook Meningococcal Disease",
+        "url": "https://immunisationhandbook.health.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25324",
+    "exam": "AMC",
+    "subject": "Microbiology",
+    "system": "General Principles",
+    "topic": "AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Or",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day. Clinical examination and investigative review confirm prescribing high-dose oral amoxicillin 90 mg/kg/day divided twice daily for 7 days to treat acute otitis media and prevent chronic perforation. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose oral amoxicillin 90 mg/kg/day divided twice daily for 7 days to treat acute otitis media and prevent chronic perforation",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing high-dose oral amoxicillin 90 mg/kg/day divided twice daily for 7 days to treat acute otitis media and prevent chronic perforation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing high-dose oral amoxicillin 90 mg/kg/day divided twice daily for 7 days to treat acute otitis media and prevent chronic perforation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day. In the clinical management of AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Otitis Media in Aboriginal and Torres Strait Islander Children Oral Amoxicillin 90 mg-kg-day."
+    ],
+    "references": [
+      {
+        "label": "Otitis Media Guidelines for Aboriginal and Torres Strait Islander Children",
+        "url": "https://www.otitisguidelines.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25325",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT. Clinical examination and investigative review confirm offering cell-free DNA (NIPT) screening from 10 weeks or combined first-trimester screening at 11 to 13 weeks for trisomies 21, 18, and 13. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Offering cell-free dna (nipt) screening from 10 weeks or combined first-trimester screening at 11 to 13 weeks for trisomies 21, 18, and 13",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering cell-free DNA (NIPT) screening from 10 weeks or combined first-trimester screening at 11 to 13 weeks for trisomies 21, 18, and 13 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering cell-free DNA (NIPT) screening from 10 weeks or combined first-trimester screening at 11 to 13 weeks for trisomies 21, 18, and 13 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT. In the clinical management of AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics First-Trimester Aneuploidy Screening Combined Nuchal Translucency Free Beta-hCG PAPP-A vs NIPT."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Prenatal Screening Guidelines",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25326",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg B",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks. Clinical examination and investigative review confirm initiating oral aspirin 150 mg at night before 16 weeks gestation until 36 weeks for women with previous preeclampsia or chronic hypertension. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral aspirin 150 mg at night before 16 weeks gestation until 36 weeks for women with previous preeclampsia or chronic hypertension",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral aspirin 150 mg at night before 16 weeks gestation until 36 weeks for women with previous preeclampsia or chronic hypertension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral aspirin 150 mg at night before 16 weeks gestation until 36 weeks for women with previous preeclampsia or chronic hypertension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks. In the clinical management of AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Preeclampsia Prevention High-Risk Woman Low-Dose Aspirin 150 mg Bedtime from 12 Weeks."
+    ],
+    "references": [
+      {
+        "label": "SOMANZ Society of Obstetric Medicine of Australia and New Zealand",
+        "url": "https://somanz.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25327",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral G",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test. Clinical examination and investigative review confirm diagnosing GDM with fasting glucose >= 5.1 mmol/L, 1-hour >= 10.0, or 2-hour >= 8.5 mmol/L performed between 24 and 28 weeks gestation. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Diagnosing gdm with fasting glucose >= 5.1 mmol/l, 1-hour >= 10.0, or 2-hour >= 8.5 mmol/l performed between 24 and 28 weeks gestation",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing GDM with fasting glucose >= 5.1 mmol/L, 1-hour >= 10.0, or 2-hour >= 8.5 mmol/L performed between 24 and 28 weeks gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing GDM with fasting glucose >= 5.1 mmol/L, 1-hour >= 10.0, or 2-hour >= 8.5 mmol/L performed between 24 and 28 weeks gestation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test. In the clinical management of AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Gestational Diabetes Mellitus ADIPS Criteria Universal 75g Oral Glucose Tolerance Test."
+    ],
+    "references": [
+      {
+        "label": "Australasian Diabetes in Pregnancy Society ADIPS Guidelines",
+        "url": "https://adips.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25328",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days. Clinical examination and investigative review confirm prescribing oral mifepristone 200 mg followed 24 to 48 hours later by buccal misoprostol 800 mcg for medical termination up to 9 weeks. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral mifepristone 200 mg followed 24 to 48 hours later by buccal misoprostol 800 mcg for medical termination up to 9 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral mifepristone 200 mg followed 24 to 48 hours later by buccal misoprostol 800 mcg for medical termination up to 9 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral mifepristone 200 mg followed 24 to 48 hours later by buccal misoprostol 800 mcg for medical termination up to 9 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days. In the clinical management of AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Medical Abortion Early Unwanted Pregnancy Mifepristone 200 mg and Misoprostol 800 mcg up to 63 Days."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Medical Abortion Clinical Guidelines",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25329",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity. Clinical examination and investigative review confirm confirming eligibility requirements under state legislation including incurable advanced progressive condition causing intolerable suffering. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Confirming eligibility requirements under state legislation including incurable advanced progressive condition causing intolerable suffering",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming eligibility requirements under state legislation including incurable advanced progressive condition causing intolerable suffering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming eligibility requirements under state legislation including incurable advanced progressive condition causing intolerable suffering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity. In the clinical management of AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Voluntary Assisted Dying VAD State Legislation Prognosis < 6 Months Decision-Making Capacity."
+    ],
+    "references": [
+      {
+        "label": "Australian Medical Association AMA VAD Position Statement",
+        "url": "https://www.ama.com.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25330",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Su",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication. Clinical examination and investigative review confirm notifying Australian Health Practitioner Regulation Agency when treating doctor forms reasonable belief of practitioner placing public at risk. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Notifying australian health practitioner regulation agency when treating doctor forms reasonable belief of practitioner placing public at risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying Australian Health Practitioner Regulation Agency when treating doctor forms reasonable belief of practitioner placing public at risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, notifying Australian Health Practitioner Regulation Agency when treating doctor forms reasonable belief of practitioner placing public at risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication. In the clinical management of AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Mandatory Reporting to AHPRA Impaired Medical Practitioner Alcohol Substance Intoxication."
+    ],
+    "references": [
+      {
+        "label": "Medical Board of Australia Mandatory Notifications Guidelines",
+        "url": "https://www.medicalboard.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25331",
+    "exam": "AMC",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care. Clinical examination and investigative review confirm engaging Aboriginal Health Workers, listening without judgment, respecting cultural protocols, and delivering culturally secure clinical care. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Engaging aboriginal health workers, listening without judgment, respecting cultural protocols, and delivering culturally secure clinical care",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, engaging Aboriginal Health Workers, listening without judgment, respecting cultural protocols, and delivering culturally secure clinical care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, engaging Aboriginal Health Workers, listening without judgment, respecting cultural protocols, and delivering culturally secure clinical care represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care. In the clinical management of AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Ethics Cultural Safety in Healthcare Aboriginal and Torres Strait Islander Patients Trauma-Informed Care."
+    ],
+    "references": [
+      {
+        "label": "RACGP Aboriginal and Torres Strait Islander Cultural Health Guide",
+        "url": "https://www.racgp.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25332",
+    "exam": "AMC",
+    "subject": "Biostatistics",
+    "system": "General Principles",
+    "topic": "AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Random",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials. Clinical examination and investigative review confirm identifying Level I evidence as systematic reviews of all relevant RCTs to guide national clinical practice guideline recommendations. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Identifying level i evidence as systematic reviews of all relevant rcts to guide national clinical practice guideline recommendations",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, identifying Level I evidence as systematic reviews of all relevant RCTs to guide national clinical practice guideline recommendations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, identifying Level I evidence as systematic reviews of all relevant RCTs to guide national clinical practice guideline recommendations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials. In the clinical management of AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Biostatistics NHMRC Levels of Evidence Hierarchy Systematic Review of Randomized Controlled Trials."
+    ],
+    "references": [
+      {
+        "label": "National Health and Medical Research Council NHMRC Standards",
+        "url": "https://www.nhmrc.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25333",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and S",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring. Clinical examination and investigative review confirm prescribing oral sertraline 50 mg daily, reviewing at 1 to 2 weeks for transient agitation, and arranging structured psychological counseling. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral sertraline 50 mg daily, reviewing at 1 to 2 weeks for transient agitation, and arranging structured psychological counseling",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral sertraline 50 mg daily, reviewing at 1 to 2 weeks for transient agitation, and arranging structured psychological counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral sertraline 50 mg daily, reviewing at 1 to 2 weeks for transient agitation, and arranging structured psychological counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring. In the clinical management of AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Major Depressive Disorder Moderate Severity SSRI Sertraline and Suicide Monitoring."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Clinical Practice Guidelines for Mood Disorders",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25334",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic. Clinical examination and investigative review confirm initiating oral lithium or atypical antipsychotic quetiapine with baseline renal function, electrolytes, and thyroid screening. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral lithium or atypical antipsychotic quetiapine with baseline renal function, electrolytes, and thyroid screening",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral lithium or atypical antipsychotic quetiapine with baseline renal function, electrolytes, and thyroid screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating oral lithium or atypical antipsychotic quetiapine with baseline renal function, electrolytes, and thyroid screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic. In the clinical management of AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Bipolar I Disorder Acute Manic Episode Oral Lithium or Atypical Antipsychotic."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Bipolar Disorder Clinical Guidelines",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25335",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram. Clinical examination and investigative review confirm combining structured cognitive behavioral therapy with oral escitalopram 10 mg daily for persistent excessive apprehension. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Combining structured cognitive behavioral therapy with oral escitalopram 10 mg daily for persistent excessive apprehension",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, combining structured cognitive behavioral therapy with oral escitalopram 10 mg daily for persistent excessive apprehension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, combining structured cognitive behavioral therapy with oral escitalopram 10 mg daily for persistent excessive apprehension represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram. In the clinical management of AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Generalized Anxiety Disorder GAD-7 Score CBT and First-Line SSRI Escitalopram."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Psychotropic Anxiety",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25336",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperido",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention. Clinical examination and investigative review confirm initiating low-dose oral risperidone 1 to 2 mg daily and referring urgently to specialized youth early psychosis intervention service. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating low-dose oral risperidone 1 to 2 mg daily and referring urgently to specialized youth early psychosis intervention service",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating low-dose oral risperidone 1 to 2 mg daily and referring urgently to specialized youth early psychosis intervention service represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating low-dose oral risperidone 1 to 2 mg daily and referring urgently to specialized youth early psychosis intervention service represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention. In the clinical management of AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry First-Episode Psychosis Second-Generation Antipsychotic Risperidone and Early Intervention."
+    ],
+    "references": [
+      {
+        "label": "Orygen National Centre of Excellence in Youth Mental Health",
+        "url": "https://www.orygen.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25337",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Or",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam. Clinical examination and investigative review confirm administering oral diazepam 10 to 20 mg titrated according to CIWA-Ar score >= 10 with oral thiamine to prevent Wernicke encephalopathy. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral diazepam 10 to 20 mg titrated according to ciwa-ar score >= 10 with oral thiamine to prevent wernicke encephalopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral diazepam 10 to 20 mg titrated according to CIWA-Ar score >= 10 with oral thiamine to prevent Wernicke encephalopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral diazepam 10 to 20 mg titrated according to CIWA-Ar score >= 10 with oral thiamine to prevent Wernicke encephalopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam. In the clinical management of AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Alcohol Withdrawal Syndrome CIWA-Ar Protocol Symptom-Triggered Oral Diazepam."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Addiction Alcohol Withdrawal",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25338",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behaviora",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR. Clinical examination and investigative review confirm referring for evidence-based trauma-focused psychological therapy before considering second-line pharmacotherapy with an SSRI. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Referring for evidence-based trauma-focused psychological therapy before considering second-line pharmacotherapy with an ssri",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, referring for evidence-based trauma-focused psychological therapy before considering second-line pharmacotherapy with an SSRI represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, referring for evidence-based trauma-focused psychological therapy before considering second-line pharmacotherapy with an SSRI represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR. In the clinical management of AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Post-Traumatic Stress Disorder Trauma-Focused Cognitive Behavioral Therapy and EMDR."
+    ],
+    "references": [
+      {
+        "label": "Phoenix Australia Posttraumatic Mental Health Guidelines",
+        "url": "https://www.phoenixaustralia.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25339",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitorin",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization. Clinical examination and investigative review confirm admitting to specialized medical unit, slowly reintroducing enteral nutrition, and monitoring serum phosphate, potassium, and magnesium. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Admitting to specialized medical unit, slowly reintroducing enteral nutrition, and monitoring serum phosphate, potassium, and magnesium",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, admitting to specialized medical unit, slowly reintroducing enteral nutrition, and monitoring serum phosphate, potassium, and magnesium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, admitting to specialized medical unit, slowly reintroducing enteral nutrition, and monitoring serum phosphate, potassium, and magnesium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization. In the clinical management of AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Severe Anorexia Nervosa Low BMI < 14 Refeeding Syndrome Monitoring and Hospitalization."
+    ],
+    "references": [
+      {
+        "label": "RANZCP Clinical Practice Guidelines for Eating Disorders",
+        "url": "https://www.ranzcp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25340",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Expos",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention. Clinical examination and investigative review confirm combining intensive exposure and response prevention psychological therapy with high-dose oral fluoxetine 40 to 80 mg daily. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Combining intensive exposure and response prevention psychological therapy with high-dose oral fluoxetine 40 to 80 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, combining intensive exposure and response prevention psychological therapy with high-dose oral fluoxetine 40 to 80 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, combining intensive exposure and response prevention psychological therapy with high-dose oral fluoxetine 40 to 80 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention. In the clinical management of AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Obsessive-Compulsive Disorder High-Dose SSRI Fluoxetine and Exposure and Response Prevention."
+    ],
+    "references": [
+      {
+        "label": "Therapeutic Guidelines Psychotropic OCD",
+        "url": "https://www.tg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25341",
+    "exam": "AMC",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepez",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria. Clinical examination and investigative review confirm prescribing oral donepezil 5 to 10 mg daily under PBS authority criteria following confirmed mild-to-moderate cognitive decline. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral donepezil 5 to 10 mg daily under pbs authority criteria following confirmed mild-to-moderate cognitive decline",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral donepezil 5 to 10 mg daily under PBS authority criteria following confirmed mild-to-moderate cognitive decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral donepezil 5 to 10 mg daily under PBS authority criteria following confirmed mild-to-moderate cognitive decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria. In the clinical management of AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Alzheimer Disease Dementia Acetylcholinesterase Inhibitor Donepezil PBS Criteria."
+    ],
+    "references": [
+      {
+        "label": "Dementia Australia Clinical Practice Guidelines",
+        "url": "https://www.dementia.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25342",
+    "exam": "AMC",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation. Clinical examination and investigative review confirm treating underlying infectious or metabolic triggers, providing sensory aids, reorientation, and avoiding routine physical restraints. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Treating underlying infectious or metabolic triggers, providing sensory aids, reorientation, and avoiding routine physical restraints",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, treating underlying infectious or metabolic triggers, providing sensory aids, reorientation, and avoiding routine physical restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, treating underlying infectious or metabolic triggers, providing sensory aids, reorientation, and avoiding routine physical restraints represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation. In the clinical management of AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Psychiatry Delirium in Hospitalized Older Adults Non-Pharmacological Environmental Reorientation."
+    ],
+    "references": [
+      {
+        "label": "Australian Commission on Safety and Quality Delirium Standard",
+        "url": "https://www.safetyandquality.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25343",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 13-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart. Clinical examination and investigative review confirm plotting total serum bilirubin on Australasian neonatal chart and initiating intensive phototherapy to prevent kernicterus. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Plotting total serum bilirubin on australasian neonatal chart and initiating intensive phototherapy to prevent kernicterus",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, plotting total serum bilirubin on Australasian neonatal chart and initiating intensive phototherapy to prevent kernicterus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, plotting total serum bilirubin on Australasian neonatal chart and initiating intensive phototherapy to prevent kernicterus represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart. In the clinical management of AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Neonatal Unconjugated Hyperbilirubinemia Hour-Specific Bilirubin Phototherapy Chart."
+    ],
+    "references": [
+      {
+        "label": "Queensland Clinical Guidelines Neonatal Jaundice",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25344",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 P",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 2-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration. Clinical examination and investigative review confirm administering 6 puffs of salbutamol 100 mcg via small-volume spacer every 20 minutes for moderate acute asthma exacerbation. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering 6 puffs of salbutamol 100 mcg via small-volume spacer every 20 minutes for moderate acute asthma exacerbation",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 6 puffs of salbutamol 100 mcg via small-volume spacer every 20 minutes for moderate acute asthma exacerbation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 6 puffs of salbutamol 100 mcg via small-volume spacer every 20 minutes for moderate acute asthma exacerbation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration. In the clinical management of AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Pediatric Asthma Flare Metered-Dose Inhaler with Spacer 4 to 12 Puffs Titration."
+    ],
+    "references": [
+      {
+        "label": "National Asthma Council Australia Pediatric Asthma",
+        "url": "https://www.nationalasthma.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25345",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Endocrine",
+    "topic": "AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Norma",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition. Clinical examination and investigative review confirm resuscitating with isotonic saline, infusing IV regular insulin 0.05-0.1 units/kg/hr after 1 hour, and transitioning to basal-bolus regimen. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Resuscitating with isotonic saline, infusing iv regular insulin 0.05-0.1 units/kg/hr after 1 hour, and transitioning to basal-bolus regimen",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, resuscitating with isotonic saline, infusing IV regular insulin 0.05-0.1 units/kg/hr after 1 hour, and transitioning to basal-bolus regimen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, resuscitating with isotonic saline, infusing IV regular insulin 0.05-0.1 units/kg/hr after 1 hour, and transitioning to basal-bolus regimen represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition. In the clinical management of AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Diabetic Ketoacidosis New-Onset Type 1 Diabetes Intravenous Normal Saline and Subcutaneous Transition."
+    ],
+    "references": [
+      {
+        "label": "Australasian Paediatric Endocrine Group APEG DKA Guidelines",
+        "url": "https://apeg.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25346",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics. Clinical examination and investigative review confirm administering frequent small sips of oral rehydration solution 5 mL every 5 minutes and avoiding routine antiemetics or antidiarrheals. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering frequent small sips of oral rehydration solution 5 ml every 5 minutes and avoiding routine antiemetics or antidiarrheals",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering frequent small sips of oral rehydration solution 5 mL every 5 minutes and avoiding routine antiemetics or antidiarrheals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering frequent small sips of oral rehydration solution 5 mL every 5 minutes and avoiding routine antiemetics or antidiarrheals represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics. In the clinical management of AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Acute Gastroenteritis Pediatric Oral Rehydration Solution and Avoiding Routine Antiemetics."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Gastroenteritis Guidelines",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25347",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance. Clinical examination and investigative review confirm initiating disimpaction with oral macrogol followed by daily maintenance therapy for minimum 2 months alongside toilet routines. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating disimpaction with oral macrogol followed by daily maintenance therapy for minimum 2 months alongside toilet routines",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating disimpaction with oral macrogol followed by daily maintenance therapy for minimum 2 months alongside toilet routines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating disimpaction with oral macrogol followed by daily maintenance therapy for minimum 2 months alongside toilet routines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance. In the clinical management of AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Functional Constipation Osmotic Laxative Polyethylene Glycol Macrogol Maintenance."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne Constipation Protocol",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25348",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Dermatology",
+    "topic": "AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and To",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids. Clinical examination and investigative review confirm applying generous bland ointment emollients multiple times daily and short bursts of topical methylprednisolone aceponate to flares. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Applying generous bland ointment emollients multiple times daily and short bursts of topical methylprednisolone aceponate to flares",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying generous bland ointment emollients multiple times daily and short bursts of topical methylprednisolone aceponate to flares represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, applying generous bland ointment emollients multiple times daily and short bursts of topical methylprednisolone aceponate to flares represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids. In the clinical management of AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Atopic Dermatitis Eczema Liberal Emollient Barrier Therapy and Topical Corticosteroids."
+    ],
+    "references": [
+      {
+        "label": "Australasian College of Dermatologists Eczema Guidelines",
+        "url": "https://www.dermcoll.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25349",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Musculoskeletal",
+    "topic": "AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dyna",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness. Clinical examination and investigative review confirm confirming reducible hip subluxation, performing hip ultrasound with alpha angle, and fitting Pavlik harness under pediatric supervision. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Confirming reducible hip subluxation, performing hip ultrasound with alpha angle, and fitting pavlik harness under pediatric supervision",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming reducible hip subluxation, performing hip ultrasound with alpha angle, and fitting Pavlik harness under pediatric supervision represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming reducible hip subluxation, performing hip ultrasound with alpha angle, and fitting Pavlik harness under pediatric supervision represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness. In the clinical management of AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Developmental Dysplasia of the Hip Barlow and Ortolani Clunk Dynamic Pavlik Harness."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne DDH Clinical Guideline",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25350",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura an",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance. Clinical examination and investigative review confirm diagnosing IgA vasculitis clinically, providing symptomatic joint analgesia, and monitoring blood pressure and urinalysis for 6 months. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Diagnosing iga vasculitis clinically, providing symptomatic joint analgesia, and monitoring blood pressure and urinalysis for 6 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing IgA vasculitis clinically, providing symptomatic joint analgesia, and monitoring blood pressure and urinalysis for 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, diagnosing IgA vasculitis clinically, providing symptomatic joint analgesia, and monitoring blood pressure and urinalysis for 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance. In the clinical management of AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Henoch-Schonlein Purpura Palpable Non-Thrombocytopenic Purpura and Renal Urinalysis Surveillance."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne HSP Protocol",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25351",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose A",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol. Clinical examination and investigative review confirm administering IVIG 2 g/kg over 12 hours with oral aspirin 30-50 mg/kg/day to reduce the incidence of coronary artery aneurysm. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering ivig 2 g/kg over 12 hours with oral aspirin 30-50 mg/kg/day to reduce the incidence of coronary artery aneurysm",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IVIG 2 g/kg over 12 hours with oral aspirin 30-50 mg/kg/day to reduce the incidence of coronary artery aneurysm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IVIG 2 g/kg over 12 hours with oral aspirin 30-50 mg/kg/day to reduce the incidence of coronary artery aneurysm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol. In the clinical management of AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics Complete Kawasaki Disease Single-Dose IVIG 2 g-kg and High-Dose Aspirin Protocol."
+    ],
+    "references": [
+      {
+        "label": "Heart Foundation Australia Kawasaki Disease Guidelines",
+        "url": "https://www.heartfoundation.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25352",
+    "exam": "AMC",
+    "subject": "Pediatrics",
+    "system": "Renal",
+    "topic": "AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine S",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound. Clinical examination and investigative review confirm collecting sterile in-and-out catheter urine for microscopy and culture, starting oral cephalexin, and arranging ultrasound. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Collecting sterile in-and-out catheter urine for microscopy and culture, starting oral cephalexin, and arranging ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, collecting sterile in-and-out catheter urine for microscopy and culture, starting oral cephalexin, and arranging ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, collecting sterile in-and-out catheter urine for microscopy and culture, starting oral cephalexin, and arranging ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound. In the clinical management of AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Pediatrics First Febrile Urinary Tract Infection Infant Catheterized Urine Sample and Renal Ultrasound."
+    ],
+    "references": [
+      {
+        "label": "Royal Children's Hospital Melbourne UTI Clinical Practice",
+        "url": "https://www.rch.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25353",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroid",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis. Clinical examination and investigative review confirm administering intramuscular betamethasone 11.4 mg two doses 24 hours apart with oral nifedipine tocolysis for 48 hours. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering intramuscular betamethasone 11.4 mg two doses 24 hours apart with oral nifedipine tocolysis for 48 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering intramuscular betamethasone 11.4 mg two doses 24 hours apart with oral nifedipine tocolysis for 48 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering intramuscular betamethasone 11.4 mg two doses 24 hours apart with oral nifedipine tocolysis for 48 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis. In the clinical management of AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Threatened Preterm Labor Before 34 Weeks Antenatal Corticosteroids and Nifedipine Tocolysis."
+    ],
+    "references": [
+      {
+        "label": "Queensland Clinical Guidelines Preterm Labour and Birth",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25354",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin La",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic. Clinical examination and investigative review confirm administering oral erythromycin 250 mg four times daily for 10 days to prolong latency and reduce maternal-fetal infectious morbidity. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral erythromycin 250 mg four times daily for 10 days to prolong latency and reduce maternal-fetal infectious morbidity",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral erythromycin 250 mg four times daily for 10 days to prolong latency and reduce maternal-fetal infectious morbidity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering oral erythromycin 250 mg four times daily for 10 days to prolong latency and reduce maternal-fetal infectious morbidity represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic. In the clinical management of AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Preterm Premature Rupture of Membranes PPROM Oral Erythromycin Latency Antibiotic."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Prophylactic Antibiotics in Obstetrics",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25355",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Ex",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean. Clinical examination and investigative review confirm avoiding digital vaginal examination, confirming placental edge-to-os distance on transvaginal ultrasound, and delivery at 37 weeks. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Avoiding digital vaginal examination, confirming placental edge-to-os distance on transvaginal ultrasound, and delivery at 37 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, avoiding digital vaginal examination, confirming placental edge-to-os distance on transvaginal ultrasound, and delivery at 37 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, avoiding digital vaginal examination, confirming placental edge-to-os distance on transvaginal ultrasound, and delivery at 37 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean. In the clinical management of AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Placenta Previa Third-Trimester Vaginal Bleeding Avoid Digital Exam and Planned Cesarean."
+    ],
+    "references": [
+      {
+        "label": "Queensland Clinical Guidelines Placenta Praevia",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25356",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery. Clinical examination and investigative review confirm recognizing retroplacental hemorrhage causing abdominal pain, wood-hard uterus, and abnormal CTG mandating immediate delivery. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing retroplacental hemorrhage causing abdominal pain, wood-hard uterus, and abnormal ctg mandating immediate delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, recognizing retroplacental hemorrhage causing abdominal pain, wood-hard uterus, and abnormal CTG mandating immediate delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, recognizing retroplacental hemorrhage causing abdominal pain, wood-hard uterus, and abnormal CTG mandating immediate delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery. In the clinical management of AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Placental Abruption Painful Tense Uterus Fetal Distress Immediate Emergency Delivery."
+    ],
+    "references": [
+      {
+        "label": "Queensland Clinical Guidelines Antepartum Haemorrhage",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25357",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Pro",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade. Clinical examination and investigative review confirm infusing IV oxytocin 40 IU, administering IM ergometrine, IM carboprost, and inserting Bakri balloon tamponade for refractory bleeding. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Infusing iv oxytocin 40 iu, administering im ergometrine, im carboprost, and inserting bakri balloon tamponade for refractory bleeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing IV oxytocin 40 IU, administering IM ergometrine, IM carboprost, and inserting Bakri balloon tamponade for refractory bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, infusing IV oxytocin 40 IU, administering IM ergometrine, IM carboprost, and inserting Bakri balloon tamponade for refractory bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade. In the clinical management of AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Obstetrics Postpartum Hemorrhage Uterine Atony Active Uterotonic Medical Protocol and Balloon Tamponade."
+    ],
+    "references": [
+      {
+        "label": "Queensland Clinical Guidelines Primary Postpartum Haemorrhage",
+        "url": "https://www.health.qld.gov.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25358",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Lin",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction. Clinical examination and investigative review confirm prescribing oral letrozole 2.5 mg daily for 5 days starting on cycle day 3 achieving higher live-birth rate than clomiphene citrate. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral letrozole 2.5 mg daily for 5 days starting on cycle day 3 achieving higher live-birth rate than clomiphene citrate",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral letrozole 2.5 mg daily for 5 days starting on cycle day 3 achieving higher live-birth rate than clomiphene citrate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing oral letrozole 2.5 mg daily for 5 days starting on cycle day 3 achieving higher live-birth rate than clomiphene citrate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction. In the clinical management of AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Polycystic Ovary Syndrome Infertility Oral Letrozole as First-Line Ovulation Induction."
+    ],
+    "references": [
+      {
+        "label": "Monash International Evidence-Based Guideline for PCOS",
+        "url": "https://www.monash.edu/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25359",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contrace",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins. Clinical examination and investigative review confirm initiating continuous combined oral contraceptive pill or dienogest 2 mg daily to induce amenorrhea and relieve severe pelvic pain. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating continuous combined oral contraceptive pill or dienogest 2 mg daily to induce amenorrhea and relieve severe pelvic pain",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating continuous combined oral contraceptive pill or dienogest 2 mg daily to induce amenorrhea and relieve severe pelvic pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, initiating continuous combined oral contraceptive pill or dienogest 2 mg daily to induce amenorrhea and relieve severe pelvic pain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins. In the clinical management of AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Deep Infiltrating Endometriosis Continuous Combined Oral Contraceptive and Progestins."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Endometriosis Clinical Practice Guidelines",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25360",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System. Clinical examination and investigative review confirm inserting 52 mg LNG-IUS as first-line medical therapy providing up to 90% reduction in menstrual blood loss and endometrial protection. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Inserting 52 mg lng-ius as first-line medical therapy providing up to 90% reduction in menstrual blood loss and endometrial protection",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, inserting 52 mg LNG-IUS as first-line medical therapy providing up to 90% reduction in menstrual blood loss and endometrial protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, inserting 52 mg LNG-IUS as first-line medical therapy providing up to 90% reduction in menstrual blood loss and endometrial protection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System. In the clinical management of AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Abnormal Uterine Bleeding Heavy Menstrual Bleeding Levonorgestrel 52 mg Intrauterine System."
+    ],
+    "references": [
+      {
+        "label": "RANZCOG Heavy Menstrual Bleeding Clinical Guidelines",
+        "url": "https://ranzcog.edu.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25361",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "General Principles",
+    "topic": "AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LL",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision. Clinical examination and investigative review confirm performing large loop excision of the transformation zone (LLETZ) under local anesthesia with histological margin assessment. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing large loop excision of the transformation zone (lletz) under local anesthesia with histological margin assessment",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing large loop excision of the transformation zone (LLETZ) under local anesthesia with histological margin assessment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing large loop excision of the transformation zone (LLETZ) under local anesthesia with histological margin assessment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision. In the clinical management of AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Cervical Intraepithelial Neoplasia CIN 2-3 Colposcopy-Directed LLETZ Excision."
+    ],
+    "references": [
+      {
+        "label": "Cancer Council Australia Cervical Screening Guidelines",
+        "url": "https://www.cancer.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25362",
+    "exam": "AMC",
+    "subject": "Obstetrics",
+    "system": "Endocrine",
+    "topic": "AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and M",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone. Clinical examination and investigative review confirm prescribing transdermal estradiol patch with oral micronized progesterone for women with intact uterus within 10 years of menopause. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing transdermal estradiol patch with oral micronized progesterone for women with intact uterus within 10 years of menopause",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing transdermal estradiol patch with oral micronized progesterone for women with intact uterus within 10 years of menopause represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, prescribing transdermal estradiol patch with oral micronized progesterone for women with intact uterus within 10 years of menopause represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone. In the clinical management of AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Gynecology Menopausal Vasomotor Symptoms Transdermal 17-Beta Estradiol and Micronized Progesterone."
+    ],
+    "references": [
+      {
+        "label": "Australasian Menopause Society AMS Management Guide",
+        "url": "https://www.menopause.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25363",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids a",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management. Clinical examination and investigative review confirm managing mild uncomplicated diverticulitis without systemic sepsis using oral clear fluids and analgesia without routine antibiotics. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Managing mild uncomplicated diverticulitis without systemic sepsis using oral clear fluids and analgesia without routine antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, managing mild uncomplicated diverticulitis without systemic sepsis using oral clear fluids and analgesia without routine antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, managing mild uncomplicated diverticulitis without systemic sepsis using oral clear fluids and analgesia without routine antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management. In the clinical management of AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Uncomplicated Sigmoid Diverticulitis Outpatient Clear Fluids and Conservative Management."
+    ],
+    "references": [
+      {
+        "label": "Gastroenterological Society of Australia Diverticular Guidelines",
+        "url": "https://www.gesa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25364",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Pro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol. Clinical examination and investigative review confirm administering 100 mL oral Gastrografin with serial abdominal X-rays where colon contrast appearance predicts non-operative resolution. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering 100 ml oral gastrografin with serial abdominal x-rays where colon contrast appearance predicts non-operative resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 100 mL oral Gastrografin with serial abdominal X-rays where colon contrast appearance predicts non-operative resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering 100 mL oral Gastrografin with serial abdominal X-rays where colon contrast appearance predicts non-operative resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol. In the clinical management of AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Small Bowel Obstruction Adhesive Etiology Gastrografin Challenge Protocol."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Surgeons Acute Care Surgery",
+        "url": "https://www.surgeons.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25365",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria a",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula. Clinical examination and investigative review confirm calculating 3-4 mL/kg/%TBSA Hartmann solution with half given in first 8 hours and transferring to designated state burn center. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Calculating 3-4 ml/kg/%tbsa hartmann solution with half given in first 8 hours and transferring to designated state burn center",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating 3-4 mL/kg/%TBSA Hartmann solution with half given in first 8 hours and transferring to designated state burn center represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, calculating 3-4 mL/kg/%TBSA Hartmann solution with half given in first 8 hours and transferring to designated state burn center represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula. In the clinical management of AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Major Thermal Burn Resuscitation Queensland Burn Transfer Criteria and Parkland Formula."
+    ],
+    "references": [
+      {
+        "label": "Australian and New Zealand Burn Association ANZBA Guidelines",
+        "url": "https://anzba.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25366",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exp",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is examined at an Aboriginal Medical Service (AMS) primary healthcare clinic with clinical findings indicative of AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance. Clinical examination and investigative review confirm performing emergent inguinal exploration, inspecting bowel viability, resecting non-viable loop, and primary tissue repair. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergent inguinal exploration, inspecting bowel viability, resecting non-viable loop, and primary tissue repair",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing emergent inguinal exploration, inspecting bowel viability, resecting non-viable loop, and primary tissue repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing emergent inguinal exploration, inspecting bowel viability, resecting non-viable loop, and primary tissue repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance. In the clinical management of AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Incarcerated Strangulated Inguinal Hernia Emergent Open Inguinal Exploration and Mesh Avoidance."
+    ],
+    "references": [
+      {
+        "label": "Royal Australasian College of Surgeons Hernia Guidelines",
+        "url": "https://www.surgeons.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25367",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Throm",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male attends the family practice medical centre for comprehensive clinical evaluation in Perth with clinical findings indicative of AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy. Clinical examination and investigative review confirm administering IV heparin 5000 IU bolus and performing transfemoral balloon embolectomy within golden 6 hours to salvage limb. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv heparin 5000 iu bolus and performing transfemoral balloon embolectomy within golden 6 hours to salvage limb",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IV heparin 5000 IU bolus and performing transfemoral balloon embolectomy within golden 6 hours to salvage limb represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, administering IV heparin 5000 IU bolus and performing transfemoral balloon embolectomy within golden 6 hours to salvage limb represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy. In the clinical management of AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Lower Limb Ischemia 6 Ps Urgent Fogarty Catheter Balloon Thromboembolectomy."
+    ],
+    "references": [
+      {
+        "label": "Australian and New Zealand Society for Vascular Surgery Guidelines",
+        "url": "https://www.anzsvs.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25368",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the general practice consultative clinic in metropolitan Sydney with clinical findings indicative of AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days. Clinical examination and investigative review confirm scheduling urgent carotid endarterectomy within 14 days of non-disabling TIA or stroke to reduce recurrent stroke risk. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Scheduling urgent carotid endarterectomy within 14 days of non-disabling tia or stroke to reduce recurrent stroke risk",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, scheduling urgent carotid endarterectomy within 14 days of non-disabling TIA or stroke to reduce recurrent stroke risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, scheduling urgent carotid endarterectomy within 14 days of non-disabling TIA or stroke to reduce recurrent stroke risk represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days. In the clinical management of AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Symptomatic Severe Carotid Artery Stenosis 70 to 99 Percent Carotid Endarterectomy within 14 Days."
+    ],
+    "references": [
+      {
+        "label": "Stroke Foundation Australia Carotid Guidelines",
+        "url": "https://informme.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25369",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Electiv",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is evaluated in the emergency department of a tertiary referral hospital in Melbourne with clinical findings indicative of AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold. Clinical examination and investigative review confirm offering elective endovascular aneurysm repair (EVAR) or open repair for maximal aortic diameter >= 5.5 cm in men. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Offering elective endovascular aneurysm repair (evar) or open repair for maximal aortic diameter >= 5.5 cm in men",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering elective endovascular aneurysm repair (EVAR) or open repair for maximal aortic diameter >= 5.5 cm in men represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, offering elective endovascular aneurysm repair (EVAR) or open repair for maximal aortic diameter >= 5.5 cm in men represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold. In the clinical management of AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Abdominal Aortic Aneurysm Ultrasound Surveillance and 5.5 cm Elective EVAR Threshold."
+    ],
+    "references": [
+      {
+        "label": "ANZSVS Abdominal Aortic Aneurysm Guidelines",
+        "url": "https://www.anzsvs.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25370",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female presents to the community health clinic in a rural township in Queensland with clinical findings indicative of AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C. Clinical examination and investigative review confirm performing complete TURBT and administering single immediate post-operative dose of intravesical mitomycin C within 6 hours. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Performing complete turbt and administering single immediate post-operative dose of intravesical mitomycin c within 6 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing complete TURBT and administering single immediate post-operative dose of intravesical mitomycin C within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing complete TURBT and administering single immediate post-operative dose of intravesical mitomycin C within 6 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C. In the clinical management of AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Non-Muscle Invasive Bladder Cancer Transurethral Resection TURBT and Intravesical Mitomycin C."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of Australia and New Zealand Bladder Guidelines",
+        "url": "https://www.usanz.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25371",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy withou",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is admitted to the acute care medical unit of Royal Brisbane and Women's Hospital with clinical findings indicative of AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation. Clinical examination and investigative review confirm performing high inguinal orchiectomy with vascular control of the spermatic cord avoiding transscrotal biopsy to prevent seeding. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Performing high inguinal orchiectomy with vascular control of the spermatic cord avoiding transscrotal biopsy to prevent seeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing high inguinal orchiectomy with vascular control of the spermatic cord avoiding transscrotal biopsy to prevent seeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, performing high inguinal orchiectomy with vascular control of the spermatic cord avoiding transscrotal biopsy to prevent seeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation. In the clinical management of AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Testicular Seminoma Scrotal Mass Radical Inguinal Orchiectomy without Transscrotal Violation."
+    ],
+    "references": [
+      {
+        "label": "Urological Society of Australia and New Zealand Testicular Cancer",
+        "url": "https://www.usanz.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-25372",
+    "exam": "AMC",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressur",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female undergoes outpatient specialist assessment at Royal Adelaide Hospital with clinical findings indicative of AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy. Clinical examination and investigative review confirm confirming difference between diastolic blood pressure and compartment pressure < 30 mmHg and executing four-compartment fasciotomy. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. What is the most definitive diagnostic investigation or guideline-directed intervention indicated for this patient?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Confirming difference between diastolic blood pressure and compartment pressure < 30 mmhg and executing four-compartment fasciotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming difference between diastolic blood pressure and compartment pressure < 30 mmHg and executing four-compartment fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for AMC, confirming difference between diastolic blood pressure and compartment pressure < 30 mmHg and executing four-compartment fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy. In the clinical management of AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of AMC Surgery Acute Compartment Syndrome Lower Limb Needle Manometry Delta Pressure < 30 mmHg Emergent Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "Australian Orthopaedic Association Trauma Guidelines",
+        "url": "https://aoa.org.au/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
