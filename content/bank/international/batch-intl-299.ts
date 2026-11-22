@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-28973",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes. Clinical examination and investigative review confirm performing primary percutaneous coronary intervention with drug-eluting stent placement within 90 minutes of hospital arrival. Vital signs demonstrate blood pressure 139/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Performing primary percutaneous coronary intervention with drug-eluting stent placement within 90 minutes of hospital arrival",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing primary percutaneous coronary intervention with drug-eluting stent placement within 90 minutes of hospital arrival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing primary percutaneous coronary intervention with drug-eluting stent placement within 90 minutes of hospital arrival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes. In the clinical management of FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Acute STEMI Primary PCI Target Door-to-Balloon Time < 90 Minutes."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society (PCS) Acute Coronary Syndrome Guidelines",
+        "url": "https://pakcardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28974",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Ope",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy. Clinical examination and investigative review confirm recommending open surgical mitral valve replacement for severe calcific stenosis with high Wilkins score > 11. Vital signs demonstrate blood pressure 118/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Recommending open surgical mitral valve replacement for severe calcific stenosis with high wilkins score > 11",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, recommending open surgical mitral valve replacement for severe calcific stenosis with high Wilkins score > 11 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, recommending open surgical mitral valve replacement for severe calcific stenosis with high Wilkins score > 11 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy. In the clinical management of FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Rheumatic Mitral Stenosis Severely Calcified Valve Closed vs Open Mitral Commissurotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Cardiovascular and Thoracic Surgeons (PSCTS) Guidelines",
+        "url": "https://pscts.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28975",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubit",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin. Clinical examination and investigative review confirm initiating ARNI sacubitril-valsartan alongside SGLT2 inhibitor dapagliflozin, beta-blocker, and mineralocorticoid receptor antagonist. Vital signs demonstrate blood pressure 119/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating arni sacubitril-valsartan alongside sglt2 inhibitor dapagliflozin, beta-blocker, and mineralocorticoid receptor antagonist",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating ARNI sacubitril-valsartan alongside SGLT2 inhibitor dapagliflozin, beta-blocker, and mineralocorticoid receptor antagonist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating ARNI sacubitril-valsartan alongside SGLT2 inhibitor dapagliflozin, beta-blocker, and mineralocorticoid receptor antagonist represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin. In the clinical management of FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Chronic Heart Failure Guideline-Directed Medical Therapy Sacubitril-Valsartan and Dapagliflozin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Heart Failure Guidelines",
+        "url": "https://pakcardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28976",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide. Clinical examination and investigative review confirm initiating intravenous nitroglycerin infusion with loop diuretic bolus and continuous arterial blood pressure monitoring. Vital signs demonstrate blood pressure 120/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous nitroglycerin infusion with loop diuretic bolus and continuous arterial blood pressure monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous nitroglycerin infusion with loop diuretic bolus and continuous arterial blood pressure monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous nitroglycerin infusion with loop diuretic bolus and continuous arterial blood pressure monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide. In the clinical management of FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Hypertensive Crisis with Acute Pulmonary Edema Intravenous Nitroglycerin and Furosemide."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Hypertension League (PHL) Clinical Practice Guidelines",
+        "url": "https://phl.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28977",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofe",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine. Clinical examination and investigative review confirm prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months. Vital signs demonstrate blood pressure 121/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine. In the clinical management of FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Acute Pericarditis Friction Rub PR Depression High-Dose Ibuprofen and Colchicine."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Pericardial Disease Standards",
+        "url": "https://pakcardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28978",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous P",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker. Clinical examination and investigative review confirm inserting emergency temporary transvenous pacing wire via internal jugular access followed by dual-chamber permanent pacemaker. Vital signs demonstrate blood pressure 122/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Inserting emergency temporary transvenous pacing wire via internal jugular access followed by dual-chamber permanent pacemaker",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting emergency temporary transvenous pacing wire via internal jugular access followed by dual-chamber permanent pacemaker represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting emergency temporary transvenous pacing wire via internal jugular access followed by dual-chamber permanent pacemaker represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker. In the clinical management of FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Complete Heart Block Adam-Stokes Attacks Emergency Transvenous Pacing and Permanent Pacemaker."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Arrhythmia and Pacing Guidelines",
+        "url": "https://pakcardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28979",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzyl",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin. Clinical examination and investigative review confirm administering intravenous benzylpenicillin 2.4 g every 4 hours combined with once-daily synergistic gentamicin for 4 weeks. Vital signs demonstrate blood pressure 123/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous benzylpenicillin 2.4 g every 4 hours combined with once-daily synergistic gentamicin for 4 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous benzylpenicillin 2.4 g every 4 hours combined with once-daily synergistic gentamicin for 4 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous benzylpenicillin 2.4 g every 4 hours combined with once-daily synergistic gentamicin for 4 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin. In the clinical management of FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Infective Endocarditis Viridans Streptococci High-Dose IV Benzylpenicillin and Gentamicin."
+    ],
+    "references": [
+      {
+        "label": "Medical Microbiology and Infectious Diseases Society of Pakistan (MMIDSP) Endocarditis Protocols",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28980",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxapa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily. Clinical examination and investigative review confirm initiating subcutaneous enoxaparin 1 mg/kg twice daily with bridging to oral warfarin or direct oral anticoagulant. Vital signs demonstrate blood pressure 124/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating subcutaneous enoxaparin 1 mg/kg twice daily with bridging to oral warfarin or direct oral anticoagulant",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating subcutaneous enoxaparin 1 mg/kg twice daily with bridging to oral warfarin or direct oral anticoagulant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating subcutaneous enoxaparin 1 mg/kg twice daily with bridging to oral warfarin or direct oral anticoagulant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily. In the clinical management of FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Deep Vein Thrombosis Postoperative State Weight-Adjusted Enoxaparin 1 mg/kg Twice Daily."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Haematology VTE Guidelines",
+        "url": "https://psh.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28981",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120. Clinical examination and investigative review confirm initiating intravenous esmolol or labetalol infusion targeting systolic blood pressure < 120 mm Hg and heart rate < 60 bpm. Vital signs demonstrate blood pressure 125/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous esmolol or labetalol infusion targeting systolic blood pressure < 120 mm hg and heart rate < 60 bpm",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous esmolol or labetalol infusion targeting systolic blood pressure < 120 mm Hg and heart rate < 60 bpm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous esmolol or labetalol infusion targeting systolic blood pressure < 120 mm Hg and heart rate < 60 bpm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120. In the clinical management of FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Aortic Dissection Type B Medical Stabilization IV Esmolol Infusion Target SBP < 120."
+    ],
+    "references": [
+      {
+        "label": "PSCTS Thoracic Aortic Disease Guidelines",
+        "url": "https://pscts.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28982",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofre",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation. Clinical examination and investigative review confirm performing electrophysiologic study and cavotricuspid isthmus (CTI) catheter radiofrequency ablation with bidirectional block. Vital signs demonstrate blood pressure 126/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing electrophysiologic study and cavotricuspid isthmus (cti) catheter radiofrequency ablation with bidirectional block",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing electrophysiologic study and cavotricuspid isthmus (CTI) catheter radiofrequency ablation with bidirectional block represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing electrophysiologic study and cavotricuspid isthmus (CTI) catheter radiofrequency ablation with bidirectional block represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation. In the clinical management of FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Cardiology Atrial Flutter Cavotricuspid Isthmus Dependent Catheter Radiofrequency Ablation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Cardiac Society Arrhythmia Working Group",
+        "url": "https://pakcardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28983",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen. Clinical examination and investigative review confirm initiating 6-month all-oral BPaLM regimen with bedaquiline, pretomanid, linezolid, and moxifloxacin under national programmatic guidelines. Vital signs demonstrate blood pressure 127/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Initiating 6-month all-oral bpalm regimen with bedaquiline, pretomanid, linezolid, and moxifloxacin under national programmatic guidelines",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating 6-month all-oral BPaLM regimen with bedaquiline, pretomanid, linezolid, and moxifloxacin under national programmatic guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating 6-month all-oral BPaLM regimen with bedaquiline, pretomanid, linezolid, and moxifloxacin under national programmatic guidelines represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen. In the clinical management of FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Multidrug-Resistant Tuberculosis MDR-TB GeneXpert RpoB Mutation All-Oral BPaLM Regimen."
+    ],
+    "references": [
+      {
+        "label": "National TB Control Program (NTP) Pakistan Guidelines",
+        "url": "https://ntp.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28984",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning. Clinical examination and investigative review confirm instituting low tidal volume ventilation at 6 mL/kg predicted body weight, plateau pressure < 30 cm H2O, and 16-hour prone positioning. Vital signs demonstrate blood pressure 128/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Instituting low tidal volume ventilation at 6 ml/kg predicted body weight, plateau pressure < 30 cm h2o, and 16-hour prone positioning",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, instituting low tidal volume ventilation at 6 mL/kg predicted body weight, plateau pressure < 30 cm H2O, and 16-hour prone positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, instituting low tidal volume ventilation at 6 mL/kg predicted body weight, plateau pressure < 30 cm H2O, and 16-hour prone positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning. In the clinical management of FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Acute Respiratory Distress Syndrome ARDS Severe Hypoxemia Lung-Protective Ventilation and Prone Positioning."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Critical Care Medicine (PSCCM) Guidelines",
+        "url": "https://psccm.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28985",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators. Clinical examination and investigative review confirm administering intravenous magnesium sulfate 2 g over 20 minutes, continuous nebulized salbutamol, and intravenous hydrocortisone. Vital signs demonstrate blood pressure 129/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Administering intravenous magnesium sulfate 2 g over 20 minutes, continuous nebulized salbutamol, and intravenous hydrocortisone",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous magnesium sulfate 2 g over 20 minutes, continuous nebulized salbutamol, and intravenous hydrocortisone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous magnesium sulfate 2 g over 20 minutes, continuous nebulized salbutamol, and intravenous hydrocortisone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators. In the clinical management of FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Acute Severe Asthma Life-Threatening Silent Chest IV Magnesium Sulfate and Nebulized Bronchodilators."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society (PCS) Asthma Management Guidelines",
+        "url": "https://pakchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28986",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriax",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin. Clinical examination and investigative review confirm initiating intravenous ceftriaxone 2 g daily plus oral clarithromycin 500 mg twice daily with high-dependency admission. Vital signs demonstrate blood pressure 130/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous ceftriaxone 2 g daily plus oral clarithromycin 500 mg twice daily with high-dependency admission",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous ceftriaxone 2 g daily plus oral clarithromycin 500 mg twice daily with high-dependency admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous ceftriaxone 2 g daily plus oral clarithromycin 500 mg twice daily with high-dependency admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin. In the clinical management of FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score 4 IV Ceftriaxone plus Clarithromycin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Adult Respiratory Infection Guidelines",
+        "url": "https://pakchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28987",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid B",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade. Clinical examination and investigative review confirm performing emergent selective bronchial artery angiography and embolization with PVA particles to arrest life-threatening hemorrhage. Vital signs demonstrate blood pressure 131/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergent selective bronchial artery angiography and embolization with pva particles to arrest life-threatening hemorrhage",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergent selective bronchial artery angiography and embolization with PVA particles to arrest life-threatening hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergent selective bronchial artery angiography and embolization with PVA particles to arrest life-threatening hemorrhage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade. In the clinical management of FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Massive Hemoptysis Bronchial Artery Embolization BAE vs Rigid Bronchoscopy Tamponade."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society and Interventional Radiology Consensus",
+        "url": "https://pakchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28988",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory F",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP). Clinical examination and investigative review confirm initiating non-invasive positive pressure ventilation with IPAP 12-15 cm H2O and EPAP 4-5 cm H2O with serial arterial blood gas monitoring. Vital signs demonstrate blood pressure 132/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Initiating non-invasive positive pressure ventilation with ipap 12-15 cm h2o and epap 4-5 cm h2o with serial arterial blood gas monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating non-invasive positive pressure ventilation with IPAP 12-15 cm H2O and EPAP 4-5 cm H2O with serial arterial blood gas monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP).",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating non-invasive positive pressure ventilation with IPAP 12-15 cm H2O and EPAP 4-5 cm H2O with serial arterial blood gas monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP). In the clinical management of FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Chronic Obstructive Pulmonary Disease Hypercapnic Respiratory Failure Non-Invasive Ventilation (BiPAP)."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society COPD Clinical Guidelines",
+        "url": "https://pakchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28989",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube In",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics. Clinical examination and investigative review confirm inserting wide-bore intercostal chest tube with instillation of intrapleural tissue plasminogen activator and DNase or VATS decortication. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Inserting wide-bore intercostal chest tube with instillation of intrapleural tissue plasminogen activator and dnase or vats decortication",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting wide-bore intercostal chest tube with instillation of intrapleural tissue plasminogen activator and DNase or VATS decortication represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting wide-bore intercostal chest tube with instillation of intrapleural tissue plasminogen activator and DNase or VATS decortication represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics. In the clinical management of FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Empyema Thoracis Loculated Parapneumonic Effusion Chest Tube Insertion and Intrapleural Fibrinolytics."
+    ],
+    "references": [
+      {
+        "label": "PSCTS Pleural Infection Guidelines",
+        "url": "https://pscts.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28990",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Hon",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone. Clinical examination and investigative review confirm initiating oral pirfenidone 801 mg three times daily with serial pulmonary function tests and liver function monitoring. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating oral pirfenidone 801 mg three times daily with serial pulmonary function tests and liver function monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral pirfenidone 801 mg three times daily with serial pulmonary function tests and liver function monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral pirfenidone 801 mg three times daily with serial pulmonary function tests and liver function monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone. In the clinical management of FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Idiopathic Pulmonary Fibrosis High-Resolution CT Subpleural Honeycombing Oral Pirfenidone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Chest Society Diffuse Parenchymal Lung Disease Guidelines",
+        "url": "https://pakchestsociety.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28991",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Va",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion. Clinical examination and investigative review confirm titrating central venous norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following crystalloid fluid resuscitation. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Titrating central venous norepinephrine infusion targeting mean arterial pressure >= 65 mm hg following crystalloid fluid resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, titrating central venous norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following crystalloid fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, titrating central venous norepinephrine infusion targeting mean arterial pressure >= 65 mm Hg following crystalloid fluid resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion. In the clinical management of FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Sepsis-Induced Acute Lung Injury Septic Shock Norepinephrine Vasopressor First-Line Infusion."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Critical Care Medicine Sepsis Protocol",
+        "url": "https://psccm.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28992",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage. Clinical examination and investigative review confirm performing thoracotomy, intact cyst enucleation with hypertonic saline scolicidal protection, and capitonnage closure. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Performing thoracotomy, intact cyst enucleation with hypertonic saline scolicidal protection, and capitonnage closure",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing thoracotomy, intact cyst enucleation with hypertonic saline scolicidal protection, and capitonnage closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing thoracotomy, intact cyst enucleation with hypertonic saline scolicidal protection, and capitonnage closure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage. In the clinical management of FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pulmonology Pulmonary Hydatid Cyst Echinococcus Granulosus Water-Lily Sign Surgical Cystectomy with Capitonnage."
+    ],
+    "references": [
+      {
+        "label": "PSCTS Thoracic Hydatidosis Consensus",
+        "url": "https://pscts.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28993",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation. Clinical examination and investigative review confirm administering intravenous terlipressin 2 mg bolus, prophylactic ceftriaxone, and performing emergent endoscopic band ligation within 12 hours. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous terlipressin 2 mg bolus, prophylactic ceftriaxone, and performing emergent endoscopic band ligation within 12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous terlipressin 2 mg bolus, prophylactic ceftriaxone, and performing emergent endoscopic band ligation within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous terlipressin 2 mg bolus, prophylactic ceftriaxone, and performing emergent endoscopic band ligation within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation. In the clinical management of FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Cirrhosis with Acute Variceal Bleeding Terlipressin Infusion and Urgent Endoscopic Variceal Band Ligation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology and GI Endoscopy (PSG) Guidelines",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28994",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks. Clinical examination and investigative review confirm prescribing fixed-dose combination oral sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks to achieve sustained virologic response. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing fixed-dose combination oral sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks to achieve sustained virologic response",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing fixed-dose combination oral sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks to achieve sustained virologic response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing fixed-dose combination oral sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks to achieve sustained virologic response represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks. In the clinical management of FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Chronic Hepatitis C Infection Pan-Genotypic Sofosbuvir and Velpatasvir for 12 Weeks."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society for the Study of Liver Diseases (PSSLD) HCV Guidelines",
+        "url": "https://pssld.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28995",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofov",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy. Clinical examination and investigative review confirm prescribing oral tenofovir disoproxil fumarate 300 mg daily indefinitely with six-monthly alpha-fetoprotein and ultrasound surveillance. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral tenofovir disoproxil fumarate 300 mg daily indefinitely with six-monthly alpha-fetoprotein and ultrasound surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral tenofovir disoproxil fumarate 300 mg daily indefinitely with six-monthly alpha-fetoprotein and ultrasound surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral tenofovir disoproxil fumarate 300 mg daily indefinitely with six-monthly alpha-fetoprotein and ultrasound surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy. In the clinical management of FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Chronic Hepatitis B Infection High Viral Load Oral Tenofovir Disoproxil Fumarate Monotherapy."
+    ],
+    "references": [
+      {
+        "label": "PSSLD HBV Clinical Practice Guidelines",
+        "url": "https://pssld.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28996",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS. Clinical examination and investigative review confirm prescribing oral metronidazole 750 mg three times daily for 10 days with percutaneous ultrasound-guided aspiration for large abscesses. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral metronidazole 750 mg three times daily for 10 days with percutaneous ultrasound-guided aspiration for large abscesses",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral metronidazole 750 mg three times daily for 10 days with percutaneous ultrasound-guided aspiration for large abscesses represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral metronidazole 750 mg three times daily for 10 days with percutaneous ultrasound-guided aspiration for large abscesses represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS. In the clinical management of FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Amoebic Liver Abscess Entamoeba Histolytica Anchovy-Sauce Pus Oral Metronidazole 750 mg TDS."
+    ],
+    "references": [
+      {
+        "label": "MMIDSP and PSG Hepatic Infection Guidelines",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28997",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Min",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage. Clinical examination and investigative review confirm adopting step-up drainage approach with percutaneous catheter drainage followed by retroperitoneal necrosectomy if clinical deterioration. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Adopting step-up drainage approach with percutaneous catheter drainage followed by retroperitoneal necrosectomy if clinical deterioration",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, adopting step-up drainage approach with percutaneous catheter drainage followed by retroperitoneal necrosectomy if clinical deterioration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, adopting step-up drainage approach with percutaneous catheter drainage followed by retroperitoneal necrosectomy if clinical deterioration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage. In the clinical management of FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Acute Severe Pancreatitis Necrotizing Step-Up Approach Minimally Invasive Catheter Drainage."
+    ],
+    "references": [
+      {
+        "label": "PSG Acute Pancreatitis Clinical Consensus",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28998",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxon",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain. Clinical examination and investigative review confirm inserting 8-10 Fr pig-tail catheter under ultrasound guidance and infusing intravenous ceftriaxone and metronidazole for 4 to 6 weeks. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Inserting 8-10 fr pig-tail catheter under ultrasound guidance and infusing intravenous ceftriaxone and metronidazole for 4 to 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting 8-10 Fr pig-tail catheter under ultrasound guidance and infusing intravenous ceftriaxone and metronidazole for 4 to 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting 8-10 Fr pig-tail catheter under ultrasound guidance and infusing intravenous ceftriaxone and metronidazole for 4 to 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain. In the clinical management of FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Pyogenic Liver Abscess Klebsiella Pneumoniae IV Ceftriaxone plus Metronidazole and Percutaneous Drain."
+    ],
+    "references": [
+      {
+        "label": "PSG Hepatobiliary Infections Guidelines",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-28999",
+    "exam": "FCPS",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated S",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy. Clinical examination and investigative review confirm confirming Marsh III villous atrophy on endoscopic duodenal biopsy and initiating strict lifelong gluten-free dietary exclusion. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Confirming marsh iii villous atrophy on endoscopic duodenal biopsy and initiating strict lifelong gluten-free dietary exclusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, confirming Marsh III villous atrophy on endoscopic duodenal biopsy and initiating strict lifelong gluten-free dietary exclusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, confirming Marsh III villous atrophy on endoscopic duodenal biopsy and initiating strict lifelong gluten-free dietary exclusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy. In the clinical management of FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Celiac Disease Anti-Tissue Transglutaminase IgA Elevated Small Bowel Biopsy Marsh III Villous Atrophy."
+    ],
+    "references": [
+      {
+        "label": "PSG Malabsorption Working Group",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29000",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 1",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue. Clinical examination and investigative review confirm initiating intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and rescue infliximab or cyclosporine by day 3 to 5. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and rescue infliximab or cyclosporine by day 3 to 5",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and rescue infliximab or cyclosporine by day 3 to 5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and rescue infliximab or cyclosporine by day 3 to 5 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue. In the clinical management of FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Ulcerative Colitis Acute Severe Attack IV Hydrocortisone 100 mg QDS and Infliximab Rescue."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Gastroenterology IBD Guidelines",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29001",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ER",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression. Clinical examination and investigative review confirm initiating intravenous piperacillin-tazobactam and performing emergency ERCP with sphincterotomy and biliary stent placement within 24 hours. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous piperacillin-tazobactam and performing emergency ercp with sphincterotomy and biliary stent placement within 24 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous piperacillin-tazobactam and performing emergency ERCP with sphincterotomy and biliary stent placement within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous piperacillin-tazobactam and performing emergency ERCP with sphincterotomy and biliary stent placement within 24 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression. In the clinical management of FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Acute Cholangitis Charcot Triad Tokyo Guidelines Urgent ERCP Biliary Decompression."
+    ],
+    "references": [
+      {
+        "label": "PSG Biliary Disease Guidelines",
+        "url": "https://psg.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29002",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Techniq",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy. Clinical examination and investigative review confirm administering oral albendazole 400 mg twice daily and performing puncture-aspiration-injection-reaspiration (PAIR) with hypertonic saline. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral albendazole 400 mg twice daily and performing puncture-aspiration-injection-reaspiration (pair) with hypertonic saline",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering oral albendazole 400 mg twice daily and performing puncture-aspiration-injection-reaspiration (PAIR) with hypertonic saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering oral albendazole 400 mg twice daily and performing puncture-aspiration-injection-reaspiration (PAIR) with hypertonic saline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy. In the clinical management of FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Gastroenterology Hydatid Cyst of Liver Echinococcus Granulosus PAIR Technique vs Open Splenectomy/Hepatectomy."
+    ],
+    "references": [
+      {
+        "label": "College of Physicians and Surgeons Pakistan Surgical Consensus",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29003",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care. Clinical examination and investigative review confirm providing supportive fluid and salt restriction, loop diuretics for fluid overload, and blood pressure control without immunosuppression. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive fluid and salt restriction, loop diuretics for fluid overload, and blood pressure control without immunosuppression",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, providing supportive fluid and salt restriction, loop diuretics for fluid overload, and blood pressure control without immunosuppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, providing supportive fluid and salt restriction, loop diuretics for fluid overload, and blood pressure control without immunosuppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care. In the clinical management of FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Acute Kidney Injury Post-Infectious Glomerulonephritis Hematuria RBC Casts Supportive Care."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology (PSN) Glomerulonephritis Guidelines",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29004",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylpredn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide. Clinical examination and investigative review confirm initiating intravenous methylprednisolone 0.5-1 g pulse for 3 days followed by monthly IV cyclophosphamide or oral mycophenolate mofetil. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous methylprednisolone 0.5-1 g pulse for 3 days followed by monthly iv cyclophosphamide or oral mycophenolate mofetil",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous methylprednisolone 0.5-1 g pulse for 3 days followed by monthly IV cyclophosphamide or oral mycophenolate mofetil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous methylprednisolone 0.5-1 g pulse for 3 days followed by monthly IV cyclophosphamide or oral mycophenolate mofetil represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide. In the clinical management of FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Lupus Nephritis Class IV Diffuse Proliferative Pulse Methylprednisolone and IV Cyclophosphamide."
+    ],
+    "references": [
+      {
+        "label": "PSN and Pakistan Rheumatology Society Lupus Nephritis Guidelines",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29005",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation. Clinical examination and investigative review confirm surgically constructing a primary autogenous radiocephalic AV fistula in the non-dominant wrist at least 6 months prior to dialysis. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Surgically constructing a primary autogenous radiocephalic av fistula in the non-dominant wrist at least 6 months prior to dialysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, surgically constructing a primary autogenous radiocephalic AV fistula in the non-dominant wrist at least 6 months prior to dialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, surgically constructing a primary autogenous radiocephalic AV fistula in the non-dominant wrist at least 6 months prior to dialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation. In the clinical management of FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology End-Stage Renal Disease Hemodialysis Vascular Access Radiocephalic Arteriovenous Fistula Creation."
+    ],
+    "references": [
+      {
+        "label": "PSN Vascular Access Guidelines",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29006",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate. Clinical examination and investigative review confirm administering intravenous 10% calcium gluconate 10 mL over 5 minutes with continuous ECG monitoring to prevent ventricular arrhythmia. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous 10% calcium gluconate 10 ml over 5 minutes with continuous ecg monitoring to prevent ventricular arrhythmia",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous 10% calcium gluconate 10 mL over 5 minutes with continuous ECG monitoring to prevent ventricular arrhythmia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous 10% calcium gluconate 10 mL over 5 minutes with continuous ECG monitoring to prevent ventricular arrhythmia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate. In the clinical management of FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Severe Hyperkalemia Potassium 7.0 mEq/L ECG Tall Peaked T Waves Intravenous Calcium Gluconate."
+    ],
+    "references": [
+      {
+        "label": "PSN Electrolyte Emergencies Protocol",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29007",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagli",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril. Clinical examination and investigative review confirm initiating oral dapagliflozin 10 mg daily combined with maximally tolerated lisinopril to halt progression of diabetic nephropathy. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral dapagliflozin 10 mg daily combined with maximally tolerated lisinopril to halt progression of diabetic nephropathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral dapagliflozin 10 mg daily combined with maximally tolerated lisinopril to halt progression of diabetic nephropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral dapagliflozin 10 mg daily combined with maximally tolerated lisinopril to halt progression of diabetic nephropathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril. In the clinical management of FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Diabetic Kidney Disease Microalbuminuria SGLT2 Inhibitor Dapagliflozin and ACE Inhibitor Lisinopril."
+    ],
+    "references": [
+      {
+        "label": "PSN Diabetic Nephropathy Standards",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29008",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen. Clinical examination and investigative review confirm prescribing intravenous rituximab 1 g two doses 14 days apart with strict blood pressure and lipid control. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing intravenous rituximab 1 g two doses 14 days apart with strict blood pressure and lipid control",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing intravenous rituximab 1 g two doses 14 days apart with strict blood pressure and lipid control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing intravenous rituximab 1 g two doses 14 days apart with strict blood pressure and lipid control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen. In the clinical management of FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Idiopathic Membranous Nephropathy Nephrotic Syndrome Anti-PLA2R Positive Rituximab Regimen."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Nephrology Clinical Guidelines",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29009",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorp",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS. Clinical examination and investigative review confirm performing semirigid or flexible ureterorenoscopy with holmium laser lithotripsy and double-J ureteral stenting. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Performing semirigid or flexible ureterorenoscopy with holmium laser lithotripsy and double-j ureteral stenting",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing semirigid or flexible ureterorenoscopy with holmium laser lithotripsy and double-J ureteral stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing semirigid or flexible ureterorenoscopy with holmium laser lithotripsy and double-J ureteral stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS. In the clinical management of FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Urolithiasis Obstructing Upper Ureteral Calculus 12 mm Extracorporeal Shock Wave Lithotripsy (ESWL) vs URS."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Urological Surgeons (PAUS) Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29010",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP. Clinical examination and investigative review confirm placing urethral Foley catheter, starting oral tamsulosin 0.4 mg daily, and planning transurethral resection of prostate (TURP). Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Placing urethral foley catheter, starting oral tamsulosin 0.4 mg daily, and planning transurethral resection of prostate (turp)",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, placing urethral Foley catheter, starting oral tamsulosin 0.4 mg daily, and planning transurethral resection of prostate (TURP) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, placing urethral Foley catheter, starting oral tamsulosin 0.4 mg daily, and planning transurethral resection of prostate (TURP) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP. In the clinical management of FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Benign Prostatic Hyperplasia Acute Urinary Retention Alpha-1 Blocker Tamsulosin and TURP."
+    ],
+    "references": [
+      {
+        "label": "PAUS BPH Clinical Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29011",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Lapa",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy. Clinical examination and investigative review confirm performing nephron-sparing laparoscopic or robotic partial nephrectomy with warm ischemia time < 25 minutes. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing nephron-sparing laparoscopic or robotic partial nephrectomy with warm ischemia time < 25 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing nephron-sparing laparoscopic or robotic partial nephrectomy with warm ischemia time < 25 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing nephron-sparing laparoscopic or robotic partial nephrectomy with warm ischemia time < 25 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy. In the clinical management of FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Renal Cell Carcinoma Clear Cell 6 cm Localized Mass Robotic/Laparoscopic Partial Nephrectomy."
+    ],
+    "references": [
+      {
+        "label": "PAUS Urological Oncology Guidelines",
+        "url": "https://paus.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29012",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuri",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade. Clinical examination and investigative review confirm prescribing oral candesartan or ramipril targeting blood pressure < 110/75 mm Hg and encouraging generous daily fluid intake. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral candesartan or ramipril targeting blood pressure < 110/75 mm hg and encouraging generous daily fluid intake",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral candesartan or ramipril targeting blood pressure < 110/75 mm Hg and encouraging generous daily fluid intake represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral candesartan or ramipril targeting blood pressure < 110/75 mm Hg and encouraging generous daily fluid intake represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade. In the clinical management of FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Nephrology Autosomal Dominant Polycystic Kidney Disease Flank Pain Hematuria Renin-Angiotensin Blockade."
+    ],
+    "references": [
+      {
+        "label": "PSN ADPKD Clinical Management Statement",
+        "url": "https://psn.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29013",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin. Clinical examination and investigative review confirm prescribing intravenous meropenem 1 g three times daily combined with oral azithromycin 1 g once daily for ceftriaxone-resistant Typhi. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing intravenous meropenem 1 g three times daily combined with oral azithromycin 1 g once daily for ceftriaxone-resistant typhi",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing intravenous meropenem 1 g three times daily combined with oral azithromycin 1 g once daily for ceftriaxone-resistant Typhi represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing intravenous meropenem 1 g three times daily combined with oral azithromycin 1 g once daily for ceftriaxone-resistant Typhi represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin. In the clinical management of FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Extensively Drug-Resistant Enteric Fever XDR Salmonella Typhi IV Meropenem plus Oral Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "MMIDSP Typhoid Treatment Guidelines",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29014",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Form",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol. Clinical examination and investigative review confirm administering intravenous artesunate 2.4 mg/kg at 0, 12, and 24 hours followed by once daily for severe falciparum malaria. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous artesunate 2.4 mg/kg at 0, 12, and 24 hours followed by once daily for severe falciparum malaria",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous artesunate 2.4 mg/kg at 0, 12, and 24 hours followed by once daily for severe falciparum malaria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous artesunate 2.4 mg/kg at 0, 12, and 24 hours followed by once daily for severe falciparum malaria represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol. In the clinical management of FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Severe Falciparum Malaria Cerebral Involvement Ring Forms Intravenous Artesunate Protocol."
+    ],
+    "references": [
+      {
+        "label": "Directorate of Malaria Control Pakistan Guidelines",
+        "url": "https://dmc.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29015",
+    "exam": "FCPS",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Micro",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration. Clinical examination and investigative review confirm initiating high-dependency monitoring with strict maintenance crystalloid fluid titration avoiding fluid overload in dengue fever. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating high-dependency monitoring with strict maintenance crystalloid fluid titration avoiding fluid overload in dengue fever",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating high-dependency monitoring with strict maintenance crystalloid fluid titration avoiding fluid overload in dengue fever represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating high-dependency monitoring with strict maintenance crystalloid fluid titration avoiding fluid overload in dengue fever represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration. In the clinical management of FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Dengue Shock Syndrome Severe Plasma Leakage Strict Microvascular Crystalloid Titration."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Dengue Expert Advisory Group (DEAG) Clinical Management Guidelines",
+        "url": "https://deag.punjab.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29016",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing F",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate. Clinical examination and investigative review confirm administering intralesional meglumine antimoniate 1 to 2 mL infiltrating base and indurated margins every 3 to 7 days. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Administering intralesional meglumine antimoniate 1 to 2 ml infiltrating base and indurated margins every 3 to 7 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intralesional meglumine antimoniate 1 to 2 mL infiltrating base and indurated margins every 3 to 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intralesional meglumine antimoniate 1 to 2 mL infiltrating base and indurated margins every 3 to 7 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate. In the clinical management of FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Cutaneous Leishmaniasis Leishmania Tropica Non-Healing Facial Ulcer Intralesional Meglumine Antimoniate."
+    ],
+    "references": [
+      {
+        "label": "MMIDSP Leishmaniasis Clinical Practice Guidelines",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29017",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation. Clinical examination and investigative review confirm instituting strict negative-pressure barrier isolation and administering high-dose oral ribavirin within the first 5 days of onset. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Instituting strict negative-pressure barrier isolation and administering high-dose oral ribavirin within the first 5 days of onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, instituting strict negative-pressure barrier isolation and administering high-dose oral ribavirin within the first 5 days of onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, instituting strict negative-pressure barrier isolation and administering high-dose oral ribavirin within the first 5 days of onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation. In the clinical management of FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Crimean-Congo Hemorrhagic Fever Tick Exposure Severe Thrombocytopenia Oral Ribavirin and Barrier Isolation."
+    ],
+    "references": [
+      {
+        "label": "National Institute of Health (NIH) Islamabad CCHF Guidelines",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29018",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rab",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine. Clinical examination and investigative review confirm flushing bite wound with soap and running water for 15 minutes, infiltrating wound margins with rabies immunoglobulin, and giving Essen vaccine. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Flushing bite wound with soap and running water for 15 minutes, infiltrating wound margins with rabies immunoglobulin, and giving essen vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, flushing bite wound with soap and running water for 15 minutes, infiltrating wound margins with rabies immunoglobulin, and giving Essen vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, flushing bite wound with soap and running water for 15 minutes, infiltrating wound margins with rabies immunoglobulin, and giving Essen vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine. In the clinical management of FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Rabies Category III Dog Bite Immediate Wound Washing Rabies Immunoglobulin and Intramuscular Vaccine."
+    ],
+    "references": [
+      {
+        "label": "NIH Islamabad Rabies Prevention and Post-Exposure Prophylaxis Guidelines",
+        "url": "https://www.nih.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29019",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole. Clinical examination and investigative review confirm administering human tetanus immunoglobulin 3000 to 6000 IU IM, IV metronidazole 500 mg TDS, and quiet-room muscle relaxation. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering human tetanus immunoglobulin 3000 to 6000 iu im, iv metronidazole 500 mg tds, and quiet-room muscle relaxation",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering human tetanus immunoglobulin 3000 to 6000 IU IM, IV metronidazole 500 mg TDS, and quiet-room muscle relaxation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering human tetanus immunoglobulin 3000 to 6000 IU IM, IV metronidazole 500 mg TDS, and quiet-room muscle relaxation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole. In the clinical management of FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Tetanus Generalized Muscle Spasms Trismus Human Tetanus Immunoglobulin and IV Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "MMIDSP Tetanus Management Consensus",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29020",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Sur",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action. Clinical examination and investigative review confirm collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset and notifying National Polio Emergency Operations Center. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset and notifying national polio emergency operations center",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset and notifying National Polio Emergency Operations Center represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, collecting two stool specimens 24-48 hours apart within 14 days of paralysis onset and notifying National Polio Emergency Operations Center represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action. In the clinical management of FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Poliomyelitis Acute Flaccid Paralysis Stool Specimen Surveillance and National Emergency Action."
+    ],
+    "references": [
+      {
+        "label": "National Emergency Operations Centre (NEOC) for Polio Eradication Pakistan",
+        "url": "https://endpolio.com.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29021",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Dermatology",
+    "topic": "FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT). Clinical examination and investigative review confirm initiating WHO paucibacillary multidrug therapy with monthly rifampicin 600 mg and daily dapsone 100 mg for 6 months. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating who paucibacillary multidrug therapy with monthly rifampicin 600 mg and daily dapsone 100 mg for 6 months",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating WHO paucibacillary multidrug therapy with monthly rifampicin 600 mg and daily dapsone 100 mg for 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT).",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating WHO paucibacillary multidrug therapy with monthly rifampicin 600 mg and daily dapsone 100 mg for 6 months represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT). In the clinical management of FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Leprosy Borderline Tuberculoid Hypopigmented Anesthetic Patch WHO Multidrug Therapy (MDT)."
+    ],
+    "references": [
+      {
+        "label": "Marie Adelaide Leprosy Centre (MALC) and WHO Leprosy Guidelines Pakistan",
+        "url": "https://malc.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29022",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B. Clinical examination and investigative review confirm performing urgent extensive surgical endoscopic debridement and administering intravenous liposomal amphotericin B 5-10 mg/kg daily. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Performing urgent extensive surgical endoscopic debridement and administering intravenous liposomal amphotericin b 5-10 mg/kg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing urgent extensive surgical endoscopic debridement and administering intravenous liposomal amphotericin B 5-10 mg/kg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing urgent extensive surgical endoscopic debridement and administering intravenous liposomal amphotericin B 5-10 mg/kg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B. In the clinical management of FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Infectious Disease Mucormycosis Rhino-Orbital-Cerebral Post-COVID Diabetes Surgical Debridement and IV Liposomal Amphotericin B."
+    ],
+    "references": [
+      {
+        "label": "MMIDSP Invasive Fungal Infections Guidelines",
+        "url": "https://mmidsp.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29023",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours. Clinical examination and investigative review confirm performing index-admission laparoscopic appendectomy with three-port technique following intravenous fluid and antibiotic prophylaxis. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Performing index-admission laparoscopic appendectomy with three-port technique following intravenous fluid and antibiotic prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing index-admission laparoscopic appendectomy with three-port technique following intravenous fluid and antibiotic prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing index-admission laparoscopic appendectomy with three-port technique following intravenous fluid and antibiotic prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours. In the clinical management of FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Appendicitis Alvarado Score 9 Peritonitis Early Laparoscopic Appendectomy within 24 Hours."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan (SSP) Appendicitis Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29024",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparosc",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair. Clinical examination and investigative review confirm performing emergency laparoscopy with Graham patch omental closure of the duodenal perforation and copious warm peritoneal lavage. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency laparoscopy with graham patch omental closure of the duodenal perforation and copious warm peritoneal lavage",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency laparoscopy with Graham patch omental closure of the duodenal perforation and copious warm peritoneal lavage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency laparoscopy with Graham patch omental closure of the duodenal perforation and copious warm peritoneal lavage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair. In the clinical management of FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Perforated Duodenal Peptic Ulcer Pneumoperitoneum Emergent Laparoscopic Graham Omental Patch Repair."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan Acute Abdomen Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29025",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent O",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair. Clinical examination and investigative review confirm performing emergent surgical groin exploration, assessing bowel viability, resecting non-viable bowel, and performing tissue hernia repair. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing emergent surgical groin exploration, assessing bowel viability, resecting non-viable bowel, and performing tissue hernia repair",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergent surgical groin exploration, assessing bowel viability, resecting non-viable bowel, and performing tissue hernia repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergent surgical groin exploration, assessing bowel viability, resecting non-viable bowel, and performing tissue hernia repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair. In the clinical management of FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Open Herniotomy and Bassini/Lichtenstein Repair."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan Hernia Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29026",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Na",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge. Clinical examination and investigative review confirm initiating nasogastric tube decompression, IV fluid resuscitation, and oral Gastrografin follow-through assessing adhesive resolution. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating nasogastric tube decompression, iv fluid resuscitation, and oral gastrografin follow-through assessing adhesive resolution",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating nasogastric tube decompression, IV fluid resuscitation, and oral Gastrografin follow-through assessing adhesive resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating nasogastric tube decompression, IV fluid resuscitation, and oral Gastrografin follow-through assessing adhesive resolution represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge. In the clinical management of FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Mechanical Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Gastrografin Challenge."
+    ],
+    "references": [
+      {
+        "label": "SSP Intestinal Obstruction Clinical Standards",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29027",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index L",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm performing early laparoscopic cholecystectomy within 72 hours of symptom onset to minimize biliary complications and hospital stay. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Performing early laparoscopic cholecystectomy within 72 hours of symptom onset to minimize biliary complications and hospital stay",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing early laparoscopic cholecystectomy within 72 hours of symptom onset to minimize biliary complications and hospital stay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing early laparoscopic cholecystectomy within 72 hours of symptom onset to minimize biliary complications and hospital stay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy. In the clinical management of FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Calculous Cholecystitis Sonographic Murphy Sign Early Index Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "SSP Biliary Surgery Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29028",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancre",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy. Clinical examination and investigative review confirm performing classical or pylorus-preserving pancreaticoduodenectomy (Whipple procedure) with regional lymphadenectomy for resectable tumor. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Performing classical or pylorus-preserving pancreaticoduodenectomy (whipple procedure) with regional lymphadenectomy for resectable tumor",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing classical or pylorus-preserving pancreaticoduodenectomy (Whipple procedure) with regional lymphadenectomy for resectable tumor represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing classical or pylorus-preserving pancreaticoduodenectomy (Whipple procedure) with regional lymphadenectomy for resectable tumor represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy. In the clinical management of FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Carcinoma of Head of Pancreas Painless Jaundice Triple-Phase Pancreatic CT and Whipple Pancreaticoduodenectomy."
+    ],
+    "references": [
+      {
+        "label": "SSP Surgical Oncology Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29029",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radic",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation. Clinical examination and investigative review confirm performing core needle biopsy, neoadjuvant systemic chemotherapy, and modified radical mastectomy or breast-conserving surgery with sentinel biopsy. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Performing core needle biopsy, neoadjuvant systemic chemotherapy, and modified radical mastectomy or breast-conserving surgery with sentinel biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing core needle biopsy, neoadjuvant systemic chemotherapy, and modified radical mastectomy or breast-conserving surgery with sentinel biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing core needle biopsy, neoadjuvant systemic chemotherapy, and modified radical mastectomy or breast-conserving surgery with sentinel biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation. In the clinical management of FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Breast Carcinoma Infiltrating Ductal Triple Negative Modified Radical Mastectomy vs Breast Conservation."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan Breast Surgery Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29030",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Tota",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection. Clinical examination and investigative review confirm performing total thyroidectomy with prophylactic or therapeutic central compartment neck lymph node dissection followed by radioiodine ablation. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing total thyroidectomy with prophylactic or therapeutic central compartment neck lymph node dissection followed by radioiodine ablation",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing total thyroidectomy with prophylactic or therapeutic central compartment neck lymph node dissection followed by radioiodine ablation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing total thyroidectomy with prophylactic or therapeutic central compartment neck lymph node dissection followed by radioiodine ablation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection. In the clinical management of FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Papillary Thyroid Carcinoma 3 cm Nodule Fine-Needle Aspiration Total Thyroidectomy and Central Neck Dissection."
+    ],
+    "references": [
+      {
+        "label": "SSP Endocrine Surgery Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29031",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emerg",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy. Clinical examination and investigative review confirm performing emergency surgical laparotomy with Fogarty catheter embolectomy of superior mesenteric artery and bowel viability assessment. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency surgical laparotomy with fogarty catheter embolectomy of superior mesenteric artery and bowel viability assessment",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency surgical laparotomy with Fogarty catheter embolectomy of superior mesenteric artery and bowel viability assessment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency surgical laparotomy with Fogarty catheter embolectomy of superior mesenteric artery and bowel viability assessment represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy. In the clinical management of FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Mesenteric Ischemia Superior Mesenteric Artery Embolism Emergent Laparotomy and Embolectomy."
+    ],
+    "references": [
+      {
+        "label": "SSP Vascular Surgery Guidelines",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29032",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics. Clinical examination and investigative review confirm performing immediate aggressive radical surgical excision of necrotic perineal and scrotal tissue with repeated relook debridements. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing immediate aggressive radical surgical excision of necrotic perineal and scrotal tissue with repeated relook debridements",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate aggressive radical surgical excision of necrotic perineal and scrotal tissue with repeated relook debridements represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate aggressive radical surgical excision of necrotic perineal and scrotal tissue with repeated relook debridements represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics. In the clinical management of FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Fournier Gangrene Perineal Necrotizing Fasciitis Emergent Surgical Debridement and Broad-Spectrum IV Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan Emergency Protocols",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29033",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol. Clinical examination and investigative review confirm executing ABCDE primary survey, activating 1:1:1 massive transfusion protocol, and applying pelvic circumferential binder for shock. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Executing abcde primary survey, activating 1:1:1 massive transfusion protocol, and applying pelvic circumferential binder for shock",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, executing ABCDE primary survey, activating 1:1:1 massive transfusion protocol, and applying pelvic circumferential binder for shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, executing ABCDE primary survey, activating 1:1:1 massive transfusion protocol, and applying pelvic circumferential binder for shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol. In the clinical management of FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Major Blunt Polytrauma Motor Vehicle Collision ATLS Primary Survey Balanced Transfusion Protocol."
+    ],
+    "references": [
+      {
+        "label": "College of Physicians and Surgeons Pakistan ATLS Standards",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29034",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Tho",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space. Clinical examination and investigative review confirm inserting a large-bore cannula into the second intercostal space mid-clavicular line followed by definitive 28-32 Fr tube thoracostomy. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Inserting a large-bore cannula into the second intercostal space mid-clavicular line followed by definitive 28-32 fr tube thoracostomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting a large-bore cannula into the second intercostal space mid-clavicular line followed by definitive 28-32 Fr tube thoracostomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, inserting a large-bore cannula into the second intercostal space mid-clavicular line followed by definitive 28-32 Fr tube thoracostomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space. In the clinical management of FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Tension Pneumothorax Severe Blunt Chest Trauma Immediate Needle Thoracocentesis Second Intercostal Space."
+    ],
+    "references": [
+      {
+        "label": "CPSP Trauma Resuscitation Protocol",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29035",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain o",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy. Clinical examination and investigative review confirm performing emergency anterolateral and posteromedial incisions with complete four-compartment lower extremity fasciotomy. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing emergency anterolateral and posteromedial incisions with complete four-compartment lower extremity fasciotomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency anterolateral and posteromedial incisions with complete four-compartment lower extremity fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency anterolateral and posteromedial incisions with complete four-compartment lower extremity fasciotomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy. In the clinical management of FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Compartment Syndrome Tibial Diaphyseal Fracture Severe Pain on Passive Stretch Two-Incision Four-Compartment Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association (POA) Trauma Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29036",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridemen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization. Clinical examination and investigative review confirm initiating immediate IV cefazolin and aminoglycoside, tetanus prophylaxis, radical debridement within 6 hours, and bridging external fixator. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate iv cefazolin and aminoglycoside, tetanus prophylaxis, radical debridement within 6 hours, and bridging external fixator",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating immediate IV cefazolin and aminoglycoside, tetanus prophylaxis, radical debridement within 6 hours, and bridging external fixator represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating immediate IV cefazolin and aminoglycoside, tetanus prophylaxis, radical debridement within 6 hours, and bridging external fixator represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization. In the clinical management of FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Open Tibial Fracture Gustilo-Anderson Grade IIIB Radical Debridement and External Fixator Stabilization."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Open Fracture Standards",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29037",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation. Clinical examination and investigative review confirm performing emergency trauma craniotomy, evacuating acute extradural blood clot, and coagulating bleeding middle meningeal vessels. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency trauma craniotomy, evacuating acute extradural blood clot, and coagulating bleeding middle meningeal vessels",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency trauma craniotomy, evacuating acute extradural blood clot, and coagulating bleeding middle meningeal vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency trauma craniotomy, evacuating acute extradural blood clot, and coagulating bleeding middle meningeal vessels represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation. In the clinical management of FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Severe Head Injury Epidural Hematoma Middle Meningeal Artery Lucid Interval Emergent Craniotomy and Evacuation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurosurgeons (PSN) Trauma Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29038",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarth",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty. Clinical examination and investigative review confirm performing cemented bipolar hemiarthroplasty or total hip arthroplasty within 24 to 48 hours for displaced femoral neck fracture in elderly. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Performing cemented bipolar hemiarthroplasty or total hip arthroplasty within 24 to 48 hours for displaced femoral neck fracture in elderly",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing cemented bipolar hemiarthroplasty or total hip arthroplasty within 24 to 48 hours for displaced femoral neck fracture in elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing cemented bipolar hemiarthroplasty or total hip arthroplasty within 24 to 48 hours for displaced femoral neck fracture in elderly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty. In the clinical management of FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Femoral Neck Fracture Subcapital Displaced Garden Stage IV Hemiarthroplasty vs Total Hip Arthroplasty."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Geriatric Trauma Protocols",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29039",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Dermatology",
+    "topic": "FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy. Clinical examination and investigative review confirm calculating crystalloid fluid resuscitation using Parkland formula (4 mL x kg x % TBSA) and performing emergent surgical escharotomy for constricting burn. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Calculating crystalloid fluid resuscitation using parkland formula (4 ml x kg x % tbsa) and performing emergent surgical escharotomy for constricting burn",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, calculating crystalloid fluid resuscitation using Parkland formula (4 mL x kg x % TBSA) and performing emergent surgical escharotomy for constricting burn represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, calculating crystalloid fluid resuscitation using Parkland formula (4 mL x kg x % TBSA) and performing emergent surgical escharotomy for constricting burn represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy. In the clinical management of FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Severe Flame Burn Injury Parkland Formula Resuscitation 4 mL/kg/% TBSA Ringer Lactate and Early Escharotomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Burn Association Clinical Care Guidelines",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29040",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Nervous System",
+    "topic": "FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy. Clinical examination and investigative review confirm maintaining rigid cervical collar immobilization, applying skull traction, and performing anterior cervical discectomy and fusion (ACDF). Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Maintaining rigid cervical collar immobilization, applying skull traction, and performing anterior cervical discectomy and fusion (acdf)",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, maintaining rigid cervical collar immobilization, applying skull traction, and performing anterior cervical discectomy and fusion (ACDF) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, maintaining rigid cervical collar immobilization, applying skull traction, and performing anterior cervical discectomy and fusion (ACDF) represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy. In the clinical management of FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Cervical Spine Injury C5-C6 Facet Subluxation Inline Immobilization Gardner-Wells Tongs and Anterior Cervical Discectomy."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Orthopaedic Association Spine Care Guidelines",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29041",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fl",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage. Clinical examination and investigative review confirm performing diagnostic needle joint aspiration followed by emergency operating room arthroscopic lavage and intravenous ceftriaxone. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Performing diagnostic needle joint aspiration followed by emergency operating room arthroscopic lavage and intravenous ceftriaxone",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing diagnostic needle joint aspiration followed by emergency operating room arthroscopic lavage and intravenous ceftriaxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing diagnostic needle joint aspiration followed by emergency operating room arthroscopic lavage and intravenous ceftriaxone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage. In the clinical management of FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Acute Septic Arthritis Native Knee Joint Arthrocentesis Purulent Fluid Urgent Arthroscopic Lavage."
+    ],
+    "references": [
+      {
+        "label": "POA Joint Infection Standards",
+        "url": "https://poa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29042",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Explora",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy. Clinical examination and investigative review confirm performing emergency laparotomy with splenectomy and administering encapsulated bacterial postsplenectomy vaccinations at 14 days. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergency laparotomy with splenectomy and administering encapsulated bacterial postsplenectomy vaccinations at 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency laparotomy with splenectomy and administering encapsulated bacterial postsplenectomy vaccinations at 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency laparotomy with splenectomy and administering encapsulated bacterial postsplenectomy vaccinations at 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy. In the clinical management of FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Surgery Traumatic Splenic Rupture Hemodynamically Unstable Emergent Exploratory Laparotomy and Splenectomy."
+    ],
+    "references": [
+      {
+        "label": "Society of Surgeons of Pakistan Polytrauma Consensus",
+        "url": "https://ssp.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29043",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Prit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery. Clinical examination and investigative review confirm administering Pritchard regimen magnesium sulfate (4 g IV plus 10 g IM loading, then 5 g IM 4-hourly) with blood pressure control and delivery. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering pritchard regimen magnesium sulfate (4 g iv plus 10 g im loading, then 5 g im 4-hourly) with blood pressure control and delivery",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering Pritchard regimen magnesium sulfate (4 g IV plus 10 g IM loading, then 5 g IM 4-hourly) with blood pressure control and delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering Pritchard regimen magnesium sulfate (4 g IV plus 10 g IM loading, then 5 g IM 4-hourly) with blood pressure control and delivery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery. In the clinical management of FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Eclampsia Severe Convulsions Magnesium Sulfate Loading Dose Pritchard Regimen and Expedited Delivery."
+    ],
+    "references": [
+      {
+        "label": "Society of Obstetricians and Gynaecologists of Pakistan (SOGP) Hypertensive Disorders Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29044",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade. Clinical examination and investigative review confirm initiating bimanual uterine compression, 20 units oxytocin infusion, IV tranexamic acid 1 g, and Bakri intrauterine balloon tamponade. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating bimanual uterine compression, 20 units oxytocin infusion, iv tranexamic acid 1 g, and bakri intrauterine balloon tamponade",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating bimanual uterine compression, 20 units oxytocin infusion, IV tranexamic acid 1 g, and Bakri intrauterine balloon tamponade represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating bimanual uterine compression, 20 units oxytocin infusion, IV tranexamic acid 1 g, and Bakri intrauterine balloon tamponade represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade. In the clinical management of FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Severe Postpartum Hemorrhage Uterine Atony Bimanual Compression IV Oxytocin Tranexamic Acid and Balloon Tamponade."
+    ],
+    "references": [
+      {
+        "label": "SOGP Postpartum Haemorrhage Management Protocols",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29045",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation. Clinical examination and investigative review confirm performing immediate emergency cesarean section with cross-matched blood ready, broad-spectrum IV antibiotics, and vigorous rehydration. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing immediate emergency cesarean section with cross-matched blood ready, broad-spectrum iv antibiotics, and vigorous rehydration",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate emergency cesarean section with cross-matched blood ready, broad-spectrum IV antibiotics, and vigorous rehydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate emergency cesarean section with cross-matched blood ready, broad-spectrum IV antibiotics, and vigorous rehydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation. In the clinical management of FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Obstructed Labor Bandl Ring Impending Rupture Emergent Cesarean Section and IV Fluid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "SOGP Intrapartum Care Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29046",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery. Clinical examination and investigative review confirm avoiding digital vaginal examination, performing transabdominal ultrasound localization, and proceeding to emergency cesarean section. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Avoiding digital vaginal examination, performing transabdominal ultrasound localization, and proceeding to emergency cesarean section",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, avoiding digital vaginal examination, performing transabdominal ultrasound localization, and proceeding to emergency cesarean section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, avoiding digital vaginal examination, performing transabdominal ultrasound localization, and proceeding to emergency cesarean section represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery. In the clinical management of FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Placenta Previa Major Complete Coverage Painless Heavy Bleeding Emergency Cesarean Delivery."
+    ],
+    "references": [
+      {
+        "label": "SOGP Antepartum Haemorrhage Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29047",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy. Clinical examination and investigative review confirm initiating immediate uncrossmatched packed red blood cell transfusion and performing emergent surgical salpingectomy. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate uncrossmatched packed red blood cell transfusion and performing emergent surgical salpingectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating immediate uncrossmatched packed red blood cell transfusion and performing emergent surgical salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating immediate uncrossmatched packed red blood cell transfusion and performing emergent surgical salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy. In the clinical management of FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Ruptured Ectopic Pregnancy Ampullary Mass Hemoperitoneum Emergent Exploratory Laparoscopy or Laparotomy."
+    ],
+    "references": [
+      {
+        "label": "SOGP Ectopic Pregnancy Clinical Practice Consensus",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29048",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Su",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy. Clinical examination and investigative review confirm initiating medical nutrition therapy and prescribing subcutaneous regular and NPH insulin targeting fasting glucose < 95 mg/dL. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Initiating medical nutrition therapy and prescribing subcutaneous regular and nph insulin targeting fasting glucose < 95 mg/dl",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating medical nutrition therapy and prescribing subcutaneous regular and NPH insulin targeting fasting glucose < 95 mg/dL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating medical nutrition therapy and prescribing subcutaneous regular and NPH insulin targeting fasting glucose < 95 mg/dL represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy. In the clinical management of FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Gestational Diabetes Mellitus 75g OGTT Dietary Counseling and Subcutaneous Insulin Therapy."
+    ],
+    "references": [
+      {
+        "label": "SOGP Diabetes in Pregnancy Clinical Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29049",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management. Clinical examination and investigative review confirm prescribing oral erythromycin 250 mg four times daily for 10 days, antenatal intramuscular betamethasone 12 mg, and serial CTG monitoring. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral erythromycin 250 mg four times daily for 10 days, antenatal intramuscular betamethasone 12 mg, and serial ctg monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral erythromycin 250 mg four times daily for 10 days, antenatal intramuscular betamethasone 12 mg, and serial CTG monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral erythromycin 250 mg four times daily for 10 days, antenatal intramuscular betamethasone 12 mg, and serial CTG monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management. In the clinical management of FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Preterm Prelabor Rupture of Membranes at 31 Weeks Oral Erythromycin Betamethasone and Conservative Management."
+    ],
+    "references": [
+      {
+        "label": "SOGP Preterm Labour Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29050",
+    "exam": "FCPS",
+    "subject": "Obstetrics",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Supra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure. Clinical examination and investigative review confirm performing immediate hyperflexion of maternal hips (McRoberts maneuver) and applying firm continuous suprapubic pressure. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing immediate hyperflexion of maternal hips (mcroberts maneuver) and applying firm continuous suprapubic pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate hyperflexion of maternal hips (McRoberts maneuver) and applying firm continuous suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing immediate hyperflexion of maternal hips (McRoberts maneuver) and applying firm continuous suprapubic pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure. In the clinical management of FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Shoulder Dystocia HELPERR Mnemonics McRoberts Maneuver and Suprapubic Pressure."
+    ],
+    "references": [
+      {
+        "label": "SOGP Obstetric Emergencies Handbook",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29051",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gen",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy. Clinical examination and investigative review confirm initiating intravenous broad-spectrum triple therapy with ampicillin 2 g, gentamicin 5 mg/kg, and metronidazole 500 mg with pelvic ultrasound. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous broad-spectrum triple therapy with ampicillin 2 g, gentamicin 5 mg/kg, and metronidazole 500 mg with pelvic ultrasound",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous broad-spectrum triple therapy with ampicillin 2 g, gentamicin 5 mg/kg, and metronidazole 500 mg with pelvic ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous broad-spectrum triple therapy with ampicillin 2 g, gentamicin 5 mg/kg, and metronidazole 500 mg with pelvic ultrasound represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy. In the clinical management of FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Puerperal Sepsis High Fever Uterine Tenderness IV Ampicillin Gentamicin and Metronidazole Triple Therapy."
+    ],
+    "references": [
+      {
+        "label": "SOGP Puerperal Infection Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29052",
+    "exam": "FCPS",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transv",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique). Clinical examination and investigative review confirm performing examination under anesthesia, cystoscopy, and transvaginal flap-splitting repair after 3 months of primary tissue healing. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Performing examination under anesthesia, cystoscopy, and transvaginal flap-splitting repair after 3 months of primary tissue healing",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing examination under anesthesia, cystoscopy, and transvaginal flap-splitting repair after 3 months of primary tissue healing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique).",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing examination under anesthesia, cystoscopy, and transvaginal flap-splitting repair after 3 months of primary tissue healing represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique). In the clinical management of FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Obstetrics Vesicovaginal Fistula Obstructed Labor Pelvic Examination Transvaginal Fistula Repair (Sims Technique)."
+    ],
+    "references": [
+      {
+        "label": "SOGP and Pakistan Fistula Foundation Guidelines",
+        "url": "https://sogp.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29053",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "General Principles",
+    "topic": "FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Sta",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 3-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics. Clinical examination and investigative review confirm initiating low-protein low-sodium starter F-75 milk diet, oral amoxicillin, and avoiding high fluid rates to prevent refeeding heart failure. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating low-protein low-sodium starter f-75 milk diet, oral amoxicillin, and avoiding high fluid rates to prevent refeeding heart failure",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating low-protein low-sodium starter F-75 milk diet, oral amoxicillin, and avoiding high fluid rates to prevent refeeding heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating low-protein low-sodium starter F-75 milk diet, oral amoxicillin, and avoiding high fluid rates to prevent refeeding heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics. In the clinical management of FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Severe Acute Malnutrition SAM Edematous Kwashiorkor WHO F-75 Starter Diet and Broad-Spectrum Antibiotics."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Paediatric Association (PPA) Malnutrition Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29054",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 4-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour. Clinical examination and investigative review confirm initiating intravenous ampicillin 100 mg/kg/day and gentamicin 5 mg/kg/day within 1 hour of clinical suspicion following blood cultures. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous ampicillin 100 mg/kg/day and gentamicin 5 mg/kg/day within 1 hour of clinical suspicion following blood cultures",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous ampicillin 100 mg/kg/day and gentamicin 5 mg/kg/day within 1 hour of clinical suspicion following blood cultures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous ampicillin 100 mg/kg/day and gentamicin 5 mg/kg/day within 1 hour of clinical suspicion following blood cultures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour. In the clinical management of FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Neonatal Sepsis Early Onset Lethargy Poor Suck IV Ampicillin and Gentamicin within 1 Hour."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Paediatric Association Neonatal Sepsis Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29055",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibilit",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 5-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy. Clinical examination and investigative review confirm initiating continuous intensive blue-green LED phototherapy and preparing for exchange transfusion if bilirubin crosses exchange threshold. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Initiating continuous intensive blue-green led phototherapy and preparing for exchange transfusion if bilirubin crosses exchange threshold",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating continuous intensive blue-green LED phototherapy and preparing for exchange transfusion if bilirubin crosses exchange threshold represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating continuous intensive blue-green LED phototherapy and preparing for exchange transfusion if bilirubin crosses exchange threshold represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy. In the clinical management of FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Neonatal Hyperbilirubinemia Day 2 Term Infant ABO Incompatibility Intensive Double Phototherapy."
+    ],
+    "references": [
+      {
+        "label": "PPA Neonatal Hyperbilirubinemia Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29056",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 6-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation. Clinical examination and investigative review confirm infusing intravenous Ringer lactate 100 mL/kg according to age and initiating oral zinc 20 mg daily for 14 days upon recovery. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Infusing intravenous ringer lactate 100 ml/kg according to age and initiating oral zinc 20 mg daily for 14 days upon recovery",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, infusing intravenous Ringer lactate 100 mL/kg according to age and initiating oral zinc 20 mg daily for 14 days upon recovery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, infusing intravenous Ringer lactate 100 mL/kg according to age and initiating oral zinc 20 mg daily for 14 days upon recovery represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation. In the clinical management of FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Diarrhea Severe Dehydration WHO Plan C Intravenous Ringer Lactate and Oral Zinc Supplementation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Paediatric Association Diarrheal Diseases Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29057",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Support",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 7-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding. Clinical examination and investigative review confirm providing humidified high-flow nasal cannula oxygen, nasal suctioning, and nasogastric enteral hydration while avoiding systemic steroids. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Providing humidified high-flow nasal cannula oxygen, nasal suctioning, and nasogastric enteral hydration while avoiding systemic steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, providing humidified high-flow nasal cannula oxygen, nasal suctioning, and nasogastric enteral hydration while avoiding systemic steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, providing humidified high-flow nasal cannula oxygen, nasal suctioning, and nasogastric enteral hydration while avoiding systemic steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding. In the clinical management of FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Severe Bronchiolitis Infant 4 Months RSV Infection Supportive Oxygenation and Nasogastric Feeding."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Paediatric Association Bronchiolitis Management Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29058",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 M",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 8-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam. Clinical examination and investigative review confirm administering intravenous diazepam 0.2 mg/kg or buccal midazolam 0.5 mg/kg followed by IV levetiracetam or phenobarbital. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous diazepam 0.2 mg/kg or buccal midazolam 0.5 mg/kg followed by iv levetiracetam or phenobarbital",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous diazepam 0.2 mg/kg or buccal midazolam 0.5 mg/kg followed by IV levetiracetam or phenobarbital represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous diazepam 0.2 mg/kg or buccal midazolam 0.5 mg/kg followed by IV levetiracetam or phenobarbital represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam. In the clinical management of FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Febrile Status Epilepticus Continuous Generalized Seizures > 5 Minutes Intravenous Diazepam or Midazolam."
+    ],
+    "references": [
+      {
+        "label": "PPA Pediatric Neurology Guidelines",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29059",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftria",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 9-year-old male presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone. Clinical examination and investigative review confirm administering intravenous ceftriaxone 100 mg/kg daily in two divided doses combined with intravenous dexamethasone 0.15 mg/kg 6-hourly. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous ceftriaxone 100 mg/kg daily in two divided doses combined with intravenous dexamethasone 0.15 mg/kg 6-hourly",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous ceftriaxone 100 mg/kg daily in two divided doses combined with intravenous dexamethasone 0.15 mg/kg 6-hourly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous ceftriaxone 100 mg/kg daily in two divided doses combined with intravenous dexamethasone 0.15 mg/kg 6-hourly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone. In the clinical management of FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Acute Pyogenic Meningitis Child 3 Years S. Pneumoniae IV Ceftriaxone 100 mg/kg plus Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Paediatric Association CNS Infection Protocols",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29060",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Re",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 10-year-old female is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation. Clinical examination and investigative review confirm administering regular leukodepleted packed red cell transfusions maintaining pre-transfusion Hb 9.5-10.5 g/dL with oral deferasirox iron chelation. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Administering regular leukodepleted packed red cell transfusions maintaining pre-transfusion hb 9.5-10.5 g/dl with oral deferasirox iron chelation",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering regular leukodepleted packed red cell transfusions maintaining pre-transfusion Hb 9.5-10.5 g/dL with oral deferasirox iron chelation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering regular leukodepleted packed red cell transfusions maintaining pre-transfusion Hb 9.5-10.5 g/dL with oral deferasirox iron chelation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation. In the clinical management of FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Thalassemia Major Transfusion-Dependent Chronic Anemia Packed Red Cell Transfusion and Oral Deferasirox Chelation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Haematology Thalassemia Guidelines",
+        "url": "https://psh.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29061",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 11-year-old male undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily. Clinical examination and investigative review confirm initiating oral levothyroxine 10 to 15 mcg/kg daily within 14 days of birth to prevent irreversible neurodevelopmental cretinism. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral levothyroxine 10 to 15 mcg/kg daily within 14 days of birth to prevent irreversible neurodevelopmental cretinism",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral levothyroxine 10 to 15 mcg/kg daily within 14 days of birth to prevent irreversible neurodevelopmental cretinism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral levothyroxine 10 to 15 mcg/kg daily within 14 days of birth to prevent irreversible neurodevelopmental cretinism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily. In the clinical management of FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Congenital Hypothyroidism Neonatal Blood Spot Elevated TSH Early Oral Levothyroxine 10-15 mcg/kg Daily."
+    ],
+    "references": [
+      {
+        "label": "PPA Pediatric Endocrinology Group",
+        "url": "https://ppa.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29062",
+    "exam": "FCPS",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Curra",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 12-year-old female attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction. Clinical examination and investigative review confirm performing urgent pediatric surgical consultation and ultrasound-guided pneumatic air enema reduction in non-perforated patients. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing urgent pediatric surgical consultation and ultrasound-guided pneumatic air enema reduction in non-perforated patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing urgent pediatric surgical consultation and ultrasound-guided pneumatic air enema reduction in non-perforated patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing urgent pediatric surgical consultation and ultrasound-guided pneumatic air enema reduction in non-perforated patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction. In the clinical management of FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Pediatrics Intussusception Infant 9 Months Colicky Abdominal Pain Red-Currant Jelly Stool Pneumatic Air Enema Reduction."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Association of Paediatric Surgeons Guidelines",
+        "url": "https://paps.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29063",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours I",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol. Clinical examination and investigative review confirm administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg within 4.5 hours of verified symptom onset. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg within 4.5 hours of verified symptom onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg within 4.5 hours of verified symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg within 4.5 hours of verified symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol. In the clinical management of FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Acute Ischemic Stroke Middle Cerebral Artery Window < 4.5 Hours IV Alteplase Thrombolysis Protocol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Stroke Society (PSS) Ischemic Stroke Guidelines",
+        "url": "https://pakstroke.com/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29064",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion. Clinical examination and investigative review confirm administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by iv levetiracetam 60 mg/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion. In the clinical management of FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Status Epilepticus Adult Continuous Generalized Convulsions IV Lorazepam Followed by Levetiracetam Infusion."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology (PSN) Epilepsy Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29065",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmaphe",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin. Clinical examination and investigative review confirm transferring to ICU for endotracheal intubation, serial forced vital capacity monitoring, and therapeutic plasma exchange. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Transferring to icu for endotracheal intubation, serial forced vital capacity monitoring, and therapeutic plasma exchange",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, transferring to ICU for endotracheal intubation, serial forced vital capacity monitoring, and therapeutic plasma exchange represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, transferring to ICU for endotracheal intubation, serial forced vital capacity monitoring, and therapeutic plasma exchange represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin. In the clinical management of FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Myasthenia Gravis Myasthenic Crisis Respiratory Failure Plasmapheresis vs Intravenous Immunoglobulin."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology Neuromuscular Disorders Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29066",
+    "exam": "FCPS",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneur",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female presents to the tertiary consultative suite at Pakistan Institute of Medical Sciences (PIMS) Islamabad with clinical findings indicative of FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days. Clinical examination and investigative review confirm initiating intravenous immunoglobulin 0.4 g/kg daily for 5 days with intensive monitoring of respiratory mechanics and autonomic stability. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous immunoglobulin 0.4 g/kg daily for 5 days with intensive monitoring of respiratory mechanics and autonomic stability",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous immunoglobulin 0.4 g/kg daily for 5 days with intensive monitoring of respiratory mechanics and autonomic stability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating intravenous immunoglobulin 0.4 g/kg daily for 5 days with intensive monitoring of respiratory mechanics and autonomic stability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days. In the clinical management of FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Neurology Guillain-Barre Syndrome Acute Inflammatory Demyelinating Polyneuropathy IVIG 0.4 g/kg Daily for 5 Days."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Society of Neurology Peripheral Nerve Disease Guidelines",
+        "url": "https://psn.org.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29067",
+    "exam": "FCPS",
+    "subject": "Psychiatry",
+    "system": "Behavioral Health",
+    "topic": "FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is admitted to the acute inpatient medical unit of Services Hospital Lahore with clinical findings indicative of FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol. Clinical examination and investigative review confirm admitting to psychiatric care with close suicide precautions and initiating oral escitalopram 10 mg daily combined with psychotherapy. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Admitting to psychiatric care with close suicide precautions and initiating oral escitalopram 10 mg daily combined with psychotherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, admitting to psychiatric care with close suicide precautions and initiating oral escitalopram 10 mg daily combined with psychotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, admitting to psychiatric care with close suicide precautions and initiating oral escitalopram 10 mg daily combined with psychotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol. In the clinical management of FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Major Depressive Disorder Severe Episode Suicidal Ideation SSRI Escitalopram and Inpatient Safety Protocol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society (PPS) Depression Clinical Guidelines",
+        "url": "https://pakpsychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29068",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female undergoes postgraduate resident morning round assessment at Nishtar Hospital Multan with clinical findings indicative of FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate. Clinical examination and investigative review confirm initiating oral sodium valproate 750 mg daily titrated with oral haloperidol or olanzapine for rapid behavioral control. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral sodium valproate 750 mg daily titrated with oral haloperidol or olanzapine for rapid behavioral control",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral sodium valproate 750 mg daily titrated with oral haloperidol or olanzapine for rapid behavioral control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, initiating oral sodium valproate 750 mg daily titrated with oral haloperidol or olanzapine for rapid behavioral control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate. In the clinical management of FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Bipolar I Disorder Acute Severe Mania Agitation Oral Haloperidol and Mood Stabilizer Sodium Valproate."
+    ],
+    "references": [
+      {
+        "label": "PPS Bipolar Affective Disorder Guidelines",
+        "url": "https://pakpsychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29069",
+    "exam": "FCPS",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male attends the specialty clinic at Lady Reading Hospital Peshawar with clinical findings indicative of FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation. Clinical examination and investigative review confirm prescribing oral risperidone 2 mg daily titrated to response with metabolic surveillance and supportive family counseling. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral risperidone 2 mg daily titrated to response with metabolic surveillance and supportive family counseling",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral risperidone 2 mg daily titrated to response with metabolic surveillance and supportive family counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, prescribing oral risperidone 2 mg daily titrated to response with metabolic surveillance and supportive family counseling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation. In the clinical management of FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Psychiatry Schizophrenia Paranoid First Episode Antipsychotic Risperidone Titration and Family Psychoeducation."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Psychiatric Society Psychosis Protocols",
+        "url": "https://pakpsychiatry.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29070",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is examined at the tertiary fellowship teaching hospital accredited by CPSP with clinical findings indicative of FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity. Clinical examination and investigative review confirm performing emergency life-saving surgical intervention under the common law doctrine of necessity when patient lacks capacity and no surrogate is available. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Performing emergency life-saving surgical intervention under the common law doctrine of necessity when patient lacks capacity and no surrogate is available",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency life-saving surgical intervention under the common law doctrine of necessity when patient lacks capacity and no surrogate is available represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing emergency life-saving surgical intervention under the common law doctrine of necessity when patient lacks capacity and no surrogate is available represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity. In the clinical management of FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Informed Consent Emergency Life-Saving Surgery Unconscious Patient Doctrine of Necessity."
+    ],
+    "references": [
+      {
+        "label": "College of Physicians and Surgeons Pakistan Bioethics Charter",
+        "url": "https://cpsp.edu.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29071",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operat",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male attends the professorial outpatient department of Mayo Hospital Lahore with clinical findings indicative of FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol. Clinical examination and investigative review confirm adhering to rigorous standardized operating room surgical swab and instrument counting protocols to prevent retained foreign objects. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Adhering to rigorous standardized operating room surgical swab and instrument counting protocols to prevent retained foreign objects",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, adhering to rigorous standardized operating room surgical swab and instrument counting protocols to prevent retained foreign objects represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, adhering to rigorous standardized operating room surgical swab and instrument counting protocols to prevent retained foreign objects represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol. In the clinical management of FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Medical Negligence Res Ipsa Loquitur Retained Surgical Sponge Operating Room Swab Count Protocol."
+    ],
+    "references": [
+      {
+        "label": "Pakistan Medical Commission / CPSP Medicolegal Standards",
+        "url": "https://pmc.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29072",
+    "exam": "FCPS",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is evaluated in the emergency receiving ward of Civil Hospital / Dow University Karachi with clinical findings indicative of FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications. Clinical examination and investigative review confirm performing rigorous apnea testing and two independent specialist clinical examinations 6 hours apart under national transplantation laws. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with CPSP clinical fellowship consensus guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Performing rigorous apnea testing and two independent specialist clinical examinations 6 hours apart under national transplantation laws",
+        "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing rigorous apnea testing and two independent specialist clinical examinations 6 hours apart under national transplantation laws represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for FCPS, performing rigorous apnea testing and two independent specialist clinical examinations 6 hours apart under national transplantation laws represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications. In the clinical management of FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of FCPS Ethics Organ Donation Brain Death Declaration Harvard Neurological Criteria Two Independent Specialist Certifications."
+    ],
+    "references": [
+      {
+        "label": "Human Organ Transplant Authority (HOTA) Pakistan Guidelines",
+        "url": "https://hota.gov.pk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

@@ -296,6 +296,11 @@ import { questions as bIntl292 } from '../../content/bank/international/batch-in
 import { questions as bIntl293 } from '../../content/bank/international/batch-intl-293';
 import { questions as bIntl294 } from '../../content/bank/international/batch-intl-294';
 import { questions as bIntl295 } from '../../content/bank/international/batch-intl-295';
+import { questions as bIntl296 } from '../../content/bank/international/batch-intl-296';
+import { questions as bIntl297 } from '../../content/bank/international/batch-intl-297';
+import { questions as bIntl298 } from '../../content/bank/international/batch-intl-298';
+import { questions as bIntl299 } from '../../content/bank/international/batch-intl-299';
+import { questions as bIntl300 } from '../../content/bank/international/batch-intl-300';
 import { questions as b1 } from '../../content/bank/batch-01';
 
 describe('international question bank expansion', () => {
@@ -361,12 +366,13 @@ describe('international question bank expansion', () => {
   ...bIntl276, ...bIntl277, ...bIntl278, ...bIntl279, ...bIntl280,
   ...bIntl281, ...bIntl282, ...bIntl283, ...bIntl284, ...bIntl285,
   ...bIntl286, ...bIntl287, ...bIntl288, ...bIntl289, ...bIntl290,
-  ...bIntl291, ...bIntl292, ...bIntl293, ...bIntl294, ...bIntl295
+  ...bIntl291, ...bIntl292, ...bIntl293, ...bIntl294, ...bIntl295,
+  ...bIntl296, ...bIntl297, ...bIntl298, ...bIntl299, ...bIntl300
   ];
 
-  it('contains 28672 comprehensive original questions across all target exams', () => {
-    expect(allIntl).toHaveLength(28672);
-    expect(new Set(allIntl.map((q) => q.code)).size).toBe(28672);
+  it('contains 29172 comprehensive original questions across all target exams', () => {
+    expect(allIntl).toHaveLength(29172);
+    expect(new Set(allIntl.map((q) => q.code)).size).toBe(29172);
 
     const exams = new Set(allIntl.map((q) => q.exam));
     expect(exams).toContain('Step 1');
