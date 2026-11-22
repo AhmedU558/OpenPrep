@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-22T19:43:47.931Z",
-  "totalQuestions": 29172,
+  "validatedAt": "2026-11-22T19:59:01.032Z",
+  "totalQuestions": 29672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1801,6 +1801,36 @@
       "count": 100,
       "digest": "d7ab6c83dd33c01ad46a9134f5d1fce11ecd6c2296201e8274bca59c21453cb7",
       "errors": []
+    },
+    {
+      "name": "batch-intl-301",
+      "count": 100,
+      "digest": "7cc45b372455890dec185400463cbfc42ac1f769aaf9fdccad20d20adeed5173",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-302",
+      "count": 100,
+      "digest": "f5123940db671d9368a8a0ef0f843f548648c506d1d544d11edbbe231c0f5b20",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-303",
+      "count": 100,
+      "digest": "381b830811e64eb6c2b00152e1451d69789b8e34e63a6e26e2337afbcc9e9d39",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-304",
+      "count": 100,
+      "digest": "c9b621c956f822b6f013ad9f9270cb1de7dc12d68560ee89b66bfcca82d1a970",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-305",
+      "count": 100,
+      "digest": "7ee8dc09bc1d44825bc8a3f40d6de31d92a4b5172ac8d036ce31f9b4a3b8585e",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1823,20 +1853,20 @@
     "Anatomy": 137,
     "Biochemistry": 210,
     "Biostatistics": 194,
-    "Ethics": 922,
+    "Ethics": 943,
     "Genetics": 404,
-    "Geriatrics": 174,
+    "Geriatrics": 176,
     "Immunology": 271,
-    "Medicine": 10807,
-    "Microbiology": 653,
-    "Neurology": 820,
-    "Obstetrics": 2154,
-    "Pathology": 1123,
-    "Pediatrics": 2553,
-    "Pharmacology": 2620,
+    "Medicine": 10861,
+    "Microbiology": 660,
+    "Neurology": 827,
+    "Obstetrics": 2167,
+    "Pathology": 1133,
+    "Pediatrics": 2575,
+    "Pharmacology": 2873,
     "Physiology": 448,
-    "Psychiatry": 834,
-    "Surgery": 4848
+    "Psychiatry": 841,
+    "Surgery": 4952
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

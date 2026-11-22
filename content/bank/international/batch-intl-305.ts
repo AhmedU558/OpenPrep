@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-29573",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography withi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95. Clinical examination and investigative review confirm performing diagnostic coronary angiography and revascularization within 24 hours of hospital admission. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Performing diagnostic coronary angiography and revascularization within 24 hours of hospital admission",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing diagnostic coronary angiography and revascularization within 24 hours of hospital admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing diagnostic coronary angiography and revascularization within 24 hours of hospital admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95. In the clinical management of PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Acute Coronary Syndrome High-Risk NSTEMI Early Angiography within 24 Hours NICE CG95."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guideline CG95 Acute Coronary Syndromes",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29574",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapaglif",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106. Clinical examination and investigative review confirm adding oral dapagliflozin 10 mg daily to standard neurohormonal blockade to reduce cardiovascular death and hospitalizations. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Adding oral dapagliflozin 10 mg daily to standard neurohormonal blockade to reduce cardiovascular death and hospitalizations",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding oral dapagliflozin 10 mg daily to standard neurohormonal blockade to reduce cardiovascular death and hospitalizations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adding oral dapagliflozin 10 mg daily to standard neurohormonal blockade to reduce cardiovascular death and hospitalizations represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106. In the clinical management of PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Heart Failure Reduced Ejection Fraction SGLT2 Inhibitor Dapagliflozin Addition NICE NG106."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG106 Chronic Heart Failure",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29575",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 A",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm. Clinical examination and investigative review confirm prescribing direct oral anticoagulant apixaban 5 mg twice daily for CHA2DS2-VASc score >= 2 in men or >= 3 in women. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing direct oral anticoagulant apixaban 5 mg twice daily for cha2ds2-vasc score >= 2 in men or >= 3 in women",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing direct oral anticoagulant apixaban 5 mg twice daily for CHA2DS2-VASc score >= 2 in men or >= 3 in women represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing direct oral anticoagulant apixaban 5 mg twice daily for CHA2DS2-VASc score >= 2 in men or >= 3 in women represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm. In the clinical management of PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Atrial Fibrillation Stroke Prevention DOAC Apixaban NICE NG196 Algorithm."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG196 Atrial Fibrillation",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29576",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Mye",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines. Clinical examination and investigative review confirm recommending surgical septal myectomy or alcohol septal ablation for persistent drug-refractory LVOT gradient > 50 mm Hg. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Recommending surgical septal myectomy or alcohol septal ablation for persistent drug-refractory lvot gradient > 50 mm hg",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recommending surgical septal myectomy or alcohol septal ablation for persistent drug-refractory LVOT gradient > 50 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recommending surgical septal myectomy or alcohol septal ablation for persistent drug-refractory LVOT gradient > 50 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines. In the clinical management of PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Hypertrophic Obstructive Cardiomyopathy LVOT Gradient Septal Myectomy ESC Guidelines."
+    ],
+    "references": [
+      {
+        "label": "ESC Guidelines on Hypertrophic Cardiomyopathy",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29577",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Im",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586. Clinical examination and investigative review confirm evaluating multidisciplinary heart team recommendation for transfemoral TAVI in high-risk elderly patients. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating multidisciplinary heart team recommendation for transfemoral tavi in high-risk elderly patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, evaluating multidisciplinary heart team recommendation for transfemoral TAVI in high-risk elderly patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, evaluating multidisciplinary heart team recommendation for transfemoral TAVI in high-risk elderly patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586. In the clinical management of PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation NICE IPG586."
+    ],
+    "references": [
+      {
+        "label": "NICE Interventional Procedure Guidance IPG586",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29578",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136. Clinical examination and investigative review confirm initiating intravenous labetalol or nicardipine infusion with continuous arterial pressure monitoring to safely reduce MAP by 25%. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous labetalol or nicardipine infusion with continuous arterial pressure monitoring to safely reduce map by 25%",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous labetalol or nicardipine infusion with continuous arterial pressure monitoring to safely reduce MAP by 25% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous labetalol or nicardipine infusion with continuous arterial pressure monitoring to safely reduce MAP by 25% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136. In the clinical management of PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Hypertensive Emergency IV Labetalol or Nicardipine Infusion NICE NG136."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG136 Hypertension in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29579",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC. Clinical examination and investigative review confirm initiating synergistic bactericidal intravenous antibiotic therapy based on positive blood cultures and TEE evidence. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Initiating synergistic bactericidal intravenous antibiotic therapy based on positive blood cultures and tee evidence",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating synergistic bactericidal intravenous antibiotic therapy based on positive blood cultures and TEE evidence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating synergistic bactericidal intravenous antibiotic therapy based on positive blood cultures and TEE evidence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC. In the clinical management of PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Infective Endocarditis Duke Criteria Amoxicillin or Ceftriaxone Plus Gentamicin BSAC."
+    ],
+    "references": [
+      {
+        "label": "British Society for Antimicrobial Chemotherapy (BSAC) Guidelines",
+        "url": "https://bsac.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29580",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardioc",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC. Clinical examination and investigative review confirm performing emergency echocardiography-guided needle pericardiocentesis with continuous hemodynamic monitoring. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Performing emergency echocardiography-guided needle pericardiocentesis with continuous hemodynamic monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing emergency echocardiography-guided needle pericardiocentesis with continuous hemodynamic monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing emergency echocardiography-guided needle pericardiocentesis with continuous hemodynamic monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC. In the clinical management of PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Cardiac Tamponade Beck Triad Pulsus Paradoxus Urgent Pericardiocentesis ESC."
+    ],
+    "references": [
+      {
+        "label": "ESC Pericardial Diseases Guidelines",
+        "url": "https://www.escardio.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29581",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS. Clinical examination and investigative review confirm immediate emergency cardiothoracic surgical repair with ascending aortic interposition graft under hypothermic arrest. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate emergency cardiothoracic surgical repair with ascending aortic interposition graft under hypothermic arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate emergency cardiothoracic surgical repair with ascending aortic interposition graft under hypothermic arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediate emergency cardiothoracic surgical repair with ascending aortic interposition graft under hypothermic arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS. In the clinical management of PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Acute Aortic Dissection Stanford Type A Emergent Open Graft Surgery NICE CKS."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Knowledge Summaries Aortic Aneurysm and Dissection",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29582",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK. Clinical examination and investigative review confirm administering intravenous amiodarone 300 mg over 20 to 60 minutes followed by continuous maintenance infusion. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous amiodarone 300 mg over 20 to 60 minutes followed by continuous maintenance infusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous amiodarone 300 mg over 20 to 60 minutes followed by continuous maintenance infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous amiodarone 300 mg over 20 to 60 minutes followed by continuous maintenance infusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK. In the clinical management of PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Cardiology Ventricular Tachycardia Hemodynamically Stable IV Amiodarone 300 mg Infusion Resuscitation Council UK."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK Adult Resuscitation Guidelines",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29583",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbut",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone. Clinical examination and investigative review confirm administering back-to-back nebulised salbutamol 5 mg and ipratropium 500 mcg with oral prednisolone 40-50 mg daily. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering back-to-back nebulised salbutamol 5 mg and ipratropium 500 mcg with oral prednisolone 40-50 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering back-to-back nebulised salbutamol 5 mg and ipratropium 500 mcg with oral prednisolone 40-50 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering back-to-back nebulised salbutamol 5 mg and ipratropium 500 mcg with oral prednisolone 40-50 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone. In the clinical management of PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Acute Severe Asthma Peak Expiratory Flow < 50% Nebulised Salbutamol Ipratropium and Prednisolone."
+    ],
+    "references": [
+      {
+        "label": "BTS/SIGN British Guideline on the Management of Asthma",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29584",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Pr",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115. Clinical examination and investigative review confirm prescribing oral amoxicillin 500 mg three times daily and prednisolone 30 mg daily for 5 days for Anthonisen type 1 flare. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral amoxicillin 500 mg three times daily and prednisolone 30 mg daily for 5 days for anthonisen type 1 flare",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral amoxicillin 500 mg three times daily and prednisolone 30 mg daily for 5 days for Anthonisen type 1 flare represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral amoxicillin 500 mg three times daily and prednisolone 30 mg daily for 5 days for Anthonisen type 1 flare represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115. In the clinical management of PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology COPD Acute Exacerbation Purulent Sputum Oral Amoxicillin and Prednisolone Course NICE NG115."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG115 COPD in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29585",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Am",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS. Clinical examination and investigative review confirm initiating intravenous co-amoxiclav 1.2 g three times daily plus clarithromycin 500 mg twice daily with inpatient admission. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating intravenous co-amoxiclav 1.2 g three times daily plus clarithromycin 500 mg twice daily with inpatient admission",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous co-amoxiclav 1.2 g three times daily plus clarithromycin 500 mg twice daily with inpatient admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous co-amoxiclav 1.2 g three times daily plus clarithromycin 500 mg twice daily with inpatient admission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS. In the clinical management of PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Co-Amoxiclav plus Clarithromycin BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Guidelines for the Management of Community Acquired Pneumonia",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29586",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic I",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS. Clinical examination and investigative review confirm administering systemic intravenous recombinant tissue plasminogen activator alteplase 100 mg infusion over 2 hours for shock. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering systemic intravenous recombinant tissue plasminogen activator alteplase 100 mg infusion over 2 hours for shock",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering systemic intravenous recombinant tissue plasminogen activator alteplase 100 mg infusion over 2 hours for shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering systemic intravenous recombinant tissue plasminogen activator alteplase 100 mg infusion over 2 hours for shock represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS. In the clinical management of PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Pulmonary Embolism High-Risk Hemodynamic Instability Systemic IV Thrombolysis Alteplase BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Pulmonary Embolism Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29587",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidon",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504. Clinical examination and investigative review confirm initiating oral antifibrotic therapy with pirfenidone or nintedanib following multidisciplinary interstitial lung team review. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral antifibrotic therapy with pirfenidone or nintedanib following multidisciplinary interstitial lung team review",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral antifibrotic therapy with pirfenidone or nintedanib following multidisciplinary interstitial lung team review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral antifibrotic therapy with pirfenidone or nintedanib following multidisciplinary interstitial lung team review represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504. In the clinical management of PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Idiopathic Pulmonary Fibrosis HRCT Honeycombing Oral Pirfenidone or Nintedanib NICE TA504."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal TA504 Pirfenidone for Idiopathic Pulmonary Fibrosis",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29588",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS. Clinical examination and investigative review confirm performing simple needle thoracocentesis with 16-18G cannula aspirating up to 2.5 L before considering chest drain. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Performing simple needle thoracocentesis with 16-18g cannula aspirating up to 2.5 l before considering chest drain",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing simple needle thoracocentesis with 16-18G cannula aspirating up to 2.5 L before considering chest drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing simple needle thoracocentesis with 16-18G cannula aspirating up to 2.5 L before considering chest drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS. In the clinical management of PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Spontaneous Pneumothorax Primary Large > 2 cm Needle Aspiration 16-18G BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Pleural Disease Clinical Guidelines",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29589",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS. Clinical examination and investigative review confirm recognizing self-limiting Lofgren syndrome with benign prognosis managed symptomatically with oral non-steroidal anti-inflammatory agents. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Recognizing self-limiting lofgren syndrome with benign prognosis managed symptomatically with oral non-steroidal anti-inflammatory agents",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recognizing self-limiting Lofgren syndrome with benign prognosis managed symptomatically with oral non-steroidal anti-inflammatory agents represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, recognizing self-limiting Lofgren syndrome with benign prognosis managed symptomatically with oral non-steroidal anti-inflammatory agents represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS. In the clinical management of PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Sarcoidosis Erythema Nodosum Bilateral Hilar Lymphadenopathy Lofgren Syndrome BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Sarcoidosis Clinical Statement",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29590",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inha",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS. Clinical examination and investigative review confirm prescribing long-term inhaled colistimethate sodium or tobramycin to suppress chronic Pseudomonas aeruginosa colonization. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing long-term inhaled colistimethate sodium or tobramycin to suppress chronic pseudomonas aeruginosa colonization",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing long-term inhaled colistimethate sodium or tobramycin to suppress chronic Pseudomonas aeruginosa colonization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing long-term inhaled colistimethate sodium or tobramycin to suppress chronic Pseudomonas aeruginosa colonization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS. In the clinical management of PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Bronchiectasis Chronic Productive Cough Sputum Pseudomonas Inhaled Colistimethate BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Bronchiectasis Guidelines for Adults",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29591",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuou",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202. Clinical examination and investigative review confirm prescribing nocturnal continuous positive airway pressure (CPAP) with humidification and compliance monitoring. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing nocturnal continuous positive airway pressure (cpap) with humidification and compliance monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing nocturnal continuous positive airway pressure (CPAP) with humidification and compliance monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing nocturnal continuous positive airway pressure (CPAP) with humidification and compliance monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202. In the clinical management of PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Obstructive Sleep Apnoea Daytime Somnolence Nocturnal Continuous Positive Airway Pressure NICE NG202."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG202 Obstructive Sleep Apnoea",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29592",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS. Clinical examination and investigative review confirm performing therapeutic thoracocentesis with talc slurry pleurodesis followed by systemic pemetrexed and cisplatin chemotherapy. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Performing therapeutic thoracocentesis with talc slurry pleurodesis followed by systemic pemetrexed and cisplatin chemotherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing therapeutic thoracocentesis with talc slurry pleurodesis followed by systemic pemetrexed and cisplatin chemotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing therapeutic thoracocentesis with talc slurry pleurodesis followed by systemic pemetrexed and cisplatin chemotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS. In the clinical management of PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Pulmonology Mesothelioma Pleural Effusion Talc Pleurodesis and Chemotherapy Pemetrexed Cisplatin BTS."
+    ],
+    "references": [
+      {
+        "label": "BTS Statement on Malignant Mesothelioma",
+        "url": "https://www.brit-thoracic.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29593",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Liga",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141. Clinical examination and investigative review confirm administering intravenous terlipressin, broad-spectrum antibiotic prophylaxis, and performing urgent endoscopic variceal ligation within 12 hours. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous terlipressin, broad-spectrum antibiotic prophylaxis, and performing urgent endoscopic variceal ligation within 12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous terlipressin, broad-spectrum antibiotic prophylaxis, and performing urgent endoscopic variceal ligation within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous terlipressin, broad-spectrum antibiotic prophylaxis, and performing urgent endoscopic variceal ligation within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141. In the clinical management of PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Acute Upper Gastrointestinal Bleeding Endoscopic Band Ligation IV Terlipressin and Omeprazole NICE CG141."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guideline CG141 Acute Upper GI Bleeding",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29594",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG. Clinical examination and investigative review confirm administering intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and infliximab rescue on day 3. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and infliximab rescue on day 3",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and infliximab rescue on day 3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous hydrocortisone 100 mg four times daily with flexible sigmoidoscopy and infliximab rescue on day 3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG. In the clinical management of PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Ulcerative Colitis Acute Severe Truelove-Witts Criteria IV Hydrocortisone and Infliximab Rescue BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Consensus Guidelines on the Management of Inflammatory Bowel Disease",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29595",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Az",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG. Clinical examination and investigative review confirm initiating oral controlled-release budesonide 9 mg daily for mild-to-moderate ileocecal flare with thiopurine maintenance. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating oral controlled-release budesonide 9 mg daily for mild-to-moderate ileocecal flare with thiopurine maintenance",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral controlled-release budesonide 9 mg daily for mild-to-moderate ileocecal flare with thiopurine maintenance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral controlled-release budesonide 9 mg daily for mild-to-moderate ileocecal flare with thiopurine maintenance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG. In the clinical management of PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Crohn Disease Terminal Ileitis Budesonide Induction and Azathioprine Maintenance BSG."
+    ],
+    "references": [
+      {
+        "label": "British Society of Gastroenterology (BSG) IBD Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29596",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Mars",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG. Clinical examination and investigative review confirm confirming Marsh III subtotal villous atrophy on endoscopic duodenal biopsy and initiating a lifelong strict gluten-free diet. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Confirming marsh iii subtotal villous atrophy on endoscopic duodenal biopsy and initiating a lifelong strict gluten-free diet",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, confirming Marsh III subtotal villous atrophy on endoscopic duodenal biopsy and initiating a lifelong strict gluten-free diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, confirming Marsh III subtotal villous atrophy on endoscopic duodenal biopsy and initiating a lifelong strict gluten-free diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG. In the clinical management of PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Celiac Disease Anti-TTG IgA Total IgA Duodenal Biopsy Marsh Villous Atrophy BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines on Celiac Disease",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29597",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antib",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG. Clinical examination and investigative review confirm initiating oral prednisolone 30 to 40 mg daily tapered over months with azathioprine maintenance to achieve biochemical remission. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 30 to 40 mg daily tapered over months with azathioprine maintenance to achieve biochemical remission",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 30 to 40 mg daily tapered over months with azathioprine maintenance to achieve biochemical remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 30 to 40 mg daily tapered over months with azathioprine maintenance to achieve biochemical remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG. In the clinical management of PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Autoimmune Hepatitis Elevated IgG Anti-Smooth Muscle Antibodies Oral Prednisolone BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Autoimmune Hepatitis Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29598",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG. Clinical examination and investigative review confirm prescribing oral ursodeoxycholic acid 13 to 15 mg/kg daily with regular alkaline phosphatase and elastography surveillance. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral ursodeoxycholic acid 13 to 15 mg/kg daily with regular alkaline phosphatase and elastography surveillance",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral ursodeoxycholic acid 13 to 15 mg/kg daily with regular alkaline phosphatase and elastography surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral ursodeoxycholic acid 13 to 15 mg/kg daily with regular alkaline phosphatase and elastography surveillance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG. In the clinical management of PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Primary Biliary Cholangitis Anti-Mitochondrial Antibodies Ursodeoxycholic Acid BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Primary Biliary Cholangitis Guidelines",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29599",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Bea",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG. Clinical examination and investigative review confirm performing diagnostic magnetic resonance cholangiopancreatography (MRCP) and annual surveillance colonoscopy for colorectal dysplasia. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Performing diagnostic magnetic resonance cholangiopancreatography (mrcp) and annual surveillance colonoscopy for colorectal dysplasia",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing diagnostic magnetic resonance cholangiopancreatography (MRCP) and annual surveillance colonoscopy for colorectal dysplasia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing diagnostic magnetic resonance cholangiopancreatography (MRCP) and annual surveillance colonoscopy for colorectal dysplasia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG. In the clinical management of PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Primary Sclerosing Cholangitis Ulcerative Colitis MRCP Beaded Strictures Surveillance BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines for the Diagnosis and Treatment of PSC",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29600",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin T",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG. Clinical examination and investigative review confirm initiating regular therapeutic venesection 500 mL weekly or fortnightly targeting serum ferritin below 50 mcg/L. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating regular therapeutic venesection 500 ml weekly or fortnightly targeting serum ferritin below 50 mcg/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating regular therapeutic venesection 500 mL weekly or fortnightly targeting serum ferritin below 50 mcg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating regular therapeutic venesection 500 mL weekly or fortnightly targeting serum ferritin below 50 mcg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG. In the clinical management of PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Hemochromatosis HFE C282Y Homozygosity Elevated Ferritin Therapeutic Venesection BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines on the Management of Genetic Haemochromatosis",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29601",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleische",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG. Clinical examination and investigative review confirm prescribing oral penicillamine or trientine with supplemental pyridoxine to promote cupriuresis and halt hepatic/neurologic decline. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral penicillamine or trientine with supplemental pyridoxine to promote cupriuresis and halt hepatic/neurologic decline",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral penicillamine or trientine with supplemental pyridoxine to promote cupriuresis and halt hepatic/neurologic decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral penicillamine or trientine with supplemental pyridoxine to promote cupriuresis and halt hepatic/neurologic decline represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG. In the clinical management of PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Wilson Disease Reduced Serum Ceruloplasmin Kayser-Fleischer Rings Oral Penicillamine BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG Guidelines on Wilson's Disease",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29602",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG. Clinical examination and investigative review confirm initiating goal-directed Ringer lactate fluid resuscitation and early oral nutrition within 24 to 48 hours for mild-to-moderate disease. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating goal-directed ringer lactate fluid resuscitation and early oral nutrition within 24 to 48 hours for mild-to-moderate disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating goal-directed Ringer lactate fluid resuscitation and early oral nutrition within 24 to 48 hours for mild-to-moderate disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating goal-directed Ringer lactate fluid resuscitation and early oral nutrition within 24 to 48 hours for mild-to-moderate disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG. In the clinical management of PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Gastroenterology Acute Pancreatitis Modified Glasgow Criteria Goal-Directed Fluid Hydration and Analgesia BSG."
+    ],
+    "references": [
+      {
+        "label": "BSG UK Guidelines on the Management of Acute Pancreatitis",
+        "url": "https://www.bsg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29603",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperk",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148. Clinical examination and investigative review confirm identifying prerenal hypovolemia, discontinuing nephrotoxic drugs, and treating severe hyperkalemia aggressively. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Identifying prerenal hypovolemia, discontinuing nephrotoxic drugs, and treating severe hyperkalemia aggressively",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, identifying prerenal hypovolemia, discontinuing nephrotoxic drugs, and treating severe hyperkalemia aggressively represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, identifying prerenal hypovolemia, discontinuing nephrotoxic drugs, and treating severe hyperkalemia aggressively represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148. In the clinical management of PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Acute Kidney Injury KDIGO Stage 3 Fluid Resuscitation and Hyperkalemia Management NICE NG148."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG148 Acute Kidney Injury",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29604",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association. Clinical examination and investigative review confirm administering intravenous 10% calcium gluconate 10 mL over 5 minutes for myocardial membrane stabilization followed by insulin-dextrose. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous 10% calcium gluconate 10 ml over 5 minutes for myocardial membrane stabilization followed by insulin-dextrose",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous 10% calcium gluconate 10 mL over 5 minutes for myocardial membrane stabilization followed by insulin-dextrose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous 10% calcium gluconate 10 mL over 5 minutes for myocardial membrane stabilization followed by insulin-dextrose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association. In the clinical management of PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Hyperkalemia Serum K > 6.5 IV 10% Calcium Gluconate and Insulin-Dextrose Infusion Renal Association."
+    ],
+    "references": [
+      {
+        "label": "Renal Association Clinical Practice Guideline Treatment of Acute Hyperkalemia",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29605",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optim",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO. Clinical examination and investigative review confirm titrating maximally tolerated ACE inhibitor or ARB and adding oral dapagliflozin 10 mg daily for persistent proteinuria > 0.75 g/day. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Titrating maximally tolerated ace inhibitor or arb and adding oral dapagliflozin 10 mg daily for persistent proteinuria > 0.75 g/day",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrating maximally tolerated ACE inhibitor or ARB and adding oral dapagliflozin 10 mg daily for persistent proteinuria > 0.75 g/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, titrating maximally tolerated ACE inhibitor or ARB and adding oral dapagliflozin 10 mg daily for persistent proteinuria > 0.75 g/day represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO. In the clinical management of PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology IgA Nephropathy Persistent Proteinuria SGLT2 Inhibitor and Optimised ACE Inhibitor KDIGO."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Clinical Practice Guideline for the Management of Glomerular Diseases",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29606",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association. Clinical examination and investigative review confirm prescribing high-dose oral prednisolone 1 mg/kg daily (maximum 80 mg) for up to 16 weeks to achieve complete proteinuria remission. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose oral prednisolone 1 mg/kg daily (maximum 80 mg) for up to 16 weeks to achieve complete proteinuria remission",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing high-dose oral prednisolone 1 mg/kg daily (maximum 80 mg) for up to 16 weeks to achieve complete proteinuria remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing high-dose oral prednisolone 1 mg/kg daily (maximum 80 mg) for up to 16 weeks to achieve complete proteinuria remission represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association. In the clinical management of PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Nephrotic Syndrome Minimal Change Disease Adult High-Dose Oral Prednisolone Renal Association."
+    ],
+    "references": [
+      {
+        "label": "UK Renal Association Clinical Practice Guidelines Glomerulonephritis",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29607",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO. Clinical examination and investigative review confirm initiating intravenous rituximab 1 g two doses 2 weeks apart for high-risk primary membranous nephropathy with elevated anti-PLA2R. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous rituximab 1 g two doses 2 weeks apart for high-risk primary membranous nephropathy with elevated anti-pla2r",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous rituximab 1 g two doses 2 weeks apart for high-risk primary membranous nephropathy with elevated anti-PLA2R represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous rituximab 1 g two doses 2 weeks apart for high-risk primary membranous nephropathy with elevated anti-PLA2R represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO. In the clinical management of PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Membranous Nephropathy Anti-PLA2R Antibodies Rituximab Induction Therapy KDIGO."
+    ],
+    "references": [
+      {
+        "label": "KDIGO Glomerular Diseases Update",
+        "url": "https://kdigo.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29608",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR. Clinical examination and investigative review confirm initiating pulse intravenous methylprednisolone 500 mg daily for 3 days combined with rituximab induction therapy. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Initiating pulse intravenous methylprednisolone 500 mg daily for 3 days combined with rituximab induction therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating pulse intravenous methylprednisolone 500 mg daily for 3 days combined with rituximab induction therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating pulse intravenous methylprednisolone 500 mg daily for 3 days combined with rituximab induction therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR. In the clinical management of PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Granulomatosis with Polyangiitis c-ANCA PR3 Rapidly Progressive GN IV Methylprednisolone and Rituximab BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR and Renal Association Vasculitis Guidelines",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29609",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasma",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association. Clinical examination and investigative review confirm initiating intensive daily therapeutic plasma exchange for 14 days combined with oral cyclophosphamide and prednisolone. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intensive daily therapeutic plasma exchange for 14 days combined with oral cyclophosphamide and prednisolone",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intensive daily therapeutic plasma exchange for 14 days combined with oral cyclophosphamide and prednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intensive daily therapeutic plasma exchange for 14 days combined with oral cyclophosphamide and prednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association. In the clinical management of PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Anti-GBM Disease Goodpasture Syndrome Alveolar Hemorrhage Plasmapheresis and Cyclophosphamide Renal Association."
+    ],
+    "references": [
+      {
+        "label": "Renal Association Goodpasture Disease Consensus",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29610",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression T",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358. Clinical examination and investigative review confirm prescribing split-dose oral tolvaptan in CKD stages 2 to 3 with evidence of rapid progression to slow kidney enlargement. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing split-dose oral tolvaptan in ckd stages 2 to 3 with evidence of rapid progression to slow kidney enlargement",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing split-dose oral tolvaptan in CKD stages 2 to 3 with evidence of rapid progression to slow kidney enlargement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing split-dose oral tolvaptan in CKD stages 2 to 3 with evidence of rapid progression to slow kidney enlargement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358. In the clinical management of PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Tolvaptan V2 Receptor Antagonist NICE TA358."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal TA358 Tolvaptan for Autosomal Dominant Polycystic Kidney Disease",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29611",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Se",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203. Clinical examination and investigative review confirm prescribing non-calcium phosphate binder sevelamer carbonate with active vitamin D analog calcitriol to maintain bone metabolism. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing non-calcium phosphate binder sevelamer carbonate with active vitamin d analog calcitriol to maintain bone metabolism",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing non-calcium phosphate binder sevelamer carbonate with active vitamin D analog calcitriol to maintain bone metabolism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing non-calcium phosphate binder sevelamer carbonate with active vitamin D analog calcitriol to maintain bone metabolism represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203. In the clinical management of PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Chronic Kidney Disease Mineral Bone Disorder Phosphate Binder Sevelamer and Calcitriol NICE NG203."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG203 Chronic Kidney Disease",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29612",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association. Clinical examination and investigative review confirm providing supportive inpatient hydration and red cell transfusion while strictly avoiding empirical antibiotics in STEC-HUS. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive inpatient hydration and red cell transfusion while strictly avoiding empirical antibiotics in stec-hus",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, providing supportive inpatient hydration and red cell transfusion while strictly avoiding empirical antibiotics in STEC-HUS represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, providing supportive inpatient hydration and red cell transfusion while strictly avoiding empirical antibiotics in STEC-HUS represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association. In the clinical management of PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Nephrology Hemolytic Uremic Syndrome Thrombocytopenia Microangiopathic Hemolytic Anemia Supportive Care Renal Association."
+    ],
+    "references": [
+      {
+        "label": "Renal Association Atypical HUS Guidelines",
+        "url": "https://renal.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29613",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in Hig",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28. Clinical examination and investigative review confirm prescribing oral dapagliflozin 10 mg daily combined with metformin in patients with established atherosclerotic disease or heart failure. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral dapagliflozin 10 mg daily combined with metformin in patients with established atherosclerotic disease or heart failure",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral dapagliflozin 10 mg daily combined with metformin in patients with established atherosclerotic disease or heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral dapagliflozin 10 mg daily combined with metformin in patients with established atherosclerotic disease or heart failure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28. In the clinical management of PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Type 2 Diabetes Mellitus SGLT2 Inhibitor Dapagliflozin in High Cardiovascular Risk NICE NG28."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG28 Type 2 Diabetes in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29614",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 unit",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP. Clinical examination and investigative review confirm initiating intravenous 0.9% sodium chloride infusion with fixed-rate regular insulin at 0.1 units/kg/hour and potassium replacement. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous 0.9% sodium chloride infusion with fixed-rate regular insulin at 0.1 units/kg/hour and potassium replacement",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous 0.9% sodium chloride infusion with fixed-rate regular insulin at 0.1 units/kg/hour and potassium replacement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous 0.9% sodium chloride infusion with fixed-rate regular insulin at 0.1 units/kg/hour and potassium replacement represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP. In the clinical management of PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Diabetic Ketoacidosis Fixed-Rate Intravenous Insulin 0.1 units/kg/hr and 0.9% Normal Saline JBDS-IP."
+    ],
+    "references": [
+      {
+        "label": "Joint British Diabetes Societies for Inpatient Care (JBDS-IP) DKA Guidelines",
+        "url": "https://abcd.care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29615",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydrati",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP. Clinical examination and investigative review confirm infusing 0.9% sodium chloride to gradually normalize osmolality by 3 to 8 mOsm/kg/hour, delaying insulin until blood glucose ceases falling. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Infusing 0.9% sodium chloride to gradually normalize osmolality by 3 to 8 mosm/kg/hour, delaying insulin until blood glucose ceases falling",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, infusing 0.9% sodium chloride to gradually normalize osmolality by 3 to 8 mOsm/kg/hour, delaying insulin until blood glucose ceases falling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, infusing 0.9% sodium chloride to gradually normalize osmolality by 3 to 8 mOsm/kg/hour, delaying insulin until blood glucose ceases falling represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP. In the clinical management of PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Hyperosmolar Hyperglycemic State HHS Gradual Saline Rehydration and Low-Dose Insulin JBDS-IP."
+    ],
+    "references": [
+      {
+        "label": "JBDS-IP HHS Clinical Guidelines",
+        "url": "https://abcd.care/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29616",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral C",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145. Clinical examination and investigative review confirm prescribing oral carbimazole 20 to 40 mg daily titrated against thyroid function tests with explicit warning regarding agranulocytosis. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral carbimazole 20 to 40 mg daily titrated against thyroid function tests with explicit warning regarding agranulocytosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral carbimazole 20 to 40 mg daily titrated against thyroid function tests with explicit warning regarding agranulocytosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral carbimazole 20 to 40 mg daily titrated against thyroid function tests with explicit warning regarding agranulocytosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145. In the clinical management of PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Graves Disease Hyperthyroidism TSH-Receptor Antibodies Oral Carbimazole Titration NICE NG145."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG145 Thyroid Disease",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29617",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone. Clinical examination and investigative review confirm prescribing maintenance oral hydrocortisone in divided doses with fludrocortisone 50 to 100 mcg daily and sick-day dose-doubling advice. Vital signs demonstrate blood pressure 123/73 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing maintenance oral hydrocortisone in divided doses with fludrocortisone 50 to 100 mcg daily and sick-day dose-doubling advice",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing maintenance oral hydrocortisone in divided doses with fludrocortisone 50 to 100 mcg daily and sick-day dose-doubling advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing maintenance oral hydrocortisone in divided doses with fludrocortisone 50 to 100 mcg daily and sick-day dose-doubling advice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone. In the clinical management of PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Adrenal Insufficiency Addison Disease Short Synacthen Test Oral Hydrocortisone and Fludrocortisone."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Clinical Guidance for Adrenal Insufficiency",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29618",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pathology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol. Clinical examination and investigative review confirm performing low-dose 1 mg overnight dexamethasone suppression test or 24-hour urinary free cortisol to confirm hypercortisolemia. Vital signs demonstrate blood pressure 124/74 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Performing low-dose 1 mg overnight dexamethasone suppression test or 24-hour urinary free cortisol to confirm hypercortisolemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing low-dose 1 mg overnight dexamethasone suppression test or 24-hour urinary free cortisol to confirm hypercortisolemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing low-dose 1 mg overnight dexamethasone suppression test or 24-hour urinary free cortisol to confirm hypercortisolemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol. In the clinical management of PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Cushing Syndrome Overnight Dexamethasone Suppression Test 24-Hour Urinary Free Cortisol."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Cushing Syndrome Guidance",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29619",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-t",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy. Clinical examination and investigative review confirm performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia prior to laparoscopic adrenalectomy. Vital signs demonstrate blood pressure 125/75 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia prior to laparoscopic adrenalectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia prior to laparoscopic adrenalectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing adrenal venous sampling to differentiate unilateral adenoma from bilateral hyperplasia prior to laparoscopic adrenalectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy. In the clinical management of PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Hyperaldosteronism Conn Syndrome Plasma Aldosterone-to-Renin Ratio Laparoscopic Adrenalectomy."
+    ],
+    "references": [
+      {
+        "label": "Endocrine Society and Society for Endocrinology Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29620",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines A",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker. Clinical examination and investigative review confirm initiating oral phenoxybenzamine alpha-blockade titrated for at least 10 to 14 days before introducing beta-blockers. Vital signs demonstrate blood pressure 126/76 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating oral phenoxybenzamine alpha-blockade titrated for at least 10 to 14 days before introducing beta-blockers",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral phenoxybenzamine alpha-blockade titrated for at least 10 to 14 days before introducing beta-blockers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral phenoxybenzamine alpha-blockade titrated for at least 10 to 14 days before introducing beta-blockers represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker. In the clinical management of PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Pheochromocytoma 24-Hour Urinary Fractionated Metanephrines Alpha-Blockade Phenoxybenzamine Prior to Beta-Blocker."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Endocrine Hypertension Guidelines",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29621",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10%",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate. Clinical examination and investigative review confirm administering intravenous 10% calcium gluconate 10 to 20 mL over 10 minutes with continuous ECG monitoring for tetany. Vital signs demonstrate blood pressure 127/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous 10% calcium gluconate 10 to 20 ml over 10 minutes with continuous ecg monitoring for tetany",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous 10% calcium gluconate 10 to 20 mL over 10 minutes with continuous ECG monitoring for tetany represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous 10% calcium gluconate 10 to 20 mL over 10 minutes with continuous ECG monitoring for tetany represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate. In the clinical management of PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Hypocalcemia Post-Thyroidectomy Chvostek Sign Intravenous 10% Calcium Gluconate."
+    ],
+    "references": [
+      {
+        "label": "Society for Endocrinology Emergency Guidance for Hypocalcemia",
+        "url": "https://www.endocrinology.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29622",
+    "exam": "PLAB / UKMLA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parath",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132. Clinical examination and investigative review confirm performing 99mTc-sestamibi SPECT scan localization followed by minimally invasive parathyroidectomy for symptomatic hypercalcemia. Vital signs demonstrate blood pressure 128/78 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Performing 99mtc-sestamibi spect scan localization followed by minimally invasive parathyroidectomy for symptomatic hypercalcemia",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing 99mTc-sestamibi SPECT scan localization followed by minimally invasive parathyroidectomy for symptomatic hypercalcemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, performing 99mTc-sestamibi SPECT scan localization followed by minimally invasive parathyroidectomy for symptomatic hypercalcemia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132. In the clinical management of PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Endocrinology Primary Hyperparathyroidism Hypercalcemia Elevated PTH Parathyroid Adenoma Sestamibi Scan Parathyroidectomy NICE NG132."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG132 Hyperparathyroidism",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29623",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechani",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128. Clinical examination and investigative review confirm administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg and transferring for mechanical thrombectomy. Vital signs demonstrate blood pressure 129/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg and transferring for mechanical thrombectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg and transferring for mechanical thrombectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous recombinant tissue plasminogen activator alteplase 0.9 mg/kg and transferring for mechanical thrombectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128. In the clinical management of PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Acute Ischemic Stroke rtPA Alteplase within 4.5 Hours and Mechanical Thrombectomy within 6 Hours NICE NG128."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG128 Stroke and Transient Ischaemic Attack in Over 16s",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29624",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217. Clinical examination and investigative review confirm administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg. Vital signs demonstrate blood pressure 130/80 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by iv levetiracetam 60 mg/kg",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous lorazepam 4 mg bolus over 2 minutes repeated once, followed by IV levetiracetam 60 mg/kg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217. In the clinical management of PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Status Epilepticus IV Lorazepam 4 mg Followed by IV Levetiracetam 60 mg/kg NICE NG217."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG217 Epilepsies in Children, Young People and Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29625",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 30-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71. Clinical examination and investigative review confirm initiating low-dose oral levodopa combined with a dopa decarboxylase inhibitor titrated to motor symptoms and functional need. Vital signs demonstrate blood pressure 131/81 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating low-dose oral levodopa combined with a dopa decarboxylase inhibitor titrated to motor symptoms and functional need",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating low-dose oral levodopa combined with a dopa decarboxylase inhibitor titrated to motor symptoms and functional need represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating low-dose oral levodopa combined with a dopa decarboxylase inhibitor titrated to motor symptoms and functional need represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71. In the clinical management of PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Parkinson Disease Bradykinesia Resting Tremor Oral Levodopa-Carbidopa First-Line Therapy NICE NG71."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG71 Parkinson's Disease in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29626",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylpredn",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 31-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220. Clinical examination and investigative review confirm prescribing oral methylprednisolone 500 mg daily for 5 days for acute relapse and disease-modifying therapy ocrelizumab. Vital signs demonstrate blood pressure 132/82 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral methylprednisolone 500 mg daily for 5 days for acute relapse and disease-modifying therapy ocrelizumab",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral methylprednisolone 500 mg daily for 5 days for acute relapse and disease-modifying therapy ocrelizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral methylprednisolone 500 mg daily for 5 days for acute relapse and disease-modifying therapy ocrelizumab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220. In the clinical management of PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Multiple Sclerosis Relapsing-Remitting High-Dose Oral Methylprednisolone and Ocrelizumab NICE NG220."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG220 Multiple Sclerosis in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29627",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Py",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 32-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN. Clinical examination and investigative review confirm prescribing oral pyridostigmine 60 mg four times daily with contrast-enhanced chest CT to exclude thymoma. Vital signs demonstrate blood pressure 133/83 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral pyridostigmine 60 mg four times daily with contrast-enhanced chest ct to exclude thymoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral pyridostigmine 60 mg four times daily with contrast-enhanced chest CT to exclude thymoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral pyridostigmine 60 mg four times daily with contrast-enhanced chest CT to exclude thymoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN. In the clinical management of PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Myasthenia Gravis Fatigable Weakness Anti-AChR Antibodies Oral Pyridostigmine ABN."
+    ],
+    "references": [
+      {
+        "label": "Association of British Neurologists (ABN) Myasthenia Gravis Guidelines",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29628",
+    "exam": "PLAB / UKMLA",
+    "subject": "Neurology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Di",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 33-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN. Clinical examination and investigative review confirm initiating intravenous immunoglobulin (IVIG) 0.4 g/kg/day for 5 days with serial vital capacity spirometry monitoring. Vital signs demonstrate blood pressure 134/84 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intravenous immunoglobulin (ivig) 0.4 g/kg/day for 5 days with serial vital capacity spirometry monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous immunoglobulin (IVIG) 0.4 g/kg/day for 5 days with serial vital capacity spirometry monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating intravenous immunoglobulin (IVIG) 0.4 g/kg/day for 5 days with serial vital capacity spirometry monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN. In the clinical management of PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Guillain-Barre Syndrome Ascending Weakness Albuminocytological Dissociation IVIG or Plasmapheresis ABN."
+    ],
+    "references": [
+      {
+        "label": "Association of British Neurologists Peripheral Neuropathy Guidelines",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29629",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Rilu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42. Clinical examination and investigative review confirm prescribing oral riluzole 50 mg twice daily with non-invasive ventilation assessment to prolong survival and functional independence. Vital signs demonstrate blood pressure 135/85 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral riluzole 50 mg twice daily with non-invasive ventilation assessment to prolong survival and functional independence",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral riluzole 50 mg twice daily with non-invasive ventilation assessment to prolong survival and functional independence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral riluzole 50 mg twice daily with non-invasive ventilation assessment to prolong survival and functional independence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42. In the clinical management of PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Motor Neurone Disease ALS Amyotrophic Lateral Sclerosis Oral Riluzole 50 mg Twice Daily NICE NG42."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG42 Motor Neurone Disease",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29630",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 35-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228. Clinical examination and investigative review confirm prescribing oral nimodipine 60 mg every 4 hours for 21 days with urgent neurovascular coiling/clipping. Vital signs demonstrate blood pressure 136/86 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral nimodipine 60 mg every 4 hours for 21 days with urgent neurovascular coiling/clipping",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral nimodipine 60 mg every 4 hours for 21 days with urgent neurovascular coiling/clipping represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral nimodipine 60 mg every 4 hours for 21 days with urgent neurovascular coiling/clipping represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228. In the clinical management of PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Subarachnoid Hemorrhage Non-Contrast CT Lumbar Puncture Xanthochromia Nimodipine 60 mg Oral NICE NG228."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG228 Subarachnoid Haemorrhage",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29631",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Press",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 36-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN. Clinical examination and investigative review confirm prescribing oral acetazolamide 500 mg twice daily titrated to 2 g daily combined with structured weight loss to preserve visual fields. Vital signs demonstrate blood pressure 137/87 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral acetazolamide 500 mg twice daily titrated to 2 g daily combined with structured weight loss to preserve visual fields",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral acetazolamide 500 mg twice daily titrated to 2 g daily combined with structured weight loss to preserve visual fields represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral acetazolamide 500 mg twice daily titrated to 2 g daily combined with structured weight loss to preserve visual fields represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN. In the clinical management of PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Idiopathic Intracranial Hypertension Papilledema LP Opening Pressure > 25 cm CSF Oral Acetazolamide ABN."
+    ],
+    "references": [
+      {
+        "label": "ABN Consensus Guidelines on Idiopathic Intracranial Hypertension",
+        "url": "https://www.theabn.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29632",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 37-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217. Clinical examination and investigative review confirm prescribing oral lamotrigine with slow upward titration or levetiracetam monotherapy for focal onset seizures. Vital signs demonstrate blood pressure 138/72 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral lamotrigine with slow upward titration or levetiracetam monotherapy for focal onset seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral lamotrigine with slow upward titration or levetiracetam monotherapy for focal onset seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral lamotrigine with slow upward titration or levetiracetam monotherapy for focal onset seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217. In the clinical management of PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Neurology Temporal Lobe Epilepsy Complex Partial Seizures Lip-Smacking Lamotrigine or Levetiracetam NICE NG217."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG217 Epilepsies Management",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29633",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Meth",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 38-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100. Clinical examination and investigative review confirm initiating oral methotrexate 15 mg weekly with folic acid 5 mg weekly within 3 months of symptom onset. Vital signs demonstrate blood pressure 139/73 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral methotrexate 15 mg weekly with folic acid 5 mg weekly within 3 months of symptom onset",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral methotrexate 15 mg weekly with folic acid 5 mg weekly within 3 months of symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral methotrexate 15 mg weekly with folic acid 5 mg weekly within 3 months of symptom onset represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100. In the clinical management of PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Rheumatoid Arthritis Symmetrical Polyarthritis Early Oral Methotrexate and Folic Acid NICE NG100."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG100 Rheumatoid Arthritis in Adults",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29634",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immedi",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR. Clinical examination and investigative review confirm initiating immediate oral prednisolone 60 mg daily to prevent irreversible visual loss prior to temporal artery biopsy. Vital signs demonstrate blood pressure 118/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate oral prednisolone 60 mg daily to prevent irreversible visual loss prior to temporal artery biopsy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate oral prednisolone 60 mg daily to prevent irreversible visual loss prior to temporal artery biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate oral prednisolone 60 mg daily to prevent irreversible visual loss prior to temporal artery biopsy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR. In the clinical management of PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Giant Cell Arteritis Temporal Headache Jaw Claudication Immediate High-Dose Prednisolone BSR."
+    ],
+    "references": [
+      {
+        "label": "British Society for Rheumatology (BSR) Guidelines on Giant Cell Arteritis",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29635",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 40-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR. Clinical examination and investigative review confirm prescribing oral prednisolone 15 mg daily with dramatic symptomatic response within 72 hours followed by slow tapering. Vital signs demonstrate blood pressure 119/75 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral prednisolone 15 mg daily with dramatic symptomatic response within 72 hours followed by slow tapering",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral prednisolone 15 mg daily with dramatic symptomatic response within 72 hours followed by slow tapering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral prednisolone 15 mg daily with dramatic symptomatic response within 72 hours followed by slow tapering represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR. In the clinical management of PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Polymyalgia Rheumatica Bilateral Shoulder Hip Aching Low-Dose Oral Prednisolone 15 mg BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR Guidelines on Polymyalgia Rheumatica",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29636",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydr",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 41-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR. Clinical examination and investigative review confirm prescribing oral hydroxychloroquine <= 5 mg/kg daily with annual ophthalmological screening to reduce flare frequency. Vital signs demonstrate blood pressure 120/76 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral hydroxychloroquine <= 5 mg/kg daily with annual ophthalmological screening to reduce flare frequency",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral hydroxychloroquine <= 5 mg/kg daily with annual ophthalmological screening to reduce flare frequency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral hydroxychloroquine <= 5 mg/kg daily with annual ophthalmological screening to reduce flare frequency represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR. In the clinical management of PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Systemic Lupus Erythematosus Positive ANA Anti-dsDNA Oral Hydroxychloroquine BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR Guideline for the Management of Systemic Lupus Erythematosus",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29637",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 42-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383. Clinical examination and investigative review confirm prescribing daily first-line oral nonsteroidal anti-inflammatory drugs followed by biologic TNF inhibitors for persistent active disease. Vital signs demonstrate blood pressure 121/77 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing daily first-line oral nonsteroidal anti-inflammatory drugs followed by biologic tnf inhibitors for persistent active disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing daily first-line oral nonsteroidal anti-inflammatory drugs followed by biologic TNF inhibitors for persistent active disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing daily first-line oral nonsteroidal anti-inflammatory drugs followed by biologic TNF inhibitors for persistent active disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383. In the clinical management of PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Ankylosing Spondylitis Sacroiliitis HLA-B27 Morning Stiffness Daily NSAIDs and TNF Inhibitors NICE TA383."
+    ],
+    "references": [
+      {
+        "label": "NICE Technology Appraisal TA383 Spondyloarthritis",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29638",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and U",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 43-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR. Clinical examination and investigative review confirm prescribing oral methotrexate as first-line DMARD followed by anti-IL-12/23 or TNF inhibitor for peripheral arthritis and dactylitis. Vital signs demonstrate blood pressure 122/78 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral methotrexate as first-line dmard followed by anti-il-12/23 or tnf inhibitor for peripheral arthritis and dactylitis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral methotrexate as first-line DMARD followed by anti-IL-12/23 or TNF inhibitor for peripheral arthritis and dactylitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral methotrexate as first-line DMARD followed by anti-IL-12/23 or TNF inhibitor for peripheral arthritis and dactylitis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR. In the clinical management of PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Psoriatic Arthritis Dactylitis Nail Pitting Methotrexate and Ustekinumab BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR Guidelines on Psoriatic Arthritis",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29639",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interst",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR. Clinical examination and investigative review confirm initiating oral mycophenolate mofetil 1 g twice daily with regular high-resolution chest CT and spirometry monitoring. Vital signs demonstrate blood pressure 123/79 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral mycophenolate mofetil 1 g twice daily with regular high-resolution chest ct and spirometry monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral mycophenolate mofetil 1 g twice daily with regular high-resolution chest CT and spirometry monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral mycophenolate mofetil 1 g twice daily with regular high-resolution chest CT and spirometry monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR. In the clinical management of PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Systemic Sclerosis Diffuse Cutaneous Scl-70 Antibodies Interstitial Lung Disease Mycophenolate BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR and British Health Professionals in Rheumatology Guideline for Systemic Sclerosis",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29640",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopa",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 45-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR. Clinical examination and investigative review confirm initiating high-dose oral prednisolone 1 mg/kg daily combined with azathioprine or methotrexate and age-appropriate cancer screening. Vital signs demonstrate blood pressure 124/80 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Initiating high-dose oral prednisolone 1 mg/kg daily combined with azathioprine or methotrexate and age-appropriate cancer screening",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating high-dose oral prednisolone 1 mg/kg daily combined with azathioprine or methotrexate and age-appropriate cancer screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating high-dose oral prednisolone 1 mg/kg daily combined with azathioprine or methotrexate and age-appropriate cancer screening represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR. In the clinical management of PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Dermatomyositis Gottron Papules Heliotrope Rash Proximal Myopathy Oral Prednisolone BSR."
+    ],
+    "references": [
+      {
+        "label": "BSR Guidelines on Inflammatory Myopathies",
+        "url": "https://rheumatology.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29641",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystal",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 46-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219. Clinical examination and investigative review confirm prescribing oral colchicine 500 mcg two to four times daily or high-dose naproxen with allopurinol uric acid lowering deferred. Vital signs demonstrate blood pressure 125/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral colchicine 500 mcg two to four times daily or high-dose naproxen with allopurinol uric acid lowering deferred",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral colchicine 500 mcg two to four times daily or high-dose naproxen with allopurinol uric acid lowering deferred represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral colchicine 500 mcg two to four times daily or high-dose naproxen with allopurinol uric acid lowering deferred represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219. In the clinical management of PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Acute Gout Podagra Needle-Shaped Negative Birefringent Crystals Oral Colchicine NICE NG219."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG219 Gout Diagnosis and Management",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29642",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendroni",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 47-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG. Clinical examination and investigative review confirm prescribing once-weekly oral alendronic acid 70 mg taken fasting with water remaining upright for 30 minutes. Vital signs demonstrate blood pressure 126/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-weekly oral alendronic acid 70 mg taken fasting with water remaining upright for 30 minutes",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing once-weekly oral alendronic acid 70 mg taken fasting with water remaining upright for 30 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing once-weekly oral alendronic acid 70 mg taken fasting with water remaining upright for 30 minutes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG. In the clinical management of PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Rheumatology Osteoporosis T-Score <= -2.5 Vertebral Fracture Oral Alendronic Acid 70 mg Weekly NOGG."
+    ],
+    "references": [
+      {
+        "label": "National Osteoporosis Guideline Group (NOGG) Clinical Guidelines",
+        "url": "https://www.nogg.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29643",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 48-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH. Clinical examination and investigative review confirm initiating high-dose oral prednisolone 1 mg/kg daily or intravenous immunoglobulin 1 g/kg for acute mucosal bleeding. Vital signs demonstrate blood pressure 127/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Initiating high-dose oral prednisolone 1 mg/kg daily or intravenous immunoglobulin 1 g/kg for acute mucosal bleeding",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating high-dose oral prednisolone 1 mg/kg daily or intravenous immunoglobulin 1 g/kg for acute mucosal bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating high-dose oral prednisolone 1 mg/kg daily or intravenous immunoglobulin 1 g/kg for acute mucosal bleeding represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH. In the clinical management of PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Immune Thrombocytopenic Purpura ITP Severe Bleeding Platelets < 20 Oral Prednisolone or IVIG BSH."
+    ],
+    "references": [
+      {
+        "label": "British Society for Haematology (BSH) ITP Guidelines",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29644",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microang",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH. Clinical examination and investigative review confirm initiating immediate emergency daily therapeutic plasma exchange with fresh frozen plasma and intravenous methylprednisolone. Vital signs demonstrate blood pressure 128/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate emergency daily therapeutic plasma exchange with fresh frozen plasma and intravenous methylprednisolone",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate emergency daily therapeutic plasma exchange with fresh frozen plasma and intravenous methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate emergency daily therapeutic plasma exchange with fresh frozen plasma and intravenous methylprednisolone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH. In the clinical management of PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Thrombotic Thrombocytopenic Purpura ADAMTS13 Deficiency Microangiopathic Hemolytic Anemia Emergency Plasma Exchange BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Diagnosis and Management of TTP",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29645",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 50-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH. Clinical examination and investigative review confirm confirming bone marrow clonal plasma cells > 10% and initiating triplet induction with bortezomib, lenalidomide, and dexamethasone. Vital signs demonstrate blood pressure 129/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Confirming bone marrow clonal plasma cells > 10% and initiating triplet induction with bortezomib, lenalidomide, and dexamethasone",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, confirming bone marrow clonal plasma cells > 10% and initiating triplet induction with bortezomib, lenalidomide, and dexamethasone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, confirming bone marrow clonal plasma cells > 10% and initiating triplet induction with bortezomib, lenalidomide, and dexamethasone represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH. In the clinical management of PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Multiple Myeloma CRAB Hypercalcemia Renal Failure Lytic Lesions Bortezomib Lenalidomide Dexamethasone BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Management of Multiple Myeloma",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29646",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch an",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 51-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH. Clinical examination and investigative review confirm adopting a structured active surveillance watch-and-wait policy with 3-monthly blood counts and avoiding early chemotherapy. Vital signs demonstrate blood pressure 130/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Adopting a structured active surveillance watch-and-wait policy with 3-monthly blood counts and avoiding early chemotherapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adopting a structured active surveillance watch-and-wait policy with 3-monthly blood counts and avoiding early chemotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, adopting a structured active surveillance watch-and-wait policy with 3-monthly blood counts and avoiding early chemotherapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH. In the clinical management of PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Chronic Lymphocytic Leukemia Binet Stage A Asymptomatic Watch and Wait Strategy BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on Chronic Lymphocytic Leukaemia",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29647",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Ima",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 52-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH. Clinical examination and investigative review confirm prescribing oral BCR-ABL tyrosine kinase inhibitor imatinib 400 mg daily with regular quantitative RT-PCR monitoring. Vital signs demonstrate blood pressure 131/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral bcr-abl tyrosine kinase inhibitor imatinib 400 mg daily with regular quantitative rt-pcr monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral BCR-ABL tyrosine kinase inhibitor imatinib 400 mg daily with regular quantitative RT-PCR monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral BCR-ABL tyrosine kinase inhibitor imatinib 400 mg daily with regular quantitative RT-PCR monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH. In the clinical management of PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Chronic Myeloid Leukemia BCR-ABL1 Translocation t(9;22) Oral Imatinib First-Line TKI BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on the Diagnosis and Management of CML",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29648",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 53-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH. Clinical examination and investigative review confirm initiating immediate oral all-trans retinoic acid (ATRA) upon morphological suspicion to prevent fatal coagulopathy. Vital signs demonstrate blood pressure 132/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate oral all-trans retinoic acid (atra) upon morphological suspicion to prevent fatal coagulopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate oral all-trans retinoic acid (ATRA) upon morphological suspicion to prevent fatal coagulopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate oral all-trans retinoic acid (ATRA) upon morphological suspicion to prevent fatal coagulopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH. In the clinical management of PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Acute Promyelocytic Leukemia t(15;17) PML-RARA All-Trans Retinoic Acid ATRA and Arsenic Trioxide BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Management of Acute Myeloid Leukaemia",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29649",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venese",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH. Clinical examination and investigative review confirm initiating regular therapeutic venesection targeting hematocrit < 0.45 combined with oral aspirin 75 mg daily. Vital signs demonstrate blood pressure 133/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Initiating regular therapeutic venesection targeting hematocrit < 0.45 combined with oral aspirin 75 mg daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating regular therapeutic venesection targeting hematocrit < 0.45 combined with oral aspirin 75 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating regular therapeutic venesection targeting hematocrit < 0.45 combined with oral aspirin 75 mg daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH. In the clinical management of PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Polycythemia Vera JAK2 V617F Mutation Elevated Hematocrit Venesection and Low-Dose Aspirin BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines for the Management of Myeloproliferative Neoplasms",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29650",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Paren",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 55-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143. Clinical examination and investigative review confirm administering rapid subcutaneous or intravenous opioids within 30 minutes of presentation with generous intravenous hydration. Vital signs demonstrate blood pressure 134/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Administering rapid subcutaneous or intravenous opioids within 30 minutes of presentation with generous intravenous hydration",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering rapid subcutaneous or intravenous opioids within 30 minutes of presentation with generous intravenous hydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering rapid subcutaneous or intravenous opioids within 30 minutes of presentation with generous intravenous hydration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143. In the clinical management of PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Sickle Cell Disease Acute Vaso-Occlusive Pain Crisis Rapid Parenteral Opioids and Hydration NICE CG143."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guideline CG143 Sickle Cell Disease Acute Painful Episodes",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29651",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 56-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH. Clinical examination and investigative review confirm initiating oral prednisolone 1 mg/kg daily with supplemental folic acid and rituximab reserved for steroid-refractory disease. Vital signs demonstrate blood pressure 135/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral prednisolone 1 mg/kg daily with supplemental folic acid and rituximab reserved for steroid-refractory disease",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 1 mg/kg daily with supplemental folic acid and rituximab reserved for steroid-refractory disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating oral prednisolone 1 mg/kg daily with supplemental folic acid and rituximab reserved for steroid-refractory disease represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH. In the clinical management of PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Autoimmune Hemolytic Anemia Warm IgG Spherocytes Positive Direct Antiglobulin Test Oral Prednisolone BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on Autoimmune Haemolytic Anaemias",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29652",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Hematology",
+    "topic": "PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatro",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 57-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH. Clinical examination and investigative review confirm immediately discontinuing all heparin formulations and initiating non-heparin anticoagulation with intravenous argatroban or fondaparinux. Vital signs demonstrate blood pressure 136/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Immediately discontinuing all heparin formulations and initiating non-heparin anticoagulation with intravenous argatroban or fondaparinux",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediately discontinuing all heparin formulations and initiating non-heparin anticoagulation with intravenous argatroban or fondaparinux represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, immediately discontinuing all heparin formulations and initiating non-heparin anticoagulation with intravenous argatroban or fondaparinux represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH. In the clinical management of PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Hematology Heparin-Induced Thrombocytopenia HIT 4T Score Drop > 50% Argatroban or Fondaparinux Switch BSH."
+    ],
+    "references": [
+      {
+        "label": "BSH Guidelines on Heparin-Induced Thrombocytopenia",
+        "url": "https://b-s-h.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29653",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral F",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 58-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199. Clinical examination and investigative review confirm prescribing oral fidaxomicin 200 mg twice daily for 10 days for first-line treatment of Clostridioides difficile infection. Vital signs demonstrate blood pressure 137/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral fidaxomicin 200 mg twice daily for 10 days for first-line treatment of clostridioides difficile infection",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral fidaxomicin 200 mg twice daily for 10 days for first-line treatment of Clostridioides difficile infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral fidaxomicin 200 mg twice daily for 10 days for first-line treatment of Clostridioides difficile infection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199. In the clinical management of PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Clostridioides Difficile Infection Severe Colitis Oral Fidaxomicin 200 mg Twice Daily NICE NG199."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG199 Clostridioides Difficile Infection",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29654",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Nervous System",
+    "topic": "PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumo",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone. Clinical examination and investigative review confirm administering intravenous ceftriaxone 2 g twice daily plus dexamethasone 10 mg every 6 hours initiated before or with first antibiotic dose. Vital signs demonstrate blood pressure 138/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous ceftriaxone 2 g twice daily plus dexamethasone 10 mg every 6 hours initiated before or with first antibiotic dose",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous ceftriaxone 2 g twice daily plus dexamethasone 10 mg every 6 hours initiated before or with first antibiotic dose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, administering intravenous ceftriaxone 2 g twice daily plus dexamethasone 10 mg every 6 hours initiated before or with first antibiotic dose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone. In the clinical management of PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Bacterial Meningitis Petechial Rash Streptococcus Pneumoniae IV Ceftriaxone 2 g Twice Daily plus Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "UK Joint Specialist Guidelines on the Management of Bacterial Meningitis",
+        "url": "https://www.meningitis.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29655",
+    "exam": "PLAB / UKMLA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotic",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 60-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour. Clinical examination and investigative review confirm delivering the Sepsis Six bundle: high-flow oxygen, blood cultures, IV antibiotics, fluid challenge, serum lactate, and urine output. Vital signs demonstrate blood pressure 139/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Delivering the sepsis six bundle: high-flow oxygen, blood cultures, iv antibiotics, fluid challenge, serum lactate, and urine output",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, delivering the Sepsis Six bundle: high-flow oxygen, blood cultures, IV antibiotics, fluid challenge, serum lactate, and urine output represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, delivering the Sepsis Six bundle: high-flow oxygen, blood cultures, IV antibiotics, fluid challenge, serum lactate, and urine output represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour. In the clinical management of PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Sepsis with Septic Shock Sepsis Six Bundle IV Antibiotics and Fluid Resuscitation within 1 Hour."
+    ],
+    "references": [
+      {
+        "label": "UK Sepsis Trust Sepsis Six Clinical Toolkit",
+        "url": "https://sepsistrust.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29656",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Ther",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 61-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA. Clinical examination and investigative review confirm initiating single-tablet fixed-dose combination oral bictegravir, tenofovir alafenamide, and emtricitabine upon diagnosis. Vital signs demonstrate blood pressure 118/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Initiating single-tablet fixed-dose combination oral bictegravir, tenofovir alafenamide, and emtricitabine upon diagnosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating single-tablet fixed-dose combination oral bictegravir, tenofovir alafenamide, and emtricitabine upon diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating single-tablet fixed-dose combination oral bictegravir, tenofovir alafenamide, and emtricitabine upon diagnosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA. In the clinical management of PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease HIV Infection Newly Diagnosed Triple Antiretroviral Therapy Tenofovir Emtricitabine Bictegravir BHIVA."
+    ],
+    "references": [
+      {
+        "label": "British HIV Association (BHIVA) Adult Antiretroviral Treatment Guidelines",
+        "url": "https://www.bhiva.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29657",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression H",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 62-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA. Clinical examination and investigative review confirm prescribing high-dose intravenous co-trimoxazole 120 mg/kg daily in divided doses plus oral prednisolone for PaO2 < 9.3 kPa. Vital signs demonstrate blood pressure 119/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose intravenous co-trimoxazole 120 mg/kg daily in divided doses plus oral prednisolone for pao2 < 9.3 kpa",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing high-dose intravenous co-trimoxazole 120 mg/kg daily in divided doses plus oral prednisolone for PaO2 < 9.3 kPa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing high-dose intravenous co-trimoxazole 120 mg/kg daily in divided doses plus oral prednisolone for PaO2 < 9.3 kPa represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA. In the clinical management of PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Pneumocystis Jirovecii Pneumonia HIV Immunosuppression High-Dose Co-Trimoxazole plus Prednisolone BHIVA."
+    ],
+    "references": [
+      {
+        "label": "BHIVA Guidelines for the Management of Opportunistic Infections",
+        "url": "https://www.bhiva.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29658",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quad",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 63-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33. Clinical examination and investigative review confirm prescribing 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of rifampicin and isoniazid. Vital signs demonstrate blood pressure 120/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of rifampicin and isoniazid",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of rifampicin and isoniazid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing 2 months of rifampicin, isoniazid, pyrazinamide, and ethambutol followed by 4 months of rifampicin and isoniazid represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33. In the clinical management of PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Tuberculosis Pulmonary Active Sputum Smear Standard Quadruple Therapy Rifater and Ethambutol NICE NG33."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG33 Tuberculosis",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29659",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve I",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old male attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC. Clinical examination and investigative review confirm initiating triple bactericidal therapy with intravenous flucloxacillin, rifampicin, and low-dose synergistic gentamicin for at least 6 weeks. Vital signs demonstrate blood pressure 121/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Initiating triple bactericidal therapy with intravenous flucloxacillin, rifampicin, and low-dose synergistic gentamicin for at least 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating triple bactericidal therapy with intravenous flucloxacillin, rifampicin, and low-dose synergistic gentamicin for at least 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating triple bactericidal therapy with intravenous flucloxacillin, rifampicin, and low-dose synergistic gentamicin for at least 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC. In the clinical management of PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Infective Endocarditis Staphylococcal Prosthetic Valve IV Flucloxacillin Rifampicin and Gentamicin BSAC."
+    ],
+    "references": [
+      {
+        "label": "BSAC Infective Endocarditis Clinical Practice Guidelines",
+        "url": "https://bsac.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29660",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral D",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 65-year-old female is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95. Clinical examination and investigative review confirm prescribing oral doxycycline 100 mg twice daily for 21 days based on pathognomonic erythema migrans rash without serologic delay. Vital signs demonstrate blood pressure 122/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral doxycycline 100 mg twice daily for 21 days based on pathognomonic erythema migrans rash without serologic delay",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral doxycycline 100 mg twice daily for 21 days based on pathognomonic erythema migrans rash without serologic delay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing oral doxycycline 100 mg twice daily for 21 days based on pathognomonic erythema migrans rash without serologic delay represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95. In the clinical management of PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Lyme Disease Erythema Migrans Following Tick Bite Oral Doxycycline 100 mg Twice Daily for 21 Days NICE NG95."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG95 Lyme Disease",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29661",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacill",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 66-year-old male presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151. Clinical examination and investigative review confirm initiating immediate empiric intravenous piperacillin-tazobactam monotherapy within 1 hour of fever in neutropenic patients. Vital signs demonstrate blood pressure 123/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Initiating immediate empiric intravenous piperacillin-tazobactam monotherapy within 1 hour of fever in neutropenic patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate empiric intravenous piperacillin-tazobactam monotherapy within 1 hour of fever in neutropenic patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, initiating immediate empiric intravenous piperacillin-tazobactam monotherapy within 1 hour of fever in neutropenic patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151. In the clinical management of PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Neutropenic Sepsis Post-Chemotherapy Fever IV Piperacillin-Tazobactam Immediate Infusion NICE CG151."
+    ],
+    "references": [
+      {
+        "label": "NICE Clinical Guideline CG151 Neutropenic Sepsis",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29662",
+    "exam": "PLAB / UKMLA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperaci",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 67-year-old female is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138. Clinical examination and investigative review confirm prescribing intravenous piperacillin-tazobactam 4.5 g three times daily combined with vancomycin targeting trough 15 to 20 mg/L. Vital signs demonstrate blood pressure 124/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing intravenous piperacillin-tazobactam 4.5 g three times daily combined with vancomycin targeting trough 15 to 20 mg/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing intravenous piperacillin-tazobactam 4.5 g three times daily combined with vancomycin targeting trough 15 to 20 mg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, prescribing intravenous piperacillin-tazobactam 4.5 g three times daily combined with vancomycin targeting trough 15 to 20 mg/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138. In the clinical management of PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Infectious Disease Hospital-Acquired Pneumonia Severe MRSA Risk IV Piperacillin-Tazobactam plus Vancomycin NICE NG138."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline NG138 Pneumonia Hospital-Acquired",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29663",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm an",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 68-year-old male undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology. Clinical examination and investigative review confirm informing the patient honestly when something goes wrong, offering a sincere apology, and explaining the short- and long-term consequences. Vital signs demonstrate blood pressure 125/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Informing the patient honestly when something goes wrong, offering a sincere apology, and explaining the short- and long-term consequences",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, informing the patient honestly when something goes wrong, offering a sincere apology, and explaining the short- and long-term consequences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, informing the patient honestly when something goes wrong, offering a sincere apology, and explaining the short- and long-term consequences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology. In the clinical management of PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics GMC Good Medical Practice Duty of Candour Open Disclosure of Harm and Apology."
+    ],
+    "references": [
+      {
+        "label": "General Medical Council (GMC) Good Medical Practice Duty of Candour",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29664",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests A",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 21-year-old female attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA. Clinical examination and investigative review confirm assessing four functional capacity stages (understand, retain, weigh, communicate) and acting in best interests under Mental Capacity Act. Vital signs demonstrate blood pressure 126/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Assessing four functional capacity stages (understand, retain, weigh, communicate) and acting in best interests under mental capacity act",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, assessing four functional capacity stages (understand, retain, weigh, communicate) and acting in best interests under Mental Capacity Act represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, assessing four functional capacity stages (understand, retain, weigh, communicate) and acting in best interests under Mental Capacity Act represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA. In the clinical management of PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Mental Capacity Act 2005 Four Key Functional Stages Best Interests Assessment IMCA."
+    ],
+    "references": [
+      {
+        "label": "GMC Decision Making and Consent Guidance",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29665",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Conf",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 22-year-old male is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment. Clinical examination and investigative review confirm evaluating Gillick competence to provide confidential sexual health care and contraception to patients under 16 without parental breach. Vital signs demonstrate blood pressure 127/73 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Evaluating gillick competence to provide confidential sexual health care and contraception to patients under 16 without parental breach",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, evaluating Gillick competence to provide confidential sexual health care and contraception to patients under 16 without parental breach represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, evaluating Gillick competence to provide confidential sexual health care and contraception to patients under 16 without parental breach represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment. In the clinical management of PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Gillick Competence and Fraser Guidelines Contraception Under 16 Confidentiality Assessment."
+    ],
+    "references": [
+      {
+        "label": "GMC 0-18 Years Guidance Confidentiality and Consent",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29666",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot K",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 23-year-old female attends the general practice surgery in suburban Birmingham for clinical consultation with clinical findings indicative of PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification. Clinical examination and investigative review confirm disclosing confidential patient information without consent only when justified to protect individuals or society from risk of death or serious harm. Vital signs demonstrate blood pressure 128/74 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Disclosing confidential patient information without consent only when justified to protect individuals or society from risk of death or serious harm",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, disclosing confidential patient information without consent only when justified to protect individuals or society from risk of death or serious harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, disclosing confidential patient information without consent only when justified to protect individuals or society from risk of death or serious harm represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification. In the clinical management of PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Confidentiality Exception Serious Imminent Harm Prevention Gunshot Knife Wound Notification."
+    ],
+    "references": [
+      {
+        "label": "GMC Confidentiality Disclosing Information for Public Protection",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29667",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Tr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old male is evaluated in the emergency department resuscitation bay of an NHS trust hospital in London with clinical findings indicative of PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT. Clinical examination and investigative review confirm conducting sensitive, transparent resuscitation discussions with competent patients and families, documenting ReSPECT forms clearly. Vital signs demonstrate blood pressure 129/75 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Conducting sensitive, transparent resuscitation discussions with competent patients and families, documenting respect forms clearly",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, conducting sensitive, transparent resuscitation discussions with competent patients and families, documenting ReSPECT forms clearly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, conducting sensitive, transparent resuscitation discussions with competent patients and families, documenting ReSPECT forms clearly represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT. In the clinical management of PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics End of Life DNACPR Discussion Advance Care Planning Escalation of Treatment Plan ReSPECT."
+    ],
+    "references": [
+      {
+        "label": "Resuscitation Council UK ReSPECT Process and GMC Guidance",
+        "url": "https://www.resus.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29668",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 25-year-old female presents to the acute medical assessment unit (AMU) of a teaching hospital in Manchester with clinical findings indicative of PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral. Clinical examination and investigative review confirm asking routine framing questions in a private room without partner present and referring to domestic abuse specialist and MARAC. Vital signs demonstrate blood pressure 130/76 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Asking routine framing questions in a private room without partner present and referring to domestic abuse specialist and marac",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, asking routine framing questions in a private room without partner present and referring to domestic abuse specialist and MARAC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, asking routine framing questions in a private room without partner present and referring to domestic abuse specialist and MARAC represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral. In the clinical management of PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Suspected Adult Safeguarding Domestic Violence Abuse Safe Enquiries MARAC Referral."
+    ],
+    "references": [
+      {
+        "label": "NICE Guideline PH50 Domestic Violence and Abuse",
+        "url": "https://www.nice.org.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29669",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and S",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 26-year-old male is admitted to the inpatient specialty ward of a regional NHS foundation trust hospital with clinical findings indicative of PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation. Clinical examination and investigative review confirm taking immediate steps to protect patient safety by escalating suspected impairment, intoxication, or gross negligence to senior staff. Vital signs demonstrate blood pressure 131/77 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Taking immediate steps to protect patient safety by escalating suspected impairment, intoxication, or gross negligence to senior staff",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, taking immediate steps to protect patient safety by escalating suspected impairment, intoxication, or gross negligence to senior staff represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, taking immediate steps to protect patient safety by escalating suspected impairment, intoxication, or gross negligence to senior staff represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation. In the clinical management of PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Impaired Colleague Performance Patient Safety Raising Concerns and Senior Escalation."
+    ],
+    "references": [
+      {
+        "label": "GMC Leadership and Management for All Doctors",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29670",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Dec",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 27-year-old female undergoes clinical evaluation in the urgent care ambulatory stream of a major UK hospital with clinical findings indicative of PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT. Clinical examination and investigative review confirm respecting a valid, applicable Advance Decision to Refuse Treatment for blood transfusion in an adult who had capacity when making it. Vital signs demonstrate blood pressure 132/78 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Respecting a valid, applicable advance decision to refuse treatment for blood transfusion in an adult who had capacity when making it",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, respecting a valid, applicable Advance Decision to Refuse Treatment for blood transfusion in an adult who had capacity when making it represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, respecting a valid, applicable Advance Decision to Refuse Treatment for blood transfusion in an adult who had capacity when making it represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT. In the clinical management of PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Refusal of Life-Saving Blood Transfusion Jehovah Witness Advance Decision to Refuse Treatment ADRT."
+    ],
+    "references": [
+      {
+        "label": "GMC Consent Patients and Doctors Making Decisions Together",
+        "url": "https://www.gmc-uk.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29671",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 28-year-old male attends the hospital outpatient specialist consultation suite in Leeds with clinical findings indicative of PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review. Clinical examination and investigative review confirm checking the NHS Organ Donor Register, consulting families respectfully regarding known wishes under deemed consent legislation. Vital signs demonstrate blood pressure 133/79 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Checking the nhs organ donor register, consulting families respectfully regarding known wishes under deemed consent legislation",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, checking the NHS Organ Donor Register, consulting families respectfully regarding known wishes under deemed consent legislation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, checking the NHS Organ Donor Register, consulting families respectfully regarding known wishes under deemed consent legislation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review. In the clinical management of PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Organ Donation Deemed Consent Legislation Express Decision Checking Specialist Nurse Review."
+    ],
+    "references": [
+      {
+        "label": "NHS Blood and Transplant Organ Donation Guidance",
+        "url": "https://www.odt.nhs.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-29672",
+    "exam": "PLAB / UKMLA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner R",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old female is examined in the primary care community health centre following GP referral with clinical findings indicative of PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria. Clinical examination and investigative review confirm referring uncertified, sudden, violent, suspicious, unnatural, or post-procedural deaths directly to the coroner prior to death certificate. Vital signs demonstrate blood pressure 134/80 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following clinical actions best aligns with National Institute for Health and Care Excellence (NICE) guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Referring uncertified, sudden, violent, suspicious, unnatural, or post-procedural deaths directly to the coroner prior to death certificate",
+        "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, referring uncertified, sudden, violent, suspicious, unnatural, or post-procedural deaths directly to the coroner prior to death certificate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for PLAB / UKMLA, referring uncertified, sudden, violent, suspicious, unnatural, or post-procedural deaths directly to the coroner prior to death certificate represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria. In the clinical management of PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of PLAB Ethics Medical Certificate of Cause of Death MCCD Notification to Coroner Referral Criteria."
+    ],
+    "references": [
+      {
+        "label": "UK Ministry of Justice and GMC Death Certification Standards",
+        "url": "https://www.gov.uk/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];
