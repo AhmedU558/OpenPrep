@@ -1,0 +1,5104 @@
+import type { QuestionContent } from '@/lib/validation/content';
+
+export const questions: QuestionContent[] = [
+  {
+    "code": "intl-30573",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cle",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi. Clinical examination and investigative review confirm activating emergency cardiac catheterization laboratory for primary PCI within 90 minutes of hospital arrival. Vital signs demonstrate blood pressure 133/85 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Activating emergency cardiac catheterization laboratory for primary pci within 90 minutes of hospital arrival",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, activating emergency cardiac catheterization laboratory for primary PCI within 90 minutes of hospital arrival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, activating emergency cardiac catheterization laboratory for primary PCI within 90 minutes of hospital arrival represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi. In the clinical management of HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Coronary Syndrome Primary PCI Door-to-Balloon < 90 min Cleveland Clinic Abu Dhabi."
+    ],
+    "references": [
+      {
+        "label": "Department of Health (DOH) Abu Dhabi Cardiovascular Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30574",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neuroh",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade. Clinical examination and investigative review confirm prescribing guideline-directed medical therapy with ARNI, beta-blocker, MRA, and SGLT2 inhibitor dapagliflozin. Vital signs demonstrate blood pressure 134/86 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing guideline-directed medical therapy with arni, beta-blocker, mra, and sglt2 inhibitor dapagliflozin",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing guideline-directed medical therapy with ARNI, beta-blocker, MRA, and SGLT2 inhibitor dapagliflozin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing guideline-directed medical therapy with ARNI, beta-blocker, MRA, and SGLT2 inhibitor dapagliflozin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade. In the clinical management of HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Chronic Heart Failure Reduced Ejection Fraction Quadruple Neurohormonal Blockade."
+    ],
+    "references": [
+      {
+        "label": "Emirates Cardiac Society Heart Failure Guidelines",
+        "url": "https://emiratescardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30575",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral A",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban. Clinical examination and investigative review confirm prescribing oral rivaroxaban 20 mg once daily with food for stroke prevention in non-valvular atrial fibrillation with CHA2DS2-VASc >= 2. Vital signs demonstrate blood pressure 135/87 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral rivaroxaban 20 mg once daily with food for stroke prevention in non-valvular atrial fibrillation with cha2ds2-vasc >= 2",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral rivaroxaban 20 mg once daily with food for stroke prevention in non-valvular atrial fibrillation with CHA2DS2-VASc >= 2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral rivaroxaban 20 mg once daily with food for stroke prevention in non-valvular atrial fibrillation with CHA2DS2-VASc >= 2 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban. In the clinical management of HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Non-Valvular Atrial Fibrillation Stroke Prevention Direct Oral Anticoagulant Rivaroxaban."
+    ],
+    "references": [
+      {
+        "label": "Dubai Health Authority (DHA) Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30576",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Lab",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine. Clinical examination and investigative review confirm administering continuous intravenous labetalol or nicardipine infusion targeting mean arterial pressure reduction of 20% to 25%. Vital signs demonstrate blood pressure 136/72 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Administering continuous intravenous labetalol or nicardipine infusion targeting mean arterial pressure reduction of 20% to 25%",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering continuous intravenous labetalol or nicardipine infusion targeting mean arterial pressure reduction of 20% to 25% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering continuous intravenous labetalol or nicardipine infusion targeting mean arterial pressure reduction of 20% to 25% represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine. In the clinical management of HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Hypertensive Emergency Acute Target Organ Damage Intravenous Labetalol or Nicardipine."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Emergency Clinical Guidance",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30577",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Im",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI). Clinical examination and investigative review confirm evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients. Vital signs demonstrate blood pressure 137/73 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Evaluating multidisciplinary heart team consensus for transfemoral tavi in high-risk or intermediate-risk elderly patients",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI).",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, evaluating multidisciplinary heart team consensus for transfemoral TAVI in high-risk or intermediate-risk elderly patients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI). In the clinical management of HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI), thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI).",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Severe Symptomatic Aortic Stenosis Transcatheter Aortic Valve Implantation (TAVI)."
+    ],
+    "references": [
+      {
+        "label": "Emirates Cardiac Society Structural Heart Disease Guidelines",
+        "url": "https://emiratescardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30578",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gra",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy. Clinical examination and investigative review confirm recommending surgical septal myectomy or percutaneous alcohol septal ablation for persistent severe obstruction with gradient > 50 mm Hg. Vital signs demonstrate blood pressure 138/74 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Recommending surgical septal myectomy or percutaneous alcohol septal ablation for persistent severe obstruction with gradient > 50 mm hg",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, recommending surgical septal myectomy or percutaneous alcohol septal ablation for persistent severe obstruction with gradient > 50 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, recommending surgical septal myectomy or percutaneous alcohol septal ablation for persistent severe obstruction with gradient > 50 mm Hg represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy. In the clinical management of HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Hypertrophic Obstructive Cardiomyopathy Drug-Refractory LVOT Gradient Surgical Myectomy."
+    ],
+    "references": [
+      {
+        "label": "Emirates Cardiac Society Cardiomyopathy Standards",
+        "url": "https://emiratescardiac.org/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30579",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Or",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine. Clinical examination and investigative review confirm prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences. Vital signs demonstrate blood pressure 139/75 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing high-dose oral ibuprofen 600 mg three times daily combined with colchicine 0.5 mg daily for 3 months to prevent recurrences represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine. In the clinical management of HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Pericarditis PR Segment Depression Concave ST Elevation Oral Ibuprofen Colchicine."
+    ],
+    "references": [
+      {
+        "label": "DHA Cardiology Clinical Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30580",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emerg",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair. Clinical examination and investigative review confirm transferring immediately for emergency cardiothoracic surgical repair with ascending aortic synthetic graft under hypothermic arrest. Vital signs demonstrate blood pressure 118/76 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Transferring immediately for emergency cardiothoracic surgical repair with ascending aortic synthetic graft under hypothermic arrest",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, transferring immediately for emergency cardiothoracic surgical repair with ascending aortic synthetic graft under hypothermic arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, transferring immediately for emergency cardiothoracic surgical repair with ascending aortic synthetic graft under hypothermic arrest represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair. In the clinical management of HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Acute Aortic Dissection Stanford Type A Tearing Chest Pain Emergent Open Surgical Repair."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Surgical Emergency Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30581",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban. Clinical examination and investigative review confirm initiating oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for acute deep vein thrombosis. Vital signs demonstrate blood pressure 119/77 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for acute deep vein thrombosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for acute deep vein thrombosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral apixaban 10 mg twice daily for 7 days followed by 5 mg twice daily for acute deep vein thrombosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban. In the clinical management of HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Deep Vein Thrombosis Wells Criteria High Probability Direct Oral Anticoagulant Apixaban."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Anticoagulation Management Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30582",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads R",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty. Clinical examination and investigative review confirm performing catheter-directed renal angiography and percutaneous transluminal renal angioplasty without stenting. Vital signs demonstrate blood pressure 120/78 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing catheter-directed renal angiography and percutaneous transluminal renal angioplasty without stenting",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing catheter-directed renal angiography and percutaneous transluminal renal angioplasty without stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing catheter-directed renal angiography and percutaneous transluminal renal angioplasty without stenting represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty. In the clinical management of HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Cardiology Secondary Hypertension Fibromuscular Dysplasia String-of-Beads Renal Angioplasty."
+    ],
+    "references": [
+      {
+        "label": "DHA Vascular Medicine Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30583",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbut",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids. Clinical examination and investigative review confirm administering back-to-back nebulized salbutamol 5 mg and ipratropium with oral prednisolone 40 mg daily for 5 days. Vital signs demonstrate blood pressure 121/79 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering back-to-back nebulized salbutamol 5 mg and ipratropium with oral prednisolone 40 mg daily for 5 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering back-to-back nebulized salbutamol 5 mg and ipratropium with oral prednisolone 40 mg daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering back-to-back nebulized salbutamol 5 mg and ipratropium with oral prednisolone 40 mg daily for 5 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids. In the clinical management of HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Severe Acute Asthma Exacerbation Peak Flow < 50% Inhaled Salbutamol Systemic Steroids."
+    ],
+    "references": [
+      {
+        "label": "Emirates Thoracic Society Asthma Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30584",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Si",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy. Clinical examination and investigative review confirm prescribing once-daily single-inhaler triple therapy with ICS, LABA, and LAMA to reduce exacerbations and improve lung function. Vital signs demonstrate blood pressure 122/80 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing once-daily single-inhaler triple therapy with ics, laba, and lama to reduce exacerbations and improve lung function",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing once-daily single-inhaler triple therapy with ICS, LABA, and LAMA to reduce exacerbations and improve lung function represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing once-daily single-inhaler triple therapy with ICS, LABA, and LAMA to reduce exacerbations and improve lung function represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy. In the clinical management of HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Chronic Obstructive Pulmonary Disease Frequent Exacerbations Single-Inhaler Triple Therapy."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Chronic Respiratory Disease Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30585",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin. Clinical examination and investigative review confirm initiating inpatient intravenous ceftriaxone 2 g daily combined with oral or IV azithromycin 500 mg once daily. Vital signs demonstrate blood pressure 123/81 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Initiating inpatient intravenous ceftriaxone 2 g daily combined with oral or iv azithromycin 500 mg once daily",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating inpatient intravenous ceftriaxone 2 g daily combined with oral or IV azithromycin 500 mg once daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating inpatient intravenous ceftriaxone 2 g daily combined with oral or IV azithromycin 500 mg once daily represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin. In the clinical management of HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Community-Acquired Pneumonia Severe CURB-65 Score >= 3 IV Ceftriaxone plus Azithromycin."
+    ],
+    "references": [
+      {
+        "label": "DHA Infectious Diseases and Pneumonia Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30586",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspn",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration. Clinical examination and investigative review confirm performing simple needle aspiration with 16-18G cannula aspirating up to 2.5 liters before considering chest tube drain. Vital signs demonstrate blood pressure 124/82 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing simple needle aspiration with 16-18g cannula aspirating up to 2.5 liters before considering chest tube drain",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing simple needle aspiration with 16-18G cannula aspirating up to 2.5 liters before considering chest tube drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing simple needle aspiration with 16-18G cannula aspirating up to 2.5 liters before considering chest tube drain represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration. In the clinical management of HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Primary Spontaneous Pneumothorax Large > 2 cm Significant Dyspnea Simple Aspiration."
+    ],
+    "references": [
+      {
+        "label": "Emirates Thoracic Society Pleural Disease Consensus",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30587",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis. Clinical examination and investigative review confirm administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin. Vital signs demonstrate blood pressure 125/83 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous recombinant tissue plasminogen activator alteplase 100 mg over 2 hours alongside unfractionated heparin represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis. In the clinical management of HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Massive Pulmonary Embolism Hemodynamic Instability Systemic IV Alteplase Thrombolysis."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Critical Care and VTE Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30588",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Lo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation. Clinical examination and investigative review confirm instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning. Vital signs demonstrate blood pressure 126/84 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Instituting lung-protective mechanical ventilation with tidal volume 6 ml/kg predicted body weight and prone positioning",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, instituting lung-protective mechanical ventilation with tidal volume 6 mL/kg predicted body weight and prone positioning represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation. In the clinical management of HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Acute Respiratory Distress Syndrome Severe Hypoxemic Failure Low Tidal Volume Ventilation."
+    ],
+    "references": [
+      {
+        "label": "Emirates Intensive Care Society ARDS Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30589",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Co",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen. Clinical examination and investigative review confirm initiating 2 months of daily fixed-dose isoniazid, rifampicin, pyrazinamide, ethambutol followed by 4 months of dual therapy. Vital signs demonstrate blood pressure 127/85 mm Hg, heart rate 83/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating 2 months of daily fixed-dose isoniazid, rifampicin, pyrazinamide, ethambutol followed by 4 months of dual therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating 2 months of daily fixed-dose isoniazid, rifampicin, pyrazinamide, ethambutol followed by 4 months of dual therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating 2 months of daily fixed-dose isoniazid, rifampicin, pyrazinamide, ethambutol followed by 4 months of dual therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen. In the clinical management of HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Pulmonary Tuberculosis GeneXpert Rapid Sputum PCR Fixed-Dose Combination 4-Drug Regimen."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Ministry of Health and Prevention (MOHAP) TB Guidelines",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30590",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic. Clinical examination and investigative review confirm confirming usual interstitial pneumonia pattern on thin-section CT and initiating oral antifibrotic therapy with pirfenidone or nintedanib. Vital signs demonstrate blood pressure 128/86 mm Hg, heart rate 84/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Confirming usual interstitial pneumonia pattern on thin-section ct and initiating oral antifibrotic therapy with pirfenidone or nintedanib",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, confirming usual interstitial pneumonia pattern on thin-section CT and initiating oral antifibrotic therapy with pirfenidone or nintedanib represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, confirming usual interstitial pneumonia pattern on thin-section CT and initiating oral antifibrotic therapy with pirfenidone or nintedanib represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic. In the clinical management of HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Idiopathic Pulmonary Fibrosis HRCT Subpleural Honeycombing Oral Pirfenidone Antifibrotic."
+    ],
+    "references": [
+      {
+        "label": "Emirates Thoracic Society Interstitial Lung Disease Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30591",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturn",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration. Clinical examination and investigative review confirm confirming apnea-hypopnea index (AHI) > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration. Vital signs demonstrate blood pressure 129/87 mm Hg, heart rate 85/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Confirming apnea-hypopnea index (ahi) > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, confirming apnea-hypopnea index (AHI) > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, confirming apnea-hypopnea index (AHI) > 15 on polysomnography and prescribing nocturnal continuous positive airway pressure titration represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration. In the clinical management of HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Obstructive Sleep Apnea-Hypopnea Syndrome Epworth Scale Nocturnal CPAP Titration."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Sleep Medicine Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30592",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib. Clinical examination and investigative review confirm prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma. Vital signs demonstrate blood pressure 130/72 mm Hg, heart rate 86/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing third-generation egfr tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing third-generation EGFR tyrosine kinase inhibitor osimertinib 80 mg once daily for advanced adenocarcinoma represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib. In the clinical management of HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pulmonology Non-Small Cell Lung Cancer EGFR Mutation Exon 19 Deletion First-Line Osimertinib."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Oncology Clinical Practice Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30593",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding. Clinical examination and investigative review confirm administering intravenous terlipressin 2 mg bolus, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours. Vital signs demonstrate blood pressure 131/73 mm Hg, heart rate 87/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous terlipressin 2 mg bolus, prophylactic iv ceftriaxone, and performing therapeutic endoscopy within 12 hours",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous terlipressin 2 mg bolus, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous terlipressin 2 mg bolus, prophylactic IV ceftriaxone, and performing therapeutic endoscopy within 12 hours represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding. In the clinical management of HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Bleeding Esophageal Varices Cirrhotic Portal Hypertension IV Terlipressin and Banding."
+    ],
+    "references": [
+      {
+        "label": "Emirates Gastroenterology and Hepatology Society Variceal Bleeding Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30594",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 25",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin. Clinical examination and investigative review confirm administering intravenous cefotaxime 2 g 8-hourly alongside intravenous 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3. Vital signs demonstrate blood pressure 132/74 mm Hg, heart rate 88/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous cefotaxime 2 g 8-hourly alongside intravenous 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous cefotaxime 2 g 8-hourly alongside intravenous 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous cefotaxime 2 g 8-hourly alongside intravenous 20% albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin. In the clinical management of HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Spontaneous Bacterial Peritonitis Ascitic Neutrophils > 250 IV Cefotaxime Albumin."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Liver Disease Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30595",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofo",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir. Clinical examination and investigative review confirm prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure. Vital signs demonstrate blood pressure 133/75 mm Hg, heart rate 89/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral fixed-dose sofosbuvir 400 mg and velpatasvir 100 mg once daily for 12 weeks achieving virological cure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir. In the clinical management of HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Chronic Hepatitis C Virus Infection Pan-Genotypic DAA Sofosbuvir and Velpatasvir."
+    ],
+    "references": [
+      {
+        "label": "UAE National Hepatitis Elimination Guidelines",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30596",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil. Clinical examination and investigative review confirm initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring. Vital signs demonstrate blood pressure 134/76 mm Hg, heart rate 90/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral tenofovir disoproxil fumarate 300 mg daily or entecavir 0.5 mg daily with long-term viral suppression monitoring represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil. In the clinical management of HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Chronic Hepatitis B Virus Infection Elevated ALT High DNA First-Line Tenofovir Disoproxil."
+    ],
+    "references": [
+      {
+        "label": "DHA Viral Hepatitis Management Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30597",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Dire",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration. Clinical examination and investigative review confirm administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate opioid analgesia. Vital signs demonstrate blood pressure 135/77 mm Hg, heart rate 91/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Administering goal-directed intravenous ringer lactate hydration titrated to urine output and hematocrit with adequate opioid analgesia",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate opioid analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering goal-directed intravenous Ringer lactate hydration titrated to urine output and hematocrit with adequate opioid analgesia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration. In the clinical management of HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Severe Acute Pancreatitis Atlanta Classification Goal-Directed Ringer Lactate Hydration."
+    ],
+    "references": [
+      {
+        "label": "Emirates Gastroenterology Society Pancreatitis Consensus",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30598",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Qu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy. Clinical examination and investigative review confirm prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days to overcome clarithromycin resistance. Vital signs demonstrate blood pressure 136/78 mm Hg, heart rate 92/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral ppi, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days to overcome clarithromycin resistance",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days to overcome clarithromycin resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral PPI, bismuth subcitrate, metronidazole, and tetracycline four times daily for 14 days to overcome clarithromycin resistance represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy. In the clinical management of HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Helicobacter Pylori Peptic Ulcer Disease 14-Day Bismuth Quadruple Eradication Therapy."
+    ],
+    "references": [
+      {
+        "label": "DHA H. Pylori Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30599",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteri",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue. Clinical examination and investigative review confirm administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage anti-TNF infliximab. Vital signs demonstrate blood pressure 137/79 mm Hg, heart rate 93/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and crp on day 3 for salvage anti-tnf infliximab",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage anti-TNF infliximab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous methylprednisolone 60 mg daily and evaluating stool frequency and CRP on day 3 for salvage anti-TNF infliximab represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue. In the clinical management of HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Acute Severe Ulcerative Colitis Truelove and Witts Criteria IV Methylprednisolone Day 3 Rescue."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Inflammatory Bowel Disease Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30600",
+    "exam": "HAAD / DHA",
+    "subject": "Pathology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-t",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy. Clinical examination and investigative review confirm performing diagnostic upper endoscopy with multiple biopsies showing villous atrophy and initiating strict lifelong gluten-free diet. Vital signs demonstrate blood pressure 138/80 mm Hg, heart rate 94/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Performing diagnostic upper endoscopy with multiple biopsies showing villous atrophy and initiating strict lifelong gluten-free diet",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing diagnostic upper endoscopy with multiple biopsies showing villous atrophy and initiating strict lifelong gluten-free diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing diagnostic upper endoscopy with multiple biopsies showing villous atrophy and initiating strict lifelong gluten-free diet represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy. In the clinical management of HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Celiac Disease Classical Malabsorption Positive IgA Anti-tTG Confirmatory Duodenal Biopsy."
+    ],
+    "references": [
+      {
+        "label": "Emirates Gastroenterology Society Celiac Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30601",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Earl",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy. Clinical examination and investigative review confirm performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage. Vital signs demonstrate blood pressure 139/81 mm Hg, heart rate 95/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing early laparoscopic cholecystectomy within 72 hours of admission under perioperative intravenous antibiotic coverage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy. In the clinical management of HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Acute Calculous Cholecystitis Sonographic Murphy Sign Early Laparoscopic Cholecystectomy."
+    ],
+    "references": [
+      {
+        "label": "DHA General Surgery Clinical Practice Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30602",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Sta",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE. Clinical examination and investigative review confirm initiating routine screening colonoscopy every 10 years or annual stool immunochemical testing starting at age 40 under UAE national policy. Vital signs demonstrate blood pressure 118/82 mm Hg, heart rate 96/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Initiating routine screening colonoscopy every 10 years or annual stool immunochemical testing starting at age 40 under uae national policy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating routine screening colonoscopy every 10 years or annual stool immunochemical testing starting at age 40 under UAE national policy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating routine screening colonoscopy every 10 years or annual stool immunochemical testing starting at age 40 under UAE national policy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE. In the clinical management of HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gastroenterology Colorectal Cancer Screening Colonoscopy Every 10 Years Starting from Age 40 in UAE."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Cancer Screening Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30603",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhib",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist. Clinical examination and investigative review confirm adding oral empagliflozin or subcutaneous semaglutide to metformin in patients with established ASCVD, heart failure, or CKD. Vital signs demonstrate blood pressure 119/83 mm Hg, heart rate 97/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Adding oral empagliflozin or subcutaneous semaglutide to metformin in patients with established ascvd, heart failure, or ckd",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, adding oral empagliflozin or subcutaneous semaglutide to metformin in patients with established ASCVD, heart failure, or CKD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, adding oral empagliflozin or subcutaneous semaglutide to metformin in patients with established ASCVD, heart failure, or CKD represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist. In the clinical management of HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Type 2 Diabetes Mellitus High Cardiovascular Risk SGLT2 Inhibitor or GLP-1 Receptor Agonist."
+    ],
+    "references": [
+      {
+        "label": "Emirates Diabetes Society Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30604",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Re",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion. Clinical examination and investigative review confirm infusing normal saline resuscitation and continuous intravenous regular insulin at 0.1 units/kg/h maintaining serum potassium 4 to 5 mEq/L. Vital signs demonstrate blood pressure 120/84 mm Hg, heart rate 70/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Infusing normal saline resuscitation and continuous intravenous regular insulin at 0.1 units/kg/h maintaining serum potassium 4 to 5 meq/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, infusing normal saline resuscitation and continuous intravenous regular insulin at 0.1 units/kg/h maintaining serum potassium 4 to 5 mEq/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, infusing normal saline resuscitation and continuous intravenous regular insulin at 0.1 units/kg/h maintaining serum potassium 4 to 5 mEq/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion. In the clinical management of HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Diabetic Ketoacidosis High Anion Gap Metabolic Acidosis IV Regular Insulin Potassium Repletion."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Inpatient Diabetes Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30605",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual I",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation. Clinical examination and investigative review confirm administering gradual intravenous 0.9% normal saline over 24 to 48 hours to replace fluid deficit and avoid rapid osmolality shifts. Vital signs demonstrate blood pressure 121/85 mm Hg, heart rate 71/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Administering gradual intravenous 0.9% normal saline over 24 to 48 hours to replace fluid deficit and avoid rapid osmolality shifts",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering gradual intravenous 0.9% normal saline over 24 to 48 hours to replace fluid deficit and avoid rapid osmolality shifts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering gradual intravenous 0.9% normal saline over 24 to 48 hours to replace fluid deficit and avoid rapid osmolality shifts represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation. In the clinical management of HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Hyperosmolar Hyperglycemic State Severe Dehydration Gradual Isotonic Saline Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "DHA Endocrine Emergency Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30606",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levo",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily. Clinical examination and investigative review confirm initiating oral levothyroxine 1.6 mcg/kg once daily on an empty stomach 30 to 60 minutes before breakfast with repeat TSH at 6 weeks. Vital signs demonstrate blood pressure 122/86 mm Hg, heart rate 72/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral levothyroxine 1.6 mcg/kg once daily on an empty stomach 30 to 60 minutes before breakfast with repeat tsh at 6 weeks",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral levothyroxine 1.6 mcg/kg once daily on an empty stomach 30 to 60 minutes before breakfast with repeat TSH at 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral levothyroxine 1.6 mcg/kg once daily on an empty stomach 30 to 60 minutes before breakfast with repeat TSH at 6 weeks represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily. In the clinical management of HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Hypothyroidism Elevated TSH Weight-Adjusted Oral Levothyroxine 1.6 mcg/kg Daily."
+    ],
+    "references": [
+      {
+        "label": "Emirates Diabetes and Endocrine Society Thyroid Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30607",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carb",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol. Clinical examination and investigative review confirm prescribing oral carbimazole 20 to 30 mg daily alongside beta-blocker propranolol for rapid adrenergic symptom control. Vital signs demonstrate blood pressure 123/87 mm Hg, heart rate 73/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral carbimazole 20 to 30 mg daily alongside beta-blocker propranolol for rapid adrenergic symptom control",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral carbimazole 20 to 30 mg daily alongside beta-blocker propranolol for rapid adrenergic symptom control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral carbimazole 20 to 30 mg daily alongside beta-blocker propranolol for rapid adrenergic symptom control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol. In the clinical management of HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Graves Disease Hyperthyroidism Diffuse Toxic Goiter Oral Carbimazole and Propranolol."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Endocrinology Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30608",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Min",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy. Clinical examination and investigative review confirm localizing solitary parathyroid adenoma with sestamibi SPECT-CT and performing targeted minimally invasive parathyroidectomy. Vital signs demonstrate blood pressure 124/72 mm Hg, heart rate 74/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Localizing solitary parathyroid adenoma with sestamibi spect-ct and performing targeted minimally invasive parathyroidectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, localizing solitary parathyroid adenoma with sestamibi SPECT-CT and performing targeted minimally invasive parathyroidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, localizing solitary parathyroid adenoma with sestamibi SPECT-CT and performing targeted minimally invasive parathyroidectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy. In the clinical management of HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Hyperparathyroidism Hypercalcemia 99mTc-Sestamibi Minimally Invasive Parathyroidectomy."
+    ],
+    "references": [
+      {
+        "label": "DHA Endocrine Surgery Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30609",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocorti",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation. Clinical examination and investigative review confirm administering immediate intravenous hydrocortisone 100 mg bolus every 6 hours combined with aggressive isotonic saline resuscitation. Vital signs demonstrate blood pressure 125/73 mm Hg, heart rate 75/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering immediate intravenous hydrocortisone 100 mg bolus every 6 hours combined with aggressive isotonic saline resuscitation",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering immediate intravenous hydrocortisone 100 mg bolus every 6 hours combined with aggressive isotonic saline resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering immediate intravenous hydrocortisone 100 mg bolus every 6 hours combined with aggressive isotonic saline resuscitation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation. In the clinical management of HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Primary Adrenal Insufficiency Addisonian Crisis IV Hydrocortisone 100 mg Normal Saline Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Adrenal Emergency Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30610",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinu",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery. Clinical examination and investigative review confirm performing bilateral petrosal sinus sampling to confirm central ACTH gradient followed by selective transsphenoidal adenomectomy. Vital signs demonstrate blood pressure 126/74 mm Hg, heart rate 76/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Performing bilateral petrosal sinus sampling to confirm central acth gradient followed by selective transsphenoidal adenomectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing bilateral petrosal sinus sampling to confirm central ACTH gradient followed by selective transsphenoidal adenomectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing bilateral petrosal sinus sampling to confirm central ACTH gradient followed by selective transsphenoidal adenomectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery. In the clinical management of HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Cushing Disease Pituitary ACTH Adenoma Inferior Petrosal Sinus Sampling Transsphenoidal Surgery."
+    ],
+    "references": [
+      {
+        "label": "DHA Pituitary Disorders Clinical Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30611",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine. Clinical examination and investigative review confirm administering oral non-competitive alpha-blocker phenoxybenzamine for 10-14 days prior to initiating beta-blocker and laparoscopic adrenalectomy. Vital signs demonstrate blood pressure 127/75 mm Hg, heart rate 77/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral non-competitive alpha-blocker phenoxybenzamine for 10-14 days prior to initiating beta-blocker and laparoscopic adrenalectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering oral non-competitive alpha-blocker phenoxybenzamine for 10-14 days prior to initiating beta-blocker and laparoscopic adrenalectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering oral non-competitive alpha-blocker phenoxybenzamine for 10-14 days prior to initiating beta-blocker and laparoscopic adrenalectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine. In the clinical management of HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Phaeochromocytoma Paroxysmal Hypertension Preoperative Alpha-Blockade Phenoxybenzamine."
+    ],
+    "references": [
+      {
+        "label": "Emirates Endocrine Society Phaeochromocytoma Consensus",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30612",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendr",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D. Clinical examination and investigative review confirm prescribing oral alendronate 70 mg weekly taken fasting with full glass of plain water sitting upright for 30 minutes with calcium and vitamin D. Vital signs demonstrate blood pressure 128/76 mm Hg, heart rate 78/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral alendronate 70 mg weekly taken fasting with full glass of plain water sitting upright for 30 minutes with calcium and vitamin d",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral alendronate 70 mg weekly taken fasting with full glass of plain water sitting upright for 30 minutes with calcium and vitamin D represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral alendronate 70 mg weekly taken fasting with full glass of plain water sitting upright for 30 minutes with calcium and vitamin D represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D. In the clinical management of HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Endocrinology Postmenopausal Osteoporosis T-Score < -2.5 Oral Weekly Alendronate 70 mg and Vitamin D."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Osteoporosis Prevention and Management Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30613",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis. Clinical examination and investigative review confirm administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose. Vital signs demonstrate blood pressure 129/77 mm Hg, heart rate 79/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering 10 ml 10% iv calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 ml 50% dextrose",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering 10 mL 10% IV calcium gluconate over 3 minutes followed by 10 units regular insulin in 50 mL 50% dextrose represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis. In the clinical management of HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Kidney Injury KDIGO Stage 3 Severe Hyperkalemia 7.0 mEq/L IV Calcium Gluconate Hemodialysis."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Acute Kidney Injury Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30614",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction. Clinical examination and investigative review confirm initiating pulsed IV methylprednisolone 1 g daily for 3 days followed by intravenous rituximab or cyclophosphamide induction therapy. Vital signs demonstrate blood pressure 130/78 mm Hg, heart rate 80/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Initiating pulsed iv methylprednisolone 1 g daily for 3 days followed by intravenous rituximab or cyclophosphamide induction therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating pulsed IV methylprednisolone 1 g daily for 3 days followed by intravenous rituximab or cyclophosphamide induction therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating pulsed IV methylprednisolone 1 g daily for 3 days followed by intravenous rituximab or cyclophosphamide induction therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction. In the clinical management of HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Rapidly Progressive Glomerulonephritis ANCA Vasculitis High-Dose Methylprednisolone Rituximab Induction."
+    ],
+    "references": [
+      {
+        "label": "Emirates Medical Association Nephrology Society Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30615",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily. Clinical examination and investigative review confirm prescribing oral prednisolone 1 mg/kg/day (maximum 80 mg) for 8 to 16 weeks achieving complete remission with podocyte effacement on EM. Vital signs demonstrate blood pressure 131/79 mm Hg, heart rate 81/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral prednisolone 1 mg/kg/day (maximum 80 mg) for 8 to 16 weeks achieving complete remission with podocyte effacement on em",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral prednisolone 1 mg/kg/day (maximum 80 mg) for 8 to 16 weeks achieving complete remission with podocyte effacement on EM represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral prednisolone 1 mg/kg/day (maximum 80 mg) for 8 to 16 weeks achieving complete remission with podocyte effacement on EM represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily. In the clinical management of HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Nephrotic Syndrome Minimal Change Disease Heavy Proteinuria Oral Prednisolone 1 mg/kg Daily."
+    ],
+    "references": [
+      {
+        "label": "DHA Glomerular Disease Clinical Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30616",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/A",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection. Clinical examination and investigative review confirm combining maximally tolerated ACE inhibitor or ARB with SGLT2 inhibitor to slow chronic kidney disease progression. Vital signs demonstrate blood pressure 132/80 mm Hg, heart rate 82/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Combining maximally tolerated ace inhibitor or arb with sglt2 inhibitor to slow chronic kidney disease progression",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, combining maximally tolerated ACE inhibitor or ARB with SGLT2 inhibitor to slow chronic kidney disease progression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, combining maximally tolerated ACE inhibitor or ARB with SGLT2 inhibitor to slow chronic kidney disease progression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection. In the clinical management of HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Diabetic Nephropathy Macroalbuminuria SGLT2 Inhibitor and ACEi/ARB Dual Organ Protection."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Diabetic Nephropathy Consensus",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30617",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate O",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder. Clinical examination and investigative review confirm prescribing oral non-calcium phosphate binder sevelamer carbonate 800 mg with each meal and active vitamin D alfacalcidol. Vital signs demonstrate blood pressure 133/81 mm Hg, heart rate 83/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral non-calcium phosphate binder sevelamer carbonate 800 mg with each meal and active vitamin d alfacalcidol",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral non-calcium phosphate binder sevelamer carbonate 800 mg with each meal and active vitamin D alfacalcidol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral non-calcium phosphate binder sevelamer carbonate 800 mg with each meal and active vitamin D alfacalcidol represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder. In the clinical management of HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Chronic Kidney Disease Mineral Bone Disease Elevated Phosphate Oral Sevelamer Carbonate Binder."
+    ],
+    "references": [
+      {
+        "label": "DHA CKD-MBD Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30618",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Renal",
+    "topic": "HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radioc",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula. Clinical examination and investigative review confirm performing autologous radiocephalic (Brescia-Cimino) arteriovenous fistula creation at the non-dominant wrist 6 months prior to hemodialysis. Vital signs demonstrate blood pressure 134/82 mm Hg, heart rate 84/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Performing autologous radiocephalic (brescia-cimino) arteriovenous fistula creation at the non-dominant wrist 6 months prior to hemodialysis",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing autologous radiocephalic (Brescia-Cimino) arteriovenous fistula creation at the non-dominant wrist 6 months prior to hemodialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing autologous radiocephalic (Brescia-Cimino) arteriovenous fistula creation at the non-dominant wrist 6 months prior to hemodialysis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula. In the clinical management of HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology End-Stage Kidney Disease Hemodialysis Access Non-Dominant Radiocephalic Arteriovenous Fistula."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Vascular Access Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30619",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdraw",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course. Clinical examination and investigative review confirm withdrawing offending medication immediately and commencing oral prednisolone 1 mg/kg daily for 4 to 6 weeks if kidney function fails to recover. Vital signs demonstrate blood pressure 135/83 mm Hg, heart rate 85/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Withdrawing offending medication immediately and commencing oral prednisolone 1 mg/kg daily for 4 to 6 weeks if kidney function fails to recover",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, withdrawing offending medication immediately and commencing oral prednisolone 1 mg/kg daily for 4 to 6 weeks if kidney function fails to recover represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, withdrawing offending medication immediately and commencing oral prednisolone 1 mg/kg daily for 4 to 6 weeks if kidney function fails to recover represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course. In the clinical management of HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Interstitial Nephritis Proton Pump Inhibitor Drug Withdrawal Oral Prednisolone Course."
+    ],
+    "references": [
+      {
+        "label": "Emirates Nephrology Society Tubulointerstitial Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30620",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression O",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist. Clinical examination and investigative review confirm prescribing oral vasopressin V2 receptor antagonist tolvaptan in CKD stage 1 to 3 with documented rapid progression. Vital signs demonstrate blood pressure 136/84 mm Hg, heart rate 86/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Prescribing oral vasopressin v2 receptor antagonist tolvaptan in ckd stage 1 to 3 with documented rapid progression",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral vasopressin V2 receptor antagonist tolvaptan in CKD stage 1 to 3 with documented rapid progression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral vasopressin V2 receptor antagonist tolvaptan in CKD stage 1 to 3 with documented rapid progression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist. In the clinical management of HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Autosomal Dominant Polycystic Kidney Disease Rapid Progression Oral Tolvaptan V2 Antagonist."
+    ],
+    "references": [
+      {
+        "label": "DHA Polycystic Kidney Disease Clinical Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30621",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL. Clinical examination and investigative review confirm infusing 100 mL IV 3% hypertonic saline over 10 minutes repeated up to twice strictly limiting 24-hour correction to < 8 mmol/L. Vital signs demonstrate blood pressure 137/85 mm Hg, heart rate 87/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Infusing 100 ml iv 3% hypertonic saline over 10 minutes repeated up to twice strictly limiting 24-hour correction to < 8 mmol/l",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, infusing 100 mL IV 3% hypertonic saline over 10 minutes repeated up to twice strictly limiting 24-hour correction to < 8 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, infusing 100 mL IV 3% hypertonic saline over 10 minutes repeated up to twice strictly limiting 24-hour correction to < 8 mmol/L represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL. In the clinical management of HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Symptomatic Hyponatremia Severe Serum Sodium 112 Acute Confusion Hypertonic 3% Saline Bolus 100 mL."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Electrolyte Emergency Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30622",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosi",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy. Clinical examination and investigative review confirm prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and NSAID analgesia for distal ureteric stones. Vital signs demonstrate blood pressure 138/86 mm Hg, heart rate 88/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and nsaid analgesia for distal ureteric stones",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and NSAID analgesia for distal ureteric stones represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral tamsulosin 0.4 mg daily for up to 4 weeks with oral hydration and NSAID analgesia for distal ureteric stones represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy. In the clinical management of HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Nephrology Acute Renal Colic Ureteral Calculus 6 mm Alpha-Blocker Tamsulosin Medical Expulsive Therapy."
+    ],
+    "references": [
+      {
+        "label": "Emirates Urological Society Urolithiasis Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30623",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Renal",
+    "topic": "HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily. Clinical examination and investigative review confirm prescribing oral macrocrystalline nitrofurantoin 100 mg twice daily with meals for 5 days or single-dose fosfomycin 3 g. Vital signs demonstrate blood pressure 139/87 mm Hg, heart rate 89/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral macrocrystalline nitrofurantoin 100 mg twice daily with meals for 5 days or single-dose fosfomycin 3 g",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral macrocrystalline nitrofurantoin 100 mg twice daily with meals for 5 days or single-dose fosfomycin 3 g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral macrocrystalline nitrofurantoin 100 mg twice daily with meals for 5 days or single-dose fosfomycin 3 g represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily. In the clinical management of HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Uncomplicated Acute Cystitis Female Oral Nitrofurantoin 100 mg Modified-Release Twice Daily."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Primary Care Antimicrobial Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30624",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-We",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily. Clinical examination and investigative review confirm prescribing oral omeprazole 20 mg once daily before breakfast for 8 weeks and advising lifestyle and dietary modifications. Vital signs demonstrate blood pressure 118/72 mm Hg, heart rate 90/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral omeprazole 20 mg once daily before breakfast for 8 weeks and advising lifestyle and dietary modifications",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral omeprazole 20 mg once daily before breakfast for 8 weeks and advising lifestyle and dietary modifications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral omeprazole 20 mg once daily before breakfast for 8 weeks and advising lifestyle and dietary modifications represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily. In the clinical management of HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Gastroesophageal Reflux Disease Typical Heartburn Empiric 8-Week Oral Omeprazole 20 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "DHA Primary Care Gastroenterology Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30625",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic U",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy. Clinical examination and investigative review confirm referring immediately for upper gastrointestinal endoscopy to exclude gastric or esophageal malignancy in patients with weight loss or dysphagia. Vital signs demonstrate blood pressure 119/73 mm Hg, heart rate 91/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Referring immediately for upper gastrointestinal endoscopy to exclude gastric or esophageal malignancy in patients with weight loss or dysphagia",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, referring immediately for upper gastrointestinal endoscopy to exclude gastric or esophageal malignancy in patients with weight loss or dysphagia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, referring immediately for upper gastrointestinal endoscopy to exclude gastric or esophageal malignancy in patients with weight loss or dysphagia represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy. In the clinical management of HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Dyspepsia Red-Flag Alarm Symptoms Age > 50 Urgent Diagnostic Upper Gastrointestinal Endoscopy."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Dyspepsia Referral Pathways",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30626",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings. Clinical examination and investigative review confirm prescribing graduated below-knee compression hosiery 20 to 30 mm Hg combined with frequent leg elevation and emollients. Vital signs demonstrate blood pressure 120/74 mm Hg, heart rate 92/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing graduated below-knee compression hosiery 20 to 30 mm hg combined with frequent leg elevation and emollients",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing graduated below-knee compression hosiery 20 to 30 mm Hg combined with frequent leg elevation and emollients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing graduated below-knee compression hosiery 20 to 30 mm Hg combined with frequent leg elevation and emollients represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings. In the clinical management of HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Chronic Venous Insufficiency Stasis Dermatitis Graduated Class II Compression Stockings."
+    ],
+    "references": [
+      {
+        "label": "DHA Primary Care Vascular Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30627",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Respiratory",
+    "topic": "HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid. Clinical examination and investigative review confirm prescribing daily intranasal fluticasone propionate spray 1 to 2 sprays per nostril for anti-inflammatory symptom control. Vital signs demonstrate blood pressure 121/75 mm Hg, heart rate 93/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing daily intranasal fluticasone propionate spray 1 to 2 sprays per nostril for anti-inflammatory symptom control",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing daily intranasal fluticasone propionate spray 1 to 2 sprays per nostril for anti-inflammatory symptom control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing daily intranasal fluticasone propionate spray 1 to 2 sprays per nostril for anti-inflammatory symptom control represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid. In the clinical management of HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Allergic Rhinitis Moderate-to-Severe Symptoms Daily Intranasal Fluticasone Corticosteroid."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Primary Care Allergy Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30628",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexaval",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration. Clinical examination and investigative review confirm administering hexavalent vaccine (DTaP-IPV-HepB-Hib) at 2, 4, and 6 months alongside 13-valent pneumococcal conjugate vaccine. Vital signs demonstrate blood pressure 122/76 mm Hg, heart rate 94/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Administering hexavalent vaccine (dtap-ipv-hepb-hib) at 2, 4, and 6 months alongside 13-valent pneumococcal conjugate vaccine",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering hexavalent vaccine (DTaP-IPV-HepB-Hib) at 2, 4, and 6 months alongside 13-valent pneumococcal conjugate vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering hexavalent vaccine (DTaP-IPV-HepB-Hib) at 2, 4, and 6 months alongside 13-valent pneumococcal conjugate vaccine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration. In the clinical management of HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care UAE National Immunization Programme Childhood Schedule Hexavalent and PCV13 Administration."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Ministry of Health and Prevention National Immunization Schedule",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30629",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Behavioral Health",
+    "topic": "HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and ",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling. Clinical examination and investigative review confirm prescribing oral partial nicotinic receptor agonist varenicline titrated to 1 mg twice daily combined with structured behavioral cessation sessions. Vital signs demonstrate blood pressure 123/77 mm Hg, heart rate 95/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral partial nicotinic receptor agonist varenicline titrated to 1 mg twice daily combined with structured behavioral cessation sessions",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral partial nicotinic receptor agonist varenicline titrated to 1 mg twice daily combined with structured behavioral cessation sessions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral partial nicotinic receptor agonist varenicline titrated to 1 mg twice daily combined with structured behavioral cessation sessions represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling. In the clinical management of HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Tobacco Smoking Cessation First-Line Varenicline Tartrate and Structured Behavioral Counseling."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Tobacco Cessation Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30630",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Cardiovascular",
+    "topic": "HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Athe",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score. Clinical examination and investigative review confirm calculating 10-year ASCVD risk score using blood pressure, lipid profile, and smoking status to guide primary statin initiation. Vital signs demonstrate blood pressure 124/78 mm Hg, heart rate 96/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Calculating 10-year ascvd risk score using blood pressure, lipid profile, and smoking status to guide primary statin initiation",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, calculating 10-year ASCVD risk score using blood pressure, lipid profile, and smoking status to guide primary statin initiation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, calculating 10-year ASCVD risk score using blood pressure, lipid profile, and smoking status to guide primary statin initiation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score. In the clinical management of HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Adult Health Screening Cardiovascular Risk Stratification Atherosclerotic CVD Risk Score."
+    ],
+    "references": [
+      {
+        "label": "DHA Preventive Health and Wellness Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30631",
+    "exam": "HAAD / DHA",
+    "subject": "Genetics",
+    "system": "Hematology",
+    "topic": "HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle ",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling. Clinical examination and investigative review confirm performing mandatory premarital complete blood count and hemoglobin electrophoresis to detect beta-thalassemia and sickle cell trait. Vital signs demonstrate blood pressure 125/79 mm Hg, heart rate 97/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Performing mandatory premarital complete blood count and hemoglobin electrophoresis to detect beta-thalassemia and sickle cell trait",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing mandatory premarital complete blood count and hemoglobin electrophoresis to detect beta-thalassemia and sickle cell trait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing mandatory premarital complete blood count and hemoglobin electrophoresis to detect beta-thalassemia and sickle cell trait represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling. In the clinical management of HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Premarital Screening Program Mandatory Thalassemia and Sickle Cell Trait Genetic Counseling."
+    ],
+    "references": [
+      {
+        "label": "UAE National Premarital Screening Regulations",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30632",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholec",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly. Clinical examination and investigative review confirm prescribing oral cholecalciferol 50,000 IU once weekly for 8 to 12 weeks followed by daily maintenance 1000 to 2000 IU. Vital signs demonstrate blood pressure 126/80 mm Hg, heart rate 70/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral cholecalciferol 50,000 iu once weekly for 8 to 12 weeks followed by daily maintenance 1000 to 2000 iu",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral cholecalciferol 50,000 IU once weekly for 8 to 12 weeks followed by daily maintenance 1000 to 2000 IU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral cholecalciferol 50,000 IU once weekly for 8 to 12 weeks followed by daily maintenance 1000 to 2000 IU represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly. In the clinical management of HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Primary Care Vitamin D Deficiency High Prevalence UAE High-Dose Oral Cholecalciferol 50,000 IU Weekly."
+    ],
+    "references": [
+      {
+        "label": "DHA Vitamin D Clinical Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30633",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stag",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery. Clinical examination and investigative review confirm administering 10 IU oxytocin IM immediately after anterior shoulder delivery, performing controlled cord traction, and fundal massage. Vital signs demonstrate blood pressure 127/81 mm Hg, heart rate 71/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Administering 10 iu oxytocin im immediately after anterior shoulder delivery, performing controlled cord traction, and fundal massage",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering 10 IU oxytocin IM immediately after anterior shoulder delivery, performing controlled cord traction, and fundal massage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering 10 IU oxytocin IM immediately after anterior shoulder delivery, performing controlled cord traction, and fundal massage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery. In the clinical management of HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Postpartum Hemorrhage Uterine Atony Active Management Third Stage IM Oxytocin 10 IU Delivery."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Obstetric Emergency Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30634",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfa",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 34-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol. Clinical examination and investigative review confirm administering IV magnesium sulfate 4 g loading followed by 1 to 2 g/h continuous infusion alongside IV labetalol to prevent eclamptic seizures. Vital signs demonstrate blood pressure 128/82 mm Hg, heart rate 72/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Administering iv magnesium sulfate 4 g loading followed by 1 to 2 g/h continuous infusion alongside iv labetalol to prevent eclamptic seizures",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering IV magnesium sulfate 4 g loading followed by 1 to 2 g/h continuous infusion alongside IV labetalol to prevent eclamptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering IV magnesium sulfate 4 g loading followed by 1 to 2 g/h continuous infusion alongside IV labetalol to prevent eclamptic seizures represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol. In the clinical management of HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Severe Pre-Eclampsia Blood Pressure > 160/110 IV Magnesium Sulfate Pritchard Regimen and Labetalol."
+    ],
+    "references": [
+      {
+        "label": "DHA Hypertensive Disorders of Pregnancy Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30635",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse E",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 54-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy. Clinical examination and investigative review confirm initiating immediate blood product resuscitation and proceeding directly to emergency laparoscopy or laparotomy for total salpingectomy. Vital signs demonstrate blood pressure 129/83 mm Hg, heart rate 73/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Initiating immediate blood product resuscitation and proceeding directly to emergency laparoscopy or laparotomy for total salpingectomy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating immediate blood product resuscitation and proceeding directly to emergency laparoscopy or laparotomy for total salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating immediate blood product resuscitation and proceeding directly to emergency laparoscopy or laparotomy for total salpingectomy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy. In the clinical management of HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Ruptured Ectopic Pregnancy Hemoperitoneum Hemodynamic Collapse Emergency Laparoscopy Salpingectomy."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Early Pregnancy Loss Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30636",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Schedule",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 74-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks. Clinical examination and investigative review confirm avoiding digital vaginal examination, scheduling elective cesarean section at 36 to 37 weeks with packed red blood cells cross-matched. Vital signs demonstrate blood pressure 130/84 mm Hg, heart rate 74/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Avoiding digital vaginal examination, scheduling elective cesarean section at 36 to 37 weeks with packed red blood cells cross-matched",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, avoiding digital vaginal examination, scheduling elective cesarean section at 36 to 37 weeks with packed red blood cells cross-matched represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, avoiding digital vaginal examination, scheduling elective cesarean section at 36 to 37 weeks with packed red blood cells cross-matched represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks. In the clinical management of HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Major Placenta Previa Painless Third Trimester Bleeding Scheduled Cesarean Delivery at 36-37 Weeks."
+    ],
+    "references": [
+      {
+        "label": "DHA Antepartum Hemorrhage Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30637",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Gluc",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 29-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria. Clinical examination and investigative review confirm diagnosing GDM based on fasting glucose >= 92 mg/dL, 1-hour >= 180 mg/dL, or 2-hour >= 153 mg/dL on 75g OGTT. Vital signs demonstrate blood pressure 131/85 mm Hg, heart rate 75/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Diagnosing gdm based on fasting glucose >= 92 mg/dl, 1-hour >= 180 mg/dl, or 2-hour >= 153 mg/dl on 75g ogtt",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, diagnosing GDM based on fasting glucose >= 92 mg/dL, 1-hour >= 180 mg/dL, or 2-hour >= 153 mg/dL on 75g OGTT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, diagnosing GDM based on fasting glucose >= 92 mg/dL, 1-hour >= 180 mg/dL, or 2-hour >= 153 mg/dL on 75g OGTT represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria. In the clinical management of HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Gestational Diabetes Mellitus 24-28 Weeks 75g Two-Hour Oral Glucose Tolerance Test Diagnostic Criteria."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi GDM Clinical Practice Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30638",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Pregnancy",
+    "topic": "HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylac",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 49-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg. Clinical examination and investigative review confirm administering intramuscular anti-D immunoglobulin 300 mcg at 28 weeks gestation and within 72 hours of delivering an Rh-positive infant. Vital signs demonstrate blood pressure 132/86 mm Hg, heart rate 76/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Administering intramuscular anti-d immunoglobulin 300 mcg at 28 weeks gestation and within 72 hours of delivering an rh-positive infant",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intramuscular anti-D immunoglobulin 300 mcg at 28 weeks gestation and within 72 hours of delivering an Rh-positive infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intramuscular anti-D immunoglobulin 300 mcg at 28 weeks gestation and within 72 hours of delivering an Rh-positive infant represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg. In the clinical management of HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Obstetrics Rhesus Isoimmunization Rh-Negative Unsensitized Mother Prophylactic Anti-D Immunoglobulin 300 mcg."
+    ],
+    "references": [
+      {
+        "label": "DHA Rh Prophylaxis Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30639",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Ora",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 69-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole. Clinical examination and investigative review confirm prescribing oral letrozole 2.5 mg daily from menstrual cycle days 3 to 7 for superior ovulation and live birth rates compared to clomiphene. Vital signs demonstrate blood pressure 133/87 mm Hg, heart rate 77/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral letrozole 2.5 mg daily from menstrual cycle days 3 to 7 for superior ovulation and live birth rates compared to clomiphene",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral letrozole 2.5 mg daily from menstrual cycle days 3 to 7 for superior ovulation and live birth rates compared to clomiphene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral letrozole 2.5 mg daily from menstrual cycle days 3 to 7 for superior ovulation and live birth rates compared to clomiphene represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole. In the clinical management of HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Polycystic Ovary Syndrome Infertility Anovulation First-Line Oral Aromatase Inhibitor Letrozole."
+    ],
+    "references": [
+      {
+        "label": "Emirates Obstetrics and Gynecology Society PCOS Consensus",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30640",
+    "exam": "HAAD / DHA",
+    "subject": "Medicine",
+    "system": "General Principles",
+    "topic": "HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear an",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 24-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing. Clinical examination and investigative review confirm recommending cervical cytology every 3 years or Pap smear with HPV co-testing every 5 years for women aged 30 to 65. Vital signs demonstrate blood pressure 134/72 mm Hg, heart rate 78/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Recommending cervical cytology every 3 years or pap smear with hpv co-testing every 5 years for women aged 30 to 65",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, recommending cervical cytology every 3 years or Pap smear with HPV co-testing every 5 years for women aged 30 to 65 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, recommending cervical cytology every 3 years or Pap smear with HPV co-testing every 5 years for women aged 30 to 65 represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing. In the clinical management of HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Cervical Cancer Screening Routine Cervical Cytology Pap Smear and High-Risk HPV DNA Co-Testing."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Cervical Cancer Screening Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30641",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpat",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 44-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole. Clinical examination and investigative review confirm administering single IM ceftriaxone 500 mg plus oral doxycycline 100 mg twice daily and metronidazole 500 mg twice daily for 14 days. Vital signs demonstrate blood pressure 135/73 mm Hg, heart rate 79/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Administering single im ceftriaxone 500 mg plus oral doxycycline 100 mg twice daily and metronidazole 500 mg twice daily for 14 days",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering single IM ceftriaxone 500 mg plus oral doxycycline 100 mg twice daily and metronidazole 500 mg twice daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering single IM ceftriaxone 500 mg plus oral doxycycline 100 mg twice daily and metronidazole 500 mg twice daily for 14 days represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole. In the clinical management of HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Acute Pelvic Inflammatory Disease Chlamydia and Gonorrhea Outpatient Ceftriaxone Doxycycline Metronidazole."
+    ],
+    "references": [
+      {
+        "label": "DHA Sexually Transmitted Infections Protocols",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30642",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Con",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 64-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest. Clinical examination and investigative review confirm initiating continuous combined oral contraceptive pills or oral progestin dienogest 2 mg daily for effective hormonal ovarian suppression. Vital signs demonstrate blood pressure 136/74 mm Hg, heart rate 80/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Initiating continuous combined oral contraceptive pills or oral progestin dienogest 2 mg daily for effective hormonal ovarian suppression",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating continuous combined oral contraceptive pills or oral progestin dienogest 2 mg daily for effective hormonal ovarian suppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating continuous combined oral contraceptive pills or oral progestin dienogest 2 mg daily for effective hormonal ovarian suppression represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest. In the clinical management of HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Gynecology Endometriosis Chronic Pelvic Pain Dysmenorrhea Combined Oral Contraceptive or Progestin Dienogest."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Endometriosis Management Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30643",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotrac",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 19-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement. Clinical examination and investigative review confirm administering early endotracheal surfactant replacement therapy via InSurE technique followed by nasal continuous positive airway pressure. Vital signs demonstrate blood pressure 137/75 mm Hg, heart rate 81/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Administering early endotracheal surfactant replacement therapy via insure technique followed by nasal continuous positive airway pressure",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering early endotracheal surfactant replacement therapy via InSurE technique followed by nasal continuous positive airway pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering early endotracheal surfactant replacement therapy via InSurE technique followed by nasal continuous positive airway pressure represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement. In the clinical management of HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Respiratory Distress Syndrome Premature Infant Endotracheal Bovine Surfactant Replacement."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Neonatal Intensive Care Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30644",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Hematology",
+    "topic": "HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intens",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 39-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy. Clinical examination and investigative review confirm initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy. Vital signs demonstrate blood pressure 138/76 mm Hg, heart rate 82/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating intensive phototherapy based on age-in-hours total serum bilirubin nomogram to prevent acute bilirubin encephalopathy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy. In the clinical management of HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Hyperbilirubinemia Full-Term Infant Age 36 Hours Intensive Double-Surface Phototherapy."
+    ],
+    "references": [
+      {
+        "label": "DHA Neonatal Jaundice Management Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30645",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "General Principles",
+    "topic": "HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 59-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen. Clinical examination and investigative review confirm initiating intravenous ampicillin 100 mg/kg/day plus gentamicin 5 mg/kg once daily immediately after blood culture collection. Vital signs demonstrate blood pressure 139/77 mm Hg, heart rate 83/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Initiating intravenous ampicillin 100 mg/kg/day plus gentamicin 5 mg/kg once daily immediately after blood culture collection",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating intravenous ampicillin 100 mg/kg/day plus gentamicin 5 mg/kg once daily immediately after blood culture collection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating intravenous ampicillin 100 mg/kg/day plus gentamicin 5 mg/kg once daily immediately after blood culture collection represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen. In the clinical management of HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Neonatal Sepsis Early-Onset Group B Streptococcus IV Ampicillin plus IV Gentamicin Empirical Regimen."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Neonatal Sepsis Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30646",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Endocrine",
+    "topic": "HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick El",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 79-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine. Clinical examination and investigative review confirm initiating oral levothyroxine 10 to 15 mcg/kg/day within the first two weeks of life to prevent permanent intellectual disability. Vital signs demonstrate blood pressure 118/78 mm Hg, heart rate 84/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Initiating oral levothyroxine 10 to 15 mcg/kg/day within the first two weeks of life to prevent permanent intellectual disability",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral levothyroxine 10 to 15 mcg/kg/day within the first two weeks of life to prevent permanent intellectual disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, initiating oral levothyroxine 10 to 15 mcg/kg/day within the first two weeks of life to prevent permanent intellectual disability represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine. In the clinical management of HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Congenital Hypothyroidism Newborn Dried Blood Spot Heel Prick Elevated TSH Early Levothyroxine."
+    ],
+    "references": [
+      {
+        "label": "UAE National Newborn Screening Program Guidelines",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30647",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Respiratory",
+    "topic": "HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal H",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 34-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration. Clinical examination and investigative review confirm providing supportive humidified oxygen targeting SpO2 >= 92%, gentle nasal suctioning, and avoiding routine bronchodilators or steroids. Vital signs demonstrate blood pressure 119/79 mm Hg, heart rate 85/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Providing supportive humidified oxygen targeting spo2 >= 92%, gentle nasal suctioning, and avoiding routine bronchodilators or steroids",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, providing supportive humidified oxygen targeting SpO2 >= 92%, gentle nasal suctioning, and avoiding routine bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, providing supportive humidified oxygen targeting SpO2 >= 92%, gentle nasal suctioning, and avoiding routine bronchodilators or steroids represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration. In the clinical management of HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Bronchiolitis Infant Respiratory Syncytial Virus Minimal Handling Humidified Oxygen Hydration."
+    ],
+    "references": [
+      {
+        "label": "DHA Pediatric Respiratory Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30648",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 54-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily. Clinical examination and investigative review confirm administering oral rehydration salts 75 mL/kg over 4 hours plus daily oral elemental zinc 20 mg for 14 days to reduce duration and recurrence. Vital signs demonstrate blood pressure 120/80 mm Hg, heart rate 86/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Administering oral rehydration salts 75 ml/kg over 4 hours plus daily oral elemental zinc 20 mg for 14 days to reduce duration and recurrence",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering oral rehydration salts 75 mL/kg over 4 hours plus daily oral elemental zinc 20 mg for 14 days to reduce duration and recurrence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily.",
+        "correct": true
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering oral rehydration salts 75 mL/kg over 4 hours plus daily oral elemental zinc 20 mg for 14 days to reduce duration and recurrence represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily. In the clinical management of HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Gastroenteritis Child Some Dehydration Low-Osmolarity WHO ORS and Oral Zinc 20 mg Daily."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Pediatric Diarrheal Disease Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30649",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Cef",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 74-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone. Clinical examination and investigative review confirm administering intravenous ceftriaxone 100 mg/kg/day plus vancomycin 60 mg/kg/day with adjunctive dexamethasone prior to initial antibiotics. Vital signs demonstrate blood pressure 121/81 mm Hg, heart rate 87/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Administering intravenous ceftriaxone 100 mg/kg/day plus vancomycin 60 mg/kg/day with adjunctive dexamethasone prior to initial antibiotics",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous ceftriaxone 100 mg/kg/day plus vancomycin 60 mg/kg/day with adjunctive dexamethasone prior to initial antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone.",
+        "correct": true
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, administering intravenous ceftriaxone 100 mg/kg/day plus vancomycin 60 mg/kg/day with adjunctive dexamethasone prior to initial antibiotics represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone. In the clinical management of HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Acute Bacterial Meningitis Child Streptococcus Pneumoniae IV Ceftriaxone Vancomycin Dexamethasone."
+    ],
+    "references": [
+      {
+        "label": "DHA Pediatric Infectious Diseases Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30650",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Nervous System",
+    "topic": "HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassu",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 29-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis. Clinical examination and investigative review confirm reassuring parents regarding benign course, advising fever control for comfort, and avoiding continuous daily antiepileptic prophylaxis. Vital signs demonstrate blood pressure 122/82 mm Hg, heart rate 88/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Reassuring parents regarding benign course, advising fever control for comfort, and avoiding continuous daily antiepileptic prophylaxis",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reassuring parents regarding benign course, advising fever control for comfort, and avoiding continuous daily antiepileptic prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis.",
+        "correct": true
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reassuring parents regarding benign course, advising fever control for comfort, and avoiding continuous daily antiepileptic prophylaxis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis. In the clinical management of HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Simple Febrile Seizure Generalized Clonic Child 18 Months Reassurance No Anticonvulsant Prophylaxis."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Pediatric Neurology Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30651",
+    "exam": "HAAD / DHA",
+    "subject": "Pharmacology",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 49-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy. Clinical examination and investigative review confirm prescribing oral cholecalciferol 2000 to 5000 IU daily for 12 weeks followed by daily maintenance 400 to 600 IU with adequate calcium. Vital signs demonstrate blood pressure 123/83 mm Hg, heart rate 89/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Prescribing oral cholecalciferol 2000 to 5000 iu daily for 12 weeks followed by daily maintenance 400 to 600 iu with adequate calcium",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral cholecalciferol 2000 to 5000 IU daily for 12 weeks followed by daily maintenance 400 to 600 IU with adequate calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, prescribing oral cholecalciferol 2000 to 5000 IU daily for 12 weeks followed by daily maintenance 400 to 600 IU with adequate calcium represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy. In the clinical management of HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Nutritional Vitamin D Deficiency Rickets Craniotabes Epiphyseal Fraying Oral Cholecalciferol Therapy."
+    ],
+    "references": [
+      {
+        "label": "DHA Pediatric Endocrinology Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30652",
+    "exam": "HAAD / DHA",
+    "subject": "Pediatrics",
+    "system": "Cardiovascular",
+    "topic": "HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm K",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 69-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine. Clinical examination and investigative review confirm placing infant in knee-chest position to increase systemic vascular resistance, administering 100% oxygen, and subcutaneous morphine. Vital signs demonstrate blood pressure 124/84 mm Hg, heart rate 90/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "Placing infant in knee-chest position to increase systemic vascular resistance, administering 100% oxygen, and subcutaneous morphine",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, placing infant in knee-chest position to increase systemic vascular resistance, administering 100% oxygen, and subcutaneous morphine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, placing infant in knee-chest position to increase systemic vascular resistance, administering 100% oxygen, and subcutaneous morphine represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine. In the clinical management of HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Pediatrics Tetralogy of Fallot Hypercyanotic Tet Spell Infundibular Spasm Knee-Chest Position 100% Oxygen Morphine."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Pediatric Cardiology Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30653",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness L",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 24-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy. Clinical examination and investigative review confirm performing diagnostic confirmation and early laparoscopic appendectomy with perioperative broad-spectrum intravenous antibiotic coverage. Vital signs demonstrate blood pressure 125/85 mm Hg, heart rate 91/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Performing diagnostic confirmation and early laparoscopic appendectomy with perioperative broad-spectrum intravenous antibiotic coverage",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing diagnostic confirmation and early laparoscopic appendectomy with perioperative broad-spectrum intravenous antibiotic coverage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy.",
+        "correct": true
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing diagnostic confirmation and early laparoscopic appendectomy with perioperative broad-spectrum intravenous antibiotic coverage represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy. In the clinical management of HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Acute Appendicitis Alvarado Score Right Lower Quadrant Tenderness Laparoscopic Appendectomy."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Emergency Surgery Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30654",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric D",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 44-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation. Clinical examination and investigative review confirm inserting wide-bore nasogastric tube for decompression, providing IV crystalloid resuscitation, and operating for signs of strangulation. Vital signs demonstrate blood pressure 126/86 mm Hg, heart rate 92/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Inserting wide-bore nasogastric tube for decompression, providing iv crystalloid resuscitation, and operating for signs of strangulation",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, inserting wide-bore nasogastric tube for decompression, providing IV crystalloid resuscitation, and operating for signs of strangulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation.",
+        "correct": true
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, inserting wide-bore nasogastric tube for decompression, providing IV crystalloid resuscitation, and operating for signs of strangulation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation. In the clinical management of HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Acute Small Bowel Obstruction Postoperative Adhesions Nasogastric Decompression and Fluid Resuscitation."
+    ],
+    "references": [
+      {
+        "label": "DHA Acute Care Surgery Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30655",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent H",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 64-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection. Clinical examination and investigative review confirm performing urgent surgical groin exploration, assessing bowel viability, resecting non-viable intestine, and performing primary tissue repair. Vital signs demonstrate blood pressure 127/87 mm Hg, heart rate 93/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Performing urgent surgical groin exploration, assessing bowel viability, resecting non-viable intestine, and performing primary tissue repair",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing urgent surgical groin exploration, assessing bowel viability, resecting non-viable intestine, and performing primary tissue repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection.",
+        "correct": true
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing urgent surgical groin exploration, assessing bowel viability, resecting non-viable intestine, and performing primary tissue repair represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection. In the clinical management of HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Strangulated Inguinal Hernia Irreducible Tender Swelling Emergent Hernia Exploration Bowel Inspection."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Hernia Surgery Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30656",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "General Principles",
+    "topic": "HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine P",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 19-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1. Clinical examination and investigative review confirm securing patent airway with in-line cervical spine control, managing breathing and circulation, and activating 1:1:1 balanced massive transfusion. Vital signs demonstrate blood pressure 128/72 mm Hg, heart rate 94/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Securing patent airway with in-line cervical spine control, managing breathing and circulation, and activating 1:1:1 balanced massive transfusion",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, securing patent airway with in-line cervical spine control, managing breathing and circulation, and activating 1:1:1 balanced massive transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, securing patent airway with in-line cervical spine control, managing breathing and circulation, and activating 1:1:1 balanced massive transfusion represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1. In the clinical management of HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Polytrauma ATLS Primary Survey Airway with In-Line Cervical Spine Protection Balanced Transfusion 1:1:1."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Trauma System Regulations",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30657",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV El",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 39-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty. Clinical examination and investigative review confirm performing cemented bipolar hemiarthroplasty to allow immediate postoperative weight-bearing and prevent non-union/avascular necrosis. Vital signs demonstrate blood pressure 129/73 mm Hg, heart rate 95/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Performing cemented bipolar hemiarthroplasty to allow immediate postoperative weight-bearing and prevent non-union/avascular necrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing cemented bipolar hemiarthroplasty to allow immediate postoperative weight-bearing and prevent non-union/avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty.",
+        "correct": true
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing cemented bipolar hemiarthroplasty to allow immediate postoperative weight-bearing and prevent non-union/avascular necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty. In the clinical management of HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Displaced Intracapsular Femoral Neck Fracture Garden Type IV Elderly Cemented Hemiarthroplasty."
+    ],
+    "references": [
+      {
+        "label": "DHA Orthopedic Surgery Clinical Practice Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30658",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 59-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy. Clinical examination and investigative review confirm performing emergent dual-incision four-compartment fasciotomy of the lower leg to relieve intracompartmental pressure and prevent muscle necrosis. Vital signs demonstrate blood pressure 130/74 mm Hg, heart rate 96/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Performing emergent dual-incision four-compartment fasciotomy of the lower leg to relieve intracompartmental pressure and prevent muscle necrosis",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing emergent dual-incision four-compartment fasciotomy of the lower leg to relieve intracompartmental pressure and prevent muscle necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy.",
+        "correct": true
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing emergent dual-incision four-compartment fasciotomy of the lower leg to relieve intracompartmental pressure and prevent muscle necrosis represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy. In the clinical management of HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Acute Compartment Syndrome Tibial Shaft Fracture Severe Pain on Passive Stretch Emergent Fasciotomy."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Orthopedic Trauma Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30659",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urge",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 79-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement. Clinical examination and investigative review confirm arranging emergent operative arthroscopic joint debridement and copious saline lavage combined with empiric intravenous antistaphylococcal therapy. Vital signs demonstrate blood pressure 131/75 mm Hg, heart rate 97/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      },
+      {
+        "text": "Arranging emergent operative arthroscopic joint debridement and copious saline lavage combined with empiric intravenous antistaphylococcal therapy",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, arranging emergent operative arthroscopic joint debridement and copious saline lavage combined with empiric intravenous antistaphylococcal therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement.",
+        "correct": true
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, arranging emergent operative arthroscopic joint debridement and copious saline lavage combined with empiric intravenous antistaphylococcal therapy represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement. In the clinical management of HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Acute Septic Arthritis Native Knee Joint Pyogenic Aspirate Urgent Arthroscopic Joint Debridement."
+    ],
+    "references": [
+      {
+        "label": "DHA Joint Infection Management Guidelines",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30660",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 34-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction. Clinical examination and investigative review confirm performing gentle closed reduction under procedural analgesia, verifying axillary nerve motor and sensory function, and sling immobilization. Vital signs demonstrate blood pressure 132/76 mm Hg, heart rate 70/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Performing gentle closed reduction under procedural analgesia, verifying axillary nerve motor and sensory function, and sling immobilization",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing gentle closed reduction under procedural analgesia, verifying axillary nerve motor and sensory function, and sling immobilization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction.",
+        "correct": true
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Urgent transesophageal echocardiography prior to hemodynamic stabilization",
+        "explanation": "Invasive esophageal instrumentation during profound shock compromises the airway and delays vital restorative resuscitative measures.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing gentle closed reduction under procedural analgesia, verifying axillary nerve motor and sensory function, and sling immobilization represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction. In the clinical management of HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Anterior Shoulder Dislocation Subcoracoid Prominence Cunningham or Stimson Closed Reduction."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Emergency Orthopedics Protocols",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30661",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Musculoskeletal",
+    "topic": "HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulati",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 54-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast. Clinical examination and investigative review confirm performing closed reduction under hematoma block, immobilizing in slight flexion and ulnar deviation with well-padded below-elbow cast. Vital signs demonstrate blood pressure 133/77 mm Hg, heart rate 71/min, respiratory rate 15/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      },
+      {
+        "text": "Daily low-dose aspirin monotherapy without guideline-directed agents",
+        "explanation": "Aspirin alone does not provide sufficient disease-modifying efficacy or targeted organ protection for this specific clinical condition.",
+        "correct": false
+      },
+      {
+        "text": "Performing closed reduction under hematoma block, immobilizing in slight flexion and ulnar deviation with well-padded below-elbow cast",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing closed reduction under hematoma block, immobilizing in slight flexion and ulnar deviation with well-padded below-elbow cast represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing closed reduction under hematoma block, immobilizing in slight flexion and ulnar deviation with well-padded below-elbow cast represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast. In the clinical management of HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Orthopedics Colles Fracture Extra-Articular Distal Radius Closed Manipulation and Below-Elbow Cast."
+    ],
+    "references": [
+      {
+        "label": "DHA Upper Extremity Fracture Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30662",
+    "exam": "HAAD / DHA",
+    "subject": "Surgery",
+    "system": "Gastrointestinal",
+    "topic": "HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Em",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 74-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch. Clinical examination and investigative review confirm performing urgent exploratory laparotomy, copious peritoneal irrigation, and primary closure reinforced with vascularized Graham omental patch. Vital signs demonstrate blood pressure 134/78 mm Hg, heart rate 72/min, respiratory rate 16/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Continuous unfractionated heparin infusion without checking baseline coagulation parameters",
+        "explanation": "Initiating full systemic therapeutic anticoagulation without baseline aPTT and platelet assessment risks unheralded hemorrhagic complications.",
+        "correct": false
+      },
+      {
+        "text": "Performing urgent exploratory laparotomy, copious peritoneal irrigation, and primary closure reinforced with vascularized graham omental patch",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing urgent exploratory laparotomy, copious peritoneal irrigation, and primary closure reinforced with vascularized Graham omental patch represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch.",
+        "correct": true
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, performing urgent exploratory laparotomy, copious peritoneal irrigation, and primary closure reinforced with vascularized Graham omental patch represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch. In the clinical management of HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Surgery Perforated Peptic Ulcer Pneumoperitoneum Generalized Peritonitis Emergency Laparotomy Graham Patch."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Gastrointestinal Surgery Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30663",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error ",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 29-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria. Clinical examination and investigative review confirm understanding gross medical error as ignorance of established medical principles, unindicated intervention, or severe negligence under UAE law. Vital signs demonstrate blood pressure 135/79 mm Hg, heart rate 73/min, respiratory rate 17/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Empiric anti-tubercular therapy based solely on tuberculin skin test positivity",
+        "explanation": "Latent immunological reactivity without microbiological confirmation does not justify multi-agent hepatotoxic anti-tubercular therapy.",
+        "correct": false
+      },
+      {
+        "text": "Understanding gross medical error as ignorance of established medical principles, unindicated intervention, or severe negligence under uae law",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, understanding gross medical error as ignorance of established medical principles, unindicated intervention, or severe negligence under UAE law represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria.",
+        "correct": true
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, understanding gross medical error as ignorance of established medical principles, unindicated intervention, or severe negligence under UAE law represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria. In the clinical management of HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics UAE Federal Medical Liability Law No. 4 of 2016 Gross Medical Error Definition and Legal Criteria."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Decree Law No. 4 of 2016 on Medical Liability",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30664",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Asses",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 49-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence. Clinical examination and investigative review confirm submitting disputed clinical cases to the Higher Committee for Medical Liability for definitive peer-reviewed adjudication of malpractice. Vital signs demonstrate blood pressure 136/80 mm Hg, heart rate 74/min, respiratory rate 18/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intravenous sodium bicarbonate bolus in mild compensated ketoacidosis",
+        "explanation": "Alkalinization in mild acidemia paradoxically causes paradoxical CSF acidosis, hypokalemia, and delayed ketone clearance.",
+        "correct": false
+      },
+      {
+        "text": "Submitting disputed clinical cases to the higher committee for medical liability for definitive peer-reviewed adjudication of malpractice",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, submitting disputed clinical cases to the Higher Committee for Medical Liability for definitive peer-reviewed adjudication of malpractice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence.",
+        "correct": true
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, submitting disputed clinical cases to the Higher Committee for Medical Liability for definitive peer-reviewed adjudication of malpractice represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence. In the clinical management of HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Higher Medical Liability Committee Referral Independent Expert Assessment of Clinical Negligence."
+    ],
+    "references": [
+      {
+        "label": "UAE Ministry of Health and Prevention Medical Liability Framework",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30665",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Li",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 69-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE. Clinical examination and investigative review confirm maintaining continuous valid medical malpractice insurance coverage as a statutory condition for healthcare practitioner license renewal. Vital signs demonstrate blood pressure 137/81 mm Hg, heart rate 75/min, respiratory rate 19/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Maintaining continuous valid medical malpractice insurance coverage as a statutory condition for healthcare practitioner license renewal",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, maintaining continuous valid medical malpractice insurance coverage as a statutory condition for healthcare practitioner license renewal represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE.",
+        "correct": true
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      },
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Empiric broad-spectrum antifungal therapy as sole medical intervention",
+        "explanation": "Antifungal therapy is inappropriate in the absence of documented microbiological or radiological evidence of invasive fungal disease.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, maintaining continuous valid medical malpractice insurance coverage as a statutory condition for healthcare practitioner license renewal represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE. In the clinical management of HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Mandatory Medical Malpractice Insurance All Practicing Clinicians Licensure Prerequisite in UAE."
+    ],
+    "references": [
+      {
+        "label": "Department of Health Abu Dhabi Healthcare Professionals Licensing Standards",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30666",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and Eng",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 24-year-old man attends the family health continuity clinic for specialized medical evaluation with clinical findings indicative of HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension. Clinical examination and investigative review confirm ensuring informed consent documentation is provided in the patient's preferred language (Arabic or English) with certified medical interpreter if required. Vital signs demonstrate blood pressure 138/82 mm Hg, heart rate 76/min, respiratory rate 14/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      },
+      {
+        "text": "Intravenous loop diuretic bolus in a hypovolemic or hypotensive patient",
+        "explanation": "Administering potent loop diuretics during hypoperfusion exacerbates circulatory collapse and accelerates ischemic tubular injury.",
+        "correct": false
+      },
+      {
+        "text": "Ensuring informed consent documentation is provided in the patient's preferred language (arabic or english) with certified medical interpreter if required",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, ensuring informed consent documentation is provided in the patient's preferred language (Arabic or English) with certified medical interpreter if required represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, ensuring informed consent documentation is provided in the patient's preferred language (Arabic or English) with certified medical interpreter if required represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension. In the clinical management of HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics DOH Abu Dhabi Patient Bill of Rights Informed Consent Arabic and English Comprehension."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Patient Charter and Rights",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30667",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recogniti",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 44-year-old man attends the outpatient consultative clinic of a DHA tertiary hospital in Dubai with clinical findings indicative of HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice. Clinical examination and investigative review confirm respecting autonomous refusal of care by a competent adult patient after explaining risks, exploring concerns, and completing DAMA documentation. Vital signs demonstrate blood pressure 139/83 mm Hg, heart rate 77/min, respiratory rate 15/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "High-flow oxygen therapy via non-rebreather mask in acute hypercapnic respiratory failure",
+        "explanation": "Uncontrolled high FiO2 in hypercapnic chronic lung disease abolishes hypoxic respiratory drive, precipitating carbon dioxide narcosis.",
+        "correct": false
+      },
+      {
+        "text": "Respecting autonomous refusal of care by a competent adult patient after explaining risks, exploring concerns, and completing dama documentation",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, respecting autonomous refusal of care by a competent adult patient after explaining risks, exploring concerns, and completing DAMA documentation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice.",
+        "correct": true
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, respecting autonomous refusal of care by a competent adult patient after explaining risks, exploring concerns, and completing DAMA documentation represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice. In the clinical management of HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Competent Adult Patient Right to Refuse Treatment Autonomy Recognition Signed Discharge Against Advice."
+    ],
+    "references": [
+      {
+        "label": "DHA Patient Autonomy and Rights Standards",
+        "url": "https://www.dha.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30668",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 64-year-old man is evaluated in the emergency care department of a SEHA hospital in Abu Dhabi with clinical findings indicative of HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification. Clinical examination and investigative review confirm reporting communicable diseases including tuberculosis, measles, and viral hepatitis within mandated electronic reporting timeframes. Vital signs demonstrate blood pressure 118/84 mm Hg, heart rate 78/min, respiratory rate 16/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Empiric aminoglycoside monotherapy for atypical community-acquired respiratory infection",
+        "explanation": "Aminoglycosides lack reliable tissue penetration and intracellular activity against atypical respiratory organisms such as Mycoplasma.",
+        "correct": false
+      },
+      {
+        "text": "Reporting communicable diseases including tuberculosis, measles, and viral hepatitis within mandated electronic reporting timeframes",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reporting communicable diseases including tuberculosis, measles, and viral hepatitis within mandated electronic reporting timeframes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification.",
+        "correct": true
+      },
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reporting communicable diseases including tuberculosis, measles, and viral hepatitis within mandated electronic reporting timeframes represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification. In the clinical management of HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Mandatory Statutory Notification Communicable Diseases DOH Abu Dhabi Public Health Notification."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Communicable Diseases Surveillance Guidelines",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30669",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 19-year-old man presents to the primary healthcare center ambulatory care suite in Dubai with clinical findings indicative of HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry. Clinical examination and investigative review confirm registering on the National Programme for Organ Donation and Transplantation (Hayat) and applying strict brain death certification protocols. Vital signs demonstrate blood pressure 119/85 mm Hg, heart rate 79/min, respiratory rate 17/min, and oxygen saturation 97%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Reassurance and discharge with routine outpatient review in six months",
+        "explanation": "Delaying intervention in an acutely decompensated or high-risk condition risks rapid irreversible clinical deterioration and preventable complications.",
+        "correct": false
+      },
+      {
+        "text": "Registering on the national programme for organ donation and transplantation (hayat) and applying strict brain death certification protocols",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, registering on the National Programme for Organ Donation and Transplantation (Hayat) and applying strict brain death certification protocols represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry.",
+        "correct": true
+      },
+      {
+        "text": "Diagnostic lumbar puncture prior to excluding intracranial mass effect with neuroimaging",
+        "explanation": "Performing dural puncture in the presence of focal space-occupying lesions risks fatal transtentorial or tonsillar herniation.",
+        "correct": false
+      },
+      {
+        "text": "Immediate exploratory surgical intervention without prior hemodynamic stabilization",
+        "explanation": "Emergency surgery without preliminary physiological optimization and volume resuscitation significantly increases perioperative mortality.",
+        "correct": false
+      },
+      {
+        "text": "High-dose oral corticosteroid monotherapy without source control",
+        "explanation": "Systemic corticosteroids without addressing the underlying infectious or structural etiology fail to alter disease progression.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, registering on the National Programme for Organ Donation and Transplantation (Hayat) and applying strict brain death certification protocols represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry. In the clinical management of HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Organ Donation and Transplantation UAE Federal Decree Law No. 5 of 2016 Hayat Registry."
+    ],
+    "references": [
+      {
+        "label": "UAE National Programme for Organ Donation (Hayat)",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30670",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulatio",
+    "type": "SINGLE",
+    "difficulty": 4,
+    "stem": "A 39-year-old man is admitted to the inpatient acute care service of a UAE academic medical center with clinical findings indicative of HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures. Clinical examination and investigative review confirm requiring documented consensus and written signatures of three independent consultant physicians for valid DNR in terminal, irreversible illness. Vital signs demonstrate blood pressure 120/86 mm Hg, heart rate 80/min, respiratory rate 18/min, and oxygen saturation 98%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Requiring documented consensus and written signatures of three independent consultant physicians for valid dnr in terminal, irreversible illness",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, requiring documented consensus and written signatures of three independent consultant physicians for valid DNR in terminal, irreversible illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures.",
+        "correct": true
+      },
+      {
+        "text": "Oral broad-spectrum fluoroquinolone monotherapy without microbiological confirmation",
+        "explanation": "Empiric fluoroquinolones risk severe adverse effects including tendonopathy and select for multidrug-resistant pathogens when unindicated.",
+        "correct": false
+      },
+      {
+        "text": "Routine abdominal computed tomography with intravenous contrast",
+        "explanation": "Immediate cross-sectional contrast imaging without baseline renal function assessment or targeted hemodynamic evaluation is inappropriate.",
+        "correct": false
+      },
+      {
+        "text": "Aggressive reduction of chronic severe hypertension to normal within 1 hour",
+        "explanation": "Precipitous blood pressure normalization in chronic hypertension disrupts cerebral autoregulation, precipitating watershed cerebral infarction.",
+        "correct": false
+      },
+      {
+        "text": "Immediate operative exploration without cross-sectional CT angiographic staging",
+        "explanation": "Operating without vascular mapping in non-emergent presentations leads to unanticipated hemorrhage and incomplete surgical reconstruction.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, requiring documented consensus and written signatures of three independent consultant physicians for valid DNR in terminal, irreversible illness represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures. In the clinical management of HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics End-of-Life Decision Making Do Not Resuscitate (DNR) Order Regulations Three Consultant Signatures."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Law on Medical Liability Resuscitation Standards",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30671",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Repor",
+    "type": "SINGLE",
+    "difficulty": 5,
+    "stem": "A 59-year-old man undergoes specialist outpatient evaluation at a licensed UAE tertiary facility with clinical findings indicative of HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit. Clinical examination and investigative review confirm reporting suspected physical, emotional, or sexual abuse of a minor immediately to the designated Child Protection Unit under Wadeema Law. Vital signs demonstrate blood pressure 121/87 mm Hg, heart rate 81/min, respiratory rate 19/min, and oxygen saturation 99%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Empiric vancomycin monotherapy without Gram-negative and anaerobic coverage",
+        "explanation": "Restricted glycopeptide monotherapy fails to treat polymicrobial, Gram-negative, or intra-abdominal infectious processes.",
+        "correct": false
+      },
+      {
+        "text": "Endoscopic mucosal resection without preceding cross-sectional imaging",
+        "explanation": "Endoscopic resection of deep lesions without locoregional staging risks transmural gastrointestinal perforation and tumor seeding.",
+        "correct": false
+      },
+      {
+        "text": "Immediate peritoneal dialysis catheter insertion during acute shock",
+        "explanation": "Invasive abdominal catheter placement during hemodynamic instability carries severe risks of bowel laceration and peritonitis.",
+        "correct": false
+      },
+      {
+        "text": "Oral bisphosphonate administration during active hypocalcemia",
+        "explanation": "Potent osteoclast inhibition in hypocalcemic states triggers life-threatening cardiac arrhythmias, tetany, and laryngeal spasm.",
+        "correct": false
+      },
+      {
+        "text": "Reporting suspected physical, emotional, or sexual abuse of a minor immediately to the designated child protection unit under wadeema law",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reporting suspected physical, emotional, or sexual abuse of a minor immediately to the designated Child Protection Unit under Wadeema Law represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit.",
+        "correct": true
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, reporting suspected physical, emotional, or sexual abuse of a minor immediately to the designated Child Protection Unit under Wadeema Law represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit. In the clinical management of HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Child Safeguarding Suspected Child Abuse and Neglect Mandatory Reporting Child Protection Unit."
+    ],
+    "references": [
+      {
+        "label": "UAE Federal Law No. 3 of 2016 on Child Rights (Wadeema Law)",
+        "url": "https://www.mohap.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  },
+  {
+    "code": "intl-30672",
+    "exam": "HAAD / DHA",
+    "subject": "Ethics",
+    "system": "General Principles",
+    "topic": "HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patie",
+    "type": "SINGLE",
+    "difficulty": 3,
+    "stem": "A 79-year-old man is examined at the urgent care and occupational health clinic in Abu Dhabi with clinical findings indicative of HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing. Clinical examination and investigative review confirm escalating suspected clinical impairment or substance abuse by a healthcare colleague immediately to leadership and DOH health regulation sector. Vital signs demonstrate blood pressure 122/72 mm Hg, heart rate 82/min, respiratory rate 14/min, and oxygen saturation 96%. Which of the following is the most appropriate next step in clinical management according to UAE Department of Health (DOH) / Dubai Health Authority (DHA) examination guidelines?",
+    "options": [
+      {
+        "text": "Intensive intravenous insulin bolus therapy without baseline potassium evaluation",
+        "explanation": "Rapid insulin infusion shifts extracellular potassium intracellularly, precipitating lethal hypokalemia-induced cardiac arrest.",
+        "correct": false
+      },
+      {
+        "text": "Immediate blood transfusion for asymptomatic normovolemic moderate anemia",
+        "explanation": "Transfusion in stable chronic anemia without active ischemia exposes the patient to unnecessary alloimmunization and volume overload.",
+        "correct": false
+      },
+      {
+        "text": "Oral methotrexate therapy without concurrent folic acid supplementation",
+        "explanation": "Methotrexate without folate rescue markedly elevates the frequency of severe mucositis, gastrointestinal toxicity, and bone marrow failure.",
+        "correct": false
+      },
+      {
+        "text": "Escalating suspected clinical impairment or substance abuse by a healthcare colleague immediately to leadership and doh health regulation sector",
+        "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, escalating suspected clinical impairment or substance abuse by a healthcare colleague immediately to leadership and DOH health regulation sector represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing.",
+        "correct": true
+      },
+      {
+        "text": "Routine prophylactic anticonvulsant therapy in uncomplicated head injury",
+        "explanation": "Prophylactic anti-seizure drugs do not improve long-term neurological recovery in low-risk minor head injuries without cortical breach.",
+        "correct": false
+      }
+    ],
+    "explanation": "In accordance with accredited clinical practice guidelines for HAAD / DHA, escalating suspected clinical impairment or substance abuse by a healthcare colleague immediately to leadership and DOH health regulation sector represents the established gold standard management strategy, diagnostic confirmation, or initial clinical decision for HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing. In the clinical management of HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing, thorough understanding of the underlying pathophysiology, evidence-based staging, and guideline-directed interventions is critical to patient safety and quality care. Comprehensive evaluation prevents avoidable medical errors and optimizes patient outcomes.",
+    "objective": "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing.",
+    "keyPoints": [
+      "Understand the core clinical decision-making, diagnostic evaluation, and guideline-directed management of HAAD Ethics Professional Conduct Impaired Practitioner Fitness to Practice Patient Safety Reporting to DOH Licensing."
+    ],
+    "references": [
+      {
+        "label": "DOH Abu Dhabi Policy on Professional Fitness and Conduct",
+        "url": "https://www.doh.gov.ae/"
+      }
+    ],
+    "source": "OpenPrep original; AI-authored; medically unreviewed",
+    "license": "CC-BY-SA-4.0",
+    "attribution": "OpenPrep contributors; AI-assisted original educational content (2026). No clinician review claimed."
+  }
+];

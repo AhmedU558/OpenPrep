@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-22T20:14:46.773Z",
-  "totalQuestions": 30172,
+  "validatedAt": "2026-11-23T13:34:12.126Z",
+  "totalQuestions": 30672,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1861,6 +1861,36 @@
       "count": 100,
       "digest": "2bf47f47105bb47b787d9c3593cd7bbc2e58ab8a8c89c55a19fd28a4468001c5",
       "errors": []
+    },
+    {
+      "name": "batch-intl-311",
+      "count": 100,
+      "digest": "7e18670bae0b910a02ea58a07e005331430836c9b5a08061a9945b4e5a379ba2",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-312",
+      "count": 100,
+      "digest": "be32e34b5f6b9b7361dc1f64b7e02103adba0d7577c19cdbfa18a78b50f8f849",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-313",
+      "count": 100,
+      "digest": "1f404509c5c34caaf08b522e95bbbbc92a9d04cf00ebeedb52269e25b80ff463",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-314",
+      "count": 100,
+      "digest": "269054c8fc99b9f945f99bdd80cd526a3086eed3731023078dc1a3d334a11eb5",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-315",
+      "count": 100,
+      "digest": "516391803fb1435b44bf03817f878edd40382aec5284b5424b11a488ad1f9cbb",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1882,21 +1912,21 @@
   "subjectsCovered": {
     "Anatomy": 137,
     "Biochemistry": 210,
-    "Biostatistics": 196,
-    "Ethics": 956,
-    "Genetics": 404,
+    "Biostatistics": 199,
+    "Ethics": 980,
+    "Genetics": 406,
     "Geriatrics": 181,
     "Immunology": 271,
-    "Medicine": 10926,
-    "Microbiology": 664,
+    "Medicine": 11007,
+    "Microbiology": 667,
     "Neurology": 829,
-    "Obstetrics": 2171,
-    "Pathology": 1146,
-    "Pediatrics": 2598,
-    "Pharmacology": 3130,
+    "Obstetrics": 2173,
+    "Pathology": 1156,
+    "Pediatrics": 2629,
+    "Pharmacology": 3348,
     "Physiology": 448,
     "Psychiatry": 848,
-    "Surgery": 5057
+    "Surgery": 5183
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",

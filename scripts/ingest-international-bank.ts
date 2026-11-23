@@ -311,6 +311,11 @@ import { questions as bIntl307 } from '../content/bank/international/batch-intl-
 import { questions as bIntl308 } from '../content/bank/international/batch-intl-308';
 import { questions as bIntl309 } from '../content/bank/international/batch-intl-309';
 import { questions as bIntl310 } from '../content/bank/international/batch-intl-310';
+import { questions as bIntl311 } from '../content/bank/international/batch-intl-311';
+import { questions as bIntl312 } from '../content/bank/international/batch-intl-312';
+import { questions as bIntl313 } from '../content/bank/international/batch-intl-313';
+import { questions as bIntl314 } from '../content/bank/international/batch-intl-314';
+import { questions as bIntl315 } from '../content/bank/international/batch-intl-315';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -379,6 +384,7 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl296, ...bIntl297, ...bIntl298, ...bIntl299, ...bIntl300,
   ...bIntl301, ...bIntl302, ...bIntl303, ...bIntl304, ...bIntl305,
   ...bIntl306, ...bIntl307, ...bIntl308, ...bIntl309, ...bIntl310,
+  ...bIntl311, ...bIntl312, ...bIntl313, ...bIntl314, ...bIntl315,
 ];
 
 interface IngestOptions {
