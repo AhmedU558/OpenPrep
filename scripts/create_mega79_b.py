@@ -1,0 +1,416 @@
+"""
+Topic Generator for Mega-Batch 79 - Part B
+Tracks:
+- Batch 383: 100 AMC (Australia) topics (2,800 -> 2,900)
+- Batch 384: 100 MCCQE (Canada) topics (2,800 -> 2,900)
+- Batch 385: 100 NEET PG (India) topics (2,800 -> 2,900)
+"""
+
+import sys
+import os
+
+TAXONOMY_SUBJECTS = {
+    "Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology",
+    "Microbiology", "Immunology", "Genetics", "Ethics", "Biostatistics",
+    "Medicine", "Surgery", "Pediatrics", "Obstetrics", "Neurology",
+    "Psychiatry", "Geriatrics"
+}
+
+TAXONOMY_SYSTEMS = {
+    "Cardiovascular", "Dermatology", "Renal", "Pregnancy", "Respiratory",
+    "General Principles", "Gastrointestinal", "Hematology", "Musculoskeletal",
+    "Endocrine", "Nervous System", "Behavioral Health"
+}
+
+AMC_TOPICS = [
+    # 1. Cardiovascular - 10
+    ("Suspected Acute Coronary Syndrome in Australian Rural ED", "Medicine", "Cardiovascular", "serial high-sensitivity troponin assays, 12-lead ECG, and aspirin 300 mg administration", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Atrial Fibrillation with Moderate Stroke Risk in Primary Care", "Medicine", "Cardiovascular", "direct oral anticoagulant apixaban or rivaroxaban and rate control with metoprolol", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Heart Failure with Reduced Ejection Fraction in General Practice", "Medicine", "Cardiovascular", "quadruple therapy ARNI sacubitril-valsartan, bisoprolol, empagliflozin, and spironolactone", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Hypertension Uncontrolled on ACE Inhibitor Monotherapy", "Medicine", "Cardiovascular", "adding dihydropyridine calcium channel blocker amlodipine or thiazide-like diuretic indapamide", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Infective Endocarditis Duke Criteria Positive on Native Valve", "Microbiology", "Cardiovascular", "targeted intravenous high-dose bactericidal antibiotics based on blood cultures", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Abdominal Aortic Aneurysm Screening Finding 5.8cm Diameter", "Surgery", "Cardiovascular", "urgent referral to vascular surgery for endovascular aneurysm repair EVAR assessment", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Pericarditis Post-Viral in Young Australian Athlete", "Medicine", "Cardiovascular", "oral ibuprofen 600 mg three times daily combined with colchicine 500 mcg daily", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Deep Vein Thrombosis Post-Orthopedic Surgery in Melbourne Hospital", "Medicine", "Cardiovascular", "oral rivaroxaban or apixaban therapeutic anticoagulation for three months", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Supraventricular Tachycardia Acute Presentation in Emergency", "Medicine", "Cardiovascular", "modified Valsalva maneuver followed by rapid intravenous adenosine bolus", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Syncope from Severe Degenerative Calcaneal Aortic Stenosis", "Medicine", "Cardiovascular", "transthoracic echocardiogram confirmation and cardiothoracic consultation for TAVI", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 2. Respiratory - 10
+    ("Acute Severe Asthma Flare in Australian Emergency Department", "Medicine", "Respiratory", "frequent inhaled salbutamol and ipratropium via spacer/nebulizer and oral prednisolone", "National Asthma Council Australia Guidelines", "https://www.nationalasthma.org.au"),
+    ("COPD Acute Exacerbation with Purulent Sputum and Increased Dyspnea", "Medicine", "Respiratory", "inhaled bronchodilators, oral prednisolone 30 to 50 mg daily for five days, and oral amoxicillin", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Community-Acquired Pneumonia Non-Severe in Rural Victoria", "Microbiology", "Respiratory", "oral amoxicillin combined with oral doxycycline or clarithromycin for atypical coverage", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Suspected Pulmonary Embolism with Pleuritic Chest Pain", "Medicine", "Respiratory", "pre-test probability assessment with Wells score followed by CT pulmonary angiogram", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Spontaneous Pneumothorax Small Under Two Centimeters in Stable Patient", "Medicine", "Respiratory", "conservative observation, supplemental oxygen if needed, and repeat chest x-ray", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Chronic Cough Over Eight Weeks in Non-Smoker Adult", "Medicine", "Respiratory", "systematic evaluation for upper airway cough syndrome, cough-variant asthma, and GERD", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Obstructive Sleep Apnea with High Epworth Sleepiness Score", "Medicine", "Respiratory", "diagnostic sleep study polysomnography and continuous positive airway pressure trial", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Bronchiectasis with Hemophilus Influenzae Sputum Culture", "Microbiology", "Respiratory", "airway clearance techniques, chest physiotherapy, and targeted oral amoxicillin-clavulanate", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Pleural Effusion Unilateral Exudative in Sixty-Year-Old", "Medicine", "Respiratory", "diagnostic ultrasound-guided thoracentesis with pleural fluid analysis and cytology", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Silicosis in Australian Engineered Stone Benchtop Worker", "Pathology", "Respiratory", "occupational cessation, high-resolution CT chest, and referral for respiratory surveillance", "Royal Australasian College of Physicians Guidelines", "https://www.racp.edu.au"),
+
+    # 3. Gastrointestinal - 10
+    ("Acute Peptic Ulcer Hemorrhage with Hematemesis", "Medicine", "Gastrointestinal", "intravenous fluid resuscitation, IV high-dose omeprazole, and gastroscopy within 24 hours", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Crohn Disease Active Colonic Inflammation in Sydney Patient", "Medicine", "Gastrointestinal", "oral systemic corticosteroids for induction followed by biologic anti-TNF therapy", "Gastroenterological Society of Australia (GESA) Guidelines", "https://www.gesa.org.au"),
+    ("Ulcerative Colitis Mild to Moderate Flare in Distal Colon", "Medicine", "Gastrointestinal", "rectal mesalazine suppository or enema combined with oral 5-ASA therapy", "GESA Guidelines", "https://www.gesa.org.au"),
+    ("Acute Calculous Cholecystitis in Australian Base Hospital", "Surgery", "Gastrointestinal", "intravenous fluids, IV ampicillin/gentamicin or ceftriaxone, and early laparoscopic cholecystectomy", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain", "Medicine", "Gastrointestinal", "clear liquid diet, oral analgesia, and expectant observation without routine antibiotics", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Celiac Disease Adult Presentation with Bloating and Microcytic Anemia", "Immunology", "Gastrointestinal", "anti-tTG IgA serology followed by gastroscopy with duodenal biopsies", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Gastroesophageal Reflux Disease GERD Symptomatic in Primary Care", "Medicine", "Gastrointestinal", "trial of once-daily oral proton pump inhibitor esomeprazole or pantoprazole for 4 to 8 weeks", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Cirrhosis Decompensated with Moderate Ascites in Brisbane", "Medicine", "Gastrointestinal", "dietary sodium restriction and oral spironolactone with furosemide titration", "GESA Guidelines", "https://www.gesa.org.au"),
+    ("National Bowel Cancer Screening Program Positive FOBT in 55-Year-Old", "Medicine", "Gastrointestinal", "referral for diagnostic colonoscopy within 120 days of positive fecal occult blood test", "Cancer Council Australia Guidelines", "https://www.cancer.org.au"),
+    ("Acute Pancreatitis Mild from Alcohol in Regional Hospital", "Medicine", "Gastrointestinal", "aggressive intravenous fluid hydration with Ringer lactate, multimodal analgesia, and early oral feeding", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 4. Renal & Genitourinary - 10
+    ("Acute Kidney Injury KDIGO Stage 1 in Dehydrated Elderly Patient", "Medicine", "Renal", "stopping nephrotoxic medications ACEi/NSAIDs, volume rehydration, and monitoring", "Kidney Health Australia Guidelines", "https://kidney.org.au"),
+    ("Chronic Kidney Disease CKD Stage 3b with Albuminuria", "Medicine", "Renal", "SGLT2 inhibitor dapagliflozin, ACE inhibitor ramipril, and cardiovascular risk reduction", "Kidney Health Australia Guidelines", "https://kidney.org.au"),
+    ("Acute Uncomplicated Cystitis in Non-Pregnant Female in General Practice", "Microbiology", "Renal", "oral trimethoprim 300 mg daily for three days or oral cephalexin 500 mg twice daily", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Pyelonephritis Mild to Moderate Managed in Outpatient Setting", "Microbiology", "Renal", "oral ciprofloxacin or oral amoxicillin-clavulanate after urine culture collection", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Benign Prostatic Hyperplasia with Voiding Lower Urinary Tract Symptoms", "Medicine", "Renal", "oral alpha-1 blocker prazosin or tamsulosin and review after six weeks", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Renal Colic Acute Secondary to Ureteral Calculus", "Medicine", "Renal", "intravenous or oral NSAID indomethacin/ketorolac and non-contrast low-dose CT KUB", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Painless Macroscopic Hematuria in Fifty-Year-Old Smoker", "Surgery", "Renal", "urgent urology referral for flexible cystoscopy and CT intravenous pyelogram CT IVP", "Urological Society of Australia and New Zealand Guidelines", "https://www.usanz.org.au"),
+    ("Testicular Swelling Painful with Absent Cremasteric Reflex", "Surgery", "Renal", "urgent emergency scrotal surgical exploration within 6 hours without awaiting ultrasound", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Minimal Change Disease in Young Adult Presenting with Edema", "Medicine", "Renal", "oral high-dose prednisolone therapy and referral to nephrology for renal biopsy", "Kidney Health Australia Guidelines", "https://kidney.org.au"),
+    ("Hyperkalemia Moderate with Potassium 6.2 in CKD Patient", "Medicine", "Renal", "dietary potassium restriction, loop diuretic, and oral sodium zirconium cyclosilicate", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 5. Endocrine - 10
+    ("Type 2 Diabetes Mellitus Newly Diagnosed in Australian General Practice", "Medicine", "Endocrine", "lifestyle intervention, metformin titration, and cardiovascular risk assessment", "RACGP Diabetes Management Guidelines", "https://www.racgp.org.au"),
+    ("Type 2 Diabetes with Established Cardiovascular Disease", "Medicine", "Endocrine", "adding SGLT2 inhibitor empagliflozin or GLP-1 receptor agonist liraglutide to metformin", "RACGP Diabetes Management Guidelines", "https://www.racgp.org.au"),
+    ("Diabetic Ketoacidosis Presentation in Regional Emergency Department", "Medicine", "Endocrine", "intravenous 0.9% normal saline rehydration, fixed-rate insulin infusion, and potassium replacement", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Subclinical Hypothyroidism with TSH 8.5 and Positive TPO Antibodies", "Medicine", "Endocrine", "repeat thyroid function tests in 6 to 8 weeks and trial of oral levothyroxine if symptomatic", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Graves Disease Hyperthyroidism First Episode in Perth Patient", "Medicine", "Endocrine", "oral carbimazole titration therapy combined with propranolol for tremor and palpitations", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Primary Hyperparathyroidism Incidental Hypercalcemia Finding", "Medicine", "Endocrine", "measurement of 24-hour urinary calcium and referral for neck sestamibi/ultrasound localization", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Addison Disease Autoimmune Primary Adrenal Insufficiency", "Medicine", "Endocrine", "oral hydrocortisone in divided daily doses combined with oral fludrocortisone", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Cushing Syndrome Screening in Patient with Proximal Muscle Weakness", "Medicine", "Endocrine", "overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Osteoporosis Postmenopausal with T-Score Minus 2.8 in General Practice", "Medicine", "Endocrine", "oral weekly alendronate or annual IV zoledronic acid alongside calcium and vitamin D", "RACGP Osteoporosis Guidelines", "https://www.racgp.org.au"),
+    ("Severe Obesity BMI 38 with Sleep Apnea and Fatty Liver", "Medicine", "Endocrine", "comprehensive lifestyle intervention, medical pharmacotherapy, or referral for bariatric surgery", "RACGP Clinical Guidelines", "https://www.racgp.org.au"),
+
+    # 6. Hematology - 10
+    ("Microcytic Anemia from Menorrhagia in Australian General Practice", "Medicine", "Hematology", "oral ferrous sulfate on alternate days or intravenous ferric carboxymaltose if intolerant", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Vitamin B12 Deficiency Neuropathy in Vegan Patient", "Medicine", "Hematology", "intramuscular hydroxocobalamin injections 1 mg alternate days for two weeks then quarterly", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Immune Thrombocytopenia ITP Platelets 18,000 without Severe Bleeding", "Medicine", "Hematology", "oral prednisolone 1 mg/kg daily or observation if platelets over 30,000 and asymptomatic", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Suspected Acute Leukemia with Pancytopenia and Blast Cells on Film", "Pathology", "Hematology", "immediate urgent referral to tertiary hematology unit for bone marrow aspirate and biopsy", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Hereditary Hemochromatosis Homozygous C282Y High Ferritin", "Genetics", "Hematology", "therapeutic venesection phlebotomy to achieve target serum ferritin 50 to 100 mcg/L", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Warfarin Over-Anticoagulation INR 6.5 without Active Bleeding", "Pharmacology", "Hematology", "withholding warfarin, monitoring INR, and oral low-dose vitamin K 1 to 2 mg if high risk", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Neutropenic Sepsis Post-Chemotherapy in Melbourne Cancer Centre", "Microbiology", "Hematology", "immediate intravenous piperacillin-tazobactam within 30 minutes of presentation", "eviQ Australian Cancer Guidelines", "https://www.eviq.org.au"),
+    ("Multiple Myeloma Presentation with Bone Pain and Elevated Protein Gap", "Pathology", "Hematology", "serum and urine protein electrophoresis, free light chain assay, and bone imaging", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Sickle Cell Trait Presentation in Migrant Athlete with Hematuria", "Genetics", "Hematology", "hydration, exclusion of papillary necrosis and renal medullary carcinoma, and reassurance", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Disseminated Intravascular Coagulation in Obstetric Sepsis", "Pathology", "Hematology", "urgent delivery/source control, intravenous broad-spectrum antimicrobials, and cryoprecipitate", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 7. Neurology - 10
+    ("Acute Ischemic Stroke Presentation within Three Hours in Adelaide", "Medicine", "Nervous System", "urgent non-contrast CT brain, tele-stroke review, and intravenous tenecteplase thrombolysis", "Stroke Foundation Australia Guidelines", "https://informme.org.au"),
+    ("Transient Ischemic Attack Low Risk ABCD2 Score 2", "Medicine", "Nervous System", "initiating aspirin 100 mg daily, statin, and outpatient stroke clinic review within 7 days", "Stroke Foundation Australia Guidelines", "https://informme.org.au"),
+    ("First Generalized Tonic-Clonic Seizure in 22-Year-Old", "Medicine", "Nervous System", "neurology specialist referral, EEG, MRI brain, and strict driving restriction for six months", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Parkinson Disease Initial Presentation with Resting Tremor in Sydney", "Medicine", "Nervous System", "neurology specialist consultation for levodopa-carbidopa or dopamine agonist trial", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Multiple Sclerosis Presentation with Unilateral Optic Neuritis", "Medicine", "Nervous System", "ophthalmology review, MRI brain/orbits with gadolinium, and high-dose methylprednisolone", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Bacterial Meningitis Suspected in Regional General Practice", "Microbiology", "Nervous System", "immediate intramuscular or intravenous ceftriaxone or benzylpenicillin and emergency transfer", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Temporal Arteritis Giant Cell Arteritis with Jaw Claudication in Melbourne", "Medicine", "Nervous System", "immediate high-dose oral prednisolone 50 to 60 mg daily and urgent temporal artery biopsy", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Guillain-Barre Syndrome Symmetrical Progressive Lower Limb Weakness", "Medicine", "Nervous System", "urgent admission, close monitoring of forced vital capacity, and intravenous immunoglobulin", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Migraine Headache Acute Moderate Attack in General Practice", "Medicine", "Nervous System", "oral triptan sumatriptan or zolmitriptan combined with soluble aspirin or naproxen", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Bell Palsy Idiopathic Acute Peripheral Facial Paralysis", "Medicine", "Nervous System", "oral prednisolone 50 mg daily for ten days, eye lubrication drops, and night eye taping", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 8. Musculoskeletal & Dermatology - 10
+    ("Rheumatoid Arthritis Early Symmetrical Polyarthritis in Brisbane", "Medicine", "Musculoskeletal", "early disease-modifying antirheumatic drug methotrexate combined with low-dose steroid bridge", "Australian Rheumatology Association Guidelines", "https://rheumatology.org.au"),
+    ("Septic Arthritis Suspected in Hot Effused Knee Joint", "Microbiology", "Musculoskeletal", "urgent joint aspiration for synovial microscopy/culture prior to starting IV flucloxacillin", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Gouty Arthritis First MTP Joint Podagra in Sydney Patient", "Medicine", "Musculoskeletal", "oral NSAID or low-dose colchicine 500 mcg twice daily and deferring urate-lowering changes", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Osteoarthritis of the Hip with Moderate Functional Restriction", "Medicine", "Musculoskeletal", "structured exercise therapy, weight management, and oral paracetamol or topical NSAIDs", "RACGP Clinical Guidelines", "https://www.racgp.org.au"),
+    ("Polymyalgia Rheumatica in 72-Year-Old Woman with Morning Stiffness", "Medicine", "Musculoskeletal", "oral prednisolone 15 mg daily with rapid clinical response expected within 72 hours", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Melanoma Suspected on Sun-Exposed Skin in Queensland Resident", "Surgery", "Dermatology", "complete diagnostic excisional biopsy with 2mm clinical margins oriented along skin tension lines", "Cancer Council Australia Guidelines", "https://www.cancer.org.au"),
+    ("Basal Cell Carcinoma Nodular on Forehead in Australian Farmer", "Surgery", "Dermatology", "surgical excision with four-millimeter clear surgical margins and histological examination", "Cancer Council Australia Guidelines", "https://www.cancer.org.au"),
+    ("Atopic Dermatitis Moderate in Child in Melbourne Clinic", "Medicine", "Dermatology", "liberal emollient application twice daily and topical methylprednisolone/hydrocortisone ointment", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Psoriasis Plaque Disease Mild to Moderate on Elbows and Knees", "Medicine", "Dermatology", "topical calcipotriol combined with betamethasone dipropionate ointment applied once daily", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Scabies Infestation in Family Living in Remote Indigenous Community", "Microbiology", "Dermatology", "topical 5% permethrin cream or oral ivermectin with simultaneous treatment of all contacts", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+
+    # 9. Pediatrics & Obstetrics - 10
+    ("Antenatal Care Screening for Gestational Diabetes Mellitus", "Obstetrics", "Pregnancy", "75g oral glucose tolerance test OGTT performed between 24 and 28 weeks gestation", "RANZCOG Clinical Guidelines", "https://ranzcog.edu.au"),
+    ("Preeclampsia with Severe Features at 34 Weeks Gestation", "Obstetrics", "Pregnancy", "intravenous magnesium sulfate seizure prophylaxis, blood pressure control with labetalol, and delivery", "RANZCOG Clinical Guidelines", "https://ranzcog.edu.au"),
+    ("Ectopic Pregnancy Unruptured Stable Low hCG in Melbourne ED", "Obstetrics", "Pregnancy", "transvaginal ultrasound confirmation and single-dose intramuscular methotrexate protocol", "RANZCOG Clinical Guidelines", "https://ranzcog.edu.au"),
+    ("Postpartum Hemorrhage Secondary to Uterine Atony in Delivery Suite", "Obstetrics", "Pregnancy", "fundal uterine massage, intravenous oxytocin infusion, and intramuscular ergometrine", "RANZCOG Clinical Guidelines", "https://ranzcog.edu.au"),
+    ("Neonatal Jaundice within First 24 Hours of Life in Sydney Hospital", "Pediatrics", "Gastrointestinal", "urgent serum total and conjugated bilirubin measurement, Coombs test, and intensive phototherapy", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Viral Bronchiolitis in Three-Month-Old Infant with Tachypnea", "Pediatrics", "Respiratory", "supportive care, small frequent feeds, minimal handling, and supplemental oxygen if SpO2 < 92%", "Royal Children's Hospital Melbourne Guidelines", "https://www.rch.org.au"),
+    ("Croup Mild to Moderate in Two-Year-Old in Royal Children's Hospital", "Pediatrics", "Respiratory", "single dose of oral dexamethasone 0.15 mg/kg or oral prednisolone 1 mg/kg", "Royal Children's Hospital Melbourne Guidelines", "https://www.rch.org.au"),
+    ("Febrile Convulsion Simple First Occurrence in 18-Month-Old Infant", "Pediatrics", "Nervous System", "reassurance, thorough examination to identify fever focus, and parent education on seizure safety", "Royal Children's Hospital Melbourne Guidelines", "https://www.rch.org.au"),
+    ("Childhood Immunization National Schedule Twelve-Month Vaccines", "Pediatrics", "General Principles", "MMR vaccine, meningococcal ACWY vaccine, and pneumococcal conjugate booster", "Australian National Immunisation Program", "https://www.health.gov.au"),
+    ("Intussusception Suspected in 8-Month-Old Infant with Intermittent Colic", "Surgery", "Gastrointestinal", "ultrasound confirmation of target sign and pneumatic air-enema reduction by radiologist", "Royal Children's Hospital Melbourne Guidelines", "https://www.rch.org.au"),
+
+    # 10. Psychiatry & Ethics - 10
+    ("Major Depressive Episode Moderate in Australian General Practice", "Psychiatry", "Behavioral Health", "Mental Health Treatment Plan referral for Medicare-subsidized CBT and oral SSRI sertraline", "RACGP Mental Health Guidelines", "https://www.racgp.org.au"),
+    ("Generalized Anxiety Disorder Moderate Impairing Daily Function", "Psychiatry", "Behavioral Health", "psychoeducation, cognitive behavioral therapy CBT, and oral SSRI escitalopram", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Acute Mania Bipolar I Disorder Involuntary Assessment in Victoria", "Psychiatry", "Behavioral Health", "assessment under Mental Health and Wellbeing Act and oral atypical antipsychotic with mood stabilizer", "Australian Therapeutic Guidelines (eTG)", "https://www.tg.org.au"),
+    ("Anorexia Nervosa Severe in Adolescent with Medical Instability", "Psychiatry", "Behavioral Health", "urgent medical admission to pediatric ward for monitored slow nutritional rehabilitation", "Royal Children's Hospital Melbourne Guidelines", "https://www.rch.org.au"),
+    ("Indigenous Health Cultural Safety and Gap Closing in Primary Care", "Ethics", "General Principles", "culturally safe holistic communication, Aboriginal Health Worker partnership, and PBS Co-payment", "RACGP Aboriginal and Torres Strait Islander Health Guidelines", "https://www.racgp.org.au"),
+    ("Mandatory Reporting of Suspected Child Abuse in New South Wales", "Ethics", "General Principles", "mandatory notification to Child Protection Helpline and ensuring immediate physical safety", "Australian Medical Association Guidelines", "https://www.ama.com.au"),
+    ("Medical Confidentiality Request by Employer Regarding Diagnosis", "Ethics", "General Principles", "maintaining confidentiality and refusing disclosure without explicit signed patient consent", "Australian Privacy Principles (APP)", "https://www.oaic.gov.au"),
+    ("Advance Care Directive and End-of-Life Palliative Goals of Care", "Ethics", "General Principles", "honoring valid advance health directive and aligning medical goals with patient values", "Australian Commission on Safety and Quality in Health Care", "https://www.safetyandquality.gov.au"),
+    ("Informed Consent for Elective Surgical Procedure in Competent Adult", "Ethics", "General Principles", "explaining material risks, benefits, alternatives, and obtaining voluntary written consent", "Australian Medical Council Guidelines", "https://www.amc.org.au"),
+    ("Fitness to Drive Assessment Commercial Driver with Obstructive Sleep Apnea", "Ethics", "General Principles", "conditional license pending compliance with CPAP and specialist respiratory review", "Austroads Assessing Fitness to Drive Guidelines", "https://austroads.com.au")
+]
+
+MCCQE_TOPICS = [
+    # 1. Cardiovascular - 10
+    ("Acute ST-Elevation Myocardial Infarction in Canadian Emergency Room", "Medicine", "Cardiovascular", "immediate primary percutaneous coronary intervention PCI within 90 to 120 minutes of first contact", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Non-ST Elevation ACS High Risk in Montreal General Hospital", "Medicine", "Cardiovascular", "early invasive angiography, dual antiplatelet therapy, and therapeutic fondaparinux/enoxaparin", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Atrial Fibrillation Stroke Prevention CHADS-65 Canadian Algorithm", "Medicine", "Cardiovascular", "direct oral anticoagulant DOAC therapy if age 65 or older or CHADS2 risk factor present", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Heart Failure with Reduced Ejection Fraction Canadian Guidelines", "Medicine", "Cardiovascular", "quadruple GDMT ARNI sacubitril-valsartan, beta-blocker, SGLT2 inhibitor, and MRA", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Hypertension Management Canadian Consensus Hypertension Canada", "Medicine", "Cardiovascular", "first-line therapy with ACE inhibitor, ARB, dihydropyridine CCB, or thiazide/thiazide-like diuretic", "Hypertension Canada Guidelines", "https://hypertension.ca"),
+    ("Infective Endocarditis Native Mitral Valve in Canadian Hospital", "Microbiology", "Cardiovascular", "drawing three sets of blood cultures prior to empiric bactericidal IV antimicrobial therapy", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Severe Peripheral Arterial Disease with Claudication at 50 Meters", "Medicine", "Cardiovascular", "supervised exercise program, high-intensity statin, aspirin, and smoking cessation counseling", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Deep Vein Thrombosis Provoked Following Knee Arthroscopy", "Medicine", "Cardiovascular", "oral DOAC apixaban or rivaroxaban therapeutic anticoagulation for three months", "Thrombosis Canada Guidelines", "https://thrombosiscanada.ca"),
+    ("Cardiac Syncope from Intermittent Third-Degree AV Block", "Medicine", "Cardiovascular", "urgent hospital admission, continuous telemetry monitoring, and dual-chamber pacemaker placement", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+    ("Acute Pericarditis Initial Episode in Canadian Family Practice", "Medicine", "Cardiovascular", "high-dose oral ibuprofen 600 to 800 mg three times daily combined with colchicine", "Canadian Cardiovascular Society Guidelines", "https://ccs.ca"),
+
+    # 2. Respiratory - 10
+    ("Asthma Acute Exacerbation Canadian Thoracic Society Guidelines", "Medicine", "Respiratory", "frequent inhaled short-acting beta-2 agonist with ipratropium and systemic oral prednisone", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("COPD Acute Exacerbation with Increased Dyspnea and Purulence", "Medicine", "Respiratory", "inhaled bronchodilators, oral prednisone 50 mg daily for five days, and targeted antibiotics", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Community-Acquired Pneumonia Outpatient Management in Adult", "Microbiology", "Respiratory", "oral amoxicillin high-dose or combination amoxicillin-clavulanate plus azithromycin/doxycycline", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Pulmonary Embolism Suspected Canadian Emergency Department", "Medicine", "Respiratory", "pre-test probability assessment with Wells score followed by CT pulmonary angiogram CTPA", "Thrombosis Canada Guidelines", "https://thrombosiscanada.ca"),
+    ("Spontaneous Primary Pneumothorax Moderate Size in Young Smoker", "Surgery", "Respiratory", "simple needle aspiration or small-bore pigtail catheter thoracostomy drainage", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Solitary Pulmonary Nodule Ten Millimeter Spiculated on Low-Dose CT", "Surgery", "Respiratory", "urgent multidisciplinary respirology-thoracic surgery referral for PET-CT and biopsy", "Canadian Association of Thoracic Surgeons Guidelines", "https://thoracicsurgery.ca"),
+    ("Pleural Effusion Unilateral Exudative in Toronto Hospital", "Medicine", "Respiratory", "diagnostic thoracentesis with pleural fluid LDH, protein, cell count, and cytology", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Obstructive Sleep Apnea with Severe Daytime Somnolence in Calgary", "Medicine", "Respiratory", "level 1 overnight laboratory polysomnography and auto-titrating CPAP therapy", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Idiopathic Pulmonary Fibrosis Presentation in 68-Year-Old", "Medicine", "Respiratory", "high-resolution CT HRCT confirming UIP pattern and initiation of antifibrotic nintedanib", "Canadian Thoracic Society Guidelines", "https://cts-sct.ca"),
+    ("Tuberculosis Pulmonary Active Cavitary Disease in Vancouver", "Microbiology", "Respiratory", "airborne isolation and standard four-drug regimen isoniazid, rifampin, pyrazinamide, ethambutol", "Canadian Tuberculosis Standards", "https://cts-sct.ca"),
+
+    # 3. Gastrointestinal - 10
+    ("Upper Gastrointestinal Bleeding from Bleeding Peptic Ulcer", "Medicine", "Gastrointestinal", "intravenous crystalloid resuscitation, IV proton pump inhibitor infusion, and gastroscopy", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Crohn Disease Active Moderate Ileocolonic Disease in Montreal", "Medicine", "Gastrointestinal", "oral budesonide induction followed by biologic anti-TNF or anti-IL-12/23 maintenance", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Ulcerative Colitis Proctitis Mild Flare in Canadian Primary Care", "Medicine", "Gastrointestinal", "topical 5-ASA mesalazine 1g suppository once daily at bedtime for four to six weeks", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Acute Appendicitis Confirmed by Low-Dose Abdominal CT in ED", "Surgery", "Gastrointestinal", "intravenous antibiotics and prompt laparoscopic appendectomy", "Canadian Association of General Surgeons Guidelines", "https://cags-accg.ca"),
+    ("Acute Cholecystitis Calculous in Halifax Teaching Hospital", "Surgery", "Gastrointestinal", "intravenous fluid resuscitation, broad-spectrum antibiotics, and early laparoscopic cholecystectomy", "Canadian Association of General Surgeons Guidelines", "https://cags-accg.ca"),
+    ("Acute Diverticulitis Uncomplicated Left Lower Quadrant Pain in Clinic", "Medicine", "Gastrointestinal", "clear liquid diet, oral analgesia, and expectant observation without routine antibiotics", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Celiac Disease Suspected in Adult with Recurrent Diarrhea and Anemia", "Immunology", "Gastrointestinal", "serum anti-tTG IgA while on normal gluten-containing diet followed by confirmatory biopsy", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Cirrhosis with Ascites and Peripheral Edema in Edmonton Clinic", "Medicine", "Gastrointestinal", "sodium-restricted diet 2g daily and combination oral spironolactone and furosemide", "Canadian Association for the Study of the Liver Guidelines", "https://liver.ca"),
+    ("Colorectal Cancer Screening in Average-Risk 52-Year-Old Canadian", "Medicine", "Gastrointestinal", "fecal immunochemical test FIT every two years starting at age 50", "Canadian Task Force on Preventive Health Care", "https://canadiantaskforce.ca"),
+    ("Clostridioides Difficile Infection Severe First Episode in Ottawa", "Microbiology", "Gastrointestinal", "oral fidaxomicin 200 mg twice daily for ten days or oral vancomycin 125 mg four times daily", "Association of Medical Microbiology and Infectious Disease Canada", "https://ammi.ca"),
+
+    # 4. Renal & Genitourinary - 10
+    ("Acute Kidney Injury Stage 2 from Pre-Renal Volume Depletion", "Medicine", "Renal", "stopping nephrotoxic drugs, aggressive isotonic fluid administration, and monitoring", "Canadian Society of Nephrology Guidelines", "https://csnscn.ca"),
+    ("Diabetic Nephropathy with Progressive Albuminuria in Canadian Patient", "Medicine", "Renal", "SGLT2 inhibitor empagliflozin, ACE inhibitor ramipril, and non-steroidal MRA finerenone", "Diabetes Canada Clinical Practice Guidelines", "https://www.diabetes.ca"),
+    ("Acute Cystitis Uncomplicated in Non-Pregnant Canadian Woman", "Microbiology", "Renal", "oral nitrofurantoin 100 mg twice daily for five days or fosfomycin 3g single dose", "Canadian Association of Emergency Physicians Guidelines", "https://caep.ca"),
+    ("Acute Pyelonephritis in Non-Pregnant Adult Female", "Microbiology", "Renal", "oral ciprofloxacin 500 mg twice daily for seven days after obtaining urine culture", "AMMI Canada Guidelines", "https://ammi.ca"),
+    ("Benign Prostatic Hyperplasia Moderate LUTS in Primary Care", "Medicine", "Renal", "oral alpha-1 adrenergic antagonist tamsulosin 0.4 mg daily and lifestyle advice", "Canadian Urological Association Guidelines", "https://www.cua.org"),
+    ("Ureteral Calculus Acute Renal Colic Five Millimeter Stone", "Medicine", "Renal", "oral NSAID ketorolac or naproxen, medical expulsive therapy tamsulosin, and outpatient follow-up", "Canadian Urological Association Guidelines", "https://www.cua.org"),
+    ("Gross Hematuria Asymptomatic in Sixty-Year-Old Canadian", "Surgery", "Renal", "urgent urology referral for flexible cystoscopy and multiphasic CT urography", "Canadian Urological Association Guidelines", "https://www.cua.org"),
+    ("Testicular Torsion in Seventeen-Year-Old Adolescent in ED", "Surgery", "Renal", "immediate emergency surgical scrotal exploration and bilateral orchiopexy", "Canadian Urological Association Guidelines", "https://www.cua.org"),
+    ("Minimal Change Disease in Young Canadian Adult with Nephrotic Edema", "Medicine", "Renal", "oral high-dose prednisone 1 mg/kg daily for 8 to 16 weeks and nephrology referral", "Canadian Society of Nephrology Guidelines", "https://csnscn.ca"),
+    ("Severe Hyperkalemia Potassium 6.7 with Peaked T Waves in ED", "Medicine", "Renal", "immediate intravenous calcium gluconate membrane stabilization followed by insulin-dextrose", "Canadian Association of Emergency Physicians Guidelines", "https://caep.ca"),
+
+    # 5. Endocrine - 10
+    ("Type 2 Diabetes Mellitus Management Diabetes Canada Guidelines", "Medicine", "Endocrine", "individualized lifestyle counseling, metformin initiation, and target HbA1c below 7.0%", "Diabetes Canada Clinical Practice Guidelines", "https://www.diabetes.ca"),
+    ("Type 2 Diabetes with Clinical Atherosclerotic Cardiovascular Disease", "Medicine", "Endocrine", "adding SGLT2 inhibitor or GLP-1 receptor agonist with proven cardiovascular benefit", "Diabetes Canada Clinical Practice Guidelines", "https://www.diabetes.ca"),
+    ("Diabetic Ketoacidosis Protocol Management in Canadian ICU", "Medicine", "Endocrine", "aggressive isotonic saline hydration, continuous intravenous insulin 0.1 units/kg/hr, and KCl", "Diabetes Canada Clinical Practice Guidelines", "https://www.diabetes.ca"),
+    ("Primary Hypothyroidism Initial Presentation with TSH 22", "Medicine", "Endocrine", "oral levothyroxine replacement therapy 1.6 mcg/kg daily titrated to normalize TSH", "Canadian Society of Endocrinology and Metabolism Guidelines", "https://endocrinology.ca"),
+    ("Graves Disease Hyperthyroidism First Presentation in Family Medicine", "Medicine", "Endocrine", "oral methimazole antithyroid therapy combined with propranolol symptom control", "Canadian Society of Endocrinology and Metabolism Guidelines", "https://endocrinology.ca"),
+    ("Primary Hyperparathyroidism with Hypercalcemia and Osteopenia", "Surgery", "Endocrine", "surgical referral for focused parathyroidectomy following sestamibi localization", "Canadian Society of Endocrinology and Metabolism Guidelines", "https://endocrinology.ca"),
+    ("Addison Disease Primary Adrenal Insufficiency Maintenance", "Medicine", "Endocrine", "oral hydrocortisone in divided daily doses combined with oral fludrocortisone", "Canadian Society of Endocrinology and Metabolism Guidelines", "https://endocrinology.ca"),
+    ("Cushing Syndrome Suspected Clinical Workup in Canadian Practice", "Medicine", "Endocrine", "overnight 1 mg dexamethasone suppression test or 24-hour urinary free cortisol excretion", "Canadian Society of Endocrinology and Metabolism Guidelines", "https://endocrinology.ca"),
+    ("Osteoporosis Management Osteoporosis Canada Guidelines", "Medicine", "Endocrine", "oral alendronate or risedronate antiresorptive therapy, calcium, and vitamin D3", "Osteoporosis Canada Clinical Guidelines", "https://osteoporosis.ca"),
+    ("Severe Obesity Canadian Adult Clinical Practice Guidelines", "Medicine", "Endocrine", "multicomponent lifestyle intervention, GLP-1 receptor agonist liraglutide/semaglutide, or bariatric surgery", "Obesity Canada Clinical Practice Guidelines", "https://obesitycanada.ca"),
+
+    # 6. Hematology - 10
+    ("Iron Deficiency Anemia in Canadian Male over Fifty Years", "Medicine", "Hematology", "diagnostic gastroscopy and colonoscopy to exclude occult gastrointestinal malignancy", "Canadian Association of Gastroenterology Guidelines", "https://www.cag-acg.org"),
+    ("Vitamin B12 Deficiency with Subacute Combined Degeneration", "Medicine", "Hematology", "intramuscular cyanocobalamin 1000 mcg daily for one week then weekly then monthly", "Canadian Medical Association Guidelines", "https://www.cma.ca"),
+    ("Immune Thrombocytopenia ITP in Adult with Platelets 14,000", "Medicine", "Hematology", "oral dexamethasone 40 mg daily for four days or oral prednisone 1 mg/kg daily", "Thrombosis Canada Guidelines", "https://thrombosiscanada.ca"),
+    ("Acute Myeloid Leukemia Suspected with Circulating Myeloblasts", "Medicine", "Hematology", "urgent tertiary hematology referral for bone marrow aspiration, cytogenetics, and flow cytometry", "Canadian Hematology Society Guidelines", "https://canadianhematologysociety.org"),
+    ("Hereditary Hemochromatosis Diagnosis and Management in Canada", "Genetics", "Hematology", "HFE genetic testing and therapeutic phlebotomy to maintain serum ferritin under 100 mcg/L", "Canadian Association for the Study of the Liver Guidelines", "https://liver.ca"),
+    ("Direct Oral Anticoagulant Reversal for Life-Threatening Bleed", "Pharmacology", "Hematology", "specific reversal agent idarucizumab for dabigatran or andexanet alfa/PCC for factor Xa inhibitors", "Thrombosis Canada Guidelines", "https://thrombosiscanada.ca"),
+    ("Neutropenic Fever in Canadian Cancer Patient Post-Chemotherapy", "Microbiology", "Hematology", "immediate intravenous piperacillin-tazobactam or cefepime within 60 minutes of arrival", "AMMI Canada Guidelines", "https://ammi.ca"),
+    ("Multiple Myeloma Presentation with CRAB Features in Ottawa", "Medicine", "Hematology", "serum protein electrophoresis, serum free light chains, skeletal survey, and hematology review", "Canadian Hematology Society Guidelines", "https://canadianhematologysociety.org"),
+    ("Sickle Cell Disease Vaso-Occlusive Pain Crisis in Toronto ED", "Medicine", "Hematology", "rapid parenteral opioid analgesia within 30 minutes, hydration, and incentive spirometry", "Canadian Hemoglobinopathy Association Guidelines", "https://canhaem.org"),
+    ("Heparin-Induced Thrombocytopenia HIT Type II Confirmation", "Pharmacology", "Hematology", "immediate discontinuation of all heparin, anti-PF4 testing, and argatroban anticoagulation", "Thrombosis Canada Guidelines", "https://thrombosiscanada.ca"),
+
+    # 7. Neurology - 10
+    ("Acute Ischemic Stroke Canadian Stroke Best Practice Recommendations", "Medicine", "Nervous System", "intravenous alteplase/tenecteplase thrombolysis within 4.5 hours and endovascular thrombectomy assessment", "Canadian Stroke Best Practices", "https://www.strokebestpractices.ca"),
+    ("Transient Ischemic Attack High Risk ABCD2 Score 6 in ED", "Medicine", "Nervous System", "immediate dual antiplatelet therapy aspirin plus clopidogrel and urgent carotid imaging", "Canadian Stroke Best Practices", "https://www.strokebestpractices.ca"),
+    ("First Unprovoked Seizure in Adult in Canadian Primary Care", "Medicine", "Nervous System", "neurology specialist referral, EEG, MRI brain, and advice on driving suspension per provincial law", "Canadian Neurological Sciences Federation Guidelines", "https://cnsf.org"),
+    ("Parkinson Disease Initial Therapy in Canadian Senior", "Medicine", "Nervous System", "levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy referral", "Canadian Guidelines on Parkinson Disease", "https://cnsf.org"),
+    ("Multiple Sclerosis Presentation with Optic Neuritis in Montreal", "Medicine", "Nervous System", "high-dose intravenous methylprednisolone 1000 mg daily for three days and MRI brain", "Canadian Neurological Sciences Federation Guidelines", "https://cnsf.org"),
+    ("Bacterial Meningitis Suspected in Canadian Emergency Room", "Microbiology", "Nervous System", "immediate intravenous ceftriaxone combined with vancomycin and dexamethasone", "AMMI Canada Guidelines", "https://ammi.ca"),
+    ("Giant Cell Arteritis Temporal Arteritis in 74-Year-Old Canadian", "Medicine", "Nervous System", "immediate high-dose oral prednisone 50 to 60 mg daily to prevent permanent visual loss", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Guillain-Barre Syndrome Symmetrical Ascending Weakness in ED", "Medicine", "Nervous System", "hospital admission, vital capacity tracking, and intravenous immunoglobulin IVIG course", "Canadian Neurological Sciences Federation Guidelines", "https://cnsf.org"),
+    ("Migraine Acute Attack Management in Canadian Family Practice", "Medicine", "Nervous System", "oral triptan almotriptan or eletriptan combined with naproxen sodium", "Canadian Headache Society Guidelines", "https://headachesociety.ca"),
+    ("Normal Pressure Hydrocephalus with Gait Ataxia and Urinary Incontinence", "Surgery", "Nervous System", "large-volume diagnostic lumbar puncture and neurosurgical evaluation for VP shunt", "Canadian Neurological Sciences Federation Guidelines", "https://cnsf.org"),
+
+    # 8. Musculoskeletal & Dermatology - 10
+    ("Rheumatoid Arthritis Early Diagnosis Canadian Rheumatology Association", "Medicine", "Musculoskeletal", "early disease-modifying antirheumatic drug methotrexate combined with short-course steroid bridge", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Septic Arthritis Native Knee Joint in Canadian Emergency Room", "Microbiology", "Musculoskeletal", "urgent arthrocentesis with synovial fluid analysis and targeted intravenous antibiotics", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Acute Gouty Arthritis First MTP Joint in Canadian Clinic", "Medicine", "Musculoskeletal", "oral NSAID naproxen or colchicine 1.2 mg followed by 0.6 mg one hour later", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Osteoarthritis of the Knee Conservative Management in Canada", "Medicine", "Musculoskeletal", "structured exercise, weight management, and oral acetaminophen or topical NSAIDs", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Polymyalgia Rheumatica Presentation with Shoulder Girdle Stiffness", "Medicine", "Musculoskeletal", "oral prednisone 15 to 20 mg daily with prompt dramatic clinical improvement", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+    ("Melanoma Suspected on Back of Canadian Patient", "Surgery", "Dermatology", "complete diagnostic excisional biopsy with 1 to 2 mm margins and histopathology", "Canadian Dermatology Association Guidelines", "https://dermatology.ca"),
+    ("Basal Cell Carcinoma Nodular on Cheek of Canadian Farmer", "Surgery", "Dermatology", "complete surgical excision with 4mm margins or Mohs micrographic surgery", "Canadian Dermatology Association Guidelines", "https://dermatology.ca"),
+    ("Atopic Dermatitis Moderate in Child in Canadian Pediatric Clinic", "Medicine", "Dermatology", "liberal daily ceramide-based emollients and topical low-to-mid potency corticosteroids", "Canadian Dermatology Association Guidelines", "https://dermatology.ca"),
+    ("Psoriasis Plaque Disease Mild to Moderate on Elbows and Scalp", "Medicine", "Dermatology", "topical combination of betamethasone dipropionate and calcipotriol applied once daily", "Canadian Dermatology Association Guidelines", "https://dermatology.ca"),
+    ("Ankylosing Spondylitis with Inflammatory Back Pain in Young Canadian", "Medicine", "Musculoskeletal", "continuous oral NSAID therapy, physical therapy, and anti-TNF biologic if inadequate response", "Canadian Rheumatology Association Guidelines", "https://rheum.ca"),
+
+    # 9. Pediatrics & Obstetrics - 10
+    ("Gestational Diabetes Screening SOGC Clinical Guidelines", "Obstetrics", "Pregnancy", "50g glucose challenge test GCT at 24 to 28 weeks followed by 75g OGTT if 7.8 to 11.0 mmol/L", "Society of Obstetricians and Gynaecologists of Canada (SOGC)", "https://sogc.org"),
+    ("Preeclampsia with Severe Features SOGC Guidelines", "Obstetrics", "Pregnancy", "intravenous magnesium sulfate seizure prophylaxis, labetalol, and delivery if >= 34 weeks", "SOGC Guidelines", "https://sogc.org"),
+    ("Ectopic Pregnancy Unruptured Hemodynamically Stable SOGC", "Obstetrics", "Pregnancy", "transvaginal ultrasound and single-dose intramuscular methotrexate protocol", "SOGC Guidelines", "https://sogc.org"),
+    ("Postpartum Hemorrhage Secondary to Uterine Atony in Canadian Hospital", "Obstetrics", "Pregnancy", "fundal uterine massage, intravenous oxytocin infusion, and intramuscular carboprost/ergonovine", "SOGC Guidelines", "https://sogc.org"),
+    ("Neonatal Jaundice within First 24 Hours Canadian Paediatric Society", "Pediatrics", "Gastrointestinal", "urgent total and direct bilirubin measurement, blood group Coombs test, and phototherapy", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+    ("Acute Viral Bronchiolitis in Four-Month-Old Canadian Paediatric Society", "Pediatrics", "Respiratory", "supportive care, gentle nasal suctioning, hydration, and avoiding routine bronchodilators/steroids", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+    ("Croup Mild to Moderate in Toddler in Canadian Emergency Department", "Pediatrics", "Respiratory", "single oral dose of dexamethasone 0.15 mg/kg or 0.6 mg/kg and discharge reassurance", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+    ("Febrile Seizure Simple in Two-Year-Old Canadian Paediatric Society", "Pediatrics", "Nervous System", "reassurance, thorough physical examination to identify focus, and education on seizure care", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+    ("Childhood Immunization Canadian Public Health Vaccination Schedule", "Pediatrics", "General Principles", "routine vaccination against rotavirus, DTaP-IPV-Hib, MMR, and varicella at recommended intervals", "Public Health Agency of Canada", "https://www.canada.ca"),
+    ("Intussusception Suspected in Seven-Month-Old Canadian Infant", "Surgery", "Gastrointestinal", "abdominal ultrasound demonstration of target sign followed by pneumatic air-contrast enema reduction", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+
+    # 10. Psychiatry & Ethics - 10
+    ("Major Depressive Episode CANMAT Guidelines in Canadian Family Practice", "Psychiatry", "Behavioral Health", "first-line oral selective serotonin reuptake inhibitor escitalopram/sertraline and CBT", "Canadian Network for Mood and Anxiety Treatments (CANMAT)", "https://canmat.org"),
+    ("Generalized Anxiety Disorder First-Line CANMAT Therapy", "Psychiatry", "Behavioral Health", "evidence-based cognitive behavioral therapy CBT and oral SSRI or SNRI duloxetine/venlafaxine", "CANMAT Guidelines", "https://canmat.org"),
+    ("Bipolar I Disorder Acute Manic Episode CANMAT Management", "Psychiatry", "Behavioral Health", "oral lithium or divalproex combined with atypical antipsychotic quetiapine or aripiprazole", "CANMAT Guidelines", "https://canmat.org"),
+    ("Anorexia Nervosa Severe in Canadian Adolescent in Specialized Unit", "Psychiatry", "Behavioral Health", "medical stabilization, structured nutritional refeeding, and family-based therapy FBT", "Canadian Paediatric Society Guidelines", "https://cps.ca"),
+    ("Medical Assistance in Dying MAID Eligibility Assessment in Canada", "Ethics", "General Principles", "verifying grievous and irremediable medical condition, voluntary request, and informed consent per federal law", "Canadian Medical Association MAID Guidelines", "https://www.cma.ca"),
+    ("Indigenous Cultural Safety and Truth and Reconciliation in Canadian Healthcare", "Ethics", "General Principles", "practicing culturally safe trauma-informed care and respecting Indigenous health autonomy", "Truth and Reconciliation Commission Calls to Action", "https://www.rcaanc-cirnac.gc.ca"),
+    ("Substitute Decision Maker and Hierarchy of Consent in Ontario", "Ethics", "General Principles", "obtaining consent from legally designated substitute decision maker in accordance with provincial hierarchy", "College of Physicians and Surgeons of Ontario Guidelines", "https://www.cpso.on.ca"),
+    ("Mandatory Child Protection Reporting to Children's Aid Society", "Ethics", "General Principles", "immediate statutory duty to report suspected child physical or sexual abuse to CAS", "Canadian Medical Protective Association (CMPA)", "https://www.cmpa-acpm.ca"),
+    ("Physician-Patient Confidentiality and Public Safety Exceptions", "Ethics", "General Principles", "breaching confidentiality only when necessary to prevent imminent serious bodily harm or death", "Canadian Medical Protective Association (CMPA)", "https://www.cmpa-acpm.ca"),
+    ("Reporting Medically Unfit Drivers to Provincial Ministry of Transportation", "Ethics", "General Principles", "statutory duty to report medical conditions impairing safe driving to provincial transportation authority", "Canadian Medical Association Driving Guidelines", "https://www.cma.ca")
+]
+
+NEET_PG_TOPICS = [
+    # 1. Cardiovascular - 10
+    ("Acute Anterior Wall STEMI in AIIMS New Delhi Emergency Room", "Medicine", "Cardiovascular", "immediate primary percutaneous coronary intervention PCI within 90 minutes of arrival", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+    ("Rheumatic Mitral Stenosis Critical with Atrial Fibrillation in India", "Medicine", "Cardiovascular", "percutaneous transvenous mitral commissurotomy PTMC and oral warfarin anticoagulation", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Aortic Regurgitation Severe with Left Ventricular Dilatation in Indian Patient", "Surgery", "Cardiovascular", "surgical aortic valve replacement before irreversible LV systolic dysfunction occurs", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Heart Failure with Reduced Ejection Fraction in KGMU Lucknow", "Medicine", "Cardiovascular", "guideline-directed medical therapy ARNI, beta-blocker, SGLT2 inhibitor, and spironolactone", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Hypertensive Urgency in Indian Primary Health Center", "Medicine", "Cardiovascular", "oral amlodipine or oral enalapril with gradual blood pressure reduction over 24 to 48 hours", "Indian Council of Medical Research (ICMR) Guidelines", "https://www.icmr.gov.in"),
+    ("Infective Endocarditis on Native Tricuspid Valve in Injection Drug User", "Microbiology", "Cardiovascular", "collecting three sets of blood cultures followed by intravenous vancomycin and gentamicin", "ICMR Antimicrobial Guidelines", "https://main.icmr.nic.in"),
+    ("Complete Heart Block Third Degree Following Inferior STEMI", "Medicine", "Cardiovascular", "intravenous atropine and urgent temporary transvenous pacing wire insertion", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Deep Vein Thrombosis Extensive Iliofemoral in PGIMER Chandigarh", "Medicine", "Cardiovascular", "therapeutic low-molecular-weight heparin bridged to oral direct oral anticoagulant DOAC", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Coarctation of Aorta in Young Indian Adult with Radiofemoral Delay", "Surgery", "Cardiovascular", "cardiac catheterization with transcatheter endovascular balloon angioplasty and stenting", "Cardiological Society of India Guidelines", "https://csi.org.in"),
+    ("Acute Pericardial Tamponade Following Penetrating Chest Trauma in JIPMER", "Surgery", "Cardiovascular", "immediate emergency subxiphoid pericardiocentesis and surgical pericardial window", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+
+    # 2. Respiratory - 10
+    ("Tuberculosis Pulmonary Drug-Sensitive New Case in India NTEP", "Microbiology", "Respiratory", "two months of four-drug HRZE followed by four months of three-drug HRE daily regimen", "National Tuberculosis Elimination Program (NTEP)", "https://tbcindia.gov.in"),
+    ("Multidrug-Resistant Tuberculosis MDR-TB Pulmonary Presentation", "Microbiology", "Respiratory", "all-oral bedaquiline-containing regimen for 18 to 20 months under NTEP PMDT guidelines", "National Tuberculosis Elimination Program (NTEP)", "https://tbcindia.gov.in"),
+    ("Acute Severe Bronchial Asthma Exacerbation in Emergency Ward", "Medicine", "Respiratory", "back-to-back nebulized levosalbutamol and ipratropium, systemic hydrocortisone, and oxygen", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("COPD Acute Exacerbation with Respiratory Failure in Indian Hospital", "Medicine", "Respiratory", "non-invasive positive pressure ventilation NIV, nebulized bronchodilators, and steroids", "Indian Chest Society Guidelines", "https://indianchestsociety.in"),
+    ("Community-Acquired Pneumonia Severe CURB-65 Score 3 in Indian ED", "Medicine", "Respiratory", "intravenous ceftriaxone combined with intravenous clarithromycin and admission", "ICMR Antimicrobial Guidelines", "https://main.icmr.nic.in"),
+    ("Tension Pneumothorax Secondary to Ruptured Subpleural Bleb", "Surgery", "Respiratory", "immediate emergency needle thoracostomy in second intercostal space followed by chest tube", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+    ("Pleural Effusion Tuberculous Exudative with High Adenosine Deaminase", "Microbiology", "Respiratory", "diagnostic thoracentesis confirming elevated ADA and standard anti-tubercular therapy", "National Tuberculosis Elimination Program (NTEP)", "https://tbcindia.gov.in"),
+    ("Bronchiectasis with Massive Hemoptysis in Indian Teaching Hospital", "Surgery", "Respiratory", "bronchial artery embolization BAE following rigid bronchoscopy localization", "Indian Chest Society Guidelines", "https://indianchestsociety.in"),
+    ("Tropical Pulmonary Eosinophilia TPE with Nocturnal Dyspnea", "Microbiology", "Respiratory", "oral diethylcarbamazine DEC 6 mg/kg daily for 21 days with dramatic clinical resolution", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Sarcoidosis Presentation with Bilateral Hilar Adenopathy and Erythema Nodosum", "Medicine", "Respiratory", "Lofgren syndrome clinical diagnosis and conservative symptomatic treatment with NSAIDs", "Indian Chest Society Guidelines", "https://indianchestsociety.in"),
+
+    # 3. Gastrointestinal - 10
+    ("Bleeding Esophageal Varices in Cirrhotic Patient in AIIMS OPD", "Medicine", "Gastrointestinal", "intravenous terlipressin, prophylactic IV ceftriaxone, and urgent endoscopic band ligation", "Indian National Association for Study of the Liver (INASL)", "https://inasl.org.in"),
+    ("Amoebic Liver Abscess Entamoeba Histolytica Confirmed", "Microbiology", "Gastrointestinal", "oral metronidazole 750 mg three times daily for 10 days followed by luminal diloxanide", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Acute Peptic Ulcer Perforation with Free Gas under Diaphragm", "Surgery", "Gastrointestinal", "emergency exploratory laparotomy and Graham omental patch repair of duodenal perforation", "Association of Surgeons of India (ASI) Guidelines", "https://asiindia.org"),
+    ("Acute Calculous Cholecystitis in Indian General Hospital", "Surgery", "Gastrointestinal", "intravenous antibiotics, IV hydration, and early laparoscopic cholecystectomy within 72 hours", "Association of Surgeons of India (ASI) Guidelines", "https://asiindia.org"),
+    ("Acute Necrotizing Pancreatitis with Infected Pancreatic Necrosis in CMC Vellore", "Surgery", "Gastrointestinal", "step-up approach percutaneous catheter drainage followed by minimally invasive necrosectomy", "INASL Guidelines", "https://inasl.org.in"),
+    ("Ulcerative Colitis Moderate Flare in Indian Gastroenterology Clinic", "Medicine", "Gastrointestinal", "oral mesalamine 2.4 to 4.8 g daily combined with topical rectal mesalamine", "Indian Society of Gastroenterology (ISG) Guidelines", "https://isg.org.in"),
+    ("Crohn Disease Ileocecal Stricturing Phenotype in Young Male", "Surgery", "Gastrointestinal", "stricturoplasty or limited ileocecal resection and postoperative biologic prophylaxis", "Indian Society of Gastroenterology (ISG) Guidelines", "https://isg.org.in"),
+    ("Carcinoma Gallbladder T2N0M0 Early Incidental Finding in North India", "Surgery", "Gastrointestinal", "radical extended cholecystectomy including 2cm liver wedge and portal lymphadenectomy", "Association of Surgeons of India (ASI) Guidelines", "https://asiindia.org"),
+    ("Hydatid Cyst of Liver Echinococcus Granulosus Confirmed on Ultrasound", "Surgery", "Gastrointestinal", "PAIR percutaneous aspiration, injection of hypertonic saline, re-aspiration under albendazole", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+    ("Intestinal Tuberculosis vs Crohn Disease Diagnostic Dilemma", "Microbiology", "Gastrointestinal", "colonoscopic biopsy with GeneXpert MTB/RIF and trial of anti-tubercular therapy", "Indian Society of Gastroenterology (ISG) Guidelines", "https://isg.org.in"),
+
+    # 4. Renal & Genitourinary - 10
+    ("Acute Kidney Injury Secondary to Snakebite Envenomation Russell Viper", "Medicine", "Renal", "polyvalent anti-snake venom ASV administration and hemodialysis for acute tubular necrosis", "National Snakebite Treatment Protocol India", "https://www.icmr.gov.in"),
+    ("Diabetic Kidney Disease with Heavy Proteinuria in Indian Clinic", "Medicine", "Renal", "maximally tolerated ACE inhibitor ramipril, SGLT2 inhibitor empagliflozin, and finerenone", "Indian Society of Nephrology Guidelines", "https://isn-india.org"),
+    ("Acute Post-Streptococcal Glomerulonephritis APSGN in 8-Year-Old", "Pediatrics", "Renal", "salt and water restriction, loop diuretic furosemide for hypertension and edema, and rest", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Nephrotic Syndrome Steroid-Sensitive in 5-Year-Old Indian Child", "Pediatrics", "Renal", "oral prednisolone 2 mg/kg daily for six weeks followed by alternate-day therapy for six weeks", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Urinary Bladder Papillary Urothelial Carcinoma Non-Muscle Invasive", "Surgery", "Renal", "transurethral resection of bladder tumor TURBT and adjuvant intravesical BCG immunotherapy", "Urological Society of India (USI) Guidelines", "https://usi.org.in"),
+    ("Benign Prostatic Hyperplasia with Acute Urinary Retention in Senior", "Surgery", "Renal", "per urethral Foley catheterization followed by alpha-blocker trial or transurethral resection TURP", "Urological Society of India (USI) Guidelines", "https://usi.org.in"),
+    ("Posterior Urethral Rupture from Pelvic Fracture Following RTA", "Surgery", "Renal", "emergency suprapubic cystostomy and delayed definitive optical internal urethroplasty", "Urological Society of India (USI) Guidelines", "https://usi.org.in"),
+    ("Emphysematous Pyelonephritis Huang-Tseng Class 2 in Diabetic Female", "Microbiology", "Renal", "broad-spectrum intravenous antibiotics and percutaneous catheter drainage of gas/pus collection", "Urological Society of India (USI) Guidelines", "https://usi.org.in"),
+    ("Renal Calculus Ten Millimeter Proximal Ureteric with Hydronephrosis", "Surgery", "Renal", "retrograde double-J stenting followed by ureteroscopic lithotripsy or extracorporeal shockwave", "Urological Society of India (USI) Guidelines", "https://usi.org.in"),
+    ("Chronic Kidney Disease Stage G5 on Maintenance Hemodialysis with Hyperkalemia", "Medicine", "Renal", "emergency intravenous calcium gluconate, insulin-glucose infusion, and urgent hemodialysis", "Indian Society of Nephrology Guidelines", "https://isn-india.org"),
+
+    # 5. Endocrine - 10
+    ("Type 2 Diabetes Mellitus ICMR Guidelines for Management in India", "Medicine", "Endocrine", "lifestyle intervention, metformin titration, and target HbA1c below 7.0%", "ICMR Guidelines for Management of Type 2 Diabetes", "https://www.icmr.gov.in"),
+    ("Diabetic Ketoacidosis Severe in Young Type 1 Diabetic in Indian ED", "Medicine", "Endocrine", "isotonic normal saline resuscitation, continuous low-dose regular insulin, and potassium", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Graves Disease Hyperthyroidism with Diffuse Goiter in Young Indian Female", "Medicine", "Endocrine", "oral carbimazole or methimazole titration therapy combined with propranolol", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+    ("Primary Hypothyroidism Overt Presentation with High TSH in Rural India", "Medicine", "Endocrine", "daily morning oral levothyroxine 1.6 mcg/kg taken on empty stomach with water", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+    ("Primary Hyperparathyroidism with Brown Tumors and Recurrent Calculi", "Surgery", "Endocrine", "focused minimally invasive parathyroidectomy after sestamibi scan localization", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+    ("Cushing Disease Secondary to Pituitary ACTH-Secreting Adenoma", "Surgery", "Endocrine", "transsphenoidal surgical pituitary adenomectomy performed by experienced neurosurgeon", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+    ("Addisonian Crisis in Patient with Adrenal Tuberculosis in India", "Medicine", "Endocrine", "immediate high-dose intravenous hydrocortisone, saline resuscitation, and anti-tubercular therapy", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+    ("Papillary Carcinoma Thyroid 2.5cm Solitary Nodule Bethesda VI", "Surgery", "Endocrine", "total thyroidectomy with central compartment lymph node dissection and radioactive iodine", "Association of Surgeons of India (ASI) Guidelines", "https://asiindia.org"),
+    ("Vitamin D Deficiency Severe Nutritional Rickets in Toddler in North India", "Pediatrics", "Endocrine", "oral cholecalciferol 60,000 IU weekly for six weeks followed by daily maintenance", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Pheochromocytoma Preoperative Alpha-Blockade Preparation", "Pharmacology", "Endocrine", "oral phenoxybenzamine or doxazosin alpha-blockade for 10-14 days before beta-blocker addition", "Endocrine Society of India Guidelines", "https://endocrinesocietyindia.org"),
+
+    # 6. Hematology - 10
+    ("Beta Thalassemia Major in Two-Year-Old Child in Punjab India", "Pediatrics", "Hematology", "regular leukoreduced packed red blood cell transfusions and oral iron chelation deferasirox", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Severe Nutritional Iron Deficiency Anemia in Indian Female", "Medicine", "Hematology", "intravenous iron sucrose or ferric carboxymaltose infusion for rapid replenishment", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Megaloblastic Anemia from Severe Nutritional Vitamin B12 Deficiency", "Medicine", "Hematology", "intramuscular cyanocobalamin 1000 mcg injections and dietary counseling", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Immune Thrombocytopenic Purpura ITP Acute in Indian Child", "Pediatrics", "Hematology", "observation for mild bleeding or oral prednisolone 2 to 4 mg/kg daily for severe bleeding", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Acute Lymphoblastic Leukemia ALL in 6-Year-Old Indian Child", "Pediatrics", "Hematology", "multi-agent induction chemotherapy vincristine, prednisolone, L-asparaginase, daunorubicin", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Chronic Myeloid Leukemia CML Chronic Phase Philadelphia Positive", "Pharmacology", "Hematology", "first-line tyrosine kinase inhibitor oral imatinib mesylate 400 mg daily", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+    ("Aplastic Anemia Severe in Young Adult in PGIMER Chandigarh", "Medicine", "Hematology", "allogeneic matched sibling donor hematopoietic stem cell transplantation or antithymocyte globulin", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Hemophilia A Moderate with Traumatic Knee Hemarthrosis", "Medicine", "Hematology", "intravenous recombinant factor VIII concentrate infusion targeting 50 to 100% factor activity", "Hemophilia Federation India Guidelines", "https://hemophilia.in"),
+    ("Disseminated Intravascular Coagulation from Severe Falciparum Malaria", "Microbiology", "Hematology", "intravenous artesunate therapy, aggressive fluid management, and cryoprecipitate/platelets", "National Vector Borne Disease Control Programme (NVBDCP)", "https://nvbdcp.gov.in"),
+    ("Multiple Myeloma Presentation with Pathological Vertebral Fracture", "Medicine", "Hematology", "triplet induction bortezomib, lenalidomide, dexamethasone and palliative radiation/bisphosphonate", "NBE NEET PG Clinical Guidelines", "https://natboard.edu.in"),
+
+    # 7. Neurology - 10
+    ("Acute Ischemic Stroke Presentation within 4.5 Hours in Apex Medical College", "Medicine", "Nervous System", "intravenous alteplase 0.9 mg/kg or tenecteplase 0.25 mg/kg thrombolysis", "Indian Stroke Association Guidelines", "https://indianstrokeassociation.org"),
+    ("Bacterial Meningitis Acute Community-Acquired in Indian Adult", "Microbiology", "Nervous System", "intravenous ceftriaxone 2g twice daily combined with vancomycin and dexamethasone", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Tuberculous Meningitis TBM Stage II in Young Indian Adult", "Microbiology", "Nervous System", "four-drug anti-tubercular therapy HRZE combined with high-dose tapering systemic steroids", "National Tuberculosis Elimination Program (NTEP)", "https://tbcindia.gov.in"),
+    ("Status Epilepticus Generalized Convulsive Management Protocol", "Medicine", "Nervous System", "intravenous lorazepam 0.1 mg/kg followed by loading dose of IV levetiracetam or fosphenytoin", "Indian Epilepsy Society Guidelines", "https://indianepilepsysociety.org"),
+    ("Parkinson Disease Initial Therapy in 62-Year-Old Indian Patient", "Medicine", "Nervous System", "oral levodopa-carbidopa therapy or dopamine agonist pramipexole and physiotherapy", "Neurological Society of India Guidelines", "https://neurosocietyindia.org"),
+    ("Guillain-Barre Syndrome Acute Flaccid Quadriparesis in Indian Hospital", "Medicine", "Nervous System", "intravenous immunoglobulin IVIG 2 g/kg over five days or therapeutic plasma exchange", "Neurological Society of India Guidelines", "https://neurosocietyindia.org"),
+    ("Myasthenia Gravis Crisis with Impending Respiratory Failure", "Medicine", "Nervous System", "endotracheal intubation, urgent plasma exchange or IVIG, and withholding pyridostigmine", "Neurological Society of India Guidelines", "https://neurosocietyindia.org"),
+    ("Neurocysticercosis Solitary Cysticercal Granuloma with Seizures", "Microbiology", "Nervous System", "oral albendazole combined with oral corticosteroids and anti-seizure medication", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Subarachnoid Hemorrhage Spontaneous Aneurysmal Hunt-Hess Grade II", "Surgery", "Nervous System", "emergency digital subtraction angiography DSA and endovascular coiling or surgical clipping", "Neurological Society of India Guidelines", "https://neurosocietyindia.org"),
+    ("Extradural Hemorrhage EDH Lucid Interval Following Head Trauma", "Surgery", "Nervous System", "emergency urgent craniotomy and evacuation of epidural hematoma with bleeding vessel control", "Association of Surgeons of India (ASI) Guidelines", "https://asiindia.org"),
+
+    # 8. Musculoskeletal & Dermatology - 10
+    ("Rheumatoid Arthritis Early Active Disease in Indian Female", "Medicine", "Musculoskeletal", "disease-modifying antirheumatic drug oral methotrexate 15 mg weekly with folic acid bridge", "Indian Rheumatology Association Guidelines", "https://indianrheumatology.org"),
+    ("Ankylosing Spondylitis HLA-B27 Positive in Young Indian Male", "Medicine", "Musculoskeletal", "regular postural physiotherapy exercises and continuous oral NSAID therapy", "Indian Rheumatology Association Guidelines", "https://indianrheumatology.org"),
+    ("Septic Arthritis Native Knee Joint in Indian Government Hospital", "Microbiology", "Musculoskeletal", "immediate arthrocentesis for Gram stain and culture followed by empiric IV ceftriaxone and vancomycin", "ICMR Guidelines", "https://www.icmr.gov.in"),
+    ("Acute Gouty Arthritis First MTP Joint Podagra in Indian Male", "Medicine", "Musculoskeletal", "oral NSAID indomethacin or low-dose colchicine and postponing urate-lowering changes", "Indian Rheumatology Association Guidelines", "https://indianrheumatology.org"),
+    ("Leprosy Multibacillary MB Presentation with Multiple Hypopigmented Patches", "Microbiology", "Dermatology", "National Leprosy Eradication Program multi-drug therapy rifampicin, clofazimine, dapsone for 12 months", "National Leprosy Eradication Programme (NLEP)", "https://dghs.gov.in"),
+    ("Psoriasis Vulgaris Chronic Plaque Type Involving Extensor Surfaces", "Medicine", "Dermatology", "topical combination of potent corticosteroid clobetasol and calcipotriol ointment", "Indian Association of Dermatologists, Venereologists and Leprologists (IADVL)", "https://iadvl.org"),
+    ("Scabies Infestation in Family Living in Urban Slum in Mumbai", "Microbiology", "Dermatology", "topical 5% permethrin cream applied from neck down and treating all household contacts", "IADVL Guidelines", "https://iadvl.org"),
+    ("Pemphigus Vulgaris Extensive Flaccid Bullae with Positive Nikolsky Sign", "Medicine", "Dermatology", "high-dose systemic oral corticosteroids prednisolone 1 to 2 mg/kg daily and rituximab", "IADVL Guidelines", "https://iadvl.org"),
+    ("Tinea Corporis Extensive Recurrent Steroid-Modified Ringworm", "Microbiology", "Dermatology", "oral itraconazole 100 to 200 mg daily for 2 to 4 weeks and strict cessation of topical steroids", "IADVL Guidelines", "https://iadvl.org"),
+    ("Open Fracture Tibial Shaft Gustilo-Anderson Grade IIIA from RTA", "Surgery", "Musculoskeletal", "urgent emergency wound debridement, intravenous antibiotics, and external fixation", "Indian Orthopaedic Association Guidelines", "https://ioaindia.org"),
+
+    # 9. Pediatrics & Obstetrics - 10
+    ("Severe Preeclampsia at 34 Weeks Gestation with Impending Eclampsia", "Obstetrics", "Pregnancy", "intravenous magnesium sulfate Pritchard/Zuspan regimen, labetalol, and planned delivery", "Federation of Obstetric and Gynaecological Societies of India (FOGSI)", "https://www.fogsi.org"),
+    ("Postpartum Hemorrhage Primary Secondary to Uterine Atony in India", "Obstetrics", "Pregnancy", "active management fundal massage, IV oxytocin 10-20 units, and carboprost/misoprostol", "FOGSI Guidelines", "https://www.fogsi.org"),
+    ("Ectopic Pregnancy Ruptured with Hemoperitoneum in Rural CHC", "Surgery", "Pregnancy", "immediate aggressive volume resuscitation with crystalloids and emergency exploratory laparotomy", "FOGSI Guidelines", "https://www.fogsi.org"),
+    ("Gestational Diabetes Mellitus Diagnosed by DIPSI Criteria in India", "Obstetrics", "Pregnancy", "single 75g non-fasting oral glucose challenge DIPSI with threshold >= 140 mg/dL", "DIPSI Guidelines", "https://www.fogsi.org"),
+    ("Neonatal Hyperbilirubinemia Severe at 48 Hours with ABO Incompatibility", "Pediatrics", "Hematology", "intensive double-surface LED phototherapy and 준비 for double-volume exchange transfusion", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Acute Diarrhea with Severe Dehydration WHO Plan C in 10-Month-Old", "Pediatrics", "Gastrointestinal", "immediate intravenous Ringer lactate fluid resuscitation 100 ml/kg per WHO protocol", "Indian Academy of Pediatrics (IAP) Guidelines", "https://iapindia.org"),
+    ("Severe Acute Malnutrition SAM with Complications in Indian NRC", "Pediatrics", "General Principles", "F-75 therapeutic formula feeding, broad-spectrum antibiotics, and slow rewarming in NRC", "National Health Mission Operational Guidelines", "https://nhm.gov.in"),
+    ("Universal Immunization Programme UIP Schedule at Six Weeks", "Pediatrics", "General Principles", "pentavalent vaccine DTwP-HepB-Hib, oral polio OPV, rotavirus RVV, and fIPV", "National Health Mission Universal Immunization Programme", "https://nhm.gov.in"),
+    ("Cerebral Malaria in 5-Year-Old Indian Child in Endemic District", "Microbiology", "General Principles", "intravenous artesunate 2.4 mg/kg at 0, 12, 24 hours then daily until oral intake", "National Vector Borne Disease Control Programme (NVBDCP)", "https://nvbdcp.gov.in"),
+    ("Intussusception in 7-Month-Old Infant with Currant Jelly Stools in KGMU", "Surgery", "Gastrointestinal", "ultrasound confirmation followed by hydrostatic ultrasound-guided saline reduction or surgery", "Indian Association of Pediatric Surgeons (IAPS) Guidelines", "https://iaps.in"),
+
+    # 10. Psychiatry, Ethics & Forensic Medicine - 10
+    ("Major Depressive Disorder Moderate in Primary Health Centre India", "Psychiatry", "Behavioral Health", "oral selective serotonin reuptake inhibitor fluoxetine or sertraline and supportive counseling", "Indian Psychiatric Society Guidelines", "https://indianpsychiatricsociety.org"),
+    ("Schizophrenia Paranoid First Episode in 21-Year-Old Indian Male", "Psychiatry", "Behavioral Health", "oral atypical antipsychotic risperidone or olanzapine and psychoeducation under Mental Healthcare Act", "Indian Psychiatric Society Guidelines", "https://indianpsychiatricsociety.org"),
+    ("Acute Delirium Tremens in Chronic Alcohol Dependence in Ward", "Psychiatry", "Behavioral Health", "intravenous diazepam or lorazepam titration protocol and intravenous thiamine B-complex", "Indian Psychiatric Society Guidelines", "https://indianpsychiatricsociety.org"),
+    ("Informed Consent for Major Surgical Procedure under NMC Regulations", "Ethics", "General Principles", "obtaining voluntary written informed consent explaining procedure, risks, and alternatives", "National Medical Commission (NMC) Code of Medical Ethics", "https://www.nmc.org.in"),
+    ("Medical Confidentiality and Telemedicine Practice Guidelines in India", "Ethics", "General Principles", "protecting patient data privacy and adhering to registered medical practitioner teleconsultation rules", "NMC Telemedicine Practice Guidelines", "https://www.nmc.org.in"),
+    ("Medical Certification of Cause of Death MCCD as per WHO Standards in India", "Ethics", "General Principles", "accurately recording immediate cause, antecedent cause, and underlying cause of death", "Registrar General of India MCCD Manual", "https://censusindia.gov.in"),
+    ("Dying Declaration Recording in Burn Victim in Indian Hospital", "Ethics", "General Principles", "ensuring patient is compos mentis, certifying mental fitness, and recording verbatim before magistrate", "NMC Code of Medical Ethics and Forensic Guidelines", "https://www.nmc.org.in"),
+    ("Medical Termination of Pregnancy MTP Amendment Act 2021 Provisions", "Ethics", "Pregnancy", "terminating pregnancy up to 20 weeks with one RMP opinion and 20-24 weeks for special categories with two RMPs", "Ministry of Health and Family Welfare MTP Act", "https://mohfw.gov.in"),
+    ("Reporting Medico-Legal Cases MLC in Indian Emergency Department", "Ethics", "General Principles", "mandatory prompt documentation, preservation of evidence, and immediate police notification", "NMC Forensic Medicine and Toxicology Guidelines", "https://www.nmc.org.in"),
+    ("Organ Donation Deceased Brain Death Certification THSOA 1994", "Ethics", "General Principles", "two clinical examinations six hours apart by four-member board including apnea test", "Transplantation of Human Organs and Tissues Act (THSOA)", "https://notto.mohfw.gov.in")
+]
+
+def validate_topics(topics, exam_name):
+    print(f"Validating {len(topics)} topics for {exam_name}...")
+    assert len(topics) == 100, f"Expected 100 topics for {exam_name}, got {len(topics)}"
+    seen_titles = set()
+    for idx, item in enumerate(topics):
+        title, subject, system, hallmark, ref_label, ref_url = item
+        assert title not in seen_titles, f"Duplicate title in {exam_name} #{idx}: {title}"
+        seen_titles.add(title)
+        assert subject in TAXONOMY_SUBJECTS, f"Invalid subject '{subject}' in {exam_name} #{idx}"
+        assert system in TAXONOMY_SYSTEMS, f"Invalid system '{system}' in {exam_name} #{idx}"
+        assert len(hallmark) >= 20, f"Hallmark too short in {exam_name} #{idx}"
+        assert ref_url.startswith("https://"), f"Invalid URL in {exam_name} #{idx}: {ref_url}"
+    print(f"  All 100 topics for {exam_name} validated successfully!")
+
+if __name__ == "__main__":
+    validate_topics(AMC_TOPICS, "AMC")
+    validate_topics(MCCQE_TOPICS, "MCCQE")
+    validate_topics(NEET_PG_TOPICS, "NEET PG")
+    
+    out_file = os.path.join(os.path.dirname(__file__), "mega79_topics_b.py")
+    with open(out_file, "w", encoding="utf-8") as f:
+        f.write("# Generated Mega-Batch 79 Topics Part B\n\n")
+        f.write(f"AMC_TOPICS = {repr(AMC_TOPICS)}\n\n")
+        f.write(f"MCCQE_TOPICS = {repr(MCCQE_TOPICS)}\n\n")
+        f.write(f"NEET_PG_TOPICS = {repr(NEET_PG_TOPICS)}\n")
+    print(f"Successfully wrote {out_file}!")

@@ -1,4 +1,11 @@
-import 'dotenv/config';
+import fs from 'fs';
+import dotenv from 'dotenv';
+
+if (fs.existsSync('.env.production.local')) {
+  dotenv.config({ path: '.env.production.local', override: true });
+} else {
+  dotenv.config();
+}
 import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient } from '../src/generated/prisma/client';
 import { questions as bIntl1 } from '../content/bank/international/batch-intl-01';
@@ -381,6 +388,11 @@ import { questions as bIntl377 } from '../content/bank/international/batch-intl-
 import { questions as bIntl378 } from '../content/bank/international/batch-intl-378';
 import { questions as bIntl379 } from '../content/bank/international/batch-intl-379';
 import { questions as bIntl380 } from '../content/bank/international/batch-intl-380';
+import { questions as bIntl381 } from '../content/bank/international/batch-intl-381';
+import { questions as bIntl382 } from '../content/bank/international/batch-intl-382';
+import { questions as bIntl383 } from '../content/bank/international/batch-intl-383';
+import { questions as bIntl384 } from '../content/bank/international/batch-intl-384';
+import { questions as bIntl385 } from '../content/bank/international/batch-intl-385';
 import type { QuestionContent } from '../src/lib/validation/content';
 
 const ALL_INTL_QUESTIONS: QuestionContent[] = [
@@ -463,6 +475,7 @@ const ALL_INTL_QUESTIONS: QuestionContent[] = [
   ...bIntl366, ...bIntl367, ...bIntl368, ...bIntl369, ...bIntl370,
   ...bIntl371, ...bIntl372, ...bIntl373, ...bIntl374, ...bIntl375,
   ...bIntl376, ...bIntl377, ...bIntl378, ...bIntl379, ...bIntl380,
+  ...bIntl381, ...bIntl382, ...bIntl383, ...bIntl384, ...bIntl385,
 ];
 
 interface IngestOptions {
