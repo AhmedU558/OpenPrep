@@ -1,6 +1,6 @@
 {
-  "validatedAt": "2026-11-23T13:34:12.126Z",
-  "totalQuestions": 30672,
+  "validatedAt": "2026-11-23T13:56:13.161Z",
+  "totalQuestions": 31172,
   "batches": [
     {
       "name": "batch-intl-01",
@@ -1891,6 +1891,36 @@
       "count": 100,
       "digest": "516391803fb1435b44bf03817f878edd40382aec5284b5424b11a488ad1f9cbb",
       "errors": []
+    },
+    {
+      "name": "batch-intl-316",
+      "count": 100,
+      "digest": "83eebbfe12fe4987fac0d9a0bfd99fc4cfaf8fb1be7afc58009c801f8fb0205b",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-317",
+      "count": 100,
+      "digest": "ea0b34abd6a8e5be889bfe4765a33fa395465bdc60465f5a0b060ce0129eb003",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-318",
+      "count": 100,
+      "digest": "43722490f56a81de762ca53df3de163618004376e52dfa0b28bea1cec4932bc8",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-319",
+      "count": 100,
+      "digest": "90fdea3585a2f2442c10373a8e994d306ecd4351cb306966b6b6771bb82533e6",
+      "errors": []
+    },
+    {
+      "name": "batch-intl-320",
+      "count": 100,
+      "digest": "71d188d19814049ae9840a52ecb0dfe8dc9f1b59b32ac8741cc26d0c9d2e6fbf",
+      "errors": []
     }
   ],
   "examsCovered": [
@@ -1910,23 +1940,23 @@
     "UHS MBBS"
   ],
   "subjectsCovered": {
-    "Anatomy": 137,
-    "Biochemistry": 210,
-    "Biostatistics": 199,
-    "Ethics": 980,
-    "Genetics": 406,
-    "Geriatrics": 181,
+    "Anatomy": 139,
+    "Biochemistry": 211,
+    "Biostatistics": 201,
+    "Ethics": 1005,
+    "Genetics": 413,
+    "Geriatrics": 185,
     "Immunology": 271,
-    "Medicine": 11007,
-    "Microbiology": 667,
-    "Neurology": 829,
-    "Obstetrics": 2173,
-    "Pathology": 1156,
-    "Pediatrics": 2629,
-    "Pharmacology": 3348,
+    "Medicine": 11070,
+    "Microbiology": 687,
+    "Neurology": 832,
+    "Obstetrics": 2179,
+    "Pathology": 1166,
+    "Pediatrics": 2651,
+    "Pharmacology": 3593,
     "Physiology": 448,
-    "Psychiatry": 848,
-    "Surgery": 5183
+    "Psychiatry": 852,
+    "Surgery": 5269
   },
   "optionsPerQuestion": 5,
   "provenance": "OpenPrep original; AI-authored; medically unreviewed",
